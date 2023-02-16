@@ -1,0 +1,118 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "hivatkozas": "Énekek 3",
+        "forma": "json"
+    },
+    "valasz": {
+        "versek": [
+            {
+                "szoveg": "Az én ágyasházamban éjjeleken keresém azt, akit szeret az én lelkem, keresém őt, és meg nem találtam.",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A lány egyedül van este, de ráébred, hogy képtelen a kedvese nélkül meglenni. Keresi őt az utcákon, mint a kánaáni mítoszban Astarte (vö. 1,7)."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400300100,
+                    "szep": "Én 3,1"
+                }
+            },
+            {
+                "szoveg": "Immár felkelek és eljárom a várost, a tereket és az utcákat, keresem azt, akit szeret az én lelkem; keresém őt, és nem találám.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400300200,
+                    "szep": "Én 3,2"
+                }
+            },
+            {
+                "szoveg": "Megtalálának engem az őrizők, akik a várost kerülik. Mondék nékik: Láttátok-é azt, akit az én lelkem szeret?",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400300300,
+                    "szep": "Én 3,3"
+                }
+            },
+            {
+                "szoveg": "Alig mentem vala el azoktól, mikor megtaláltam azt, akit az én lelkem szeret. Megragadám őt, el sem bocsátám, mígnem bevivém őt anyám házába, és az én szülőmnek ágyasházába.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400300400,
+                    "szep": "Én 3,4"
+                }
+            },
+            {
+                "szoveg": "Kényszerítelek titeket, Jeruzsálemnek leányai, a vadkecskékre, és a mezőnek szarvasira, fel ne költsétek és fel ne serkentsétek a szerelmet, valamíg ő akarja.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400300500,
+                    "szep": "Én 3,5"
+                }
+            },
+            {
+                "szoveg": "Kicsoda az, aki feljő a pusztából, mint a füstnek oszlopa? mirhától és tömjéntől illatos, a patikáriusnak minden jó illatú porától.",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ez a költemény valószínűleg Salamonnak az egyiptomi hercegnővel kötött házasságára utal. A király hintót küldött az érkező menyasszony elé."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400300600,
+                    "szep": "Én 3,6"
+                }
+            },
+            {
+                "szoveg": "Ímé, ez a Salamon gyaloghintaja, hatvan erős férfi van körülötte, Izráelnek erősei közül!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400300700,
+                    "szep": "Én 3,7"
+                }
+            },
+            {
+                "szoveg": "Mindnyájan fegyverfogók, hadakozásban bölcsek, kinek-kinek oldalán fegyvere, az éjszakának félelme ellen.",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az »éj rémei« feltehetően a kánaáni mítoszra való utalás, ahol a kedves az alvilágból tér vissza (vö. 1,7)."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400300800,
+                    "szep": "Én 3,8"
+                }
+            },
+            {
+                "szoveg": "Hálóágyat csinált magának Salamon király a Libánus fáiból.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400300900,
+                    "szep": "Én 3,9"
+                }
+            },
+            {
+                "szoveg": "Oszlopait ezüstből csinálta, oldalát aranyból, ágyát biborból, belső része ki van rakva szeretettel, a Jeruzsálemnek leányi által.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400301000,
+                    "szep": "Én 3,10"
+                }
+            },
+            {
+                "szoveg": "Jőjjetek ki, és nézzétek, Sionnak leányai, Salamon királyt a koronában, melylyel megkoronázta őt az anyja, az ő eljegyzésének napjára, és az ő szíve vígasságának napjára!,",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400301100,
+                    "szep": "Én 3,11"
+                }
+            }
+        ],
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KNB"
+        }
+    }
+}

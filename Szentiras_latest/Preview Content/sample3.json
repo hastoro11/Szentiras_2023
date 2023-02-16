@@ -1,0 +1,77 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "hivatkozas": "zsolt 23",
+        "forma": "json"
+    },
+    "valasz": {
+        "versek": [
+            {
+                "szoveg": "<em>Dávid zsoltára.</em><br>Az Úr az én pásztorom, nem szűkölködöm,",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Bizalom-ének a perzsa időkből."
+                    },
+                    {
+                        "position": null,
+                        "text": "A régi keleti népek gyakran beszélnek úgy Istenről vagy az Úrról, mint a népek pásztoráról. Izrael is átveszi ezt a képet Istennel kapcsolatban, sőt, Isten fölkentjére, a királyra is vonatkoztatja."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12102300100,
+                    "szep": "Zsolt 23,1"
+                }
+            },
+            {
+                "szoveg": "zöldellő legelőkön adott nekem helyet,<br>csöndes vizekhez vezetett engem.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12102300200,
+                    "szep": "Zsolt 23,2"
+                }
+            },
+            {
+                "szoveg": "Felüdítette lelkemet,<br>és az igazság ösvényein vezetett az ő nevéért.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12102300300,
+                    "szep": "Zsolt 23,3"
+                }
+            },
+            {
+                "szoveg": "Járjak bár a halál árnyékában,<br>nem félek semmi bajtól, mert te velem vagy.<br>Vessződ és pásztorbotod megvigasztaltak engem.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12102300400,
+                    "szep": "Zsolt 23,4"
+                }
+            },
+            {
+                "szoveg": "Asztalt terítettél számomra<br>azok előtt, akik szorongatnak engem;<br>olajjal kented meg fejemet,<br>és kelyhem csordultig töltötted.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12102300500,
+                    "szep": "Zsolt 23,5"
+                }
+            },
+            {
+                "szoveg": "Mert jóságod és irgalmasságod<br>kísér engem életem minden napján,<br>hogy az Úr házában lakjam időtlen időkig.",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az Úr házában lakjam: a görög és szír szöveg alapján javítva (a héberben: az Úr házába visszatérek)."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12102300600,
+                    "szep": "Zsolt 23,6"
+                }
+            }
+        ],
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        }
+    }
+}

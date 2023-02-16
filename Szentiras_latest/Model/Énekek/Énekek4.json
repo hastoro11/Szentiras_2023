@@ -1,0 +1,171 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "hivatkozas": "Énekek 4",
+        "forma": "json"
+    },
+    "valasz": {
+        "versek": [
+            {
+                "szoveg": "Ímé szép vagy, én mátkám, ímé szép vagy, a te szemeid galambok a te fátyolod mögött; a te hajad hasonló a kecskéknek nyájához, melyek a Gileád hegyéről szállanak alá.",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A király megénekli menyasszonya szépségét (vö. 5,10-16; 7,2-10)."
+                    },
+                    {
+                        "position": null,
+                        "text": "A menyasszony fátylat visel, amelyet csak az esküvő után vet le. A kecskék feketék, innen az összehasonlítás."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400400100,
+                    "szep": "Én 4,1"
+                }
+            },
+            {
+                "szoveg": "A te fogaid hasonlók a megnyirt juhok nyájához, melyek a fördőből feljőnek, melyek mind kettősöket ellenek, és nincsen azok között meddő.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400400200,
+                    "szep": "Én 4,2"
+                }
+            },
+            {
+                "szoveg": "Mint a karmazsin cérna, a te ajkaid, és a te beszéded kedves, mint a pomagránátnak darabja, olyan a te vakszemed a te fátyolod alatt.",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A gránátalma a termékenységet jelképezi."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400400300,
+                    "szep": "Én 4,3"
+                }
+            },
+            {
+                "szoveg": "Hasonló a te nyakad a Dávid tornyához, amely építtetett fegyveres háznak, amelyben ezer paizs függesztetett fel, mind az erős vitézek paizsai.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400400400,
+                    "szep": "Én 4,4"
+                }
+            },
+            {
+                "szoveg": "A te két emlőd olyan, mint két vadkecske, egy zergének kettős fia, amelyek a liliomok közt legelnek.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400400500,
+                    "szep": "Én 4,5"
+                }
+            },
+            {
+                "szoveg": "Míg meghűsül a nap, és elmulnak az árnyékok, elmegyek a mirhának hegyére, és a tömjénnek halmára.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400400600,
+                    "szep": "Én 4,6"
+                }
+            },
+            {
+                "szoveg": "Mindenestől szép vagy, én mátkám, és semmi szeplő nincs benned!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400400700,
+                    "szep": "Én 4,7"
+                }
+            },
+            {
+                "szoveg": "Én velem a Libánusról, én jegyesem, én velem a Libánusról eljőjj; nézz az Amanának hegyéről, a Sénirnek és Hermonnak tetejéről, az oroszlánoknak barlangjokból, a párducoknak hegyeiről.",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Becéző megszólítások, melyek a kedvest húgnak nevezik. Ez a megszólítás egyiptomi szövegekben is megtalálható. A kert utalás a szerelem beteljesedésére, egyben a paradicsomra."
+                    },
+                    {
+                        "position": null,
+                        "text": "A Hermont Astarténak, a szerelem istennőjének lakhelyeként tartották számon."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400400800,
+                    "szep": "Én 4,8"
+                }
+            },
+            {
+                "szoveg": "Megsebesítetted az én szívemet, én húgom, jegyesem, megsebesítetted az én szívemet a te szemeidnek egy tekintésével, a te nyakadon való egy aranylánccal!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400400900,
+                    "szep": "Én 4,9"
+                }
+            },
+            {
+                "szoveg": "Mely igen szépek a te szerelmeid, én húgom, jegyesem! mely igen jók a te szerelmeid! jobbak a bornál, és a te keneteidnek illatja minden fűszerszámnál!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400401000,
+                    "szep": "Én 4,10"
+                }
+            },
+            {
+                "szoveg": "Színmézet csepegnek a te ajkaid, én jegyesem, méz és tej van a te nyelved alatt, és a te ruháidnak illatja, mint a Libánusnak illatja..",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400401100,
+                    "szep": "Én 4,11"
+                }
+            },
+            {
+                "szoveg": "Olyan, mint a berekesztett kert az én húgom, jegyesem! mint a befoglaltatott forrás, bepecsételt kútfő!.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400401200,
+                    "szep": "Én 4,12"
+                }
+            },
+            {
+                "szoveg": "A te csemetéid gránátalmás kert, édes gyümölcsökkel egybe, ciprusok nárdusokkal egybe.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400401300,
+                    "szep": "Én 4,13"
+                }
+            },
+            {
+                "szoveg": "Nárdus és sáfrány, jóillatú nád és fahéj, mindenféle temjéntermő fákkal, mirha és áloes, minden drága fűszerszámokkal.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400401400,
+                    "szep": "Én 4,14"
+                }
+            },
+            {
+                "szoveg": "Kerteknek forrása, élő vizeknek kútfeje, melyek folynak a Libánusról.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400401500,
+                    "szep": "Én 4,15"
+                }
+            },
+            {
+                "szoveg": "Serkenj fel északi szél, és jőjj el déli szél, fújj az én kertemre, folyjanak annak drága illatú szerszámai, jőjjön el az én szerelmesem az ő kertébe, és egye annak drágalátos gyümölcsét.",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A menyasszony válasza talán utalás a kánaáni kultikus esküvő lakomájára is."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400401600,
+                    "szep": "Én 4,16"
+                }
+            }
+        ],
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        }
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "hivatkozas": "Énekek 8",
+        "forma": "json"
+    },
+    "valasz": {
+        "versek": [
+            {
+                "szoveg": "Vajha lennél nékem én atyámfia, ki az én anyámnak emlőjét szopta, hogy téged kivül találván megcsókolnálak; még sem útálnának meg engem.",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Szégyen volt a szerelmet nyíltan kimutatni."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400800100,
+                    "szep": "Én 8,1"
+                }
+            },
+            {
+                "szoveg": "Elvinnélek, bevinnélek anyámnak házába, te oktatgatnál engem, én meg borral itatnálak, fűszeressel, gránátalma borral.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400800200,
+                    "szep": "Én 8,2"
+                }
+            },
+            {
+                "szoveg": "Az ő balkeze az én fejem alatt, és jobbkezével megölel engem.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400800300,
+                    "szep": "Én 8,3"
+                }
+            },
+            {
+                "szoveg": "Kényszerítlek titeket, Jeruzsálemnek leányai, miért költenétek és miért serkentenétek fel a szerelmet, mígnem ő akarja?",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400800400,
+                    "szep": "Én 8,4"
+                }
+            },
+            {
+                "szoveg": "Kicsoda ez aki feljő a pusztából, aki az ő szerelmeséhez támaszkodik? Az almafa alatt költöttelek fel téged, ott szült téged a te anyád, ott szült téged a te szülőd!",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A kérdést a nézők (»Jeruzsálem leányai«) teszik föl."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400800500,
+                    "szep": "Én 8,5"
+                }
+            },
+            {
+                "szoveg": "Tégy engem mintegy pecsétet a te szívedre, mintegy pecsétet a te karodra; mert erős a szeretet, mint a halál, kemény, mint a sír a buzgó szerelem; lángjai tűznek lángjai, az Úrnak lángjai.",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A pecsétnyomót egy zsineggel a karra erősítve hordták. A halál hatalma elől senki sem térhet ki, ám a szerelem erősebb nála. Akik valóban szeretik egymást, azokat semmilyen földi erő vagy hatalom nem választhatja el egymástól. A vers utalás a kánaáni mítoszra (szerelmesének hangjára az alvilágból visszatér az istenség; vö. 1,7), vonatkozik az emberi szerelemre, de mindkét jelentést meghaladó egyetemes igazságot mond ki, amely mindenekelőtt magának Istennek a szeretetére igaz."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400800600,
+                    "szep": "Én 8,6"
+                }
+            },
+            {
+                "szoveg": "Sok vizek el nem olthatnák e szeretetet: a folyóvizek sem boríthatnák azt el: ha az ember minden házabeli marháját adná is e szeretetért, mégis megvetnék azt.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400800700,
+                    "szep": "Én 8,7"
+                }
+            },
+            {
+                "szoveg": "Kicsiny húgunk van nékünk, akinek nincsen még emlője; mit cselekedjünk a mi húgunk felől, a napon, melyen arról szót tesznek?",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400800800,
+                    "szep": "Én 8,8"
+                }
+            },
+            {
+                "szoveg": "Ha ő kőfal, építünk azon ezüstből palotát; ha pedig ajtó ő, elrekesztjük őt cédrus-deszkával.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400800900,
+                    "szep": "Én 8,9"
+                }
+            },
+            {
+                "szoveg": "Mikor én olyan leszek, mint a kőfal, és az én emlőim, mint a tornyok; akkor olyan leszek ő előtte, mint aki békességet nyer.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400801000,
+                    "szep": "Én 8,10"
+                }
+            },
+            {
+                "szoveg": "Szőlője volt Salamonnak Baálhamonban, adta az ő szőlejét a pásztoroknak, kiki annak gyümölcséért hoz ezer-ezer ezüst siklust.",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Feltehetően a házassági szerződésre utal itt a szöveg. A menyasszony bátyjai 1000 ezüstöt kérnek a húgukért, de a kérő kész 200 ezüsttel többet fizetni. Ám az is lehetséges hogy Salamon 1000 háremhölgyére gondol a szerző (vö. 1Kir 11,3)."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400801100,
+                    "szep": "Én 8,11"
+                }
+            },
+            {
+                "szoveg": "Az én szőlőmre, mely én reám néz, nékem gondom lesz: az ezer siklus, Salamon, tiéd legyen, a kétszáz annak gyümölcsének őrizőié.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400801200,
+                    "szep": "Én 8,12"
+                }
+            },
+            {
+                "szoveg": "Oh te, aki lakol a kertekben! A te társaid a te szódra figyelmeznek; hadd halljam én is.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400801300,
+                    "szep": "Én 8,13"
+                }
+            },
+            {
+                "szoveg": "Fuss én szerelmesem, és légy hasonló a vadkecskéhez, vagy a szarvasnak fiához, a drága füveknek hegyein!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400801400,
+                    "szep": "Én 8,14"
+                }
+            }
+        ],
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        }
+    }
+}
+

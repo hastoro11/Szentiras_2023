@@ -1,0 +1,161 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "hivatkozas": "Énekek 2",
+        "forma": "json"
+    },
+    "valasz": {
+        "versek": [
+            {
+                "szoveg": "Én Sáronnak rózsája vagyok, és a völgyek lilioma.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400200100,
+                    "szep": "Én 2,1"
+                }
+            },
+            {
+                "szoveg": "Mint a liliom a tövisek közt, olyan az én mátkám a leányok közt.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400200200,
+                    "szep": "Én 2,2"
+                }
+            },
+            {
+                "szoveg": "Mint az almafa az erdőnek fái közt, olyan az én szerelmesem az ifjak közt. Az ő árnyékában felette igen kivánok ülni; és az ő gyümölcse gyönyörűséges az én ínyemnek.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400200300,
+                    "szep": "Én 2,3"
+                }
+            },
+            {
+                "szoveg": "Bevisz engem a borozó házba, és zászló felettem a szerelme.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400200400,
+                    "szep": "Én 2,4"
+                }
+            },
+            {
+                "szoveg": "Erősítsetek engem szőlővel, üdítsetek fel engem almákkal; mert betege vagyok a szerelemnek.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400200500,
+                    "szep": "Én 2,5"
+                }
+            },
+            {
+                "szoveg": "Az ő balkeze az én fejem alatt van, és jobbkezével megölel engem.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400200600,
+                    "szep": "Én 2,6"
+                }
+            },
+            {
+                "szoveg": "Kényszerítlek titeket, Jeruzsálemnek leányai, a vadkecskékre és a mezőnek szarvasira: fel ne költsétek és fel ne serkentsétek a szerelmet addig, amíg akarja.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400200700,
+                    "szep": "Én 2,7"
+                }
+            },
+            {
+                "szoveg": "Az én szerelmesemnek szavát hallom, ímé, ő jő, ugrálva a hegyeken, szökellve a halmokon!",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A menyasszony éneke, aki egyedül van otthon, amikor érkezik érte a vőlegény."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400200800,
+                    "szep": "Én 2,8"
+                }
+            },
+            {
+                "szoveg": "Hasonlatos az én szerelmesem az őzhöz, vagy a szarvasoknak fiához. Ímé, ott áll a mi falunkon túl, néz az ablakon keresztül, tekintget a rostélyokon keresztül,",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400200900,
+                    "szep": "Én 2,9"
+                }
+            },
+            {
+                "szoveg": "Szóla az én szerelmesem nékem, és monda: kelj fel én mátkám, én szépem, és jöszte.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400201000,
+                    "szep": "Én 2,10"
+                }
+            },
+            {
+                "szoveg": "Mert ímé a tél elmult, az eső elmult, elment.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400201100,
+                    "szep": "Én 2,11"
+                }
+            },
+            {
+                "szoveg": "Virágok láttatnak a földön, az éneklésnek ideje eljött, és a gerlicének szava hallatik a mi földünkön..",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400201200,
+                    "szep": "Én 2,12"
+                }
+            },
+            {
+                "szoveg": "A fügefa érleli első gyümölcsét, és a szőlők virágzásban vannak, jóillatot adnak; kelj fel én mátkám, én szépem, és jőjj hozzám!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400201300,
+                    "szep": "Én 2,13"
+                }
+            },
+            {
+                "szoveg": "Én galambom, a kősziklának hasadékiban, a magas kőszálnak rejtekében, mutasd meg nékem a te orcádat, hadd halljam a te szódat; mert a te szód gyönyörűséges, és a te tekinteted ékes!",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400201400,
+                    "szep": "Én 2,14"
+                }
+            },
+            {
+                "szoveg": "Fogjátok meg nékünk a rókákat, a rókafiakat, akik a szőlőket elpusztítják; mert a mi szőlőink virágban vannak.",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A vers azokra utal, akik a lányt védeni akarják a kedvesétől."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400201500,
+                    "szep": "Én 2,15"
+                }
+            },
+            {
+                "szoveg": "Az én szerelmesem enyém, és én az övé, aki a liliomok közt legeltet.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400201600,
+                    "szep": "Én 2,16"
+                }
+            },
+            {
+                "szoveg": "Míglen meghűsül a nap és az árnyékok elmúlnak: térj meg és légy hasonló, én szerelmesem, az őzhöz, vagy a szarvasoknak fiához a Béther hegyein.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400201700,
+                    "szep": "Én 2,17"
+                }
+            }
+        ],
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        }
+    }
+}

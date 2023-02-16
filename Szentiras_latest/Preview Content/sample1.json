@@ -1,0 +1,116 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "hivatkozas": "Ézs 53",
+        "forma": "json"
+    },
+    "valasz": {
+        "versek": [
+            {
+                "szoveg": "»Ki hitt annak, amit hallottunk,<br>és az Úr karja ki előtt nyilvánult meg?",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Előbb az üldözők és kínzók akik félreismerték a szolgát (1-6), majd a próféta (7-10) elmélkednek a szolga sorsáról. Végül maga Isten szól a szolga jövőjéről (11-12). Egy igaz szenvedése sokakat igazzá tett, mert Isten elfogadta őt engesztelő áldozatul."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12705300100,
+                    "szep": "Iz 53,1"
+                }
+            },
+            {
+                "szoveg": "Úgy nőtt fel színe előtt, mint a hajtás,<br>és mint a gyökér a szomjas földből;<br>nem volt szép alakja, sem ékessége,<br>hogy megnézzük őt,<br>és nem volt olyan külseje,<br>hogy kívánjuk őt.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12705300200,
+                    "szep": "Iz 53,2"
+                }
+            },
+            {
+                "szoveg": "Megvetett volt, és utolsó az emberek között,<br>fájdalmak férfia és betegség ismerője,<br>aki elől elrejtettük arcunkat;<br>megvetett volt, és nem becsültük őt.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12705300300,
+                    "szep": "Iz 53,3"
+                }
+            },
+            {
+                "szoveg": "Pedig a mi betegségeinket ő viselte,<br>és a mi fájdalmainkat ő hordozta;<br>mi mégis megvertnek tekintettük,<br>Istentől sújtottnak és megalázottnak.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12705300400,
+                    "szep": "Iz 53,4"
+                }
+            },
+            {
+                "szoveg": "De őt a mi vétkeinkért szúrták át,<br>a mi bűneinkért törték össze;<br>a mi békességünkért érte fenyítés,<br>és az ő sebe által gyógyultunk meg.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12705300500,
+                    "szep": "Iz 53,5"
+                }
+            },
+            {
+                "szoveg": "Mindnyájan, mint a juhok, tévelyegtünk,<br>mindenki a maga útjára tért;<br>és az Úr őrá rakta<br>mindnyájunk bűnét.«",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12705300600,
+                    "szep": "Iz 53,6"
+                }
+            },
+            {
+                "szoveg": "Megkínozták, és ő alázatos volt,<br>nem nyitotta ki száját;<br>mint a bárány, melyet leölésre visznek,<br>és mint a juh, mely nyírói előtt elnémul,<br>nem nyitotta ki száját.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12705300700,
+                    "szep": "Iz 53,7"
+                }
+            },
+            {
+                "szoveg": "Sanyargatás és ítélet után vitték el;<br>és sorsával ki törődik?<br>Mert kivetették az élők földjéből,<br>népem vétke miatt sújtották halálra.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12705300800,
+                    "szep": "Iz 53,8"
+                }
+            },
+            {
+                "szoveg": "Istentelenek között adtak sírt neki,<br>és gazdag mellett, amikor meghalt,<br>bár nem követett el erőszakot,<br>és nem volt álnokság a szájában.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12705300900,
+                    "szep": "Iz 53,9"
+                }
+            },
+            {
+                "szoveg": "De az Úrnak úgy tetszett,<br>hogy összetörje betegséggel.<br>Ha odaadja engesztelő áldozatul életét,<br>meglátja majd utódait, hosszúra nyújtja napjait;<br>és az Úr tetszése az ő keze által teljesül.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12705301000,
+                    "szep": "Iz 53,10"
+                }
+            },
+            {
+                "szoveg": "Lelkének gyötrelme után<br>meglátja a világosságot, megelégedett lesz.<br>Tudásával szolgám igazzá tesz sokakat,<br>és bűneiket ő hordozza.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12705301100,
+                    "szep": "Iz 53,11"
+                }
+            },
+            {
+                "szoveg": "Ezért osztályrészül adok neki sokakat,<br>és hatalmasokkal osztozik a zsákmányon,<br>amiért halálra adta életét,<br>és a bűnösök közé számították;<br>pedig ő sokak vétkét viselte,<br>és a bűnösökért közbenjár.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12705301200,
+                    "szep": "Iz 53,12"
+                }
+            }
+        ],
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        }
+    }
+}

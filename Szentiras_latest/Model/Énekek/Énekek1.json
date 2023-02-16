@@ -1,0 +1,186 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "hivatkozas": "Énekek 1",
+        "forma": "json"
+    },
+    "valasz": {
+        "versek": [
+            {
+                "szoveg": "Énekek éneke, mely Salamoné.",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ez a később idefűzött cím a menyegzős dalokat egyetlen énekként kezeli, és Salamonnak tulajdonítja. Az »énekek éneke« kifejezés felsőfokot jelent: a legszebb ének."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400100100,
+                    "szep": "Én 1,1"
+                }
+            },
+            {
+                "szoveg": "Csókoljon meg engem az ő szájának csókjaival; mert a te szerelmeid jobbak a bornál.",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A lány dicséri szerelmesét."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400100200,
+                    "szep": "Én 1,2"
+                }
+            },
+            {
+                "szoveg": "A te drága kenetid jók illatozásra; a te neved kiöntött drága kenet; azért szeretnek téged a leányok.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400100300,
+                    "szep": "Én 1,3"
+                }
+            },
+            {
+                "szoveg": "Vonj engemet te utánad, hadd fussunk! Bevitt engem a király az ő ágyasházába; örvendezünk és vígadunk te benned, előszámláljuk a te szerelmeidet, melyek jobbak a bornál, méltán szeretnek téged.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400100400,
+                    "szep": "Én 1,4"
+                }
+            },
+            {
+                "szoveg": "Fekete vagyok, de szép, Jeruzsálem leányai; mint Kédár sátrai és Salamon szőnyegei.",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "»Lebarnult«: napbarnította. »Salamon« vagy: Salma (egy beduin törzs neve)."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400100500,
+                    "szep": "Én 1,5"
+                }
+            },
+            {
+                "szoveg": "Ne nézzetek engem, hogy én fekete vagyok, hogy a nap lesütött engem; az én anyámnak fiai ellenem megharagudtak, a szőlőknek őrizőjévé tettek engem,  a magam szőlőjét nem őriztem.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400100600,
+                    "szep": "Én 1,6"
+                }
+            },
+            {
+                "szoveg": "Mondd meg nékem, te, akit az én lelkem szeret, hol legeltetsz, hol deleltetsz délben; mert miért legyek én olyan, mint aki elfátyolozza magát, társaid nyájainál?",
+                "jegyzetek" : [
+                    {
+                        "position": null,
+                        "text": "A keresés és egymásra találás a szerelem játékához tartozik. A kánaáni Astarte mítosz is elbeszéli, ahogy az istennő keresgéli meghalt szerelmesét."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400100700,
+                    "szep": "Én 1,7"
+                }
+            },
+            {
+                "szoveg": "Mivelhogy nem tudod, oh asszonyok között legszebb! jőjj ki a nyájnak nyomdokain, és őrizd a te kecskéidet a pásztoroknak sátorai körül.",
+                "jegyzetek" : [
+                    {
+                        "position": null,
+                        "text": "A pásztorok (?) tanácsa."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400100800,
+                    "szep": "Én 1,8"
+                }
+            },
+            {
+                "szoveg": "A Faraó szekereiben való paripákhoz hasonlítlak téged, én mátkám.",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A vőlegény (1,9-11.15; 2,2.7) és a menyasszony (1,12-14; 1,16-2,1; 2,3-6) párbeszéde"
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400100900,
+                    "szep": "Én 1,9"
+                }
+            },
+            {
+                "szoveg": "Szépek a te orcáid a halántékra való láncokban, a te nyakad a gyöngysorokban.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400101000,
+                    "szep": "Én 1,10"
+                }
+            },
+            {
+                "szoveg": "AArany láncokat csinálunk néked, ezüstből csinált gyöngyökkel.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400101100,
+                    "szep": "Én 1,11"
+                }
+            },
+            {
+                "szoveg": "Mikor a király az ő asztalánál ül, nárdusnak jóillatja származik én tőlem.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400101200,
+                    "szep": "Én 1,12"
+                }
+            },
+            {
+                "szoveg": "Olyan az én szerelmesem nékem, mint egy kötés mirha, mely az én kebeleim között hál.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400101300,
+                    "szep": "Én 1,13"
+                }
+            },
+            {
+                "szoveg": "Mint az Engedi szőlőiben a ciprusfürt, olyan nékem az én szerelmesem.",
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Engedi oázis a Holt-tenger partján."
+                    }
+                ],
+                "hely": {
+                    "gepi": 12400101400,
+                    "szep": "Én 1,14"
+                }
+            },
+            {
+                "szoveg": "Ímé, szép vagy én mátkám, ímé, szép vagy, a te szemeid olyanok, mint a galambok.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400101500,
+                    "szep": "Én 1,15"
+                }
+            },
+            {
+                "szoveg": "Ímé, te is szép vagy én szerelmesem, gyönyörűséges, és a mi nyoszolyánk zöldellő.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400101600,
+                    "szep": "Én 1,16"
+                }
+            },
+            {
+                "szoveg": "A mi házainknak gerendái cédrusfák, és a mi mennyezetünk ciprusfa.",
+                "jegyzetek": [],
+                "hely": {
+                    "gepi": 12400101700,
+                    "szep": "Én 1,17"
+                }
+            }
+        ],
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        }
+    }
+}

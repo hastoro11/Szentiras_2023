@@ -7,19 +7,55 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		21F81A0C299E8E590020A7A4 /* Szentiras_latestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A0B299E8E590020A7A4 /* Szentiras_latestApp.swift */; };
 		21F81A0E299E8E590020A7A4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A0D299E8E590020A7A4 /* ContentView.swift */; };
 		21F81A10299E8E5A0020A7A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A0F299E8E5A0020A7A4 /* Assets.xcassets */; };
 		21F81A14299E8E5A0020A7A4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A13299E8E5A0020A7A4 /* Preview Assets.xcassets */; };
+		21F81A1E299E8F950020A7A4 /* sample1.json in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A1A299E8F950020A7A4 /* sample1.json */; };
+		21F81A1F299E8F950020A7A4 /* sample2.json in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A1B299E8F950020A7A4 /* sample2.json */; };
+		21F81A20299E8F950020A7A4 /* sample3.json in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A1C299E8F950020A7A4 /* sample3.json */; };
+		21F81A21299E8F950020A7A4 /* sample4.json in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A1D299E8F950020A7A4 /* sample4.json */; };
+		21F81A24299E8FE00020A7A4 /* SzentirasApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A23299E8FE00020A7A4 /* SzentirasApp.swift */; };
+		21F81A31299E901D0020A7A4 /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A26299E901D0020A7A4 /* Book.swift */; };
+		21F81A32299E901D0020A7A4 /* Énekek8.json in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A28299E901D0020A7A4 /* Énekek8.json */; };
+		21F81A33299E901D0020A7A4 /* Énekek4.json in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A29299E901D0020A7A4 /* Énekek4.json */; };
+		21F81A34299E901D0020A7A4 /* Énekek5.json in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A2A299E901D0020A7A4 /* Énekek5.json */; };
+		21F81A35299E901D0020A7A4 /* Énekek2.json in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A2B299E901D0020A7A4 /* Énekek2.json */; };
+		21F81A36299E901D0020A7A4 /* Énekek3.json in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A2C299E901D0020A7A4 /* Énekek3.json */; };
+		21F81A37299E901D0020A7A4 /* Énekek1.json in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A2D299E901D0020A7A4 /* Énekek1.json */; };
+		21F81A38299E901D0020A7A4 /* Énekek6.json in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A2E299E901D0020A7A4 /* Énekek6.json */; };
+		21F81A39299E901D0020A7A4 /* Énekek7.json in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A2F299E901D0020A7A4 /* Énekek7.json */; };
+		21F81A3A299E901D0020A7A4 /* SZIResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A30299E901D0020A7A4 /* SZIResponse.swift */; };
+		21F81A3D299E90690020A7A4 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A3C299E90690020A7A4 /* Extensions.swift */; };
+		21F81A3F299E90990020A7A4 /* BookList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A3E299E90990020A7A4 /* BookList.swift */; };
+		21F81A45299E94F50020A7A4 /* ChapterNumberList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A44299E94F50020A7A4 /* ChapterNumberList.swift */; };
+		21F81A47299E977E0020A7A4 /* ButtonText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A46299E977E0020A7A4 /* ButtonText.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		21F81A08299E8E590020A7A4 /* Szentiras_latest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Szentiras_latest.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		21F81A0B299E8E590020A7A4 /* Szentiras_latestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Szentiras_latestApp.swift; sourceTree = "<group>"; };
 		21F81A0D299E8E590020A7A4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		21F81A0F299E8E5A0020A7A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21F81A11299E8E5A0020A7A4 /* Szentiras_latest.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Szentiras_latest.entitlements; sourceTree = "<group>"; };
 		21F81A13299E8E5A0020A7A4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		21F81A1A299E8F950020A7A4 /* sample1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = sample1.json; sourceTree = "<group>"; };
+		21F81A1B299E8F950020A7A4 /* sample2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = sample2.json; sourceTree = "<group>"; };
+		21F81A1C299E8F950020A7A4 /* sample3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = sample3.json; sourceTree = "<group>"; };
+		21F81A1D299E8F950020A7A4 /* sample4.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = sample4.json; sourceTree = "<group>"; };
+		21F81A23299E8FE00020A7A4 /* SzentirasApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SzentirasApp.swift; sourceTree = "<group>"; };
+		21F81A26299E901D0020A7A4 /* Book.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
+		21F81A28299E901D0020A7A4 /* Énekek8.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Énekek8.json"; sourceTree = "<group>"; };
+		21F81A29299E901D0020A7A4 /* Énekek4.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Énekek4.json"; sourceTree = "<group>"; };
+		21F81A2A299E901D0020A7A4 /* Énekek5.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Énekek5.json"; sourceTree = "<group>"; };
+		21F81A2B299E901D0020A7A4 /* Énekek2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Énekek2.json"; sourceTree = "<group>"; };
+		21F81A2C299E901D0020A7A4 /* Énekek3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Énekek3.json"; sourceTree = "<group>"; };
+		21F81A2D299E901D0020A7A4 /* Énekek1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Énekek1.json"; sourceTree = "<group>"; };
+		21F81A2E299E901D0020A7A4 /* Énekek6.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Énekek6.json"; sourceTree = "<group>"; };
+		21F81A2F299E901D0020A7A4 /* Énekek7.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Énekek7.json"; sourceTree = "<group>"; };
+		21F81A30299E901D0020A7A4 /* SZIResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SZIResponse.swift; sourceTree = "<group>"; };
+		21F81A3C299E90690020A7A4 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		21F81A3E299E90990020A7A4 /* BookList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookList.swift; sourceTree = "<group>"; };
+		21F81A44299E94F50020A7A4 /* ChapterNumberList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterNumberList.swift; sourceTree = "<group>"; };
+		21F81A46299E977E0020A7A4 /* ButtonText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonText.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +88,11 @@
 		21F81A0A299E8E590020A7A4 /* Szentiras_latest */ = {
 			isa = PBXGroup;
 			children = (
-				21F81A0B299E8E590020A7A4 /* Szentiras_latestApp.swift */,
+				21F81A3B299E90690020A7A4 /* Extension */,
+				21F81A25299E901D0020A7A4 /* Model */,
+				21F81A22299E8FA70020A7A4 /* Screens */,
 				21F81A0D299E8E590020A7A4 /* ContentView.swift */,
+				21F81A23299E8FE00020A7A4 /* SzentirasApp.swift */,
 				21F81A0F299E8E5A0020A7A4 /* Assets.xcassets */,
 				21F81A11299E8E5A0020A7A4 /* Szentiras_latest.entitlements */,
 				21F81A12299E8E5A0020A7A4 /* Preview Content */,
@@ -65,8 +104,71 @@
 			isa = PBXGroup;
 			children = (
 				21F81A13299E8E5A0020A7A4 /* Preview Assets.xcassets */,
+				21F81A1A299E8F950020A7A4 /* sample1.json */,
+				21F81A1B299E8F950020A7A4 /* sample2.json */,
+				21F81A1C299E8F950020A7A4 /* sample3.json */,
+				21F81A1D299E8F950020A7A4 /* sample4.json */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		21F81A22299E8FA70020A7A4 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				21F81A42299E90AB0020A7A4 /* Home */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		21F81A25299E901D0020A7A4 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				21F81A27299E901D0020A7A4 /* Énekek */,
+				21F81A26299E901D0020A7A4 /* Book.swift */,
+				21F81A30299E901D0020A7A4 /* SZIResponse.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		21F81A27299E901D0020A7A4 /* Énekek */ = {
+			isa = PBXGroup;
+			children = (
+				21F81A28299E901D0020A7A4 /* Énekek8.json */,
+				21F81A29299E901D0020A7A4 /* Énekek4.json */,
+				21F81A2A299E901D0020A7A4 /* Énekek5.json */,
+				21F81A2B299E901D0020A7A4 /* Énekek2.json */,
+				21F81A2C299E901D0020A7A4 /* Énekek3.json */,
+				21F81A2D299E901D0020A7A4 /* Énekek1.json */,
+				21F81A2E299E901D0020A7A4 /* Énekek6.json */,
+				21F81A2F299E901D0020A7A4 /* Énekek7.json */,
+			);
+			path = "Énekek";
+			sourceTree = "<group>";
+		};
+		21F81A3B299E90690020A7A4 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				21F81A3C299E90690020A7A4 /* Extensions.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		21F81A42299E90AB0020A7A4 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				21F81A46299E977E0020A7A4 /* ButtonText.swift */,
+				21F81A43299E90B30020A7A4 /* Views */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		21F81A43299E90B30020A7A4 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				21F81A3E299E90990020A7A4 /* BookList.swift */,
+				21F81A44299E94F50020A7A4 /* ChapterNumberList.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,8 +229,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21F81A1F299E8F950020A7A4 /* sample2.json in Resources */,
+				21F81A20299E8F950020A7A4 /* sample3.json in Resources */,
+				21F81A37299E901D0020A7A4 /* Énekek1.json in Resources */,
+				21F81A21299E8F950020A7A4 /* sample4.json in Resources */,
+				21F81A38299E901D0020A7A4 /* Énekek6.json in Resources */,
 				21F81A14299E8E5A0020A7A4 /* Preview Assets.xcassets in Resources */,
+				21F81A39299E901D0020A7A4 /* Énekek7.json in Resources */,
+				21F81A32299E901D0020A7A4 /* Énekek8.json in Resources */,
+				21F81A35299E901D0020A7A4 /* Énekek2.json in Resources */,
+				21F81A36299E901D0020A7A4 /* Énekek3.json in Resources */,
+				21F81A34299E901D0020A7A4 /* Énekek5.json in Resources */,
+				21F81A33299E901D0020A7A4 /* Énekek4.json in Resources */,
 				21F81A10299E8E5A0020A7A4 /* Assets.xcassets in Resources */,
+				21F81A1E299E8F950020A7A4 /* sample1.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,8 +253,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21F81A3F299E90990020A7A4 /* BookList.swift in Sources */,
+				21F81A3D299E90690020A7A4 /* Extensions.swift in Sources */,
 				21F81A0E299E8E590020A7A4 /* ContentView.swift in Sources */,
-				21F81A0C299E8E590020A7A4 /* Szentiras_latestApp.swift in Sources */,
+				21F81A3A299E901D0020A7A4 /* SZIResponse.swift in Sources */,
+				21F81A47299E977E0020A7A4 /* ButtonText.swift in Sources */,
+				21F81A24299E8FE00020A7A4 /* SzentirasApp.swift in Sources */,
+				21F81A31299E901D0020A7A4 /* Book.swift in Sources */,
+				21F81A45299E94F50020A7A4 /* ChapterNumberList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
