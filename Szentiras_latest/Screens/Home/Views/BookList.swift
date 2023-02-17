@@ -43,7 +43,7 @@ extension BookList {
                 HStack {
                     Text(title)
                         .font(.headline)
-//                        .fontWeight(.bold)
+                        .fontWeight(.bold)
                     Spacer()
                 }
             }

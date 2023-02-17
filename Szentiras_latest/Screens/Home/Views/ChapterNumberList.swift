@@ -41,6 +41,7 @@ extension ChapterNumberList {
                 HStack {
                     Text(title)
                         .font(.headline)
+                        .fontWeight(.bold)
                     Spacer()
                     Button(action: {
                         dismiss()
