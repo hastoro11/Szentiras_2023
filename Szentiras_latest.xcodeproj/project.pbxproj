@@ -29,6 +29,9 @@
 		21F81A3F299E90990020A7A4 /* BookList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A3E299E90990020A7A4 /* BookList.swift */; };
 		21F81A45299E94F50020A7A4 /* ChapterNumberList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A44299E94F50020A7A4 /* ChapterNumberList.swift */; };
 		21F81A47299E977E0020A7A4 /* ButtonText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A46299E977E0020A7A4 /* ButtonText.swift */; };
+		21F81A49299FDAA90020A7A4 /* ChapterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A48299FDAA90020A7A4 /* ChapterView.swift */; };
+		21F81A4B299FDAD80020A7A4 /* Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A4A299FDAD80020A7A4 /* Util.swift */; };
+		21F81A50299FE08C0020A7A4 /* ChapterViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A4F299FE08C0020A7A4 /* ChapterViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +59,9 @@
 		21F81A3E299E90990020A7A4 /* BookList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookList.swift; sourceTree = "<group>"; };
 		21F81A44299E94F50020A7A4 /* ChapterNumberList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterNumberList.swift; sourceTree = "<group>"; };
 		21F81A46299E977E0020A7A4 /* ButtonText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonText.swift; sourceTree = "<group>"; };
+		21F81A48299FDAA90020A7A4 /* ChapterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterView.swift; sourceTree = "<group>"; };
+		21F81A4A299FDAD80020A7A4 /* Util.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Util.swift; sourceTree = "<group>"; };
+		21F81A4F299FE08C0020A7A4 /* ChapterViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +94,7 @@
 		21F81A0A299E8E590020A7A4 /* Szentiras_latest */ = {
 			isa = PBXGroup;
 			children = (
+				21F81A4D299FDAE20020A7A4 /* API */,
 				21F81A3B299E90690020A7A4 /* Extension */,
 				21F81A25299E901D0020A7A4 /* Model */,
 				21F81A22299E8FA70020A7A4 /* Screens */,
@@ -115,6 +122,7 @@
 		21F81A22299E8FA70020A7A4 /* Screens */ = {
 			isa = PBXGroup;
 			children = (
+				21F81A46299E977E0020A7A4 /* ButtonText.swift */,
 				21F81A42299E90AB0020A7A4 /* Home */,
 			);
 			path = Screens;
@@ -156,7 +164,7 @@
 		21F81A42299E90AB0020A7A4 /* Home */ = {
 			isa = PBXGroup;
 			children = (
-				21F81A46299E977E0020A7A4 /* ButtonText.swift */,
+				21F81A4E299FE0780020A7A4 /* ViewModels */,
 				21F81A43299E90B30020A7A4 /* Views */,
 			);
 			path = Home;
@@ -167,8 +175,25 @@
 			children = (
 				21F81A3E299E90990020A7A4 /* BookList.swift */,
 				21F81A44299E94F50020A7A4 /* ChapterNumberList.swift */,
+				21F81A48299FDAA90020A7A4 /* ChapterView.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		21F81A4D299FDAE20020A7A4 /* API */ = {
+			isa = PBXGroup;
+			children = (
+				21F81A4A299FDAD80020A7A4 /* Util.swift */,
+			);
+			path = API;
+			sourceTree = "<group>";
+		};
+		21F81A4E299FE0780020A7A4 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				21F81A4F299FE08C0020A7A4 /* ChapterViewModel.swift */,
+			);
+			path = ViewModels;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -255,10 +280,13 @@
 			files = (
 				21F81A3F299E90990020A7A4 /* BookList.swift in Sources */,
 				21F81A3D299E90690020A7A4 /* Extensions.swift in Sources */,
+				21F81A49299FDAA90020A7A4 /* ChapterView.swift in Sources */,
 				21F81A0E299E8E590020A7A4 /* ContentView.swift in Sources */,
 				21F81A3A299E901D0020A7A4 /* SZIResponse.swift in Sources */,
+				21F81A50299FE08C0020A7A4 /* ChapterViewModel.swift in Sources */,
 				21F81A47299E977E0020A7A4 /* ButtonText.swift in Sources */,
 				21F81A24299E8FE00020A7A4 /* SzentirasApp.swift in Sources */,
+				21F81A4B299FDAD80020A7A4 /* Util.swift in Sources */,
 				21F81A31299E901D0020A7A4 /* Book.swift in Sources */,
 				21F81A45299E94F50020A7A4 /* ChapterNumberList.swift in Sources */,
 			);
@@ -397,8 +425,8 @@
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
 				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
@@ -435,8 +463,8 @@
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
 				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
