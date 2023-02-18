@@ -8,7 +8,11 @@
 import SwiftUI
 
 struct ChapterNumberList: View {
-    var book: Book
+    @EnvironmentObject var appState: AppState
+    var translationBook: TranslationBook
+    var book: Book {
+        translationBook.book
+    }
     var columns: [GridItem] = [GridItem(.adaptive(minimum: 55), spacing: 20)]
     @Binding var path: NavigationPath
     
@@ -19,7 +23,10 @@ struct ChapterNumberList: View {
                 LazyVGrid(columns: columns, spacing: 15) {
                     ForEach(1...book.noOfChapters, id:\.self) { index in
                         Button(action: {
-                            path = NavigationPath()
+                            appState.translation = translationBook.translation
+                            appState.book = translationBook.book
+                            appState.chapter = index
+                            path.append(TranslationBookChapter(translation: appState.translation, book: appState.book, chapter: appState.chapter))
                         }) {
                             ButtonText("\(index)")
                         }
@@ -65,7 +72,8 @@ extension ChapterNumberList {
 struct ChapterNumberList_Previews: PreviewProvider {
     static var previews: some View {
         NavigationStack {
-            ChapterNumberList(book: Translation.RUF.books[12], path: .constant(NavigationPath()))
+            ChapterNumberList(translationBook: TranslationBook(translation: .RUF, book: Translation.RUF.books[12]), path: .constant(NavigationPath()))
+                .environmentObject(AppState())
         }
     }
 }

@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct BookList: View {
+    @EnvironmentObject var appState: AppState
     typealias Category = Book.Category
     var categories: [Category] = Book.getBooksByCategories(by: .RUF)
     @State var path: NavigationPath = NavigationPath()
@@ -18,7 +19,9 @@ struct BookList: View {
                 List(categories) { cat in
                     Section {
                         ForEach(cat.books) { book in
-                            NavigationLink(book.name, value: book)
+                            NavigationLink(value: TranslationBook(translation: Translation.RUF, book: book)) {
+                                Text(book.name)
+                            }
                         }
                     } header: {
                         Text(cat.title)
@@ -28,8 +31,11 @@ struct BookList: View {
                 }
                 .listStyle(.plain)
             }
-            .navigationDestination(for: Book.self) { book in
-                ChapterNumberList(book: book, path: $path)
+            .navigationDestination(for: TranslationBook.self) { translationBook in
+                ChapterNumberList(translationBook: translationBook, path: $path)
+            }
+            .navigationDestination(for: TranslationBookChapter.self) { _ in
+                ChapterView(path: $path)
             }
         }
     }
@@ -60,6 +66,7 @@ struct BookList_Previews: PreviewProvider {
     static var previews: some View {
         NavigationStack {
             BookList()
+                .environmentObject(AppState())
         }
     }
 }

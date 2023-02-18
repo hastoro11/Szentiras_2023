@@ -8,7 +8,9 @@
 import SwiftUI
 
 struct ChapterView: View {
+    @EnvironmentObject var appState: AppState
     @StateObject var vm: ChapterViewModel = ChapterViewModel()
+    @Binding var path: NavigationPath
     var chapter: Chapter {
         vm.chapter
     }
@@ -18,8 +20,18 @@ struct ChapterView: View {
                 navigationHeader
                 versList
             }
+            .navigationBarBackButtonHidden(true)
             .isLoading($vm.isLoading)
-            .showError(isPresented: $vm.isError, error: vm.error, guidance: "A szerver nem, vagy hibásan működik. Érdemes újra próbálkozni, vagy újraindítani a keresést.")
+            .showError(isPresented: $vm.isError, error: vm.error, guidance: "A szerver nem, vagy hibásan működik. Érdemes újra próbálkozni, vagy újraindítani a keresést.", backAction: {
+                path = NavigationPath()
+            }, againAction: {
+                Task {
+                    await vm.fetchChapter(translation: appState.translation, book: appState.book, chapter: appState.chapter)
+                }
+            })
+            .task {
+                await vm.fetchChapter(translation: appState.translation, book: appState.book, chapter: appState.chapter)
+            }
         }
     }
     
@@ -70,13 +82,17 @@ struct ChapterView: View {
     var navigationHeader: some View {
         HStack {
             Spacer()
-            Button(action: {}) {
+            Button(action: {
+                path = NavigationPath()
+            }) {
                 Text(chapter.book.abbrev.isEmpty ? "???" : chapter.book.abbrev)
                     .font(.headline)
                     .foregroundColor(.darkGreen)
             }
             .buttonStyle(.bordered)
-            Button(action: {}) {
+            Button(action: {
+                path.removeLast()
+            }) {
                 Text("\(chapter.current)")
                     .font(.headline)
                     .foregroundColor(.darkGreen)
@@ -119,12 +135,16 @@ struct ChapterView_Previews: PreviewProvider {
     }
     static var previews: some View {
         Group {
-            ChapterView(vm: successVm)
+            ChapterView(vm: successVm, path: .constant(NavigationPath()))
+                .environmentObject(AppState())
                 .previewDisplayName("Success")
-            ChapterView(vm: emptyVm)
+            ChapterView(vm: emptyVm, path: .constant(NavigationPath()))
+                .environmentObject(AppState())
                 .previewDisplayName("Error")
-            ChapterView(vm: loadingVm)
+            ChapterView(vm: loadingVm, path: .constant(NavigationPath()))
+                .environmentObject(AppState())
                 .previewDisplayName("Loading")
         }
+        
     }
 }

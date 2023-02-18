@@ -20,6 +20,8 @@ struct ErrorWrapper: Identifiable {
 
 struct ErrorAlertView: View {
     var errorWrapper: ErrorWrapper
+    var backAction: () -> Void
+    var againAction: () -> Void
     var body: some View {
             RoundedRectangle(cornerRadius: 20)
                 .fill(.thinMaterial)
@@ -40,9 +42,11 @@ struct ErrorAlertView: View {
                         HStack {
                             Button("Vissza") {}
                                 .frame(width: 150)
+                                .foregroundColor(.darkGreen)
                             Divider()
                             Button("Újra") {}
                                 .frame(width: 150)
+                                .foregroundColor(.darkGreen)
                         }
                         .frame(height: 55)
                         .font(.title3)
@@ -83,7 +87,7 @@ struct Previews_ErrorWrapper_Previews: PreviewProvider {
     static var errorWrapper = ErrorWrapper(error: APIError(statusCode: 0), guidance: "A szerver nem, vagy hibásan működik. Érdemes újra próbálkozni, vagy újraindítani a keresést.")
     
     static var previews: some View {
-        ErrorAlertView(errorWrapper: errorWrapper)
+        ErrorAlertView(errorWrapper: errorWrapper, backAction: {}, againAction: {})
 //        ErrorView(errorWrapper: errorWrapper)
     }
 }

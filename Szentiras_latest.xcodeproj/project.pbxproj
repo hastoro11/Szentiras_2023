@@ -48,6 +48,8 @@
 		21F81A7329A0C8680020A7A4 /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A26299E901D0020A7A4 /* Book.swift */; };
 		21F81A7429A0C8A90020A7A4 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A3C299E90690020A7A4 /* Extensions.swift */; };
 		21F81A7729A0CA980020A7A4 /* LoggerKit in Frameworks */ = {isa = PBXBuildFile; productRef = 21F81A7629A0CA980020A7A4 /* LoggerKit */; };
+		21F81A7929A0EF680020A7A4 /* AppState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A7829A0EF680020A7A4 /* AppState.swift */; };
+		21F81A7B29A0F57B0020A7A4 /* NavigationModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A7A29A0F57B0020A7A4 /* NavigationModels.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -96,6 +98,8 @@
 		21F81A5E29A0C28E0020A7A4 /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
 		21F81A6429A0C7180020A7A4 /* Szentiras_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Szentiras_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		21F81A6629A0C7180020A7A4 /* Szentiras_Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Szentiras_Tests.swift; sourceTree = "<group>"; };
+		21F81A7829A0EF680020A7A4 /* AppState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppState.swift; sourceTree = "<group>"; };
+		21F81A7A29A0F57B0020A7A4 /* NavigationModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationModels.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +148,7 @@
 				21F81A25299E901D0020A7A4 /* Model */,
 				21F81A22299E8FA70020A7A4 /* Screens */,
 				21F81A0D299E8E590020A7A4 /* ContentView.swift */,
+				21F81A7829A0EF680020A7A4 /* AppState.swift */,
 				21F81A23299E8FE00020A7A4 /* SzentirasApp.swift */,
 				21F81A0F299E8E5A0020A7A4 /* Assets.xcassets */,
 				21F81A11299E8E5A0020A7A4 /* Szentiras_latest.entitlements */,
@@ -179,6 +184,7 @@
 				21F81A27299E901D0020A7A4 /* Énekek */,
 				21F81A26299E901D0020A7A4 /* Book.swift */,
 				21F81A30299E901D0020A7A4 /* SZIResponse.swift */,
+				21F81A7A29A0F57B0020A7A4 /* NavigationModels.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -383,6 +389,7 @@
 				21F81A5729A0C0810020A7A4 /* Resource.swift in Sources */,
 				21F81A3F299E90990020A7A4 /* BookList.swift in Sources */,
 				21F81A3D299E90690020A7A4 /* Extensions.swift in Sources */,
+				21F81A7929A0EF680020A7A4 /* AppState.swift in Sources */,
 				21F81A5B29A0C09F0020A7A4 /* ErrorWrapper.swift in Sources */,
 				21F81A49299FDAA90020A7A4 /* ChapterView.swift in Sources */,
 				21F81A0E299E8E590020A7A4 /* ContentView.swift in Sources */,
@@ -396,6 +403,7 @@
 				21F81A45299E94F50020A7A4 /* ChapterNumberList.swift in Sources */,
 				21F81A5D29A0C0EF0020A7A4 /* Endpoints.swift in Sources */,
 				21F81A5F29A0C28E0020A7A4 /* NetworkService.swift in Sources */,
+				21F81A7B29A0F57B0020A7A4 /* NavigationModels.swift in Sources */,
 				21F81A5A29A0C09F0020A7A4 /* APIError.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
