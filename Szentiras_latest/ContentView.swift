@@ -6,10 +6,31 @@
 //
 
 import SwiftUI
+import LoggerKit
 
 struct ContentView: View {
+    @State var showLaunchScreen: Bool = true
+    @State var remainingTime = 2
+    
+    var timer = Timer.publish(every: 1, on: .main, in: .default).autoconnect()
     var body: some View {
-        BookList()
+        ZStack {
+            BookList()
+            if showLaunchScreen {
+                LaunchScreen()
+                    .zIndex(1)
+                    .transition(.asymmetric(insertion: .identity, removal: .opacity))
+            }
+        }
+        .onReceive(timer) { t in
+            remainingTime -= 1
+            if remainingTime <= 0 {
+                timer.upstream.connect().cancel()
+                withAnimation(.default) {
+                    showLaunchScreen = false
+                }
+            }
+        }
     }
 }
 
