@@ -32,7 +32,33 @@
 		21F81A49299FDAA90020A7A4 /* ChapterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A48299FDAA90020A7A4 /* ChapterView.swift */; };
 		21F81A4B299FDAD80020A7A4 /* Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A4A299FDAD80020A7A4 /* Util.swift */; };
 		21F81A50299FE08C0020A7A4 /* ChapterViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A4F299FE08C0020A7A4 /* ChapterViewModel.swift */; };
+		21F81A5529A0C0730020A7A4 /* Networkable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A5429A0C0730020A7A4 /* Networkable.swift */; };
+		21F81A5729A0C0810020A7A4 /* Resource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A5629A0C0810020A7A4 /* Resource.swift */; };
+		21F81A5A29A0C09F0020A7A4 /* APIError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A5829A0C09F0020A7A4 /* APIError.swift */; };
+		21F81A5B29A0C09F0020A7A4 /* ErrorWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A5929A0C09F0020A7A4 /* ErrorWrapper.swift */; };
+		21F81A5D29A0C0EF0020A7A4 /* Endpoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A5C29A0C0EF0020A7A4 /* Endpoints.swift */; };
+		21F81A5F29A0C28E0020A7A4 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A5E29A0C28E0020A7A4 /* NetworkService.swift */; };
+		21F81A6729A0C7180020A7A4 /* Szentiras_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A6629A0C7180020A7A4 /* Szentiras_Tests.swift */; };
+		21F81A6D29A0C7CF0020A7A4 /* APIError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A5829A0C09F0020A7A4 /* APIError.swift */; };
+		21F81A6E29A0C7D80020A7A4 /* Resource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A5629A0C0810020A7A4 /* Resource.swift */; };
+		21F81A6F29A0C7DB0020A7A4 /* Networkable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A5429A0C0730020A7A4 /* Networkable.swift */; };
+		21F81A7029A0C7DD0020A7A4 /* Endpoints.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A5C29A0C0EF0020A7A4 /* Endpoints.swift */; };
+		21F81A7129A0C7E00020A7A4 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A5E29A0C28E0020A7A4 /* NetworkService.swift */; };
+		21F81A7229A0C8650020A7A4 /* SZIResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A30299E901D0020A7A4 /* SZIResponse.swift */; };
+		21F81A7329A0C8680020A7A4 /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A26299E901D0020A7A4 /* Book.swift */; };
+		21F81A7429A0C8A90020A7A4 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A3C299E90690020A7A4 /* Extensions.swift */; };
+		21F81A7729A0CA980020A7A4 /* LoggerKit in Frameworks */ = {isa = PBXBuildFile; productRef = 21F81A7629A0CA980020A7A4 /* LoggerKit */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		21F81A6829A0C7180020A7A4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 21F81A00299E8E590020A7A4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 21F81A07299E8E590020A7A4;
+			remoteInfo = Szentiras_latest;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		21F81A08299E8E590020A7A4 /* Szentiras_latest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Szentiras_latest.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -62,10 +88,26 @@
 		21F81A48299FDAA90020A7A4 /* ChapterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterView.swift; sourceTree = "<group>"; };
 		21F81A4A299FDAD80020A7A4 /* Util.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Util.swift; sourceTree = "<group>"; };
 		21F81A4F299FE08C0020A7A4 /* ChapterViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterViewModel.swift; sourceTree = "<group>"; };
+		21F81A5429A0C0730020A7A4 /* Networkable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Networkable.swift; sourceTree = "<group>"; };
+		21F81A5629A0C0810020A7A4 /* Resource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Resource.swift; sourceTree = "<group>"; };
+		21F81A5829A0C09F0020A7A4 /* APIError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIError.swift; sourceTree = "<group>"; };
+		21F81A5929A0C09F0020A7A4 /* ErrorWrapper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ErrorWrapper.swift; sourceTree = "<group>"; };
+		21F81A5C29A0C0EF0020A7A4 /* Endpoints.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Endpoints.swift; sourceTree = "<group>"; };
+		21F81A5E29A0C28E0020A7A4 /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
+		21F81A6429A0C7180020A7A4 /* Szentiras_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Szentiras_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		21F81A6629A0C7180020A7A4 /* Szentiras_Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Szentiras_Tests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		21F81A05299E8E590020A7A4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				21F81A7729A0CA980020A7A4 /* LoggerKit in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		21F81A6129A0C7180020A7A4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -79,6 +121,7 @@
 			isa = PBXGroup;
 			children = (
 				21F81A0A299E8E590020A7A4 /* Szentiras_latest */,
+				21F81A6529A0C7180020A7A4 /* Szentiras_Tests */,
 				21F81A09299E8E590020A7A4 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -87,6 +130,7 @@
 			isa = PBXGroup;
 			children = (
 				21F81A08299E8E590020A7A4 /* Szentiras_latest.app */,
+				21F81A6429A0C7180020A7A4 /* Szentiras_Tests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -94,6 +138,7 @@
 		21F81A0A299E8E590020A7A4 /* Szentiras_latest */ = {
 			isa = PBXGroup;
 			children = (
+				21F81A5329A0C0600020A7A4 /* Network */,
 				21F81A4D299FDAE20020A7A4 /* API */,
 				21F81A3B299E90690020A7A4 /* Extension */,
 				21F81A25299E901D0020A7A4 /* Model */,
@@ -184,6 +229,8 @@
 			isa = PBXGroup;
 			children = (
 				21F81A4A299FDAD80020A7A4 /* Util.swift */,
+				21F81A5C29A0C0EF0020A7A4 /* Endpoints.swift */,
+				21F81A5E29A0C28E0020A7A4 /* NetworkService.swift */,
 			);
 			path = API;
 			sourceTree = "<group>";
@@ -194,6 +241,25 @@
 				21F81A4F299FE08C0020A7A4 /* ChapterViewModel.swift */,
 			);
 			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		21F81A5329A0C0600020A7A4 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				21F81A5829A0C09F0020A7A4 /* APIError.swift */,
+				21F81A5929A0C09F0020A7A4 /* ErrorWrapper.swift */,
+				21F81A5629A0C0810020A7A4 /* Resource.swift */,
+				21F81A5429A0C0730020A7A4 /* Networkable.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		21F81A6529A0C7180020A7A4 /* Szentiras_Tests */ = {
+			isa = PBXGroup;
+			children = (
+				21F81A6629A0C7180020A7A4 /* Szentiras_Tests.swift */,
+			);
+			path = Szentiras_Tests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -212,9 +278,30 @@
 			dependencies = (
 			);
 			name = Szentiras_latest;
+			packageProductDependencies = (
+				21F81A7629A0CA980020A7A4 /* LoggerKit */,
+			);
 			productName = Szentiras_latest;
 			productReference = 21F81A08299E8E590020A7A4 /* Szentiras_latest.app */;
 			productType = "com.apple.product-type.application";
+		};
+		21F81A6329A0C7180020A7A4 /* Szentiras_Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 21F81A6A29A0C7180020A7A4 /* Build configuration list for PBXNativeTarget "Szentiras_Tests" */;
+			buildPhases = (
+				21F81A6029A0C7180020A7A4 /* Sources */,
+				21F81A6129A0C7180020A7A4 /* Frameworks */,
+				21F81A6229A0C7180020A7A4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				21F81A6929A0C7180020A7A4 /* PBXTargetDependency */,
+			);
+			name = Szentiras_Tests;
+			productName = Szentiras_Tests;
+			productReference = 21F81A6429A0C7180020A7A4 /* Szentiras_Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
@@ -229,6 +316,10 @@
 					21F81A07299E8E590020A7A4 = {
 						CreatedOnToolsVersion = 14.2;
 					};
+					21F81A6329A0C7180020A7A4 = {
+						CreatedOnToolsVersion = 14.2;
+						TestTargetID = 21F81A07299E8E590020A7A4;
+					};
 				};
 			};
 			buildConfigurationList = 21F81A03299E8E590020A7A4 /* Build configuration list for PBXProject "Szentiras_latest" */;
@@ -240,11 +331,15 @@
 				Base,
 			);
 			mainGroup = 21F819FF299E8E590020A7A4;
+			packageReferences = (
+				21F81A7529A0CA980020A7A4 /* XCRemoteSwiftPackageReference "LoggerKit" */,
+			);
 			productRefGroup = 21F81A09299E8E590020A7A4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				21F81A07299E8E590020A7A4 /* Szentiras_latest */,
+				21F81A6329A0C7180020A7A4 /* Szentiras_Tests */,
 			);
 		};
 /* End PBXProject section */
@@ -271,6 +366,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		21F81A6229A0C7180020A7A4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -278,8 +380,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21F81A5729A0C0810020A7A4 /* Resource.swift in Sources */,
 				21F81A3F299E90990020A7A4 /* BookList.swift in Sources */,
 				21F81A3D299E90690020A7A4 /* Extensions.swift in Sources */,
+				21F81A5B29A0C09F0020A7A4 /* ErrorWrapper.swift in Sources */,
 				21F81A49299FDAA90020A7A4 /* ChapterView.swift in Sources */,
 				21F81A0E299E8E590020A7A4 /* ContentView.swift in Sources */,
 				21F81A3A299E901D0020A7A4 /* SZIResponse.swift in Sources */,
@@ -288,11 +392,39 @@
 				21F81A24299E8FE00020A7A4 /* SzentirasApp.swift in Sources */,
 				21F81A4B299FDAD80020A7A4 /* Util.swift in Sources */,
 				21F81A31299E901D0020A7A4 /* Book.swift in Sources */,
+				21F81A5529A0C0730020A7A4 /* Networkable.swift in Sources */,
 				21F81A45299E94F50020A7A4 /* ChapterNumberList.swift in Sources */,
+				21F81A5D29A0C0EF0020A7A4 /* Endpoints.swift in Sources */,
+				21F81A5F29A0C28E0020A7A4 /* NetworkService.swift in Sources */,
+				21F81A5A29A0C09F0020A7A4 /* APIError.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		21F81A6029A0C7180020A7A4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				21F81A7329A0C8680020A7A4 /* Book.swift in Sources */,
+				21F81A7429A0C8A90020A7A4 /* Extensions.swift in Sources */,
+				21F81A6E29A0C7D80020A7A4 /* Resource.swift in Sources */,
+				21F81A6729A0C7180020A7A4 /* Szentiras_Tests.swift in Sources */,
+				21F81A6F29A0C7DB0020A7A4 /* Networkable.swift in Sources */,
+				21F81A7229A0C8650020A7A4 /* SZIResponse.swift in Sources */,
+				21F81A6D29A0C7CF0020A7A4 /* APIError.swift in Sources */,
+				21F81A7129A0C7E00020A7A4 /* NetworkService.swift in Sources */,
+				21F81A7029A0C7DD0020A7A4 /* Endpoints.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		21F81A6929A0C7180020A7A4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 21F81A07299E8E590020A7A4 /* Szentiras_latest */;
+			targetProxy = 21F81A6829A0C7180020A7A4 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		21F81A15299E8E5A0020A7A4 /* Debug */ = {
@@ -480,6 +612,47 @@
 			};
 			name = Release;
 		};
+		21F81A6B29A0C7180020A7A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8YE8M3UNR3;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sornyei.Szentiras-Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Szentiras_latest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Szentiras_latest";
+			};
+			name = Debug;
+		};
+		21F81A6C29A0C7180020A7A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8YE8M3UNR3;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sornyei.Szentiras-Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Szentiras_latest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Szentiras_latest";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -501,7 +674,35 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		21F81A6A29A0C7180020A7A4 /* Build configuration list for PBXNativeTarget "Szentiras_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				21F81A6B29A0C7180020A7A4 /* Debug */,
+				21F81A6C29A0C7180020A7A4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		21F81A7529A0CA980020A7A4 /* XCRemoteSwiftPackageReference "LoggerKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/hastoro11/LoggerKit.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		21F81A7629A0CA980020A7A4 /* LoggerKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 21F81A7529A0CA980020A7A4 /* XCRemoteSwiftPackageReference "LoggerKit" */;
+			productName = LoggerKit;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 21F81A00299E8E590020A7A4 /* Project object */;
 }

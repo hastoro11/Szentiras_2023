@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "loggerkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hastoro11/LoggerKit.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "7985f421e58535df55d026659dcc3b42e6dd6e15"
+      }
+    }
+  ],
+  "version" : 2
+}
