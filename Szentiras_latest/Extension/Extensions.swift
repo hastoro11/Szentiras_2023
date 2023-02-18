@@ -43,3 +43,38 @@ extension String {
         self.replacingOccurrences(of: "<[^>]+>", with: "", options: .regularExpression, range: nil)
     }
 }
+
+
+extension View {
+    func showError(isPresented: Binding<Bool>, error: APIError?, guidance: String) -> some View {
+        Group {
+            if let error = error {
+                ZStack {
+                    self.redacted(reason: isPresented.wrappedValue ? .placeholder : [])
+                    ErrorAlertView(errorWrapper: ErrorWrapper(error: error, guidance: guidance))
+                }
+            } else {
+                self
+            }
+        }
+    }
+    
+    func isLoading(_ loading: Binding<Bool>) -> some View {
+        Group {
+            if loading.wrappedValue {
+                ZStack {
+                    self
+                        .redacted(reason: loading.wrappedValue ? .placeholder : [])
+                    RoundedRectangle(cornerRadius: 10)
+                        .fill(Material.thick)
+                        .frame(width: 100, height: 100)
+                    ProgressView {
+                        Text("Keresés...")
+                    }
+                }
+            } else {
+                self
+            }
+        }
+    }
+}

@@ -9,10 +9,10 @@ import SwiftUI
 
 struct ErrorWrapper: Identifiable {
     var id: String = UUID().uuidString
-    var error: Error
+    var error: APIError
     var guidance: String
     
-    init(error: Error, guidance: String) {
+    init(error: APIError, guidance: String) {
         self.error = error
         self.guidance = guidance
     }
@@ -23,24 +23,25 @@ struct ErrorAlertView: View {
     var body: some View {
             RoundedRectangle(cornerRadius: 20)
                 .fill(.thinMaterial)
-                .frame(width: 300, height: 200)
+                .frame(width: 300, height: 250)
                 .overlay(alignment: .top) {
                     VStack(spacing: 0) {
-                        Image(systemName: "x.circle.fill")
+                        Image(systemName: "xmark.icloud.fill")
                             .foregroundColor(.red)
                             .font(.largeTitle)
                             .padding(8)
-                        Text(errorWrapper.error.localizedDescription)
+                        Text(errorWrapper.error.networkError.errorDescription ?? "")
                             .font(.title2)
                         Text(errorWrapper.guidance)
+                            .multilineTextAlignment(.center)
                             .padding(10)
                         Spacer()
                         Divider()
                         HStack {
-                            Button("Cancel") {}
+                            Button("Vissza") {}
                                 .frame(width: 150)
                             Divider()
-                            Button("Try again") {}
+                            Button("Újra") {}
                                 .frame(width: 150)
                         }
                         .frame(height: 55)
@@ -60,7 +61,7 @@ struct ErrorView: View {
                 Text("An error has occurred!")
                     .font(.title)
                     .padding(.bottom)
-                Text(errorWrapper.error.localizedDescription)
+                Text(errorWrapper.error.networkError.errorDescription ?? "")
                     .font(.headline)
                 Text(errorWrapper.guidance)
                     .font(.caption)
@@ -79,7 +80,7 @@ struct ErrorView: View {
 
 
 struct Previews_ErrorWrapper_Previews: PreviewProvider {
-    static var errorWrapper = ErrorWrapper(error: NSError(domain: "", code: -1, userInfo: [NSLocalizedDescriptionKey: "Wrong URL"]), guidance: "Something happened")
+    static var errorWrapper = ErrorWrapper(error: APIError(statusCode: 0), guidance: "A szerver nem, vagy hibásan működik. Érdemes újra próbálkozni, vagy újraindítani a keresést.")
     
     static var previews: some View {
         ErrorAlertView(errorWrapper: errorWrapper)

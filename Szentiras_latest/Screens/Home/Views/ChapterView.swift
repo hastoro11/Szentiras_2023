@@ -13,9 +13,13 @@ struct ChapterView: View {
         vm.chapter
     }
     var body: some View {
-        VStack(spacing: 0) {
-            navigationHeader
-            versList
+        ZStack {
+            VStack(spacing: 0) {
+                navigationHeader
+                versList
+            }
+            .isLoading($vm.isLoading)
+            .showError(isPresented: $vm.isError, error: vm.error, guidance: "A szerver nem, vagy hibásan működik. Érdemes újra próbálkozni, vagy újraindítani a keresést.")
         }
     }
     
@@ -23,25 +27,37 @@ struct ChapterView: View {
     var versList: some View {
         List {
             chapterHeader
-            ForEach(chapter.verses) { vers in
-                VStack {
-                    Text("\(vers.versIndex)  ")
-                        .foregroundColor(.darkGreen)
-                        .fontWeight(.heavy) +
-                    Text(vers.text.html)
-                        .fontWeight(.light)
-                }
-                .lineSpacing(4)
+            if chapter.verses.isEmpty {
+                versRow(index: 1, text: "????????? ???????? ??????? ??????? ???????? ??")
+                versRow(index: 2, text: "????????? ???????? ??????? ??????? ???????? ???????? ???????? ????")
+                versRow(index: 3, text: "????????? ???????? ??????? ??????? ???????? ???????? ????? ???? ????????????????????????????????????????????")
+                versRow(index: 4, text: "????????? ???????? ??????? ??????? ???????? ????????")
                 
+            } else {
+                ForEach(chapter.verses) { vers in
+                    versRow(index: vers.versIndex, text: vers.text)
+                }
             }
         }
         .listStyle(.plain)
     }
     
     @ViewBuilder
+    func versRow(index: Int, text: String) -> some View {
+        VStack {
+            Text("\(index)  ")
+                .foregroundColor(.darkGreen)
+                .fontWeight(.heavy) +
+            Text(text.html)
+                .fontWeight(.light)
+        }
+        .lineSpacing(4)
+    }
+    
+    @ViewBuilder
     var chapterHeader: some View {
         VStack(alignment: .leading) {
-            Text(chapter.book.name)
+            Text(chapter.book.name.isEmpty ? "????? ?????" : chapter.book.name)
                 .font(.system(.largeTitle, design: .default, weight: .bold))
             Text("\(chapter.current). fejezet")
                 .font(.system(.title3, design: .serif, weight: .light))
@@ -55,7 +71,7 @@ struct ChapterView: View {
         HStack {
             Spacer()
             Button(action: {}) {
-                Text(chapter.book.abbrev)
+                Text(chapter.book.abbrev.isEmpty ? "???" : chapter.book.abbrev)
                     .font(.headline)
                     .foregroundColor(.darkGreen)
             }
@@ -67,7 +83,7 @@ struct ChapterView: View {
             }
             .buttonStyle(.bordered)
             Button(action: {}) {
-                Text(chapter.translationAbbrev)
+                Text(chapter.translationAbbrev.isEmpty ? "???" : chapter.translationAbbrev)
                     .font(.headline)
                     .foregroundColor(.darkGreen)
             }
@@ -88,7 +104,27 @@ struct ChapterView_Previews: PreviewProvider {
         vm.chapter = try! Util.getSZIResponse(filename: "sample2").chapter
         return vm
     }
+    
+    static var emptyVm: ChapterViewModel {
+        let vm = ChapterViewModel()
+        vm.isError = true
+        vm.error = APIError(statusCode: 0)
+        return vm
+    }
+    
+    static var loadingVm: ChapterViewModel {
+        let vm = ChapterViewModel()
+        vm.isLoading = true
+        return vm
+    }
     static var previews: some View {
-        ChapterView(vm: successVm)
+        Group {
+            ChapterView(vm: successVm)
+                .previewDisplayName("Success")
+            ChapterView(vm: emptyVm)
+                .previewDisplayName("Error")
+            ChapterView(vm: loadingVm)
+                .previewDisplayName("Loading")
+        }
     }
 }

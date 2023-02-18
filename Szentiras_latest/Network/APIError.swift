@@ -18,6 +18,8 @@ public struct APIError: Error, Equatable {
     
     var networkError: NetworkError {
         switch statusCode {
+        case 0:
+            return .emptyChapter
         case 400:
             return .badInput(error: self)
         case 404:
@@ -51,6 +53,8 @@ public enum NetworkError: LocalizedError, Equatable {
     case invalidHost
     case badResponse
     
+    case emptyChapter
+    
     public var errorDescription: String? {
         switch self {
         case .authError(let error):
@@ -73,6 +77,8 @@ public enum NetworkError: LocalizedError, Equatable {
             return "Invaild Host"
         case .badResponse:
             return "Bad response"
+        case .emptyChapter:
+            return "Szerver probléma"
         }
     }
 }

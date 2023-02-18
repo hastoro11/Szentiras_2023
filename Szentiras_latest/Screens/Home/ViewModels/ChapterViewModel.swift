@@ -9,5 +9,8 @@ import SwiftUI
 
 class ChapterViewModel: ObservableObject {
     @Published var chapter: Chapter = .default
+    @Published var isError: Bool = false
+    @Published var error: APIError?
+    @Published var isLoading: Bool = false
     
 }
