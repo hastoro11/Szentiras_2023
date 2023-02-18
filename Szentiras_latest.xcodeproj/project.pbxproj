@@ -50,6 +50,8 @@
 		21F81A7729A0CA980020A7A4 /* LoggerKit in Frameworks */ = {isa = PBXBuildFile; productRef = 21F81A7629A0CA980020A7A4 /* LoggerKit */; };
 		21F81A7929A0EF680020A7A4 /* AppState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A7829A0EF680020A7A4 /* AppState.swift */; };
 		21F81A7B29A0F57B0020A7A4 /* NavigationModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A7A29A0F57B0020A7A4 /* NavigationModels.swift */; };
+		21F81A7D29A1098A0020A7A4 /* TranslationList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A7C29A1098A0020A7A4 /* TranslationList.swift */; };
+		21F81A7F29A10C500020A7A4 /* MockService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A7E29A10C500020A7A4 /* MockService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -100,6 +102,8 @@
 		21F81A6629A0C7180020A7A4 /* Szentiras_Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Szentiras_Tests.swift; sourceTree = "<group>"; };
 		21F81A7829A0EF680020A7A4 /* AppState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppState.swift; sourceTree = "<group>"; };
 		21F81A7A29A0F57B0020A7A4 /* NavigationModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationModels.swift; sourceTree = "<group>"; };
+		21F81A7C29A1098A0020A7A4 /* TranslationList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranslationList.swift; sourceTree = "<group>"; };
+		21F81A7E29A10C500020A7A4 /* MockService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -227,6 +231,7 @@
 				21F81A3E299E90990020A7A4 /* BookList.swift */,
 				21F81A44299E94F50020A7A4 /* ChapterNumberList.swift */,
 				21F81A48299FDAA90020A7A4 /* ChapterView.swift */,
+				21F81A7C29A1098A0020A7A4 /* TranslationList.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -237,6 +242,7 @@
 				21F81A4A299FDAD80020A7A4 /* Util.swift */,
 				21F81A5C29A0C0EF0020A7A4 /* Endpoints.swift */,
 				21F81A5E29A0C28E0020A7A4 /* NetworkService.swift */,
+				21F81A7E29A10C500020A7A4 /* MockService.swift */,
 			);
 			path = API;
 			sourceTree = "<group>";
@@ -388,6 +394,7 @@
 			files = (
 				21F81A5729A0C0810020A7A4 /* Resource.swift in Sources */,
 				21F81A3F299E90990020A7A4 /* BookList.swift in Sources */,
+				21F81A7F29A10C500020A7A4 /* MockService.swift in Sources */,
 				21F81A3D299E90690020A7A4 /* Extensions.swift in Sources */,
 				21F81A7929A0EF680020A7A4 /* AppState.swift in Sources */,
 				21F81A5B29A0C09F0020A7A4 /* ErrorWrapper.swift in Sources */,
@@ -397,6 +404,7 @@
 				21F81A50299FE08C0020A7A4 /* ChapterViewModel.swift in Sources */,
 				21F81A47299E977E0020A7A4 /* ButtonText.swift in Sources */,
 				21F81A24299E8FE00020A7A4 /* SzentirasApp.swift in Sources */,
+				21F81A7D29A1098A0020A7A4 /* TranslationList.swift in Sources */,
 				21F81A4B299FDAD80020A7A4 /* Util.swift in Sources */,
 				21F81A31299E901D0020A7A4 /* Book.swift in Sources */,
 				21F81A5529A0C0730020A7A4 /* Networkable.swift in Sources */,

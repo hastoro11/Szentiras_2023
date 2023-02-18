@@ -11,6 +11,7 @@ struct ChapterView: View {
     @EnvironmentObject var appState: AppState
     @StateObject var vm: ChapterViewModel = ChapterViewModel()
     @Binding var path: NavigationPath
+    @State var showTranslations: Bool = false
     var chapter: Chapter {
         vm.chapter
     }
@@ -20,6 +21,11 @@ struct ChapterView: View {
                 navigationHeader
                 versList
             }
+            .onChange(of: appState.translation, perform: { _ in
+                Task {
+                    await vm.fetchChapter(translation: appState.translation, book: appState.book, chapter: appState.chapter)
+                }
+            })
             .navigationBarBackButtonHidden(true)
             .isLoading($vm.isLoading)
             .showError(isPresented: $vm.isError, error: vm.error, guidance: "A szerver nem, vagy hibásan működik. Érdemes újra próbálkozni, vagy újraindítani a keresést.", backAction: {
@@ -31,6 +37,9 @@ struct ChapterView: View {
             })
             .task {
                 await vm.fetchChapter(translation: appState.translation, book: appState.book, chapter: appState.chapter)
+            }
+            .sheet(isPresented: $showTranslations) {
+                TranslationList()
             }
         }
     }
@@ -98,7 +107,9 @@ struct ChapterView: View {
                     .foregroundColor(.darkGreen)
             }
             .buttonStyle(.bordered)
-            Button(action: {}) {
+            Button(action: {
+                showTranslations.toggle()
+            }) {
                 Text(chapter.translationAbbrev.isEmpty ? "???" : chapter.translationAbbrev)
                     .font(.headline)
                     .foregroundColor(.darkGreen)
@@ -116,21 +127,28 @@ struct ChapterView: View {
 
 struct ChapterView_Previews: PreviewProvider {
     static var successVm: ChapterViewModel {
-        let vm = ChapterViewModel()
-        vm.chapter = try! Util.getSZIResponse(filename: "sample2").chapter
+        let vm = ChapterViewModel(service: MockService(stub: {
+            return try! Util.getSZIResponse(filename: "sample2")
+        }))
+        
         return vm
     }
     
     static var emptyVm: ChapterViewModel {
-        let vm = ChapterViewModel()
-        vm.isError = true
-        vm.error = APIError(statusCode: 0)
+        let vm = ChapterViewModel(service: MockService(stub: {
+            throw APIError(statusCode: 0)
+        }))
+
         return vm
     }
     
     static var loadingVm: ChapterViewModel {
-        let vm = ChapterViewModel()
-        vm.isLoading = true
+        let vm = ChapterViewModel(service: MockService(stub: {
+            await withCheckedContinuation({ _ in
+                
+            })
+        }))
+        
         return vm
     }
     static var previews: some View {

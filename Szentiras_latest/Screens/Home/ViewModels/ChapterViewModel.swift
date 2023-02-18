@@ -14,25 +14,28 @@ class ChapterViewModel: ObservableObject {
     @Published var error: APIError?
     @Published var isLoading: Bool = false
     
-    var service: NetworkService = NetworkService()
+    private var service: NetworkServicable
+    
+    init(service: NetworkServicable = NetworkService()) {
+        self.service = service
+    }
     
     @MainActor
     func fetchChapter(translation: Translation, book: Book, chapter: Int) async {
         self.isLoading = true
-        defer { self.isLoading = false }
-        Logger.info(translation)
-        Logger.info(book)
-        Logger.info(chapter)
+//        defer { self.isLoading = false }
         do {
             let response = try await service.fetchChapter(translation: translation, book: book, chapter: chapter)
             self.chapter = response.chapter
+            self.isLoading = false
         } catch {
             if let apiError = error as? APIError {
                 self.error = apiError
             } else {
                 self.error = APIError(statusCode: 0)
             }
-            isError = true            
+            isError = true
+            self.isLoading = false
         }
     }
     

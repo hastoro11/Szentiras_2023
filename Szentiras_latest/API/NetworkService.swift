@@ -8,7 +8,11 @@
 import Foundation
 import LoggerKit
 
-class NetworkService {
+protocol NetworkServicable {
+    func fetchChapter(translation: Translation, book: Book, chapter: Int) async throws -> SZIResponse
+}
+
+class NetworkService: NetworkServicable {
     func fetchChapter(translation: Translation, book: Book, chapter: Int) async throws -> SZIResponse {
         let details = "\(book.abbrev)\(chapter)/\(translation.rawValue)"
         let response: SZIResponse = try await NetworkKit.shared.requestCodable(API.chapter(details))

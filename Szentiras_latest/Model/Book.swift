@@ -9,7 +9,11 @@ import Foundation
 
 
 
-enum Translation: String, CaseIterable {
+enum Translation: String, CaseIterable, Identifiable {
+    var id: String {
+        name
+    }
+    
     case SZIT = "SZIT"
     case UF = "UF"
     case KNB = "KNB"
