@@ -10,16 +10,19 @@ import SwiftUI
 struct BookList: View {
     @EnvironmentObject var appState: AppState
     typealias Category = Book.Category
-    var categories: [Category] = Book.getBooksByCategories(by: .RUF)
+    var categories: [Category] {
+        Book.getBooksByCategories(by: appState.translation)
+    }
     @State var path: NavigationPath = NavigationPath()
+    @State var showTranslationList: Bool = false
     var body: some View {
         NavigationStack(path: $path) {
             VStack(spacing: 0) {
-                Header(title: "Könyvek")
+                header
                 List(categories) { cat in
                     Section {
                         ForEach(cat.books) { book in
-                            NavigationLink(value: TranslationBook(translation: Translation.RUF, book: book)) {
+                            NavigationLink(value: TranslationBook(translation: appState.translation, book: book)) {
                                 Text(book.name)
                             }
                         }
@@ -37,27 +40,34 @@ struct BookList: View {
             .navigationDestination(for: TranslationBookChapter.self) { _ in
                 ChapterView(path: $path)
             }
+            .sheet(isPresented: $showTranslationList) {
+                TranslationList()
+            }
         }
     }
-}
-
-extension BookList {    
-    struct Header: View {
-        var title: String
-        var body: some View {
-            VStack {
-                HStack {
-                    Text(title)
+    
+    @ViewBuilder
+    var header: some View {
+        VStack {
+            HStack {
+                Text("Könyvek")
+                    .font(.headline)
+                    .fontWeight(.bold)
+                Spacer()
+                Button(action: {
+                    showTranslationList.toggle()
+                }) {
+                    Text(appState.translation.rawValue)
                         .font(.headline)
-                        .fontWeight(.bold)
-                    Spacer()
+                        .foregroundColor(.darkGreen)
                 }
+                .buttonStyle(.bordered)
             }
-            .padding()
-            .background {
-                Color(.systemGray6)
-                    .edgesIgnoringSafeArea(.top)
-            }
+        }
+        .padding()
+        .background {
+            Color(.systemGray6)
+                .edgesIgnoringSafeArea(.top)
         }
     }
 }

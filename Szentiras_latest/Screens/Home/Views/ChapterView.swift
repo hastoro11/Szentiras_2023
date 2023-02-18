@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import LoggerKit
 
 struct ChapterView: View {
     @EnvironmentObject var appState: AppState
@@ -14,6 +15,13 @@ struct ChapterView: View {
     @State var showTranslations: Bool = false
     var chapter: Chapter {
         vm.chapter
+    }
+    var errorMessage: String {
+        var message = "A szerver nem, vagy hibásan működik. Érdemes újra próbálkozni, vagy újraindítani a keresést."
+        if appState.book.number == "118" && appState.translation == .SZIT {
+            message = "Judit könyvét érdemes a KNB fordításban megnézni, onnan váltani a SZIT fordításra"
+        }
+        return message
     }
     var body: some View {
         ZStack {
@@ -28,9 +36,11 @@ struct ChapterView: View {
             })
             .navigationBarBackButtonHidden(true)
             .isLoading($vm.isLoading)
-            .showError(isPresented: $vm.isError, error: vm.error, guidance: "A szerver nem, vagy hibásan működik. Érdemes újra próbálkozni, vagy újraindítani a keresést.", backAction: {
+            .showError(isPresented: $vm.isError, error: vm.error, guidance: errorMessage, backAction: {
+                Logger.debug("backAction")
                 path = NavigationPath()
             }, againAction: {
+                Logger.debug("againAction")
                 Task {
                     await vm.fetchChapter(translation: appState.translation, book: appState.book, chapter: appState.chapter)
                 }

@@ -548,7 +548,7 @@ extension Book {
             Book(
                 number: "118",
                 name: "Judit könyve",
-                abbrev: "Judit",
+                abbrev: "Jud",
                 noOfChapters: 16),
             Book(
                 number: "119",
@@ -2226,53 +2226,53 @@ extension Book {
         var books: [Book]
     }
     
-        static func getBooksByCategories(by translation: Translation) -> [Category] {
-            let isCatholic = translation.denom == "katolikus"
-            let categories = [
-                Category(
-                    id: 0,
-                    title: "A Törvény könyvei",
-                    books: translation.books.filter({$0.number >= "101" && $0.number <= "105"})
-                ),
-                Category(
-                    id: 1,
-                    title: "Ószövetségi történelmi könyvek",
-                    books: translation.books.filter({$0.number >= "106" && $0.number <= "119"})
-                ),
-                Category(
-                    id: 2,
-                    title: "Költői könyvek",
-                    books: isCatholic ? translation.books.filter({$0.number >= "120" && $0.number <= "125"}) : translation.books.filter({$0.number >= "120" && $0.number <= "124"})
-                ),
-                Category(
-                    id: 3,
-                    title: "Ószövetség prófétai könyvek",
-                    books: translation.books.filter({$0.number >= "126" && $0.number <= (isCatholic ? "146" : "144")})
-                ),
-                Category(
-                    id: 4,
-                    title: "Evangéliumok",
-                    books: translation.books.filter({$0.number >= "201" && $0.number <= "204"})
-                ),
-                Category(
-                    id: 5,
-                    title: "Újszövetség történelmi könyvek",
-                    books: translation.books.filter({$0.number == "205"})
-                ),
-                Category(
-                    id: 6,
-                    title: "Levelek",
-                    books: translation.books.filter({$0.number >= "206" && $0.number <= "226"})
-                ),
-                Category(
-                    id: 7,
-                    title: "Újszövetség prófétai könyvek",
-                    books: translation.books.filter({$0.number == "227"})
-                )
-            ]
-    
-            return categories
-        }
+    static func getBooksByCategories(by translation: Translation) -> [Category] {
+        let isCatholic = translation.denom == "katolikus"
+        let categories = [
+            Category(
+                id: 0,
+                title: "A Törvény könyvei",
+                books: translation.books.filter({$0.number >= "101" && $0.number <= "105"})
+            ),
+            Category(
+                id: 1,
+                title: "Ószövetségi történelmi könyvek",
+                books: translation.books.filter({$0.number >= "106" && $0.number <= "119"})
+            ),
+            Category(
+                id: 2,
+                title: "Költői könyvek",
+                books: isCatholic ? translation.books.filter({$0.number >= "120" && $0.number <= "125"}) : translation.books.filter({$0.number >= "120" && $0.number <= "124"})
+            ),
+            Category(
+                id: 3,
+                title: "Ószövetség prófétai könyvek",
+                books: translation.books.filter({$0.number >= "126" && $0.number <= (isCatholic ? "146" : "144")})
+            ),
+            Category(
+                id: 4,
+                title: "Evangéliumok",
+                books: translation.books.filter({$0.number >= "201" && $0.number <= "204"})
+            ),
+            Category(
+                id: 5,
+                title: "Újszövetség történelmi könyvek",
+                books: translation.books.filter({$0.number == "205"})
+            ),
+            Category(
+                id: 6,
+                title: "Levelek",
+                books: translation.books.filter({$0.number >= "206" && $0.number <= "226"})
+            ),
+            Category(
+                id: 7,
+                title: "Újszövetség prófétai könyvek",
+                books: translation.books.filter({$0.number == "227"})
+            )
+        ]
+        
+        return categories
+    }
     
 }
 
@@ -2285,5 +2285,18 @@ extension Book {
         let translation = Translation.load()
         let number = UserDefaults.standard.string(forKey: UserDefaultsKeys.book.rawValue) ?? "101"
         return translation.books.first(where: {$0.number == number}) ?? translation.books[0]
+    }
+}
+
+
+extension Book {
+    var isCatholic: Bool {
+        return self.number == "117"
+        || self.number == "118"
+        || self.number == "125"
+        || self.number == "126"
+        || self.number == "130"
+        || self.number == "145"
+        || self.number == "146"
     }
 }

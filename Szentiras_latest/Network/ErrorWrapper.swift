@@ -40,11 +40,15 @@ struct ErrorAlertView: View {
                         Spacer()
                         Divider()
                         HStack {
-                            Button("Vissza") {}
+                            Button("Vissza") {
+                                backAction()
+                            }
                                 .frame(width: 150)
                                 .foregroundColor(.darkGreen)
                             Divider()
-                            Button("Újra") {}
+                            Button("Újra") {
+                                againAction()
+                            }
                                 .frame(width: 150)
                                 .foregroundColor(.darkGreen)
                         }

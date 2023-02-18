@@ -6,10 +6,19 @@
 //
 
 import SwiftUI
+import LoggerKit
 
 struct TranslationList: View {
     @EnvironmentObject var appState: AppState
     @Environment(\.dismiss) var dismiss
+    
+    var translations: [Translation] {
+        if appState.translation.denom == "katolikus" && appState.book.isCatholic {
+            return [.SZIT, .KNB]
+        } else {
+            return Translation.allCases
+        }
+    }
     var body: some View {
         VStack(spacing: 0) {
             HStack {
@@ -32,17 +41,17 @@ struct TranslationList: View {
                     .edgesIgnoringSafeArea(.top)
             }
             
-            List(Translation.allCases) { translation in
-                HStack {
-                    ButtonText(translation.rawValue, selected: translation == appState.translation)
-                    Text(translation.name)
-                        .foregroundColor(translation == appState.translation ? .primary : Color(.systemGray2))
-                }
-                .containerShape(Rectangle())
-                .onTapGesture {
-                    appState.translation = translation
-                    dismiss()
-                }
+            List(translations) { translation in
+                    HStack {
+                        ButtonText(translation.rawValue, selected: translation == appState.translation)
+                        Text(translation.name)
+                            .foregroundColor(translation == appState.translation ? .primary : Color(.systemGray2))
+                    }
+                    .containerShape(Rectangle())
+                    .onTapGesture {
+                        appState.translation = translation
+                        dismiss()
+                    }
             }
             .listStyle(.plain)
         }

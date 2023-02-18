@@ -23,11 +23,10 @@ class ChapterViewModel: ObservableObject {
     @MainActor
     func fetchChapter(translation: Translation, book: Book, chapter: Int) async {
         self.isLoading = true
-//        defer { self.isLoading = false }
+        defer { self.isLoading = false }
         do {
             let response = try await service.fetchChapter(translation: translation, book: book, chapter: chapter)
             self.chapter = response.chapter
-            self.isLoading = false
         } catch {
             if let apiError = error as? APIError {
                 self.error = apiError
@@ -35,7 +34,6 @@ class ChapterViewModel: ObservableObject {
                 self.error = APIError(statusCode: 0)
             }
             isError = true
-            self.isLoading = false
         }
     }
     
