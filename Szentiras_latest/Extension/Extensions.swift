@@ -7,11 +7,7 @@
 
 import SwiftUI
 
-enum UserDefaultsKeys: String {
-    case translation = "translation"
-    case book = "book"
-    case currentChapter = "currentChapter"
-}
+
 
 extension Color {
     static var darkGreen: Color {
@@ -27,16 +23,7 @@ extension Color {
     }
 }
 
-extension UserDefaults {
-    
-    func saveCurrentChapter(_ chapter: String) {
-        UserDefaults.standard.set(chapter, forKey: UserDefaultsKeys.currentChapter.rawValue)
-    }
-    
-    func loadCurrentChapter() -> Int {
-        UserDefaults.standard.integer(forKey: UserDefaultsKeys.currentChapter.rawValue) == 0 ? 1 : UserDefaults.standard.integer(forKey: UserDefaultsKeys.currentChapter.rawValue)
-    }
-}
+
 
 extension String {
     var html: String {

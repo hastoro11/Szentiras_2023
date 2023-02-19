@@ -15,7 +15,18 @@ struct ContentView: View {
     var timer = Timer.publish(every: 1, on: .main, in: .default).autoconnect()
     var body: some View {
         ZStack {
-            BookList()
+            TabView {
+                BookList()                    
+                    .tabItem {
+                        Label("Biblia", systemImage: "book")
+                    }
+                SettingView()
+                    .tabItem {
+                        Label("Beálltások", systemImage: "gear")
+                    }
+            }
+            .tint(.darkGreen)
+            
             if showLaunchScreen {
                 LaunchScreen()
                     .zIndex(1)
@@ -37,5 +48,6 @@ struct ContentView: View {
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
+            .environmentObject(AppState())
     }
 }
