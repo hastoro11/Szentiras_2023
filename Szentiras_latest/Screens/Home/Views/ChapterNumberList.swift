@@ -28,7 +28,7 @@ struct ChapterNumberList: View {
                             appState.chapter = index
                             path.append(TranslationBookChapter(translation: appState.translation, book: appState.book, chapter: appState.chapter))
                         }) {
-                            ButtonText("\(index)")
+                            ButtonText("\(index)", selected: appState.chapter == index)
                         }
                     }
                 }
@@ -41,6 +41,7 @@ struct ChapterNumberList: View {
 
 extension ChapterNumberList {
     struct Header: View {
+        @EnvironmentObject var appState: AppState
         @Environment(\.dismiss) var dismiss
         var title: String
         var body: some View {
@@ -51,6 +52,7 @@ extension ChapterNumberList {
                         .fontWeight(.bold)
                     Spacer()
                     Button(action: {
+                        appState.chapter = 0
                         dismiss()
                     }) {
                         Text("Vissza")

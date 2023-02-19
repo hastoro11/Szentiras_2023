@@ -37,10 +37,8 @@ struct ChapterView: View {
             .navigationBarBackButtonHidden(true)
             .isLoading($vm.isLoading)
             .showError(isPresented: $vm.isError, error: vm.error, guidance: errorMessage, backAction: {
-                Logger.debug("backAction")
                 path = NavigationPath()
             }, againAction: {
-                Logger.debug("againAction")
                 Task {
                     await vm.fetchChapter(translation: appState.translation, book: appState.book, chapter: appState.chapter)
                 }
@@ -102,6 +100,7 @@ struct ChapterView: View {
         HStack {
             Spacer()
             Button(action: {
+                appState.chapter = 0
                 path = NavigationPath()
             }) {
                 Text(chapter.book.abbrev.isEmpty ? "???" : chapter.book.abbrev)
