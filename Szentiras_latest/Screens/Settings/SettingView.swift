@@ -32,6 +32,8 @@ struct SettingView: View {
                 }
                 Section {
                     Link("Adavédelmi politika", destination: URL(string: "https://sornyei.hu/szentiras/")!)
+                } header: {
+                    Text("Egyéb")
                 }
                 .tint(.darkGreen)
             }            

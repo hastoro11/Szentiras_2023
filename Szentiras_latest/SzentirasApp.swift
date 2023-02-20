@@ -21,8 +21,6 @@ struct Szentiras_App: App {
             switch scene {
             case .background:
                 if appState.shouldSaveLast {
-                    Logger.info("saving")
-                    Logger.verbose(appState.translation.rawValue, appState.book.abbrev, appState.chapter)
                     UserDefaults.standard.saveTranslation(appState.translation)
                     UserDefaults.standard.saveBook(appState.book)
                     UserDefaults.standard.saveChapter(appState.chapter)
