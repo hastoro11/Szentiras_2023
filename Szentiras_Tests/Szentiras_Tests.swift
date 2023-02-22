@@ -85,4 +85,9 @@ final class Szentiras_Tests: XCTestCase {
             }
         }
     }
+    
+    func testUtil() {
+        let search = try! Util.getSZISearch(filename: "result_sample")
+        XCTAssertEqual(search.fullTextResult.hitCount, 178)
+    }
 }

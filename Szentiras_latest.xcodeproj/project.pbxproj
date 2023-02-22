@@ -9,6 +9,17 @@
 /* Begin PBXBuildFile section */
 		2137D15629A28E8900DE7F74 /* UserDefaults+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2137D15529A28E8900DE7F74 /* UserDefaults+Extension.swift */; };
 		2137D15929A2903B00DE7F74 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2137D15829A2903B00DE7F74 /* SettingView.swift */; };
+		2137D15C29A553A900DE7F74 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2137D15B29A553A900DE7F74 /* SearchView.swift */; };
+		2137D15E29A5549000DE7F74 /* SearchField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2137D15D29A5549000DE7F74 /* SearchField.swift */; };
+		2137D16029A555A300DE7F74 /* FilterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2137D15F29A555A300DE7F74 /* FilterView.swift */; };
+		2137D16229A6712100DE7F74 /* result_sample.json in Resources */ = {isa = PBXBuildFile; fileRef = 2137D16129A6712100DE7F74 /* result_sample.json */; };
+		2137D16429A6713C00DE7F74 /* SZISearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2137D16329A6713C00DE7F74 /* SZISearch.swift */; };
+		2137D16529A672B600DE7F74 /* SZISearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2137D16329A6713C00DE7F74 /* SZISearch.swift */; };
+		2137D16629A672B900DE7F74 /* Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A4A299FDAD80020A7A4 /* Util.swift */; };
+		2137D16729A672E900DE7F74 /* result_sample.json in Resources */ = {isa = PBXBuildFile; fileRef = 2137D16129A6712100DE7F74 /* result_sample.json */; };
+		2137D16829A6736C00DE7F74 /* ErrorWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A5929A0C09F0020A7A4 /* ErrorWrapper.swift */; };
+		2137D16929A673AF00DE7F74 /* UserDefaults+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2137D15529A28E8900DE7F74 /* UserDefaults+Extension.swift */; };
+		2137D16C29A6748C00DE7F74 /* SearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2137D16B29A6748C00DE7F74 /* SearchViewModel.swift */; };
 		21F81A0E299E8E590020A7A4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A0D299E8E590020A7A4 /* ContentView.swift */; };
 		21F81A10299E8E5A0020A7A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A0F299E8E5A0020A7A4 /* Assets.xcassets */; };
 		21F81A14299E8E5A0020A7A4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A13299E8E5A0020A7A4 /* Preview Assets.xcassets */; };
@@ -71,6 +82,12 @@
 /* Begin PBXFileReference section */
 		2137D15529A28E8900DE7F74 /* UserDefaults+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UserDefaults+Extension.swift"; sourceTree = "<group>"; };
 		2137D15829A2903B00DE7F74 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
+		2137D15B29A553A900DE7F74 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		2137D15D29A5549000DE7F74 /* SearchField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchField.swift; sourceTree = "<group>"; };
+		2137D15F29A555A300DE7F74 /* FilterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterView.swift; sourceTree = "<group>"; };
+		2137D16129A6712100DE7F74 /* result_sample.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = result_sample.json; sourceTree = "<group>"; };
+		2137D16329A6713C00DE7F74 /* SZISearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SZISearch.swift; sourceTree = "<group>"; };
+		2137D16B29A6748C00DE7F74 /* SearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewModel.swift; sourceTree = "<group>"; };
 		21F81A08299E8E590020A7A4 /* Szentiras_latest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Szentiras_latest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21F81A0D299E8E590020A7A4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		21F81A0F299E8E5A0020A7A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -142,6 +159,25 @@
 			path = Settings;
 			sourceTree = "<group>";
 		};
+		2137D15A29A5535D00DE7F74 /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				2137D16A29A6748200DE7F74 /* ViewModel */,
+				2137D15B29A553A900DE7F74 /* SearchView.swift */,
+				2137D15D29A5549000DE7F74 /* SearchField.swift */,
+				2137D15F29A555A300DE7F74 /* FilterView.swift */,
+			);
+			path = Search;
+			sourceTree = "<group>";
+		};
+		2137D16A29A6748200DE7F74 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				2137D16B29A6748C00DE7F74 /* SearchViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
 		21F819FF299E8E590020A7A4 = {
 			isa = PBXGroup;
 			children = (
@@ -189,6 +225,7 @@
 				21F81A1B299E8F950020A7A4 /* sample2.json */,
 				21F81A1C299E8F950020A7A4 /* sample3.json */,
 				21F81A1D299E8F950020A7A4 /* sample4.json */,
+				2137D16129A6712100DE7F74 /* result_sample.json */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -196,6 +233,7 @@
 		21F81A22299E8FA70020A7A4 /* Screens */ = {
 			isa = PBXGroup;
 			children = (
+				2137D15A29A5535D00DE7F74 /* Search */,
 				21F81A46299E977E0020A7A4 /* ButtonText.swift */,
 				2137D15729A2902E00DE7F74 /* Settings */,
 				21F81A42299E90AB0020A7A4 /* Home */,
@@ -210,6 +248,7 @@
 				21F81A26299E901D0020A7A4 /* Book.swift */,
 				21F81A30299E901D0020A7A4 /* SZIResponse.swift */,
 				21F81A7A29A0F57B0020A7A4 /* NavigationModels.swift */,
+				2137D16329A6713C00DE7F74 /* SZISearch.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -393,6 +432,7 @@
 				21F81A39299E901D0020A7A4 /* Énekek7.json in Resources */,
 				21F81A32299E901D0020A7A4 /* Énekek8.json in Resources */,
 				21F81A35299E901D0020A7A4 /* Énekek2.json in Resources */,
+				2137D16229A6712100DE7F74 /* result_sample.json in Resources */,
 				21F81A36299E901D0020A7A4 /* Énekek3.json in Resources */,
 				21F81A34299E901D0020A7A4 /* Énekek5.json in Resources */,
 				21F81A33299E901D0020A7A4 /* Énekek4.json in Resources */,
@@ -405,6 +445,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2137D16729A672E900DE7F74 /* result_sample.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -417,6 +458,7 @@
 			files = (
 				21F81A5729A0C0810020A7A4 /* Resource.swift in Sources */,
 				21F81A3F299E90990020A7A4 /* BookList.swift in Sources */,
+				2137D16429A6713C00DE7F74 /* SZISearch.swift in Sources */,
 				21F81A8629A11AC30020A7A4 /* LaunchScreen.swift in Sources */,
 				21F81A7F29A10C500020A7A4 /* MockService.swift in Sources */,
 				21F81A3D299E90690020A7A4 /* Extensions.swift in Sources */,
@@ -425,15 +467,19 @@
 				21F81A49299FDAA90020A7A4 /* ChapterView.swift in Sources */,
 				21F81A0E299E8E590020A7A4 /* ContentView.swift in Sources */,
 				21F81A3A299E901D0020A7A4 /* SZIResponse.swift in Sources */,
+				2137D15E29A5549000DE7F74 /* SearchField.swift in Sources */,
 				21F81A50299FE08C0020A7A4 /* ChapterViewModel.swift in Sources */,
 				21F81A47299E977E0020A7A4 /* ButtonText.swift in Sources */,
 				21F81A24299E8FE00020A7A4 /* SzentirasApp.swift in Sources */,
 				21F81A7D29A1098A0020A7A4 /* TranslationList.swift in Sources */,
 				21F81A4B299FDAD80020A7A4 /* Util.swift in Sources */,
+				2137D15C29A553A900DE7F74 /* SearchView.swift in Sources */,
+				2137D16C29A6748C00DE7F74 /* SearchViewModel.swift in Sources */,
 				2137D15629A28E8900DE7F74 /* UserDefaults+Extension.swift in Sources */,
 				21F81A31299E901D0020A7A4 /* Book.swift in Sources */,
 				21F81A5529A0C0730020A7A4 /* Networkable.swift in Sources */,
 				21F81A45299E94F50020A7A4 /* ChapterNumberList.swift in Sources */,
+				2137D16029A555A300DE7F74 /* FilterView.swift in Sources */,
 				21F81A5D29A0C0EF0020A7A4 /* Endpoints.swift in Sources */,
 				21F81A5F29A0C28E0020A7A4 /* NetworkService.swift in Sources */,
 				2137D15929A2903B00DE7F74 /* SettingView.swift in Sources */,
@@ -446,6 +492,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2137D16829A6736C00DE7F74 /* ErrorWrapper.swift in Sources */,
+				2137D16629A672B900DE7F74 /* Util.swift in Sources */,
 				21F81A7329A0C8680020A7A4 /* Book.swift in Sources */,
 				21F81A7429A0C8A90020A7A4 /* Extensions.swift in Sources */,
 				21F81A6E29A0C7D80020A7A4 /* Resource.swift in Sources */,
@@ -453,7 +501,9 @@
 				21F81A6F29A0C7DB0020A7A4 /* Networkable.swift in Sources */,
 				21F81A7229A0C8650020A7A4 /* SZIResponse.swift in Sources */,
 				21F81A6D29A0C7CF0020A7A4 /* APIError.swift in Sources */,
+				2137D16929A673AF00DE7F74 /* UserDefaults+Extension.swift in Sources */,
 				21F81A7129A0C7E00020A7A4 /* NetworkService.swift in Sources */,
+				2137D16529A672B600DE7F74 /* SZISearch.swift in Sources */,
 				21F81A7029A0C7DD0020A7A4 /* Endpoints.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

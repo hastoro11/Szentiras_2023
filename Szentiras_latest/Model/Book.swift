@@ -7,8 +7,6 @@
 
 import Foundation
 
-
-
 enum Translation: String, CaseIterable, Identifiable {
     var id: String {
         name

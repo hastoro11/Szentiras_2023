@@ -20,6 +20,10 @@ struct ContentView: View {
                     .tabItem {
                         Label("Biblia", systemImage: "book")
                     }
+                SearchView()
+                    .tabItem {
+                        Label("Keresés", systemImage: "magnifyingglass")
+                    }
                 SettingView()
                     .tabItem {
                         Label("Beálltások", systemImage: "gear")
