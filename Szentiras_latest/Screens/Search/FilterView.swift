@@ -13,9 +13,9 @@ struct SearchFilter: Equatable {
         case oldTestament = "Ószövetség"
         case newTestament = "Újszövetség"
     }
-    var book: Int = 0
+    var book: String = ""
     var testament: Testament = .none
-    var translation: Int = 0
+    var translation: String = ""
 }
 
 struct FilterView: View {
@@ -28,11 +28,12 @@ struct FilterView: View {
             HStack {
                 Spacer()
                 Text("\(count) találat")
+                    .font(.headline)
             }
             Picker(selection: $searchFilter.translation) {
-                Text("Mind").tag(0)
+                Text("Mind").tag("")
                 ForEach(Translation.allCases) { tr in
-                    Text(tr.rawValue).tag(tr.id)
+                    Text(tr.rawValue).tag(tr.rawValue)
                 }
                 
             } label: {
@@ -48,27 +49,31 @@ struct FilterView: View {
             
             HStack {
                 Text("Könyvek")
-                    
-                Spacer()
+                    .font(.headline)
+                
                 Picker("", selection: $searchFilter.book) {
                     Text("Mind")
-                        .tag(0)
+                        .tag("")
                     ForEach(Book.combined) { book in
                         Text(book.name)
+                            .font(.subheadline)
                             .tag(book.number)
-                        
+                            
                     }
                 }
-                .pickerStyle(MenuPickerStyle.menu)
-            }
-            .padding(.bottom)
+                .pickerStyle(MenuPickerStyle())
+                .frame(maxWidth: .infinity, alignment: .trailing)
+            }            
         }
         .tint(.darkGreen)
     }
 }
 
-struct Fe_lterView_Previews: PreviewProvider {
+struct FilterView_Previews: PreviewProvider {
     static var previews: some View {
+        
         FilterView(count: 0, showFilterView: .constant(true), searchFilter: .constant(SearchFilter()))
+            .padding()
+            .previewLayout(.sizeThatFits)
     }
 }

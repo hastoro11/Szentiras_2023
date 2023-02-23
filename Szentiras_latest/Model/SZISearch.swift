@@ -9,7 +9,14 @@ import Foundation
 
 // MARK: - SZISearch
 struct SZISearch: Codable {
-    let fullTextResult: FullTextResult
+    let fullTextResult: FullTextResult?
+}
+
+extension SZISearch {
+    static var `default`: SZISearch {
+        SZISearch(
+            fullTextResult: FullTextResult(results: [], hitCount: 0))
+    }
 }
 
 // MARK: - FullTextResult
@@ -40,7 +47,7 @@ extension FullTextResult {
             }
             verses += vers
         }
-        return verses.filter({!$0.text.isEmpty})
+        return verses.filter({!$0.text.isEmpty && ["RUF", "UF", "SZIT", "KNB", "KG"].contains($0.translationAbbrev)})
     }
     
     struct Vers: Codable, Identifiable {

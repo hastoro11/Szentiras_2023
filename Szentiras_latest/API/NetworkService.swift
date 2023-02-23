@@ -10,6 +10,7 @@ import LoggerKit
 
 protocol NetworkServicable {
     func fetchChapter(translation: Translation, book: Book, chapter: Int) async throws -> SZIResponse
+    func fetchSearch(search: String) async throws ->SZISearch
 }
 
 class NetworkService: NetworkServicable {
@@ -20,5 +21,10 @@ class NetworkService: NetworkServicable {
             throw APIError(statusCode: 0)
         }
         return response
+    }
+    
+    func fetchSearch(search: String) async throws -> SZISearch {
+        let sziSearch: SZISearch = try await NetworkKit.shared.requestCodable(API.search(search))
+        return sziSearch
     }
 }

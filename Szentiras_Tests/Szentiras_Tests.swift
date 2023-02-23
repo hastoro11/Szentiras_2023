@@ -88,6 +88,37 @@ final class Szentiras_Tests: XCTestCase {
     
     func testUtil() {
         let search = try! Util.getSZISearch(filename: "result_sample")
-        XCTAssertEqual(search.fullTextResult.hitCount, 178)
+        XCTAssertNotNil(search.fullTextResult)
+        XCTAssertEqual(search.fullTextResult!.hitCount, 178)
+        let verses = search.fullTextResult!.verses.filter({!$0.text.isEmpty})
+        XCTAssertEqual(verses.count, 213)
+    }
+    
+    func testSearchForSuccess() async throws {
+        let phrase = "öszvér"
+        let search: SZISearch = try await NetworkKit.shared.requestCodable(API.search(phrase))
+        XCTAssertNotNil(search.fullTextResult)
+        let _ = try XCTUnwrap(search.fullTextResult)
+        XCTAssertEqual(search.fullTextResult!.results[0].book.number, 110)
+        XCTAssertEqual(search.fullTextResult!.hitCount, 71)
+        
+    }
+    
+    func testSearchForNoHit() async throws {
+        let phrase = "élkélkélk"
+        let search: SZISearch = try await NetworkKit.shared.requestCodable(API.search(phrase))
+        XCTAssertNil(search.fullTextResult)
+    }
+    
+    func testSearchForFail() async {
+        let phrase = "//"
+        
+        do {
+            let _: SZISearch = try await NetworkKit.shared.requestCodable(API.search(phrase))
+            XCTFail("It's supposed to fail")
+        } catch {
+            Logger.info(error)
+            XCTAssertNotNil(error)
+        }
     }
 }

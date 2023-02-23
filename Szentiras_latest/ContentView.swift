@@ -26,7 +26,7 @@ struct ContentView: View {
                     }
                 SettingView()
                     .tabItem {
-                        Label("Beálltások", systemImage: "gear")
+                        Label("Beállítások", systemImage: "gear")
                     }
             }
             .tint(.darkGreen)

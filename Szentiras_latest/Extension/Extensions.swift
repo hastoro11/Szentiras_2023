@@ -15,7 +15,7 @@ extension Color {
     static var bgGray: Color {
         Color("bgGray")
     }
-
+    
     static var textGray: Color {
         Color("textGray")
     }

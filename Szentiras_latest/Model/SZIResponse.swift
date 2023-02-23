@@ -19,6 +19,14 @@ struct SZIResponse: Decodable {
     }
 }
 
+extension SZIResponse {
+    static var `default`: SZIResponse {
+        SZIResponse(
+            keres: Keres(feladat: "", hivatkozas: "", forma: ""),
+            chapter: Chapter(verses: [], book: Book.default, current: 0, translationAbbrev: "", translationName: ""))
+    }
+}
+
 // MARK: - Keres
 struct Keres: Codable {
     let feladat, hivatkozas, forma: String

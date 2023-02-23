@@ -9,6 +9,7 @@ import Foundation
 
 enum API {
     case chapter(String)
+    case search(String)
 }
 
 extension API: Resource {
@@ -20,6 +21,8 @@ extension API: Resource {
         switch self {
         case .chapter(let details):
             return "/api/idezet/\(details)"
+        case .search(let search):
+            return "/api/search/\(search)"
         }
     }
 }
