@@ -70,7 +70,6 @@
 		21F81A7D29A1098A0020A7A4 /* TranslationList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A7C29A1098A0020A7A4 /* TranslationList.swift */; };
 		21F81A7F29A10C500020A7A4 /* MockService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A7E29A10C500020A7A4 /* MockService.swift */; };
 		21F81A8629A11AC30020A7A4 /* LaunchScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A8529A11AC30020A7A4 /* LaunchScreen.swift */; };
-		21F81A8829A123BC0020A7A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A8729A123BC0020A7A4 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -136,7 +135,6 @@
 		21F81A7C29A1098A0020A7A4 /* TranslationList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranslationList.swift; sourceTree = "<group>"; };
 		21F81A7E29A10C500020A7A4 /* MockService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockService.swift; sourceTree = "<group>"; };
 		21F81A8529A11AC30020A7A4 /* LaunchScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchScreen.swift; sourceTree = "<group>"; };
-		21F81A8729A123BC0020A7A4 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		21F81A8929A123D90020A7A4 /* Szentiras-latest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Szentiras-latest-Info.plist"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
@@ -228,7 +226,6 @@
 				21F81A0D299E8E590020A7A4 /* ContentView.swift */,
 				21F81A7829A0EF680020A7A4 /* AppState.swift */,
 				21F81A23299E8FE00020A7A4 /* SzentirasApp.swift */,
-				21F81A8729A123BC0020A7A4 /* LaunchScreen.storyboard */,
 				21F81A8529A11AC30020A7A4 /* LaunchScreen.swift */,
 				21F81A0F299E8E5A0020A7A4 /* Assets.xcassets */,
 				21F81A11299E8E5A0020A7A4 /* Szentiras_latest.entitlements */,
@@ -445,7 +442,6 @@
 				21F81A1F299E8F950020A7A4 /* sample2.json in Resources */,
 				21F81A20299E8F950020A7A4 /* sample3.json in Resources */,
 				21F81A37299E901D0020A7A4 /* Énekek1.json in Resources */,
-				21F81A8829A123BC0020A7A4 /* LaunchScreen.storyboard in Resources */,
 				21F81A21299E8F950020A7A4 /* sample4.json in Resources */,
 				21F81A38299E901D0020A7A4 /* Énekek6.json in Resources */,
 				21F81A14299E8E5A0020A7A4 /* Preview Assets.xcassets in Resources */,
