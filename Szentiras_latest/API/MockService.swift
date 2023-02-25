@@ -23,6 +23,10 @@ searchStub: @escaping () async throws -> SZISearch = { return SZISearch.default}
         try await stub()
     }
     
+    func fetchChapter(details: String) async throws -> SZIResponse {
+        try await stub()
+    }
+    
     func fetchSearch(search: String) async throws -> SZISearch {
         try await searchStub()
     }

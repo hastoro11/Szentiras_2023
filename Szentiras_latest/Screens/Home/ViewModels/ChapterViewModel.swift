@@ -37,4 +37,21 @@ class ChapterViewModel: ObservableObject {
         }
     }
     
+    @MainActor
+    func fetchChapter(details: String) async {
+        self.isLoading = true
+        defer { self.isLoading = false }
+        do {
+            let response = try await service.fetchChapter(details: details)
+            self.chapter = response.chapter
+        } catch {
+            if let apiError = error as? APIError {
+                self.error = apiError
+            } else {
+                self.error = APIError(statusCode: 0)
+            }
+            isError = true
+        }
+    }
+    
 }

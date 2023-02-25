@@ -37,6 +37,6 @@ class SearchViewModel: ObservableObject {
                 self.error = APIError.init(statusCode: 0)
             }
         }
-    }
+    }    
 }
 

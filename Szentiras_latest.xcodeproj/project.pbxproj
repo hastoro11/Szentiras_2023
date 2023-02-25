@@ -178,6 +178,14 @@
 			path = ViewModel;
 			sourceTree = "<group>";
 		};
+		2137D18729AA85B300DE7F74 /* Common Views */ = {
+			isa = PBXGroup;
+			children = (
+				21F81A46299E977E0020A7A4 /* ButtonText.swift */,
+			);
+			path = "Common Views";
+			sourceTree = "<group>";
+		};
 		21F819FF299E8E590020A7A4 = {
 			isa = PBXGroup;
 			children = (
@@ -233,8 +241,8 @@
 		21F81A22299E8FA70020A7A4 /* Screens */ = {
 			isa = PBXGroup;
 			children = (
+				2137D18729AA85B300DE7F74 /* Common Views */,
 				2137D15A29A5535D00DE7F74 /* Search */,
-				21F81A46299E977E0020A7A4 /* ButtonText.swift */,
 				2137D15729A2902E00DE7F74 /* Settings */,
 				21F81A42299E90AB0020A7A4 /* Home */,
 			);

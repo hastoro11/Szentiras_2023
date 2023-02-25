@@ -66,6 +66,10 @@ extension FullTextResult {
             "\(bookNumber)/\(chapter)/\(numv)/\(translationID)"
         }
         
+        var reference: String {
+            "\(bookAbbrev)\(chapter)/\(translationAbbrev)"
+        }
+        
         static var `default`: Vers {
             Vers(bookNumber: "101", bookAbbrev: "1Móz", translationID: 6, translationAbbrev: "RUF", chapter: 1, numv: 1, text: "")
         }
