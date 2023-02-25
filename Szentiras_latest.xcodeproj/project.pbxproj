@@ -20,6 +20,10 @@
 		2137D16829A6736C00DE7F74 /* ErrorWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A5929A0C09F0020A7A4 /* ErrorWrapper.swift */; };
 		2137D16929A673AF00DE7F74 /* UserDefaults+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2137D15529A28E8900DE7F74 /* UserDefaults+Extension.swift */; };
 		2137D16C29A6748C00DE7F74 /* SearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2137D16B29A6748C00DE7F74 /* SearchViewModel.swift */; };
+		2137D18929AA860800DE7F74 /* VersRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2137D18829AA860800DE7F74 /* VersRow.swift */; };
+		2137D18B29AA879700DE7F74 /* ChapterHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2137D18A29AA879700DE7F74 /* ChapterHeader.swift */; };
+		2137D18D29AA889300DE7F74 /* SearchHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2137D18C29AA889300DE7F74 /* SearchHeader.swift */; };
+		2137D18F29AA893C00DE7F74 /* SearchContext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2137D18E29AA893C00DE7F74 /* SearchContext.swift */; };
 		21F81A0E299E8E590020A7A4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A0D299E8E590020A7A4 /* ContentView.swift */; };
 		21F81A10299E8E5A0020A7A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A0F299E8E5A0020A7A4 /* Assets.xcassets */; };
 		21F81A14299E8E5A0020A7A4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A13299E8E5A0020A7A4 /* Preview Assets.xcassets */; };
@@ -88,6 +92,10 @@
 		2137D16129A6712100DE7F74 /* result_sample.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = result_sample.json; sourceTree = "<group>"; };
 		2137D16329A6713C00DE7F74 /* SZISearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SZISearch.swift; sourceTree = "<group>"; };
 		2137D16B29A6748C00DE7F74 /* SearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewModel.swift; sourceTree = "<group>"; };
+		2137D18829AA860800DE7F74 /* VersRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VersRow.swift; sourceTree = "<group>"; };
+		2137D18A29AA879700DE7F74 /* ChapterHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterHeader.swift; sourceTree = "<group>"; };
+		2137D18C29AA889300DE7F74 /* SearchHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchHeader.swift; sourceTree = "<group>"; };
+		2137D18E29AA893C00DE7F74 /* SearchContext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchContext.swift; sourceTree = "<group>"; };
 		21F81A08299E8E590020A7A4 /* Szentiras_latest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Szentiras_latest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21F81A0D299E8E590020A7A4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		21F81A0F299E8E5A0020A7A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -164,6 +172,8 @@
 			children = (
 				2137D16A29A6748200DE7F74 /* ViewModel */,
 				2137D15B29A553A900DE7F74 /* SearchView.swift */,
+				2137D18E29AA893C00DE7F74 /* SearchContext.swift */,
+				2137D18C29AA889300DE7F74 /* SearchHeader.swift */,
 				2137D15D29A5549000DE7F74 /* SearchField.swift */,
 				2137D15F29A555A300DE7F74 /* FilterView.swift */,
 			);
@@ -182,6 +192,8 @@
 			isa = PBXGroup;
 			children = (
 				21F81A46299E977E0020A7A4 /* ButtonText.swift */,
+				2137D18829AA860800DE7F74 /* VersRow.swift */,
+				2137D18A29AA879700DE7F74 /* ChapterHeader.swift */,
 			);
 			path = "Common Views";
 			sourceTree = "<group>";
@@ -476,11 +488,13 @@
 				21F81A0E299E8E590020A7A4 /* ContentView.swift in Sources */,
 				21F81A3A299E901D0020A7A4 /* SZIResponse.swift in Sources */,
 				2137D15E29A5549000DE7F74 /* SearchField.swift in Sources */,
+				2137D18D29AA889300DE7F74 /* SearchHeader.swift in Sources */,
 				21F81A50299FE08C0020A7A4 /* ChapterViewModel.swift in Sources */,
 				21F81A47299E977E0020A7A4 /* ButtonText.swift in Sources */,
 				21F81A24299E8FE00020A7A4 /* SzentirasApp.swift in Sources */,
 				21F81A7D29A1098A0020A7A4 /* TranslationList.swift in Sources */,
 				21F81A4B299FDAD80020A7A4 /* Util.swift in Sources */,
+				2137D18B29AA879700DE7F74 /* ChapterHeader.swift in Sources */,
 				2137D15C29A553A900DE7F74 /* SearchView.swift in Sources */,
 				2137D16C29A6748C00DE7F74 /* SearchViewModel.swift in Sources */,
 				2137D15629A28E8900DE7F74 /* UserDefaults+Extension.swift in Sources */,
@@ -488,10 +502,12 @@
 				21F81A5529A0C0730020A7A4 /* Networkable.swift in Sources */,
 				21F81A45299E94F50020A7A4 /* ChapterNumberList.swift in Sources */,
 				2137D16029A555A300DE7F74 /* FilterView.swift in Sources */,
+				2137D18929AA860800DE7F74 /* VersRow.swift in Sources */,
 				21F81A5D29A0C0EF0020A7A4 /* Endpoints.swift in Sources */,
 				21F81A5F29A0C28E0020A7A4 /* NetworkService.swift in Sources */,
 				2137D15929A2903B00DE7F74 /* SettingView.swift in Sources */,
 				21F81A7B29A0F57B0020A7A4 /* NavigationModels.swift in Sources */,
+				2137D18F29AA893C00DE7F74 /* SearchContext.swift in Sources */,
 				21F81A5A29A0C09F0020A7A4 /* APIError.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
