@@ -95,7 +95,7 @@
 		2137D18A29AA879700DE7F74 /* ChapterHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterHeader.swift; sourceTree = "<group>"; };
 		2137D18C29AA889300DE7F74 /* SearchHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchHeader.swift; sourceTree = "<group>"; };
 		2137D18E29AA893C00DE7F74 /* SearchContext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchContext.swift; sourceTree = "<group>"; };
-		21F81A08299E8E590020A7A4 /* Szentiras_latest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Szentiras_latest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		21F81A08299E8E590020A7A4 /* Szentiras.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Szentiras.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21F81A0D299E8E590020A7A4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		21F81A0F299E8E5A0020A7A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21F81A11299E8E5A0020A7A4 /* Szentiras_latest.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Szentiras_latest.entitlements; sourceTree = "<group>"; };
@@ -208,7 +208,7 @@
 		21F81A09299E8E590020A7A4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				21F81A08299E8E590020A7A4 /* Szentiras_latest.app */,
+				21F81A08299E8E590020A7A4 /* Szentiras.app */,
 				21F81A6429A0C7180020A7A4 /* Szentiras_Tests.xctest */,
 			);
 			name = Products;
@@ -355,9 +355,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		21F81A07299E8E590020A7A4 /* Szentiras_latest */ = {
+		21F81A07299E8E590020A7A4 /* Szentiras */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 21F81A17299E8E5A0020A7A4 /* Build configuration list for PBXNativeTarget "Szentiras_latest" */;
+			buildConfigurationList = 21F81A17299E8E5A0020A7A4 /* Build configuration list for PBXNativeTarget "Szentiras" */;
 			buildPhases = (
 				21F81A04299E8E590020A7A4 /* Sources */,
 				21F81A05299E8E590020A7A4 /* Frameworks */,
@@ -367,12 +367,12 @@
 			);
 			dependencies = (
 			);
-			name = Szentiras_latest;
+			name = Szentiras;
 			packageProductDependencies = (
 				21F81A7629A0CA980020A7A4 /* LoggerKit */,
 			);
 			productName = Szentiras_latest;
-			productReference = 21F81A08299E8E590020A7A4 /* Szentiras_latest.app */;
+			productReference = 21F81A08299E8E590020A7A4 /* Szentiras.app */;
 			productType = "com.apple.product-type.application";
 		};
 		21F81A6329A0C7180020A7A4 /* Szentiras_Tests */ = {
@@ -412,7 +412,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 21F81A03299E8E590020A7A4 /* Build configuration list for PBXProject "Szentiras_latest" */;
+			buildConfigurationList = 21F81A03299E8E590020A7A4 /* Build configuration list for PBXProject "Szentiras" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -428,7 +428,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				21F81A07299E8E590020A7A4 /* Szentiras_latest */,
+				21F81A07299E8E590020A7A4 /* Szentiras */,
 				21F81A6329A0C7180020A7A4 /* Szentiras_Tests */,
 			);
 		};
@@ -533,7 +533,7 @@
 /* Begin PBXTargetDependency section */
 		21F81A6929A0C7180020A7A4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 21F81A07299E8E590020A7A4 /* Szentiras_latest */;
+			target = 21F81A07299E8E590020A7A4 /* Szentiras */;
 			targetProxy = 21F81A6829A0C7180020A7A4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -664,6 +664,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Szentiras-latest-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Szentírás";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
@@ -680,7 +681,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 13.1;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sornyei.Szentiras-latest";
+				PRODUCT_BUNDLE_IDENTIFIER = com.sornyei.szentiras1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
@@ -704,6 +705,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Szentiras-latest-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Szentírás";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
@@ -720,7 +722,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 13.1;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sornyei.Szentiras-latest";
+				PRODUCT_BUNDLE_IDENTIFIER = com.sornyei.szentiras1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
@@ -746,7 +748,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Szentiras_latest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Szentiras_latest";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Szentiras.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Szentiras";
 			};
 			name = Debug;
 		};
@@ -766,7 +768,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Szentiras_latest.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Szentiras_latest";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Szentiras.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Szentiras";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -774,7 +776,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		21F81A03299E8E590020A7A4 /* Build configuration list for PBXProject "Szentiras_latest" */ = {
+		21F81A03299E8E590020A7A4 /* Build configuration list for PBXProject "Szentiras" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				21F81A15299E8E5A0020A7A4 /* Debug */,
@@ -783,7 +785,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		21F81A17299E8E5A0020A7A4 /* Build configuration list for PBXNativeTarget "Szentiras_latest" */ = {
+		21F81A17299E8E5A0020A7A4 /* Build configuration list for PBXNativeTarget "Szentiras" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				21F81A18299E8E5A0020A7A4 /* Debug */,
