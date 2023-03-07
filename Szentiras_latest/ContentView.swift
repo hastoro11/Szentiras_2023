@@ -10,7 +10,7 @@ import LoggerKit
 
 struct ContentView: View {
     @State var showLaunchScreen: Bool = true
-    @State var remainingTime = 2
+    @State var remainingTime = 2.5
     
     var timer = Timer.publish(every: 1, on: .main, in: .default).autoconnect()
     var body: some View {
