@@ -30,7 +30,9 @@ class SearchViewModel: ObservableObject {
                 self.fullResult = nil
             }
         } catch {
+#if DEBUG
             Logger.error(error)
+#endif
             if let error = error as? APIError {
                 self.error = error
             } else {

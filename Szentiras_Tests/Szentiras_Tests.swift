@@ -44,7 +44,9 @@ final class Szentiras_Tests: XCTestCase {
         ch = 345
         
         response = try await service.fetchChapter(translation: tr, book: book, chapter: ch)
+        #if DEBUG
         Logger.info(response)
+        #endif
         XCTAssertEqual(response.chapter.verses.count, 0)
         
         let n = 345
@@ -78,7 +80,9 @@ final class Szentiras_Tests: XCTestCase {
             
             XCTFail("It's supposed to fail")
         } catch {
+            #if DEBUG
             Logger.info(error)
+            #endif
             XCTAssertNotNil(error)
             if let apiError = error as? APIError {
                 XCTAssertEqual(apiError.statusCode, 500)
@@ -117,7 +121,9 @@ final class Szentiras_Tests: XCTestCase {
             let _: SZISearch = try await NetworkKit.shared.requestCodable(API.search(phrase))
             XCTFail("It's supposed to fail")
         } catch {
+            #if DEBUG
             Logger.info(error)
+            #endif
             XCTAssertNotNil(error)
         }
     }
