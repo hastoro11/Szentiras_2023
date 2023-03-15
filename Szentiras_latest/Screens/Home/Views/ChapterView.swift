@@ -13,6 +13,7 @@ struct ChapterView: View {
     @StateObject var vm: ChapterViewModel = ChapterViewModel()
     @Binding var path: NavigationPath
     @State var showTranslations: Bool = false
+    @State var showFontSize: Bool = false
     var chapter: Chapter {
         vm.chapter
     }
@@ -23,6 +24,10 @@ struct ChapterView: View {
         }
         return message
     }
+    
+    var fontSizes: [CGFloat] = [17, 19, 21, 23, 25, 27, 31]
+    @State var fontSizeIndex: Int = 1
+    
     var body: some View {
         ZStack {
             VStack(spacing: 0) {
@@ -49,6 +54,22 @@ struct ChapterView: View {
             .sheet(isPresented: $showTranslations) {
                 TranslationList()
             }
+            .sheet(isPresented: $showFontSize) {
+                VStack(spacing: 25) {
+                    Capsule()
+                        .fill(Color.gray.opacity(0.4))
+                        .frame(width: 100, height: 3)
+                        
+                    Stepper(value: $fontSizeIndex, in: 0...6) {
+                        Text("Betűméret")
+                            .font(.headline)
+                    }
+                    .padding(.horizontal)
+                    .presentationDetents([.fraction(0.15)])
+                    Spacer()
+                }
+                .padding(.top)
+            }
         }
     }
     
@@ -65,6 +86,7 @@ struct ChapterView: View {
             } else {
                 ForEach(chapter.verses) { vers in
                     VersRow(index: vers.versIndex, text: vers.text)
+                        .font(.system(size: fontSizes[fontSizeIndex]))
                 }
             }
         }
@@ -75,6 +97,12 @@ struct ChapterView: View {
     var navigationHeader: some View {
         HStack {
             Spacer()
+            Button("Aa", action: {
+                showFontSize.toggle()
+            })
+            .font(.headline)
+            .foregroundColor(.darkGreen)
+            .buttonStyle(.bordered)
             Button(action: {
                 appState.chapter = 0
                 path = NavigationPath()
