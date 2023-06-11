@@ -12,10 +12,12 @@ import LoggerKit
 struct Szentiras_App: App {
     @Environment(\.scenePhase) var scenePhase
     @StateObject var appState: AppState = AppState()
+    @StateObject var navigationRouter: NavigationRouter = NavigationRouter()
     var body: some Scene {
         WindowGroup {
             ContentView()
                 .environmentObject(appState)
+                .environmentObject(navigationRouter)
         }
         .onChange(of: scenePhase) { scene in
             switch scene {

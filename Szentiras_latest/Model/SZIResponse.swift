@@ -11,7 +11,7 @@ import Foundation
 // MARK: - SZIResponse
 struct SZIResponse: Decodable {
     let keres: Keres
-    let chapter: Chapter
+    var chapter: Chapter
     
     enum CodingKeys: String, CodingKey {
         case keres
@@ -35,7 +35,7 @@ struct Keres: Codable {
 // MARK: - Chapter
 struct Chapter: Decodable {
     let verses: [Vers]
-    let book: Book
+    var book: Book
     let current: Int
     let translationAbbrev: String
     let translationName: String

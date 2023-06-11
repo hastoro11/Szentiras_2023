@@ -9,6 +9,7 @@ import SwiftUI
 
 struct BookList: View {
     @EnvironmentObject var appState: AppState
+    @EnvironmentObject var navigationRouter: NavigationRouter
     typealias Category = Book.Category
     var categories: [Category] {
         Book.getBooksByCategories(by: appState.translation)
@@ -16,13 +17,13 @@ struct BookList: View {
     @State var path: NavigationPath = NavigationPath()
     @State var showTranslationList: Bool = false
     var body: some View {
-        NavigationStack(path: $path) {
+        NavigationStack(path: $navigationRouter.routes) {
             VStack(spacing: 0) {
                 header
                 List(categories) { cat in
                     Section {
                         ForEach(cat.books) { book in
-                            NavigationLink(value: TranslationBook(translation: appState.translation, book: book)) {
+                            NavigationLink(value: Route.numbers(book)) {
                                 Text(book.name)
                             }
                         }
@@ -34,16 +35,12 @@ struct BookList: View {
                 }
                 .listStyle(.plain)
             }
-            .navigationDestination(for: TranslationBook.self) { translationBook in
-                ChapterNumberList(translationBook: translationBook, path: $path)
-            }
-            .navigationDestination(for: TranslationBookChapter.self) { _ in
-                ChapterView(path: $path)
-            }
             .sheet(isPresented: $showTranslationList) {
                 TranslationList()
             }
+            .navigationDestination(for: Route.self) { $0 }
         }
+        
     }
     
     @ViewBuilder
@@ -77,6 +74,7 @@ struct BookList_Previews: PreviewProvider {
         NavigationStack {
             BookList()
                 .environmentObject(AppState())
+                .environmentObject(NavigationRouter())
         }
     }
 }

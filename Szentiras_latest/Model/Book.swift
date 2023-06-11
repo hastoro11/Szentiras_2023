@@ -67,6 +67,10 @@ extension Translation {
         let abbrev = UserDefaults.standard.string(forKey: UserDefaultsKeys.translation.rawValue) ?? "RUF"
         return Translation(rawValue: abbrev) ?? .RUF
     }
+    
+    static func load(by id: String) -> Translation? {
+        return Translation(rawValue: id) ?? nil
+    }
 }
 
 struct Book: Codable, Identifiable, Hashable {

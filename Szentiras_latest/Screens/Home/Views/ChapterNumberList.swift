@@ -6,28 +6,21 @@
 //
 
 import SwiftUI
+import LoggerKit
 
 struct ChapterNumberList: View {
+    @EnvironmentObject var navigationRouter: NavigationRouter
     @EnvironmentObject var appState: AppState
-    var translationBook: TranslationBook
-    var book: Book {
-        translationBook.book
-    }
+    var book: Book
     var columns: [GridItem] = [GridItem(.adaptive(minimum: 55), spacing: 20)]
-    @Binding var path: NavigationPath
     
     var body: some View {
         VStack(spacing: 0) {
             Header(title: book.name)
             ScrollView {
                 LazyVGrid(columns: columns, spacing: 15) {
-                    ForEach(1...book.noOfChapters, id:\.self) { index in
-                        Button(action: {
-                            appState.translation = translationBook.translation
-                            appState.book = translationBook.book
-                            appState.chapter = index
-                            path.append(TranslationBookChapter(translation: appState.translation, book: appState.book, chapter: appState.chapter))
-                        }) {
+                    ForEach(1...book.noOfChapters, id:\.self) { index in                        
+                        NavigationLink(value: Route.chapter(index)) {
                             ButtonText("\(index)", selected: appState.chapter == index)
                         }
                     }
@@ -35,12 +28,16 @@ struct ChapterNumberList: View {
                 .padding()
             }
         }
+        .onAppear {            
+            appState.book = book
+        }
         .navigationBarBackButtonHidden(true)
     }
 }
 
 extension ChapterNumberList {
     struct Header: View {
+        @EnvironmentObject var navigationRouter: NavigationRouter
         @EnvironmentObject var appState: AppState
         @Environment(\.dismiss) var dismiss
         var title: String
@@ -53,7 +50,7 @@ extension ChapterNumberList {
                     Spacer()
                     Button(action: {
                         appState.chapter = 0
-                        dismiss()
+                        navigationRouter.routes = []
                     }) {
                         Text("Vissza")
                             .font(.headline)
@@ -72,10 +69,12 @@ extension ChapterNumberList {
 }
 
 struct ChapterNumberList_Previews: PreviewProvider {
+    static var book = Book(number: "101", name: "Mózes 1. könyve", abbrev: "1Móz", noOfChapters: 50)
     static var previews: some View {
         NavigationStack {
-            ChapterNumberList(translationBook: TranslationBook(translation: .RUF, book: Translation.RUF.books[12]), path: .constant(NavigationPath()))
+            ChapterNumberList(book: book)
                 .environmentObject(AppState())
+                .environmentObject(NavigationRouter())
         }
     }
 }

@@ -10,13 +10,17 @@ import LoggerKit
 
 struct ChapterView: View {
     @EnvironmentObject var appState: AppState
+    @EnvironmentObject var navigationRouter: NavigationRouter
     @StateObject var vm: ChapterViewModel = ChapterViewModel()
-    @Binding var path: NavigationPath
     @State var showTranslations: Bool = false
     @State var showFontSize: Bool = false
+    // with the verses
     var chapter: Chapter {
         vm.chapter
     }
+    // chapter number
+    var index: Int
+    
     var errorMessage: String {
         var message = "A szerver nem, vagy hibásan működik. Érdemes újra próbálkozni, vagy újraindítani a keresést."
         if appState.book.number == "118" && appState.translation == .SZIT {
@@ -42,14 +46,14 @@ struct ChapterView: View {
             .navigationBarBackButtonHidden(true)
             .isLoading($vm.isLoading)
             .showError(isPresented: $vm.isError, error: vm.error, guidance: errorMessage, backAction: {
-                path = NavigationPath()
+                navigationRouter.routes = [.numbers(appState.book)]
             }, againAction: {
                 Task {
                     await vm.fetchChapter(translation: appState.translation, book: appState.book, chapter: appState.chapter)
                 }
             })
             .task {
-                await vm.fetchChapter(translation: appState.translation, book: appState.book, chapter: appState.chapter)
+                await vm.fetchChapter(translation: appState.translation, book: appState.book, chapter: index)                
             }
             .sheet(isPresented: $showTranslations) {
                 TranslationList()
@@ -69,6 +73,9 @@ struct ChapterView: View {
                     Spacer()
                 }
                 .padding(.top)
+            }
+            .onAppear {
+                appState.chapter = index
             }
         }
     }
@@ -105,7 +112,7 @@ struct ChapterView: View {
             .buttonStyle(.bordered)
             Button(action: {
                 appState.chapter = 0
-                path = NavigationPath()
+                navigationRouter.routes = []
             }) {
                 Text(chapter.book.abbrev.isEmpty ? "???" : chapter.book.abbrev)
                     .font(.headline)
@@ -113,7 +120,7 @@ struct ChapterView: View {
             }
             .buttonStyle(.bordered)
             Button(action: {
-                path.removeLast()
+                navigationRouter.routes = [.numbers(appState.book)]
             }) {
                 Text("\(chapter.current)")
                     .font(.headline)
@@ -166,14 +173,17 @@ struct ChapterView_Previews: PreviewProvider {
     }
     static var previews: some View {
         Group {
-            ChapterView(vm: successVm, path: .constant(NavigationPath()))
+            ChapterView(vm: successVm, index: 1)
                 .environmentObject(AppState())
+                .environmentObject(NavigationRouter())
                 .previewDisplayName("Success")
-            ChapterView(vm: emptyVm, path: .constant(NavigationPath()))
+            ChapterView(vm: emptyVm, index: 2)
                 .environmentObject(AppState())
+                .environmentObject(NavigationRouter())
                 .previewDisplayName("Error")
-            ChapterView(vm: loadingVm, path: .constant(NavigationPath()))
+            ChapterView(vm: loadingVm, index: 3)
                 .environmentObject(AppState())
+                .environmentObject(NavigationRouter())
                 .previewDisplayName("Loading")
         }
         

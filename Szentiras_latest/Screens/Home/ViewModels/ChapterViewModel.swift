@@ -22,11 +22,19 @@ class ChapterViewModel: ObservableObject {
     
     @MainActor
     func fetchChapter(translation: Translation, book: Book, chapter: Int) async {
+        
         self.isLoading = true
         defer { self.isLoading = false }
+        var response = SZIResponse.default
         do {
-            let response = try await service.fetchChapter(translation: translation, book: book, chapter: chapter)
-            self.chapter = response.chapter
+            if case Translation.KG = translation, book.number == "124" {
+                response = try Util.getSZIResponse(filename: "Énekek\(chapter)")                
+                response.chapter.book = book
+                self.chapter = response.chapter
+            } else {
+                response = try await service.fetchChapter(translation: translation, book: book, chapter: chapter)
+                self.chapter = response.chapter
+            }            
         } catch {
             if let apiError = error as? APIError {
                 self.error = apiError

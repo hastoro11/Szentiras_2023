@@ -26,6 +26,7 @@
 		2137D18B29AA879700DE7F74 /* ChapterHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2137D18A29AA879700DE7F74 /* ChapterHeader.swift */; };
 		2137D18D29AA889300DE7F74 /* SearchHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2137D18C29AA889300DE7F74 /* SearchHeader.swift */; };
 		2137D18F29AA893C00DE7F74 /* SearchContext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2137D18E29AA893C00DE7F74 /* SearchContext.swift */; };
+		21A513A62A361D59008C32E6 /* NavigationRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A513A52A361D59008C32E6 /* NavigationRouter.swift */; };
 		21F81A0E299E8E590020A7A4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21F81A0D299E8E590020A7A4 /* ContentView.swift */; };
 		21F81A10299E8E5A0020A7A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A0F299E8E5A0020A7A4 /* Assets.xcassets */; };
 		21F81A14299E8E5A0020A7A4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21F81A13299E8E5A0020A7A4 /* Preview Assets.xcassets */; };
@@ -98,6 +99,7 @@
 		2137D18A29AA879700DE7F74 /* ChapterHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterHeader.swift; sourceTree = "<group>"; };
 		2137D18C29AA889300DE7F74 /* SearchHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchHeader.swift; sourceTree = "<group>"; };
 		2137D18E29AA893C00DE7F74 /* SearchContext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchContext.swift; sourceTree = "<group>"; };
+		21A513A52A361D59008C32E6 /* NavigationRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationRouter.swift; sourceTree = "<group>"; };
 		21F81A08299E8E590020A7A4 /* Szentiras.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Szentiras.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21F81A0D299E8E590020A7A4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		21F81A0F299E8E5A0020A7A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -227,6 +229,7 @@
 				21F81A25299E901D0020A7A4 /* Model */,
 				21F81A22299E8FA70020A7A4 /* Screens */,
 				21F81A0D299E8E590020A7A4 /* ContentView.swift */,
+				21A513A52A361D59008C32E6 /* NavigationRouter.swift */,
 				21F81A7829A0EF680020A7A4 /* AppState.swift */,
 				21F81A23299E8FE00020A7A4 /* SzentirasApp.swift */,
 				21F81A8529A11AC30020A7A4 /* LaunchScreen.swift */,
@@ -484,6 +487,7 @@
 				21F81A3D299E90690020A7A4 /* Extensions.swift in Sources */,
 				21F81A7929A0EF680020A7A4 /* AppState.swift in Sources */,
 				21F81A5B29A0C09F0020A7A4 /* ErrorWrapper.swift in Sources */,
+				21A513A62A361D59008C32E6 /* NavigationRouter.swift in Sources */,
 				21F81A49299FDAA90020A7A4 /* ChapterView.swift in Sources */,
 				21F81A0E299E8E590020A7A4 /* ContentView.swift in Sources */,
 				21F81A3A299E901D0020A7A4 /* SZIResponse.swift in Sources */,

@@ -15,7 +15,7 @@ struct ContentView: View {
     var timer = Timer.publish(every: 1, on: .main, in: .default).autoconnect()
     var body: some View {
         ZStack {
-            TabView {
+            TabView {                
                 BookList()                    
                     .tabItem {
                         Label("Biblia", systemImage: "book")
