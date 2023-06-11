@@ -405,7 +405,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1420;
-				LastUpgradeCheck = 1420;
+				LastUpgradeCheck = 1430;
 				TargetAttributes = {
 					21F81A07299E8E590020A7A4 = {
 						CreatedOnToolsVersion = 14.2;
@@ -578,6 +578,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -637,6 +638,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -664,6 +666,7 @@
 				CODE_SIGN_ENTITLEMENTS = Szentiras_latest/Szentiras_latest.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"Szentiras_latest/Preview Content\"";
 				DEVELOPMENT_TEAM = 8YE8M3UNR3;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -686,7 +689,11 @@
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 13.1;
+<<<<<<< Updated upstream
 				MARKETING_VERSION = 4.1;
+=======
+				MARKETING_VERSION = 4.0;
+>>>>>>> Stashed changes
 				PRODUCT_BUNDLE_IDENTIFIER = com.sornyei.szentiras1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
@@ -707,6 +714,7 @@
 				CODE_SIGN_ENTITLEMENTS = Szentiras_latest/Szentiras_latest.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"Szentiras_latest/Preview Content\"";
 				DEVELOPMENT_TEAM = 8YE8M3UNR3;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -729,7 +737,11 @@
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 13.1;
+<<<<<<< Updated upstream
 				MARKETING_VERSION = 4.1;
+=======
+				MARKETING_VERSION = 4.0;
+>>>>>>> Stashed changes
 				PRODUCT_BUNDLE_IDENTIFIER = com.sornyei.szentiras1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
