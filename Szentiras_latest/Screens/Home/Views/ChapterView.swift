@@ -80,6 +80,7 @@ struct ChapterView: View {
         }
     }
     
+    // MARK: - verslist
     @ViewBuilder
     var versList: some View {
         List {
@@ -93,9 +94,11 @@ struct ChapterView: View {
             } else {
                 ForEach(chapter.verses) { vers in
                     if vers.versIndex == 0 {
-                        Text(vers.text)
-                            .fontWeight(.light)
+                        Text(vers.text.html)
                             .italic()
+                            .font(.system(size: fontSizes[fontSizeIndex]-2, weight: .light, design: .default))
+                            .foregroundColor(Color(uiColor: .systemGray))
+                            .lineSpacing(4)                            
                     } else {
                         VersRow(index: vers.versIndex, text: vers.text)
                             .font(.system(size: fontSizes[fontSizeIndex]))
@@ -154,7 +157,7 @@ struct ChapterView: View {
 struct ChapterView_Previews: PreviewProvider {
     static var successVm: ChapterViewModel {
         let vm = ChapterViewModel(service: MockService(stub: {
-            return try! Util.getSZIResponse(filename: "sample2")
+            return try! Util.getSZIResponse(filename: "RUF_Zsolt_51")
         }))
         
         return vm

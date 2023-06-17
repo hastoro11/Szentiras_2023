@@ -17,7 +17,7 @@ extension Color {
     }
     
     static var textGray: Color {
-        Color("textGray")
+        Color(uiColor: .systemGray2)
     }
 }
 

@@ -15,7 +15,7 @@ struct ChapterHeader: View {
             Text(book)
                 .font(.system(.largeTitle, design: .default, weight: .bold))
             Text("\(chapter). fejezet")
-                .font(.system(.title3, design: .serif, weight: .light))
+                .font(.system(.title2, design: .serif, weight: .light))
                 .italic()
                 .foregroundColor(Color(.systemGray))
         }
