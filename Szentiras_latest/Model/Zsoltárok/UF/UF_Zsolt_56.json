@@ -1,0 +1,127 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 56"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105600000,
+                    "szep": "Zsolt 56,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: „A messzi fák galambja” kezdetű ének dallamára. Dávid bizonyságtétele abból az időből, amikor a filiszteusok elfogták Gátban."
+            },
+            {
+                "hely": {
+                    "gepi": 12105600100,
+                    "szep": "Zsolt 56,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Légy kegyelmes hozzám, Istenem, mert bosszút lihegnek ellenem, szüntelenül támadnak és gyötörnek engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105600200,
+                    "szep": "Zsolt 56,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ellenségeim szüntelenül bosszút lihegnek, sokan támadnak rám kevélyen."
+            },
+            {
+                "hely": {
+                    "gepi": 12105600300,
+                    "szep": "Zsolt 56,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha félek is, benned bízom!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105600400,
+                    "szep": "Zsolt 56,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenben, akinek igéjét dicsérem, Istenben bízom, nem félek, ember mit árthat nekem?!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105600500,
+                    "szep": "Zsolt 56,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szüntelenül elferdítik szavaimat, minden gondolatukkal rosszat akarnak nekem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105600600,
+                    "szep": "Zsolt 56,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Összefognak, lesben állnak, lépteimet figyelik, mert az életemre törnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12105600700,
+                    "szep": "Zsolt 56,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megmenekülhetnek-e gazságuk ellenére? Taszítsd el haragodban e népséget, Istenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105600800,
+                    "szep": "Zsolt 56,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te számon tartod bolyongásomat. Gyűjtsd könnyeimet tömlődbe, legyenek benne könyvedben!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105600900,
+                    "szep": "Zsolt 56,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meghátrálnak majd ellenségeim, amikor hozzád kiáltok. Ebből tudom meg, hogy Isten velem van."
+            },
+            {
+                "hely": {
+                    "gepi": 12105601000,
+                    "szep": "Zsolt 56,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenben, akinek igéjét dicsérem, az ÚRban, akinek igéjét dicsérem,"
+            },
+            {
+                "hely": {
+                    "gepi": 12105601100,
+                    "szep": "Zsolt 56,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenben bízom, nem félek, ember mit árthat nekem?!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105601200,
+                    "szep": "Zsolt 56,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tartozom neked, Istenem, fogadalmaimmal, megadom hálaáldozatomat."
+            },
+            {
+                "hely": {
+                    "gepi": 12105601300,
+                    "szep": "Zsolt 56,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen megmentettél engem a haláltól, lábamat az elbukástól, hogy járhassak Isten színe előtt az élet világosságában."
+            }
+        ]
+    }
+}

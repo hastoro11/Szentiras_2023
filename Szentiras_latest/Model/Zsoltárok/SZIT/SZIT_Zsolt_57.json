@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 57"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105700000,
+                    "szep": "Zsolt 57,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek a „Ne töröld el” szerint – miktam Dávidtól, amikor Saul elől barlangba menekült.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12105700100,
+                    "szep": "Zsolt 57,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörülj rajtam, Istenem, könyörülj rajtam, lelkem hozzád menekül! Szárnyad oltalmában keresek védelmet, amíg a veszedelem el nem vonul."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700200,
+                    "szep": "Zsolt 57,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenhez kiáltok, a Fölségeshez, Istenhez, aki jót tett velem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700300,
+                    "szep": "Zsolt 57,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Küldjön segítséget az égből és mentsen meg, sújtsa szégyennel üldözőimet. Árassza ki Isten kegyelmét és hűségét."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700400,
+                    "szep": "Zsolt 57,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Oroszlánok közt kell laknom, amelyek mohón felfalják az emberek fiait. Foguk lándzsa és nyíl, nyelvük élesre köszörült kard."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700500,
+                    "szep": "Zsolt 57,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, emelkedj föl az egek fölé, az egész föld fölé keljen föl dicsőséged!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105700600,
+                    "szep": "Zsolt 57,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hálót vetettek lábam elé, lelkemet megalázták, vermet ástak nekem, de maguk hullottak bele."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700700,
+                    "szep": "Zsolt 57,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "A szívem nyugodt, Istenem, a szívem nyugodt, énekelek neked és zsoltározok."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700800,
+                    "szep": "Zsolt 57,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ébredj fel, lelkem; citera és hárfa, ébredjetek, fölkeltem a hajnalt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105700900,
+                    "szep": "Zsolt 57,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "A népek közt magasztallak Uram, a pogányok közt énekelek neked."
+            },
+            {
+                "hely": {
+                    "gepi": 12105701000,
+                    "szep": "Zsolt 57,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert irgalmad az égig felér, hűséged eléri a felhőket."
+            },
+            {
+                "hely": {
+                    "gepi": 12105701100,
+                    "szep": "Zsolt 57,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, emelkedj föl az egek fölé, az egész föld fölé keljen föl dicsőséged!"
+            }
+        ]
+    }
+}

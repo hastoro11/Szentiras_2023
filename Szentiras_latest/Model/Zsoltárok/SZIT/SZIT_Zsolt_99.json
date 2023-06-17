@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 99"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109900100,
+                    "szep": "Zsolt 99,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Király az Úr – a népek reszketnek; kerubok fölött trónol – a föld megremeg."
+            },
+            {
+                "hely": {
+                    "gepi": 12109900200,
+                    "szep": "Zsolt 99,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagy az Úr a Sionon, fönséges minden nép felett: dicsőítsék nagy és félelmetes neved, mert szent"
+            },
+            {
+                "hely": {
+                    "gepi": 12109900300,
+                    "szep": "Zsolt 99,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "és hatalmas vagy!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109900400,
+                    "szep": "Zsolt 99,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Király vagy, az igazságosságot szereted te vetetted meg a rend alapját, te alkottad a jogot és az igazságot Jákobban."
+            },
+            {
+                "hely": {
+                    "gepi": 12109900500,
+                    "szep": "Zsolt 99,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljátok az Urat, Istenünket, hajtsatok térdet lába zsámolya előtt, mert szent!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109900600,
+                    "szep": "Zsolt 99,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mózes és Áron a papok közül, és Sámuel azok közül, akik megvallották nevét: ők az Úrhoz kiáltottak és meghallgatta őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12109900700,
+                    "szep": "Zsolt 99,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "A felhőoszlopból beszélt hozzájuk, megőrizték bizonyítékait, és a parancsokat, amelyeket rájuk bízott."
+            },
+            {
+                "hely": {
+                    "gepi": 12109900800,
+                    "szep": "Zsolt 99,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Urunk, Istenünk, te meghallgattad őket, Istenünk, te kegyes voltál hozzájuk, de vétkeiket keményen büntetted."
+            },
+            {
+                "hely": {
+                    "gepi": 12109900900,
+                    "szep": "Zsolt 99,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljátok az Urat, Istenünket, boruljatok le szent hegyén, mert szent az Úr, a mi Istenünk!"
+            }
+        ]
+    }
+}

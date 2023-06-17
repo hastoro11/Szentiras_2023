@@ -1,0 +1,105 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 111"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111100100,
+                    "szep": "Zsolt 111,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni hálaéneke. A zsoltáros Istent a tetteiért dicsőíti. A késő fogság utáni időből származik. Minden egység (félvers) a héber ábécé soron következő betűjével kezdődik. Ez az ún. alfabetikus forma a szöveg megtanulását könnyítette meg."
+                    }
+                ],
+                "szoveg": "ALLELUJA!<br>Hálát adok az Úrnak, teljes szívemből,<br>az igazak tanácsában és a gyülekezetben."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100200,
+                    "szep": "Zsolt 111,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagyok az Úr cselekedetei,<br>kívánatosak mindenkinek, aki vágyik utánuk."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100300,
+                    "szep": "Zsolt 111,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fönségesség és ékesség az ő műve,<br>és igazsága megmarad örökkön örökké."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100400,
+                    "szep": "Zsolt 111,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Felidézi Isten nagy tetteit az egyiptomi kivonulás idején és a pusztában. »Emléket állított csodáinak«: a pászka ünnep, vö. Kiv 12,1-28. »Enni adott«: utalás a mannára és a fürjekre, vö. Kiv. 16."
+                    }
+                ],
+                "szoveg": "Emléket állított csodáinak,<br>irgalmas és kegyes Úr."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100500,
+                    "szep": "Zsolt 111,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Enni adott az őt félőknek;<br>Szövetségéről mindenkor megemlékezik."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100600,
+                    "szep": "Zsolt 111,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megmutatta népének hatalmas művei erejét,<br>nekik adta a nemzetek örökségét;"
+            },
+            {
+                "hely": {
+                    "gepi": 12111100700,
+                    "szep": "Zsolt 111,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kezének műve igazmondás és igaz ítélet.<br>Mind megbízhatók az ő rendelkezései;"
+            },
+            {
+                "hely": {
+                    "gepi": 12111100800,
+                    "szep": "Zsolt 111,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örökkön örökké szilárdan állnak,<br>hűségben és igazságban születtek."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100900,
+                    "szep": "Zsolt 111,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megváltást küldött népének,<br>örökre elrendelte szövetségét.<br>Szent és félelmetes az ő neve."
+            },
+            {
+                "hely": {
+                    "gepi": 12111101000,
+                    "szep": "Zsolt 111,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A bölcsesség kezdete az Úr félelme,<br>helyesen gondolkodik mindenki, aki aszerint cselekszik;<br>Dicsérete megmarad örökkön örökké."
+            }
+        ]
+    }
+}

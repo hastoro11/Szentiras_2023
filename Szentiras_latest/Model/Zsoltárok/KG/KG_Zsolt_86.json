@@ -1,0 +1,159 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 86"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108600000,
+                    "szep": "Zsolt 86,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid imádsága."
+            },
+            {
+                "hely": {
+                    "gepi": 12108600100,
+                    "szep": "Zsolt 86,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hajtsd hozzám Uram füledet, hallgass meg engem, mert nyomorult és szegény vagyok én!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108600200,
+                    "szep": "Zsolt 86,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tartsd meg életemet, mert kegyes vagyok én; mentsd meg én Istenem a te szolgádat, a ki bízik benned."
+            },
+            {
+                "hely": {
+                    "gepi": 12108600300,
+                    "szep": "Zsolt 86,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörülj én rajtam Uram, mert hozzád kiáltok minden napon!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108600400,
+                    "szep": "Zsolt 86,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vidámítsd meg a te szolgádnak lelkét, mert hozzád emelem fel Uram lelkemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12108600500,
+                    "szep": "Zsolt 86,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert te Uram jó vagy és kegyelmes, és nagy irgalmasságú mindazokhoz, a kik hozzád kiáltanak."
+            },
+            {
+                "hely": {
+                    "gepi": 12108600600,
+                    "szep": "Zsolt 86,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Figyelmezzél Uram az én imádságomra, és hallgasd meg az én könyörgésemnek szavát!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108600700,
+                    "szep": "Zsolt 86,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyomorúságomnak idején hozzád kiáltok, mert te meghallgatsz engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12108600800,
+                    "szep": "Zsolt 86,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nincsen Uram hozzád hasonló az istenek között, és nincsenek hasonlók a te munkáidhoz!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108600900,
+                    "szep": "Zsolt 86,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Eljőnek a népek mind, a melyeket alkottál, és leborulnak előtted Uram, és dicsőítik a te nevedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12108601000,
+                    "szep": "Zsolt 86,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nagy vagy te és csodadolgokat mívelsz; csak te vagy Isten egyedül!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108601100,
+                    "szep": "Zsolt 86,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mutasd meg nékem a te útadat, hogy járhassak a te igazságodban, és teljes szívvel féljem nevedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12108601200,
+                    "szep": "Zsolt 86,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérlek téged Uram, Istenem, teljes szívemből, és dicsőítem a te nevedet örökké!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108601300,
+                    "szep": "Zsolt 86,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nagy én rajtam a te kegyelmed, és kiszabadítottad lelkemet a mélységes pokolból."
+            },
+            {
+                "hely": {
+                    "gepi": 12108601400,
+                    "szep": "Zsolt 86,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten! Kevélyek támadtak fel ellenem, és kegyetlenek serege keresi lelkemet, a kik meg sem gondolnak téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12108601500,
+                    "szep": "Zsolt 86,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "De te Uram, könyörülő és irgalmas Isten vagy, késedelmes a haragra, nagy kegyelmű és igazságú!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108601600,
+                    "szep": "Zsolt 86,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tekints reám és könyörülj rajtam! Add a te erődet a te szolgádnak, és szabadítsd meg a te szolgálóleányodnak fiát!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108601700,
+                    "szep": "Zsolt 86,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adj jelt nékem javamra, hogy lássák az én gyűlölőim és szégyenüljenek meg, a mikor te Uram megsegítesz és megvigasztalsz engem."
+            }
+        ]
+    }
+}

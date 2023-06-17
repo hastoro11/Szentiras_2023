@@ -1,0 +1,199 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 38"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103800000,
+                    "szep": "Zsolt 38,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid zsoltára emlékeztetőül."
+            },
+            {
+                "hely": {
+                    "gepi": 12103800100,
+                    "szep": "Zsolt 38,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, haragodban ne fenyíts meg engem; felgerjedésedben ne ostorozz meg engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103800200,
+                    "szep": "Zsolt 38,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nyilaid belém akadtak, és kezed rám nehezült."
+            },
+            {
+                "hely": {
+                    "gepi": 12103800300,
+                    "szep": "Zsolt 38,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nincs épség testemben a te haragodtól; nincs békesség csontjaimban vétkeim miatt."
+            },
+            {
+                "hely": {
+                    "gepi": 12103800400,
+                    "szep": "Zsolt 38,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert bűneim elborítják fejemet; súlyos teherként, erőm felett."
+            },
+            {
+                "hely": {
+                    "gepi": 12103800500,
+                    "szep": "Zsolt 38,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megsenyvedtek, megbűzhödtek sebeim oktalanságom miatt."
+            },
+            {
+                "hely": {
+                    "gepi": 12103800600,
+                    "szep": "Zsolt 38,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lehorgadtam, meggörbedtem nagyon; naponta szomorúan járok."
+            },
+            {
+                "hely": {
+                    "gepi": 12103800700,
+                    "szep": "Zsolt 38,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert derekam megtelt gyulladással, és testemben semmi ép sincsen."
+            },
+            {
+                "hely": {
+                    "gepi": 12103800800,
+                    "szep": "Zsolt 38,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Erőtlen és összetört vagyok nagyon, s szívem keserűsége miatt jajgatok."
+            },
+            {
+                "hely": {
+                    "gepi": 12103800900,
+                    "szep": "Zsolt 38,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, előtted van minden kívánságom, és nincs előled elrejtve az én nyögésem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103801000,
+                    "szep": "Zsolt 38,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szívem dobogva ver, elhágy erőm, s szemem világa - az sincs már velem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103801100,
+                    "szep": "Zsolt 38,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szeretteim és barátaim félreállanak csapásomban; rokonaim pedig messze állanak."
+            },
+            {
+                "hely": {
+                    "gepi": 12103801200,
+                    "szep": "Zsolt 38,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "De tőrt vetnek, a kik életemre törnek, és a kik bajomra törnek; hitványságokat beszélnek, és csalárdságot koholnak mindennap."
+            },
+            {
+                "hely": {
+                    "gepi": 12103801300,
+                    "szep": "Zsolt 38,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "De én, mint a siket, nem hallok, és olyan vagyok, mint a néma, a ki nem nyitja föl száját."
+            },
+            {
+                "hely": {
+                    "gepi": 12103801400,
+                    "szep": "Zsolt 38,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "És olyanná lettem, mint az, a ki nem hall, és szájában nincsen ellenmondás."
+            },
+            {
+                "hely": {
+                    "gepi": 12103801500,
+                    "szep": "Zsolt 38,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert téged vártalak Uram, te hallgass meg Uram, Istenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103801600,
+                    "szep": "Zsolt 38,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert azt gondolom: csak ne örülnének rajtam; mikor lábam ingott, hatalmaskodtak ellenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103801700,
+                    "szep": "Zsolt 38,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "És bizony közel vagyok az eleséshez, és bánatom mindig előttem van."
+            },
+            {
+                "hely": {
+                    "gepi": 12103801800,
+                    "szep": "Zsolt 38,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sőt bevallom bűneimet, bánkódom vétkem miatt."
+            },
+            {
+                "hely": {
+                    "gepi": 12103801900,
+                    "szep": "Zsolt 38,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "De ellenségeim élnek, erősödnek; megsokasodtak hazug gyűlölőim,"
+            },
+            {
+                "hely": {
+                    "gepi": 12103802000,
+                    "szep": "Zsolt 38,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "És a kik jóért roszszal fizetnek; ellenem törnek, a miért én jóra törekszem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103802100,
+                    "szep": "Zsolt 38,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne hagyj el Uram Istenem, ne távolodjál el tőlem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103802200,
+                    "szep": "Zsolt 38,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Siess segítségemre, oh Uram, én szabadítóm!"
+            }
+        ]
+    }
+}

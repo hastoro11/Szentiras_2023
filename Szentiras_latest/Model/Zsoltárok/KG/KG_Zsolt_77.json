@@ -1,0 +1,183 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 77"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107700000,
+                    "szep": "Zsolt 77,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek, Jedutunnak; Aszáfé, zsoltár."
+            },
+            {
+                "hely": {
+                    "gepi": 12107700100,
+                    "szep": "Zsolt 77,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szavamat Istenhez emelem és kiáltok; szavamat Istenhez emelem, hogy figyelmezzen reám."
+            },
+            {
+                "hely": {
+                    "gepi": 12107700200,
+                    "szep": "Zsolt 77,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyomorúságom idején az Urat keresem; kezem feltartom éjjel szünetlenül; lelkem nem akar vigasztalást bevenni."
+            },
+            {
+                "hely": {
+                    "gepi": 12107700300,
+                    "szep": "Zsolt 77,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenről emlékezem és sóhajtok; róla gondolkodom, de elepedt az én lelkem. Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12107700400,
+                    "szep": "Zsolt 77,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szemeimet ébren tartod; hánykolódom, de nem szólhatok."
+            },
+            {
+                "hely": {
+                    "gepi": 12107700500,
+                    "szep": "Zsolt 77,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elmélkedem a régi napokról, a hajdankor éveiről."
+            },
+            {
+                "hely": {
+                    "gepi": 12107700600,
+                    "szep": "Zsolt 77,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megemlékezem éjjel az én énekeimről; szívemben elgondolkodom és azt kutatja lelkem:"
+            },
+            {
+                "hely": {
+                    "gepi": 12107700700,
+                    "szep": "Zsolt 77,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Avagy mindörökké elvet-é az Úr? és nem lesz-é többé jóakaró?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107700800,
+                    "szep": "Zsolt 77,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Avagy végképen elfogyott-é az ő kegyelme? vagy megszűnik-é igérete nemzedékről nemzedékre?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107700900,
+                    "szep": "Zsolt 77,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Avagy elfelejtkezett-é könyörülni Isten? avagy elzárta-é haragjában az ő irgalmát? Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12107701000,
+                    "szep": "Zsolt 77,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "És mondám: Ez az én betegségem, hogy a Fölségesnek jobbja megváltozott."
+            },
+            {
+                "hely": {
+                    "gepi": 12107701100,
+                    "szep": "Zsolt 77,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megemlékezem az Úrnak cselekedeteiről, sőt megemlékezem hajdani csodáidról;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107701200,
+                    "szep": "Zsolt 77,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "És elmélkedem minden cselekedetedről, és tetteidről gondolkozom."
+            },
+            {
+                "hely": {
+                    "gepi": 12107701300,
+                    "szep": "Zsolt 77,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Oh Isten, a te utad szentséges; kicsoda olyan nagy Isten, mint az Isten?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107701400,
+                    "szep": "Zsolt 77,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te vagy az Isten, a ki csodát mívelsz; megmutattad a népek között a te hatalmadat."
+            },
+            {
+                "hely": {
+                    "gepi": 12107701500,
+                    "szep": "Zsolt 77,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megváltottad népedet karoddal a Jákób és a József fiait. Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12107701600,
+                    "szep": "Zsolt 77,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Láttak téged a vizek, oh Isten, láttak téged a vizek és megfélemlének; a mélységek is megrázkódának."
+            },
+            {
+                "hely": {
+                    "gepi": 12107701700,
+                    "szep": "Zsolt 77,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "A felhők vizet ömlesztének; megzendülének a fellegek, és a te nyílaid széllyel futkostanak."
+            },
+            {
+                "hely": {
+                    "gepi": 12107701800,
+                    "szep": "Zsolt 77,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mennydörgésed zúgott a forgószélben; villámlásaid megvilágosították a mindenséget; megrázkódott és megindult a föld."
+            },
+            {
+                "hely": {
+                    "gepi": 12107701900,
+                    "szep": "Zsolt 77,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Utad a tengeren volt és ösvényed a nagy vizeken; és nyomaid nem látszottak meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12107702000,
+                    "szep": "Zsolt 77,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vezetted mint nyájat, a te népedet, Mózesnek és Áronnak kezével."
+            }
+        ]
+    }
+}

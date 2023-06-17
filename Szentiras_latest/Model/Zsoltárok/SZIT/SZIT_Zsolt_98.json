@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 98"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109800000,
+                    "szep": "Zsolt 98,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Zsoltár)"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800100,
+                    "szep": "Zsolt 98,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zengjetek új éneket az Úrnak, mert csodálatra méltó, amit művelt. Jobbja kivívta a győzelmet, igen, szent karja győzelmet szerzett."
+            },
+            {
+                "hely": {
+                    "gepi": 12109800200,
+                    "szep": "Zsolt 98,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kinyilvánította az Úr üdvösségét, igazságosságát feltárta a pogányok előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12109800300,
+                    "szep": "Zsolt 98,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megemlékezett jóságáról és hűségéről Izrael háza iránt. A föld minden határa látta Istenünk üdvösségét."
+            },
+            {
+                "hely": {
+                    "gepi": 12109800400,
+                    "szep": "Zsolt 98,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ünnepeljétek az Urat, országok, mind, örüljetek és vigadjatok!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800500,
+                    "szep": "Zsolt 98,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsőítsétek az Urat muzsikával, szóljon citera és hárfa!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800600,
+                    "szep": "Zsolt 98,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Trombita és kürt hangjával ujjongjatok színe előtt, az Úr s Király előtt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800700,
+                    "szep": "Zsolt 98,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Harsogjon a tenger és ami betölti, a földkerekség s akik lakják!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800800,
+                    "szep": "Zsolt 98,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Folyók, tapsoljatok kezetekkel, hegyek, társuljatok az ujjongáshoz!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800900,
+                    "szep": "Zsolt 98,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr színe előtt, aki közeledik, aki jön, hogy kormányozza a földet, és igazságosan a népeket."
+            }
+        ]
+    }
+}

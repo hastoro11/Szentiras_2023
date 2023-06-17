@@ -1,0 +1,97 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 3"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100300000,
+                    "szep": "Zsolt 3,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ez az első zsoltár, amelyben feliratot is találunk. A feliratokban a késői zsidó hagyomány – ma már nem érthető zenei utalások mellett – a keletkezés körülményeit igyekezett megjelölni. Ez a zsoltár az ún. dávidi énekek közé tartozik, amelyek eredetileg külön gyűjteményt alkottak (Zsolt 3-41); közülük néhányat mint panaszéneket lehet jellemezni. Előszeretettel használták reggeli imaként."
+                    }
+                ],
+                "szoveg": "<em>Dávid zsoltára, amikor fia, Absalom elől menekült.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12100300100,
+                    "szep": "Zsolt 3,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, számosan szorongatnak engem,<br>és sokan kelnek föl ellenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100300200,
+                    "szep": "Zsolt 3,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sokan mondják rám:<br>»Nincsen segítsége Istenében!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12100300300,
+                    "szep": "Zsolt 3,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ám te, Uram, oltalmam vagy nekem,<br>dicsőségem vagy, és fölemeled fejem."
+            },
+            {
+                "hely": {
+                    "gepi": 12100300400,
+                    "szep": "Zsolt 3,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hangos szómmal az Úrhoz kiáltottam,<br>s szent hegyéről meghallgatott engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12100300500,
+                    "szep": "Zsolt 3,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aludni tértem, s álomba merültem,<br>és felébredtem, mert az Úr fölkarolt engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12100300600,
+                    "szep": "Zsolt 3,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem félek ezernyi néptől,<br>amely körös-körül rám tör.<br>Kelj fel, Uram, szabadíts meg, Istenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100300700,
+                    "szep": "Zsolt 3,7"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A segélykéréshez erőteljes képek kapcsolódnak (arculcsapás, a fogak összetörése). Azt akarják kifejezni, hogy Isten elhallgattatja azokat, akik kétségbe vonják segítségét azok számára, akik hozzá imádkoznak."
+                    }
+                ],
+                "szoveg": "Te arcul csaptad minden ellenségem,<br>a bűnösök fogát összetörted."
+            },
+            {
+                "hely": {
+                    "gepi": 12100300800,
+                    "szep": "Zsolt 3,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úré a szabadítás,<br>legyen áldásod népeden!"
+            }
+        ]
+    }
+}

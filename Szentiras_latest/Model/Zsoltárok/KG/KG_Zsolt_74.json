@@ -1,0 +1,207 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 74"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107400000,
+                    "szep": "Zsolt 74,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aszáf tanítása."
+            },
+            {
+                "hely": {
+                    "gepi": 12107400100,
+                    "szep": "Zsolt 74,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Miért vetettél el, oh Isten, teljesen? Miért füstölög haragod a te legelődnek juhai ellen?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107400200,
+                    "szep": "Zsolt 74,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emlékezzél meg a te gyülekezetedről, a melyet régen szerzettél és a melyet megváltottál: a te örökségednek részéről, a Sion hegyéről, a melyen lakozol!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107400300,
+                    "szep": "Zsolt 74,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lépj fel a teljes pusztaságba; mindent tönkre tett az ellenség a szent helyen!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107400400,
+                    "szep": "Zsolt 74,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Támadóid a te gyülekezeted hajlékában ordítanak: jeleiket tűzték fel jelekké."
+            },
+            {
+                "hely": {
+                    "gepi": 12107400500,
+                    "szep": "Zsolt 74,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Úgy tünnek fel, mint mikor valaki fejszéjét emelgeti az erdőnek sűrű fáira."
+            },
+            {
+                "hely": {
+                    "gepi": 12107400600,
+                    "szep": "Zsolt 74,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Faragványait már mind összetördelték: fejszékkel és pőrölyökkel."
+            },
+            {
+                "hely": {
+                    "gepi": 12107400700,
+                    "szep": "Zsolt 74,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szent helyedet lángba borították; neved hajlékát földig megfertőztették."
+            },
+            {
+                "hely": {
+                    "gepi": 12107400800,
+                    "szep": "Zsolt 74,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezt mondották szívökben: Dúljuk fel őket mindenestől! Felgyújtották Istennek minden hajlékát az országban."
+            },
+            {
+                "hely": {
+                    "gepi": 12107400900,
+                    "szep": "Zsolt 74,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jeleinket nem látjuk, próféta nincs többé, és nincs közöttünk, a ki tudná: meddig tart ez?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107401000,
+                    "szep": "Zsolt 74,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meddig szidalmaz, oh Isten, a sanyargató? Örökké gyalázza-é az ellenség a te nevedet?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107401100,
+                    "szep": "Zsolt 74,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Miért húzod vissza kezedet, jobbodat? Vond ki kebeledből: végezz!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107401200,
+                    "szep": "Zsolt 74,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Pedig Isten az én királyom eleitől fogva, a ki szabadításokat mível e föld közepette."
+            },
+            {
+                "hely": {
+                    "gepi": 12107401300,
+                    "szep": "Zsolt 74,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te hasítottad ketté a tengert erőddel; te törted össze a czethalak fejeit a vizekben."
+            },
+            {
+                "hely": {
+                    "gepi": 12107401400,
+                    "szep": "Zsolt 74,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te rontottad meg a leviathánnak fejét, s adtad azt eledelül a pusztai népnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12107401500,
+                    "szep": "Zsolt 74,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te fakasztottad fel a forrást és patakot, te száraztottad meg az örök folyókat."
+            },
+            {
+                "hely": {
+                    "gepi": 12107401600,
+                    "szep": "Zsolt 74,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tiéd a nappal, az éjszaka is tiéd; te formáltad a világosságot és a napot."
+            },
+            {
+                "hely": {
+                    "gepi": 12107401700,
+                    "szep": "Zsolt 74,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te szabtad meg a földnek minden határát: a nyarat és a telet te formáltad."
+            },
+            {
+                "hely": {
+                    "gepi": 12107401800,
+                    "szep": "Zsolt 74,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emlékezzél meg erről: ellenség szidalmazta az Urat, s bolond nép káromolta a te nevedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12107401900,
+                    "szep": "Zsolt 74,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne adjad a fenevadnak a te gerliczédnek lelkét; szegényeidnek gyülekezetéről ne feledkezzél meg végképen!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107402000,
+                    "szep": "Zsolt 74,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tekints a szövetségre; mert telve vannak e földnek rejtekhelyei zsaroló tanyákkal."
+            },
+            {
+                "hely": {
+                    "gepi": 12107402100,
+                    "szep": "Zsolt 74,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "A megrontott ne térjen szégyenvallással vissza; a nyomorult és szűkölködő dicsérje a te nevedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12107402200,
+                    "szep": "Zsolt 74,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kelj fel, oh Isten, és védd a te ügyedet; emlékezzél meg a te gyaláztatásodról, a melylyel naponként illet téged a bolond!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107402300,
+                    "szep": "Zsolt 74,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne felejtkezzél el ellenségeidnek szaváról, és az ellened támadók háborgatásáról, a mely szüntelen nevekedik!"
+            }
+        ]
+    }
+}

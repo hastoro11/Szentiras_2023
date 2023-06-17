@@ -1,0 +1,36 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 117"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111700100,
+                    "szep": "Zsolt 117,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Felszólítja a fogság utáni közösséget Isten dicséretére."
+                    }
+                ],
+                "szoveg": "ALLELUJA!<br>Dicsérjétek az Urat minden népek,<br>dicsérjétek őt minden nemzetek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111700200,
+                    "szep": "Zsolt 117,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert megerősíttetett mirajtunk az ő irgalma,<br>és jósága örökre megmarad!"
+            }
+        ]
+    }
+}

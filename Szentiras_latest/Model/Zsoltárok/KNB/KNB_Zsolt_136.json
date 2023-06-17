@@ -1,0 +1,243 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 136"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113600100,
+                    "szep": "Zsolt 136,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A fogság utáni közösség éneke a Pászka-szertartásból. A zsoltár jellegzetessége a válaszos ének (litánia). Az első félverset az előimádkozó énekli vagy imádkozza, a közösség felel a második félverssel. Ezt a zsoltárt nevezzük (egyedül vagy a Zsolt 135-tel együtt) a »Nagy Alleluja zsoltár«-nak (Nagy Hallél; nem keverendő az alleluja zsoltárokkal: 113-118). Valószínűleg a húsvéti vacsora végén énekelték."
+                    }
+                ],
+                "szoveg": "ALLELUJA!<br>Áldjátok az Urat, mert jó,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113600200,
+                    "szep": "Zsolt 136,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjátok az istenek Istenét,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113600300,
+                    "szep": "Zsolt 136,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjátok az urak Urát,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113600400,
+                    "szep": "Zsolt 136,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Isten egy, ő a Teremtő, ő hozta létre az eget és a földet, a csillagokat (vö. Ter 1,14-18)"
+                    }
+                ],
+                "szoveg": "Őt, aki nagy csodákat művel egymaga,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113600500,
+                    "szep": "Zsolt 136,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki az egeket bölcsen alkotta,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113600600,
+                    "szep": "Zsolt 136,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki szétterítette a földet a vizeken,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113600700,
+                    "szep": "Zsolt 136,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki a nagy világítókat alkotta,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113600800,
+                    "szep": "Zsolt 136,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "A napot, hogy uralkodjék a nappalon,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113600900,
+                    "szep": "Zsolt 136,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "A holdat és a csillagokat, hogy uralkodjanak az éjszakán,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113601000,
+                    "szep": "Zsolt 136,10"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Isten szabadította ki Izraelt Egyiptomból és vezette át a tengeren (vö. Kiv 14)."
+                    }
+                ],
+                "szoveg": "Aki megverte elsőszülöttjeiben Egyiptomot,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113601100,
+                    "szep": "Zsolt 136,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "És kivezette közülük Izraelt,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113601200,
+                    "szep": "Zsolt 136,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hatalmas kézzel és felemelt karral,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113601300,
+                    "szep": "Zsolt 136,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki kettéhasította a Vörös-tengert,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113601400,
+                    "szep": "Zsolt 136,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "S átvitte Izraelt a közepén,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113601500,
+                    "szep": "Zsolt 136,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "De a Vörös-tengerbe vetette a fáraót és seregét,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113601600,
+                    "szep": "Zsolt 136,16"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Isten vezette át népét a pusztán és győzte le az ellenséget (Szihon és Óg, vö. Szám 21,21-25), ő adta népének a földet."
+                    }
+                ],
+                "szoveg": "Aki a pusztában vezérelte népét,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113601700,
+                    "szep": "Zsolt 136,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki megvert nagy királyokat,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113601800,
+                    "szep": "Zsolt 136,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "És megölt hatalmas királyokat,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113601900,
+                    "szep": "Zsolt 136,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szehont, az amoriták királyát,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113602000,
+                    "szep": "Zsolt 136,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ógot, Básán királyát,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113602100,
+                    "szep": "Zsolt 136,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "S odaadta örökségül földjüket,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113602200,
+                    "szep": "Zsolt 136,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örökségül szolgájának, Izraelnek,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113602300,
+                    "szep": "Zsolt 136,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki megemlékezett rólunk megaláztatásunkban,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113602400,
+                    "szep": "Zsolt 136,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "És megszabadított minket ellenségeinktől,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113602500,
+                    "szep": "Zsolt 136,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki eledelt ad minden testnek,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113602600,
+                    "szep": "Zsolt 136,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjátok az ég Istenét,<br>mert irgalma örökkévaló!"
+            }
+        ]
+    }
+}

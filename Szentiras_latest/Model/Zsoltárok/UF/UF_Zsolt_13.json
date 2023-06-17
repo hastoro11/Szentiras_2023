@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 13"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101300000,
+                    "szep": "Zsolt 13,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12101300100,
+                    "szep": "Zsolt 13,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meddig tart ez, URam? Végképp megfeledkeztél rólam? Meddig rejted el orcádat előlem?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101300200,
+                    "szep": "Zsolt 13,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meddig kell magamban tanakodnom, és bánkódnom szívemben naponként? Meddig kerekedhetik fölém ellenségem?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101300300,
+                    "szep": "Zsolt 13,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tekints rám, hallgass meg, URam, Istenem! Tartsd meg szemem ragyogását, ne jöjjön rám halálos álom!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101300400,
+                    "szep": "Zsolt 13,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne mondhassa ellenségem: Végeztem vele! Ne ujjonghassanak ellenfeleim, hogy ingadozom!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101300500,
+                    "szep": "Zsolt 13,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert én hűségedben bízom, szívből ujjongok, hogy megsegítesz. Éneklek az ÚRnak, mert jót tett velem."
+            }
+        ]
+    }
+}

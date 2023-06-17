@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 150"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12115000100,
+                    "szep": "Zsolt 150,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek az URat! Dicsérjétek Istent szentélyében, dicsérjétek a hatalmas égboltozaton!"
+            },
+            {
+                "hely": {
+                    "gepi": 12115000200,
+                    "szep": "Zsolt 150,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek hatalmas tetteiért, dicsérjétek nagyságához méltóan!"
+            },
+            {
+                "hely": {
+                    "gepi": 12115000300,
+                    "szep": "Zsolt 150,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek kürtzengéssel, dicsérjétek lanttal és hárfával!"
+            },
+            {
+                "hely": {
+                    "gepi": 12115000400,
+                    "szep": "Zsolt 150,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek dobbal, körtáncot járva, dicsérjétek citerával és fuvolával!"
+            },
+            {
+                "hely": {
+                    "gepi": 12115000500,
+                    "szep": "Zsolt 150,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek csengő cintányérral, dicsérjétek zengő cintányérral!"
+            },
+            {
+                "hely": {
+                    "gepi": 12115000600,
+                    "szep": "Zsolt 150,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Minden lélek dicsérje az URat! Dicsérjétek az URat!"
+            }
+        ]
+    }
+}

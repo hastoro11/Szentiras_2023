@@ -1,0 +1,143 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 91"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109100100,
+                    "szep": "Zsolt 91,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki a Fölséges védelmében lakik, aki a Mindenható árnyékában él,"
+            },
+            {
+                "hely": {
+                    "gepi": 12109100200,
+                    "szep": "Zsolt 91,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "az így beszél az Úrhoz: Te vagy a váram és a menedékem, Istenem, benned bízom!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109100300,
+                    "szep": "Zsolt 91,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő szabadít ki az életedre törő vadász csapdájából."
+            },
+            {
+                "hely": {
+                    "gepi": 12109100400,
+                    "szep": "Zsolt 91,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szárnyaival oltalmaz, tollai alatt menedékre lelsz, hűsége a védőpajzsod."
+            },
+            {
+                "hely": {
+                    "gepi": 12109100500,
+                    "szep": "Zsolt 91,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem kell félned az éji kísértettől, sem a nappal repülő nyilaktól;"
+            },
+            {
+                "hely": {
+                    "gepi": 12109100600,
+                    "szep": "Zsolt 91,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "sem a sötétben terjedő ragálytól, sem a fényes nappal kitörő dögvésztől."
+            },
+            {
+                "hely": {
+                    "gepi": 12109100700,
+                    "szep": "Zsolt 91,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "S ha ezren esnek is el oldaladon, a jobbod felől tízezren, téged nem találnak el."
+            },
+            {
+                "hely": {
+                    "gepi": 12109100800,
+                    "szep": "Zsolt 91,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Saját szemeddel láthatod majd, látni fogod a bosszút a bűnösökön."
+            },
+            {
+                "hely": {
+                    "gepi": 12109100900,
+                    "szep": "Zsolt 91,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te, aki így beszélsz: az Úr a menedékem, te, aki a Fölségest hívtad oltalmadra."
+            },
+            {
+                "hely": {
+                    "gepi": 12109101000,
+                    "szep": "Zsolt 91,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így nem ér semmi baj, csapás nem közelít sátradhoz."
+            },
+            {
+                "hely": {
+                    "gepi": 12109101100,
+                    "szep": "Zsolt 91,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert elküldi angyalait hozzád, hogy védelmezzenek minden utadon."
+            },
+            {
+                "hely": {
+                    "gepi": 12109101200,
+                    "szep": "Zsolt 91,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "A kezükön hordoznak majd téged, nehogy kőbe botoljék a lábad."
+            },
+            {
+                "hely": {
+                    "gepi": 12109101300,
+                    "szep": "Zsolt 91,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Oroszlánok és kígyók között lépdelsz, oroszlánkölyköt és sárkányt tiporsz el."
+            },
+            {
+                "hely": {
+                    "gepi": 12109101400,
+                    "szep": "Zsolt 91,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "„Hű volt hozzám, azért megmentem, védelmezem, mert ismeri nevemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12109101500,
+                    "szep": "Zsolt 91,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha hozzám fordul, meghallgatom, minden szükségben közel vagyok hozzá, megszabadítom és dicsőséget szerzek neki."
+            },
+            {
+                "hely": {
+                    "gepi": 12109101600,
+                    "szep": "Zsolt 91,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Napok teljességével áldom meg és megmutatom neki üdvösségemet.”"
+            }
+        ]
+    }
+}

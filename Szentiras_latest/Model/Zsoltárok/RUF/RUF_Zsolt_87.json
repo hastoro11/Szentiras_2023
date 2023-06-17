@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 87"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108700000,
+                    "szep": "Zsolt 87,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kórah fiainak zsoltáréneke."
+            },
+            {
+                "hely": {
+                    "gepi": 12108700100,
+                    "szep": "Zsolt 87,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szent hegyen alapította"
+            },
+            {
+                "hely": {
+                    "gepi": 12108700200,
+                    "szep": "Zsolt 87,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "az ÚR Sion kapuit: jobban szereti Jákób minden lakóhelyénél."
+            },
+            {
+                "hely": {
+                    "gepi": 12108700300,
+                    "szep": "Zsolt 87,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicső dolgokat beszélnek rólad, Isten városa! (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12108700400,
+                    "szep": "Zsolt 87,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egyiptomot és Babilóniát azok között fogom említeni, akik ismernek engem. Filiszteának, Tírusznak és Etiópiának itt van a szülőhazája."
+            },
+            {
+                "hely": {
+                    "gepi": 12108700500,
+                    "szep": "Zsolt 87,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sionról pedig ezt mondják: Mindegyiküknek ez a szülőhazája, a Felséges szilárdítja meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12108700600,
+                    "szep": "Zsolt 87,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR számba veszi a népeket, amikor beírja őket: Itt van a szülőhazájuk. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12108700700,
+                    "szep": "Zsolt 87,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Körtáncban éneklik: Minden forrásom belőled fakad."
+            }
+        ]
+    }
+}

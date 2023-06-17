@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 101"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12110100000,
+                    "szep": "Zsolt 101,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Dávid zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12110100100,
+                    "szep": "Zsolt 101,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jóságodról és igazságosságodról énekelek, hárfán játszom előtted, Uram!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110100200,
+                    "szep": "Zsolt 101,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ártatlanság útján akarok járni, mikor jössz már hozzám? Tiszta szívvel akarok élni házamban,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110100300,
+                    "szep": "Zsolt 101,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "szemem nem nézi azt, ami bűnre vinne. Gyűlölöm, aki gonoszat művel, s nem tartok vele közösséget."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100400,
+                    "szep": "Zsolt 101,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az álnok szív maradjon távol tőlem, nem ismerem azt, ami gonosz."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100500,
+                    "szep": "Zsolt 101,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki titokban rágalmazza embertársát, azt elveszítem. A fennhéjázót és a felfuvalkodottat nem tűröm."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100600,
+                    "szep": "Zsolt 101,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szemem megkeresi a hűségeseket a földön, ők laknak majd velem. Aki egyenes úton jár, az legyen a szolgám,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110100700,
+                    "szep": "Zsolt 101,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "nem lakhat házamban, aki hamisságra hajlik. Aki hazugságot beszél, nem áll meg színem előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100800,
+                    "szep": "Zsolt 101,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Reggelenként megsemmisítem az ország bűnöseit, száműzöm az Úr városából a gonoszakat mind."
+            }
+        ]
+    }
+}

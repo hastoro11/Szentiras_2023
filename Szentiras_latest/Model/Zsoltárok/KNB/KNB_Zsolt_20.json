@@ -1,0 +1,110 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 20"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102000000,
+                    "szep": "Zsolt 20,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Királyzsoltár a fogság előtti időkből. A király éppen háborúzni készül. Ital- és ételáldozatot mutat be a templomban, hogy Jahve jóindulatát biztosítsa (vö. 1 Sám 7,9)."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Dávid zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12102000100,
+                    "szep": "Zsolt 20,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Áldozatbemutatás közben kórus zengi a közbenjáró könyörgést."
+                    }
+                ],
+                "szoveg": "A szorongatás napján hallgasson meg téged az Úr,<br>oltalmazzon meg Jákob Istenének neve!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102000200,
+                    "szep": "Zsolt 20,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Küldjön neked szentélyéből segítséget,<br>és Sionból nyújtson védelmet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102000300,
+                    "szep": "Zsolt 20,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emlékezzék meg minden áldozatodról,<br>és találja égő áldozatodat kövérnek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102000400,
+                    "szep": "Zsolt 20,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bánjon veled szíved szerint,<br>és váltsa valóra minden tervedet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102000500,
+                    "szep": "Zsolt 20,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hadd örvendjünk szabadításodnak,<br>hadd emeljünk zászlót Istenünk nevében!<br>Teljesítse az Úr minden kérésedet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102000600,
+                    "szep": "Zsolt 20,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Már tudom: fölkentjének az Úr győzelmet adott;<br>Szent egéből meghallgatta,<br>hatalmas jobbja megsegíti."
+            },
+            {
+                "hely": {
+                    "gepi": 12102000700,
+                    "szep": "Zsolt 20,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezek harci szekereikben, azok lovaikban,<br>mi pedig az Úr, a mi Istenünk nevében keresünk segítséget."
+            },
+            {
+                "hely": {
+                    "gepi": 12102000800,
+                    "szep": "Zsolt 20,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ők lehanyatlanak és elhullanak,<br>mi azonban fölkeltünk és állunk szilárdan."
+            },
+            {
+                "hely": {
+                    "gepi": 12102000900,
+                    "szep": "Zsolt 20,9"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A görög szöveg szerint javítva (a héber szövegben: Uram, adj nekem győzelmet!)."
+                    }
+                ],
+                "szoveg": "Uram, tartsd meg a királyt,<br>és hallgass meg azon napon, amelyen hozzád kiáltunk!"
+            }
+        ]
+    }
+}

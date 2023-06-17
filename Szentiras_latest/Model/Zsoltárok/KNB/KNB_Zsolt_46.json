@@ -1,0 +1,135 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 46"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104600000,
+                    "szep": "Zsolt 46,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ún. Sion-ének, amely Szanherib sikertelen jeruzsálemi megszállására vonatkozik (Kr. e. 701, vö. Iz 36,1-37,38). Témája az Istenbe vetett bizalom."
+                    },
+                    {
+                        "position": null,
+                        "text": "Kóré fiai: vö. a 42,1-49,21."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Kóré fiaitól.<br>A »Szüzek« szerint. Ének.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12104600100,
+                    "szep": "Zsolt 46,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Isten népével van, a természeti katasztrófákon is átsegíti."
+                    }
+                ],
+                "szoveg": "Menedékünk és erőnk az Isten,<br>a ránk zúdult számos bajban ő a mi segítőnk."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600200,
+                    "szep": "Zsolt 46,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem félünk tehát, rendüljön bár meg a föld,<br>merüljenek bár a tenger mélyére a hegyek."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600300,
+                    "szep": "Zsolt 46,3"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A görög szövegben itt is van egy refrén (vö. 8-12. versek), amely a héber szövegből hiányzik. Egyes kutatók úgy vélik, hogy az idők során másolási gondatlanságból maradt ki."
+                    }
+                ],
+                "szoveg": "Zúgjanak bár és háborogjanak vizei,<br>rendüljenek meg bár erejétől a hegyek."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600400,
+                    "szep": "Zsolt 46,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Folyó árja örvendezteti meg Isten városát,<br>a Fölséges megszentelt hajlékát."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600500,
+                    "szep": "Zsolt 46,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten lakik benne: nem inog meg,<br>mielőtt megvirrad, megsegíti őt Isten."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600600,
+                    "szep": "Zsolt 46,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nemzetek háborogtak, országok inogtak,<br>de ő hangját hallatta és megrendült a föld."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600700,
+                    "szep": "Zsolt 46,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Velünk van a seregek Ura,<br>Jákob Istene a mi menedékünk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104600800,
+                    "szep": "Zsolt 46,8"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A »föld« (9.10.11): a Bibliában hol az egész földet jelöli, hol azt a földet (országot), ahol Isten népe él."
+                    }
+                ],
+                "szoveg": "Jöjjetek és lássátok az Úr műveit,<br>csodáit, amelyeket a földön végbevitt.<br>Megszünteti a háborúkat mindenütt a föld széléig,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104600900,
+                    "szep": "Zsolt 46,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "széttöri az íjakat és összezúzza a fegyvereket,<br>tűzben égeti el a pajzsokat."
+            },
+            {
+                "hely": {
+                    "gepi": 12104601000,
+                    "szep": "Zsolt 46,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Álljatok meg és lássátok, hogy én vagyok az Isten:<br>magasztalni fognak engem a nemzeteknek,<br>s magasztalni fog a föld."
+            },
+            {
+                "hely": {
+                    "gepi": 12104601100,
+                    "szep": "Zsolt 46,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Velünk van a seregek Ura,<br>Jákob Istene a mi menedékünk!"
+            }
+        ]
+    }
+}

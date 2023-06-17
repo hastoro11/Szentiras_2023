@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 32"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103200000,
+                    "szep": "Zsolt 32,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid tanítása."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200100,
+                    "szep": "Zsolt 32,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog az, a kinek hamissága megbocsáttatott, vétke elfedeztetett."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200200,
+                    "szep": "Zsolt 32,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog ember az, a kinek az Úr bűnt nem tulajdonít, és lelkében csalárdság nincsen."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200300,
+                    "szep": "Zsolt 32,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Míg elhallgatám, megavultak csontjaim a napestig való jajgatás miatt."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200400,
+                    "szep": "Zsolt 32,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Míg éjjel-nappal rám nehezedék kezed, életerőm ellankadt, mintegy a nyár hevében. Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200500,
+                    "szep": "Zsolt 32,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vétkemet bevallám néked, bűnömet el nem fedeztem. Azt mondtam: Bevallom hamisságomat az Úrnak - és te elvetted rólam bűneimnek terhét. Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200600,
+                    "szep": "Zsolt 32,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azért hozzád fohászkodjék minden kegyes, alkalmas időben. Bár a nagy vizek áradnának, nem juthatnak azok el ő hozzá."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200700,
+                    "szep": "Zsolt 32,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te vagy oltalmam, te mentesz meg veszedelemtől; végy körül engem a szabadulás örömével! Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200800,
+                    "szep": "Zsolt 32,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bölcscsé teszlek és megtanítlak téged az útra, a melyen járj; szemeimmel tanácsollak téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200900,
+                    "szep": "Zsolt 32,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne legyetek oktalanok, mint a ló, mint az öszvér, a melyeknek kantárral és zabolával kell szorítani az állát, mert nem közelít hozzád."
+            },
+            {
+                "hely": {
+                    "gepi": 12103201000,
+                    "szep": "Zsolt 32,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sok bánata van a gonosznak, de a ki bízik az Úrban, kegyelemmel veszi azt körül."
+            },
+            {
+                "hely": {
+                    "gepi": 12103201100,
+                    "szep": "Zsolt 32,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örüljetek az Úrban, vigadozzatok ti igazak! Örvendezzetek mindnyájan ti egyeneslelkűek!"
+            }
+        ]
+    }
+}

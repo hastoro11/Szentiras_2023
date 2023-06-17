@@ -1,0 +1,159 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 45"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104500000,
+                    "szep": "Zsolt 45,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek a sosannimra, Kóráh fiainak tanítása; ének a szerelmetesről."
+            },
+            {
+                "hely": {
+                    "gepi": 12104500100,
+                    "szep": "Zsolt 45,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fölbuzog szívem szép beszédre. Mondom: művem a királynak szól. Nyelvem gyors írónak tolla."
+            },
+            {
+                "hely": {
+                    "gepi": 12104500200,
+                    "szep": "Zsolt 45,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szebb, szebb vagy az ember fiainál, kedvesség ömledez ajakidon, azért áldott meg az Isten örökké."
+            },
+            {
+                "hely": {
+                    "gepi": 12104500300,
+                    "szep": "Zsolt 45,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kösd derekadra kardodat vitéz! Dicsőségedet és ékességedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12104500400,
+                    "szep": "Zsolt 45,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "És ékességedben haladj diadallal az igazságért, a szelidségért és jogért, és rettenetesre tanítson meg téged a te jobb kezed."
+            },
+            {
+                "hely": {
+                    "gepi": 12104500500,
+                    "szep": "Zsolt 45,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyilaid élesek; népek hullanak alád; a király ellenségeinek szívében."
+            },
+            {
+                "hely": {
+                    "gepi": 12104500600,
+                    "szep": "Zsolt 45,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Trónod oh Isten örökkévaló; igazságnak pálczája a te királyságodnak pálczája."
+            },
+            {
+                "hely": {
+                    "gepi": 12104500700,
+                    "szep": "Zsolt 45,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szereted az igazságot, gyűlölöd a gonoszságot, azért kent fel Isten, a te Istened öröm olajával társaid fölé."
+            },
+            {
+                "hely": {
+                    "gepi": 12104500800,
+                    "szep": "Zsolt 45,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mirrha, áloe, kácziaillatú minden öltözeted; elefántcsont palotából zeneszóval vidámítnak téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12104500900,
+                    "szep": "Zsolt 45,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Királyok leányai a te ékességeid; jobb kezed felől királyné áll ofiri aranyban."
+            },
+            {
+                "hely": {
+                    "gepi": 12104501000,
+                    "szep": "Zsolt 45,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Halld csak leány, nézd csak; hajtsd ide füledet! Feledd el népedet és az atyád házát."
+            },
+            {
+                "hely": {
+                    "gepi": 12104501100,
+                    "szep": "Zsolt 45,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szépségedet a király kivánja; hiszen urad ő, hódolj hát néki!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104501200,
+                    "szep": "Zsolt 45,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tyrus leánya is, a nép dúsai, ajándékkal hizelegnek néked."
+            },
+            {
+                "hely": {
+                    "gepi": 12104501300,
+                    "szep": "Zsolt 45,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csupa ékesség a király leánya bent, vont aranyból van a ruhája."
+            },
+            {
+                "hely": {
+                    "gepi": 12104501400,
+                    "szep": "Zsolt 45,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hímes öltözetben viszik a királyhoz, szűzek vonulnak utána, az ő társnői; néked hozzák őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12104501500,
+                    "szep": "Zsolt 45,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bevezetik őket örömmel, vígsággal; bemennek a király palotájába."
+            },
+            {
+                "hely": {
+                    "gepi": 12104501600,
+                    "szep": "Zsolt 45,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Atyáid helyett fiaid lesznek, megteszed őket fejedelmekké mind az egész földön."
+            },
+            {
+                "hely": {
+                    "gepi": 12104501700,
+                    "szep": "Zsolt 45,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hadd hirdessem a te nevedet nemzedékről nemzedékre; örökkön örökké dicsérnek majd téged a népek!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,215 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 31"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103100000,
+                    "szep": "Zsolt 31,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12103100100,
+                    "szep": "Zsolt 31,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hozzád menekülök, URam, ne szégyenüljek meg soha! Ments meg engem irgalmasan!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103100200,
+                    "szep": "Zsolt 31,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fordítsd felém füledet, siess, ments meg engem! Légy erős kősziklám, erős váram, segíts rajtam!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103100300,
+                    "szep": "Zsolt 31,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert te vagy az én sziklaváram; vezess és terelgess engem nevedért!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103100400,
+                    "szep": "Zsolt 31,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szabadíts ki a hálóból, amelyet titkon vetettek nekem, mert te vagy az erősségem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103100500,
+                    "szep": "Zsolt 31,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kezedre bízom lelkemet, te váltasz meg engem, URam, igaz Isten!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103100600,
+                    "szep": "Zsolt 31,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gyűlölöm a hitvány bálványok híveit, mert én csak az ÚRban bízom."
+            },
+            {
+                "hely": {
+                    "gepi": 12103100700,
+                    "szep": "Zsolt 31,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ujjongva örülök hűségednek, mert látod nyomorúságomat, ismered lelkem szorongásait."
+            },
+            {
+                "hely": {
+                    "gepi": 12103100800,
+                    "szep": "Zsolt 31,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem adtál ellenség kezébe, hanem tágas térre állítottad lábamat."
+            },
+            {
+                "hely": {
+                    "gepi": 12103100900,
+                    "szep": "Zsolt 31,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Légy kegyelmes, URam, mert bajban vagyok, szemem elhomályosodott a bánattól, odavan testem-lelkem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103101000,
+                    "szep": "Zsolt 31,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gond miatt vége lesz életemnek, a sóhajtozás miatt esztendeimnek. Bűnöm miatt megrokkant az erőm, csontjaim sorvadoznak."
+            },
+            {
+                "hely": {
+                    "gepi": 12103101100,
+                    "szep": "Zsolt 31,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Minden ellenségem gyaláz engem, szomszédaim félnek, ismerőseim megrettennek, ha látnak az utcán, elfutnak előlem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103101200,
+                    "szep": "Zsolt 31,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elfelejtettek, mintha meghaltam volna, olyan lettem, mint egy kallódó tárgy."
+            },
+            {
+                "hely": {
+                    "gepi": 12103101300,
+                    "szep": "Zsolt 31,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert hallom sokak suttogását: Iszonyú baj van vele! Rólam tanácskoznak egymás közt, el akarják venni az életemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12103101400,
+                    "szep": "Zsolt 31,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "De én bízom benned, URam, vallom: Te vagy Istenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103101500,
+                    "szep": "Zsolt 31,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kezedben van sorsom, ments meg ellenségeim és üldözőim kezéből!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103101600,
+                    "szep": "Zsolt 31,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ragyogjon rá orcád szolgádra, segíts rajtam hűségesen!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103101700,
+                    "szep": "Zsolt 31,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, ne szégyenüljek meg, ha hívlak téged! Szégyenüljenek meg a bűnösök, tűnjenek el a holtak hazájában!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103101800,
+                    "szep": "Zsolt 31,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Némuljanak el a hazug ajkak, amelyek kihívóan, gőgösen és megvetően beszélnek az igazról!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103101900,
+                    "szep": "Zsolt 31,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Milyen nagy a te jóságod, melyet a téged félőknek tartogatsz! Ebben részesíted a hozzád menekülőket minden ember szeme láttára."
+            },
+            {
+                "hely": {
+                    "gepi": 12103102000,
+                    "szep": "Zsolt 31,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jól elrejted őket magadnál az emberek áskálódása elől. Megőrzöd őket sátradban a perlekedő nyelvektől."
+            },
+            {
+                "hely": {
+                    "gepi": 12103102100,
+                    "szep": "Zsolt 31,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott az ÚR, aki csodálatos hűséggel bánt velem az ostromlott városban!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103102200,
+                    "szep": "Zsolt 31,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én már azt gondoltam ijedtemben, hogy eltaszítottál magadtól. De te meghallgattad könyörgő szavamat, amikor hozzád kiáltottam segítségért."
+            },
+            {
+                "hely": {
+                    "gepi": 12103102300,
+                    "szep": "Zsolt 31,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szeressétek az URat, ti, hívei mind! Az állhatatosokat megtartja az ÚR, de kamatostul megfizet a gőgösöknek."
+            },
+            {
+                "hely": {
+                    "gepi": 12103102400,
+                    "szep": "Zsolt 31,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Legyetek erősek és bátor szívűek mind, akik az ÚRban reménykedtek!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 137"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113700100,
+                    "szep": "Zsolt 137,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Babilon folyóvizeinél, ott ültünk és sírtunk, mikor a Sionról megemlékezénk."
+            },
+            {
+                "hely": {
+                    "gepi": 12113700200,
+                    "szep": "Zsolt 137,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "A fűzfákra, közepette, oda függesztettük hárfáinkat,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700300,
+                    "szep": "Zsolt 137,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert énekszóra nógattak ott elfogóink, kínzóink pedig víg dalra, mondván: Énekeljetek nékünk a Sion énekei közül!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700400,
+                    "szep": "Zsolt 137,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogyan énekelnők az Úrnak énekét idegen földön?!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700500,
+                    "szep": "Zsolt 137,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha elfelejtkezem rólad, Jeruzsálem felejtkezzék el rólam az én jobbkezem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700600,
+                    "szep": "Zsolt 137,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyelvem ragadjon az ínyemhez, ha meg nem emlékezem rólad; ha nem Jeruzsálemet tekintem az én vígasságom fejének!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700700,
+                    "szep": "Zsolt 137,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emlékezzél meg, Uram, az Edom fiairól, a kik azt mondták Jeruzsálem napján: Rontsátok le, rontsátok le fenékig!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700800,
+                    "szep": "Zsolt 137,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Babilon leánya, te pusztulóra vált! Áldott legyen a ki megfizet néked gonoszságodért, a melylyel te fizettél nékünk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700900,
+                    "szep": "Zsolt 137,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott legyen, a ki megragadja és sziklához paskolja kisdedeidet!"
+            }
+        ]
+    }
+}

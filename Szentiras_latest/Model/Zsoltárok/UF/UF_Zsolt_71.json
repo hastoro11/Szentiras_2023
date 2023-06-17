@@ -1,0 +1,207 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 71"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107100100,
+                    "szep": "Zsolt 71,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hozzád menekülök, URam, ne szégyenüljek meg soha!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107100200,
+                    "szep": "Zsolt 71,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ments meg, szabadíts meg irgalmasan! Fordítsd felém füledet, és segíts meg!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107100300,
+                    "szep": "Zsolt 71,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Légy erős kősziklám, ahova mindig mehetek, melyet segítségemre rendeltél, mert te vagy az én sziklaváram."
+            },
+            {
+                "hely": {
+                    "gepi": 12107100400,
+                    "szep": "Zsolt 71,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, ments meg a bűnösök kezéből, az álnok és erőszakos emberek markából!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107100500,
+                    "szep": "Zsolt 71,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert te vagy, Uram, reménységem, te vagy, URam, bizodalmam ifjúkorom óta."
+            },
+            {
+                "hely": {
+                    "gepi": 12107100600,
+                    "szep": "Zsolt 71,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te voltál támaszom születésem óta, te hoztál ki anyám méhéből, téged dicsérlek szüntelen."
+            },
+            {
+                "hely": {
+                    "gepi": 12107100700,
+                    "szep": "Zsolt 71,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sokan csodálkoznak rajtam, mert te vagy erős oltalmam."
+            },
+            {
+                "hely": {
+                    "gepi": 12107100800,
+                    "szep": "Zsolt 71,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szám dicséreteddel van tele, dicsőítlek mindennap."
+            },
+            {
+                "hely": {
+                    "gepi": 12107100900,
+                    "szep": "Zsolt 71,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Öregkoromban se vess el engem, ha elfogy az erőm, ne hagyj el!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107101000,
+                    "szep": "Zsolt 71,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ellenségeim azt mondják rólam, akik életemre törnek, így tanácskoznak:"
+            },
+            {
+                "hely": {
+                    "gepi": 12107101100,
+                    "szep": "Zsolt 71,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elhagyta őt Isten, üldözzétek, fogjátok meg, mert nincs, aki megmentse!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107101200,
+                    "szep": "Zsolt 71,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ó Isten, ne légy távol tőlem, Istenem, siess segítségemre!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107101300,
+                    "szep": "Zsolt 71,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megszégyenülve vesszenek el, akik ellenem támadnak! Borítsa szégyen és gyalázat azokat, akik vesztemre törnek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107101400,
+                    "szep": "Zsolt 71,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én pedig szüntelenül remélek, és folyton dicsérlek téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12107101500,
+                    "szep": "Zsolt 71,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igazságodról beszél a szám és szabadító tetteidről mindennap, bár nem tudom felsorolni őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12107101600,
+                    "szep": "Zsolt 71,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚRnak, az én Uramnak nagy tetteit hirdetem, egyedül a te igazságodat emlegetem."
+            },
+            {
+                "hely": {
+                    "gepi": 12107101700,
+                    "szep": "Zsolt 71,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, te tanítottál ifjúkorom óta, mindmáig hirdetem csodáidat."
+            },
+            {
+                "hely": {
+                    "gepi": 12107101800,
+                    "szep": "Zsolt 71,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, ne hagyj el késő vénségemben sem, míg csak hirdethetem hatalmadat, nagy tetteidet a jövő nemzedéknek."
+            },
+            {
+                "hely": {
+                    "gepi": 12107101900,
+                    "szep": "Zsolt 71,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, igazságod a magas égig ér, mert hatalmas dolgokat vittél véghez. Van-e hozzád hasonló, Istenem?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107102000,
+                    "szep": "Zsolt 71,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sok nyomorúságot és bajt láttattál velem, de újra megelevenítesz, még a föld mélyéből is újra fölhozol engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12107102100,
+                    "szep": "Zsolt 71,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igen naggyá teszel, hozzám fordulsz, és megvigasztalsz."
+            },
+            {
+                "hely": {
+                    "gepi": 12107102200,
+                    "szep": "Zsolt 71,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én is magasztallak hárfával, hűségedért, Istenem! Lantot pengetve éneklek neked, Izráel Szentje!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107102300,
+                    "szep": "Zsolt 71,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ujjong az ajkam, ha tenéked zenghet, lelkem is, amelyet megváltottál."
+            },
+            {
+                "hely": {
+                    "gepi": 12107102400,
+                    "szep": "Zsolt 71,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyelvem is mindennap emlegeti igazságodat, mert szégyen és gyalázat érte azokat, akik vesztemre törtek."
+            }
+        ]
+    }
+}

@@ -92,8 +92,14 @@ struct ChapterView: View {
                 
             } else {
                 ForEach(chapter.verses) { vers in
-                    VersRow(index: vers.versIndex, text: vers.text)
-                        .font(.system(size: fontSizes[fontSizeIndex]))
+                    if vers.versIndex == 0 {
+                        Text(vers.text)
+                            .fontWeight(.light)
+                            .italic()
+                    } else {
+                        VersRow(index: vers.versIndex, text: vers.text)
+                            .font(.system(size: fontSizes[fontSizeIndex]))
+                    }
                 }
             }
         }

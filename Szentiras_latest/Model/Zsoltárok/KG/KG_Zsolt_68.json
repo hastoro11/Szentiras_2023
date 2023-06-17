@@ -1,0 +1,303 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 68"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106800000,
+                    "szep": "Zsolt 68,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek; Dávid zsoltára, éneke."
+            },
+            {
+                "hely": {
+                    "gepi": 12106800100,
+                    "szep": "Zsolt 68,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Felkél az Isten, elszélednek ellenségei; és elfutnak előle az ő gyűlölői."
+            },
+            {
+                "hely": {
+                    "gepi": 12106800200,
+                    "szep": "Zsolt 68,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "A mint a füst elszéled, úgy széleszted el őket; a mint elolvad a viasz a tűz előtt, úgy vesznek el a gonoszok Isten elől;"
+            },
+            {
+                "hely": {
+                    "gepi": 12106800300,
+                    "szep": "Zsolt 68,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az igazak pedig örvendeznek és vígadnak az Isten előtt, és ujjongnak örömmel."
+            },
+            {
+                "hely": {
+                    "gepi": 12106800400,
+                    "szep": "Zsolt 68,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Énekeljetek Istennek, zengedezzetek az ő nevének; csináljatok útat annak, a ki jön a pusztákon át, a kinek Jah a neve, és örüljetek előtte."
+            },
+            {
+                "hely": {
+                    "gepi": 12106800500,
+                    "szep": "Zsolt 68,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Árváknak atyja, özvegyeknek bírája az Isten az ő szentséges hajlékában."
+            },
+            {
+                "hely": {
+                    "gepi": 12106800600,
+                    "szep": "Zsolt 68,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten hozza vissza a száműzötteket, kihozza boldogságra a foglyokat; csak az engedetlenek lakoznak sivatag helyen."
+            },
+            {
+                "hely": {
+                    "gepi": 12106800700,
+                    "szep": "Zsolt 68,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Oh Isten, mikor kivonultál a te néped előtt, mikor a pusztába beléptél: Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12106800800,
+                    "szep": "Zsolt 68,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "A föld reng vala, az egek is csepegnek vala Isten előtt, ez a Sinai hegy is az Isten előtt, az Izráel Istene előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12106800900,
+                    "szep": "Zsolt 68,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bő záport hintesz vala, oh Isten, a te örökségedre, s a lankadót megújítod vala."
+            },
+            {
+                "hely": {
+                    "gepi": 12106801000,
+                    "szep": "Zsolt 68,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Benne tanyázott a te gyülekezeted: te szerzéd jóvoltodból a szegénynek, oh Isten!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106801100,
+                    "szep": "Zsolt 68,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr ad vala szólniok az örömhírt vivő asszonyok nagy csapatának."
+            },
+            {
+                "hely": {
+                    "gepi": 12106801200,
+                    "szep": "Zsolt 68,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "A seregek királyai futnak, futnak: s a házi asszony zsákmányt osztogat."
+            },
+            {
+                "hely": {
+                    "gepi": 12106801300,
+                    "szep": "Zsolt 68,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha cserények között hevertek is: olyanok lesztek, mint a galambnak szárnyai, a melyeket ezüst borít, vagy mint vitorla-tollai, a melyek színarany fényűek."
+            },
+            {
+                "hely": {
+                    "gepi": 12106801400,
+                    "szep": "Zsolt 68,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mikor a Mindenható szétszórta benne a királyokat, mintha hó esett volna a Salmonon."
+            },
+            {
+                "hely": {
+                    "gepi": 12106801500,
+                    "szep": "Zsolt 68,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten hegye a Básán hegye; sok halmú hegy a Básán hegye;"
+            },
+            {
+                "hely": {
+                    "gepi": 12106801600,
+                    "szep": "Zsolt 68,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mit kevélykedtek ti sok halmú hegyek? Ezt a hegyet választotta Isten lakóhelyéül; bizony ezen lakozik az Úr mindörökké!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106801700,
+                    "szep": "Zsolt 68,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Isten szekere húszezer, ezer meg ezer; az Úr közöttük van, mint a Sinai hegyen az ő szent hajlékában."
+            },
+            {
+                "hely": {
+                    "gepi": 12106801800,
+                    "szep": "Zsolt 68,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Felmentél a magasságba, foglyokat vezettél, adományokat fogadtál emberekben: még a pártütők is ide jönnek lakni, oh Uram Isten!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106801900,
+                    "szep": "Zsolt 68,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott legyen az Úr! Napról-napra gondoskodik rólunk a mi szabadításunk Istene! Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12106802000,
+                    "szep": "Zsolt 68,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ez a mi Istenünk a szabadításnak Istene, és az Úr Isten az, a ki megszabadít a haláltól."
+            },
+            {
+                "hely": {
+                    "gepi": 12106802100,
+                    "szep": "Zsolt 68,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak Isten ronthatja meg az ő ellenségeinek fejét, a bűneiben járónak üstökös koponyáját."
+            },
+            {
+                "hely": {
+                    "gepi": 12106802200,
+                    "szep": "Zsolt 68,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azt mondta vala az Úr: Básánból visszahozlak, a tenger mélységéből is kihozlak,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106802300,
+                    "szep": "Zsolt 68,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy lábadat veresre fessed a vérben, ebeidnek nyelve az ellenségből lakomázzék."
+            },
+            {
+                "hely": {
+                    "gepi": 12106802400,
+                    "szep": "Zsolt 68,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Látták a te bevonulásodat, oh Isten! Az én Istenem, királyom bevonulását a szentélybe."
+            },
+            {
+                "hely": {
+                    "gepi": 12106802500,
+                    "szep": "Zsolt 68,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elől mennek vala az éneklők, utánok a húrpengetők, középen a doboló leányok."
+            },
+            {
+                "hely": {
+                    "gepi": 12106802600,
+                    "szep": "Zsolt 68,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gyülekezetekben áldjátok az Istent, az Urat áldjátok, ti Izráel magvából valók!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106802700,
+                    "szep": "Zsolt 68,27"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ott a kis Benjámin, a ki uralkodik rajtok, a Júda fejedelmei és az ő gyülekezetök; a Zebulon fejedelmei és a Nafthali fejedelmei."
+            },
+            {
+                "hely": {
+                    "gepi": 12106802800,
+                    "szep": "Zsolt 68,28"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istened rendelte el a te hatalmadat: erősítsd meg, oh Isten, azt, a mit számunkra készítettél!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106802900,
+                    "szep": "Zsolt 68,29"
+                },
+                "jegyzetek": [],
+                "szoveg": "A te Jeruzsálem felett álló hajlékodból királyok hoznak majd néked ajándékokat."
+            },
+            {
+                "hely": {
+                    "gepi": 12106803000,
+                    "szep": "Zsolt 68,30"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fenyítsd meg a nádasnak vadját, a bikák csordáját a népek tulkaival egybe, a kik ezüst-rudakkal terpeszkednek; szórd szét a népeket, a kik a háborúban gyönyörködnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12106803100,
+                    "szep": "Zsolt 68,31"
+                },
+                "jegyzetek": [],
+                "szoveg": "Eljőnek majd a főemberek Égyiptomból; Szerecsenország hamar kinyujtja kezeit Istenhez."
+            },
+            {
+                "hely": {
+                    "gepi": 12106803200,
+                    "szep": "Zsolt 68,32"
+                },
+                "jegyzetek": [],
+                "szoveg": "E földnek országai mind énekeljetek Istennek: zengjetek dicséretet az Úrnak! Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12106803300,
+                    "szep": "Zsolt 68,33"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki kezdettől fogva az egek egein ül; ímé, onnét szól nagy kemény szóval."
+            },
+            {
+                "hely": {
+                    "gepi": 12106803400,
+                    "szep": "Zsolt 68,34"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tegyetek tisztességet Istennek, a kinek dicsősége az Izráelen és az ő hatalma a felhőkben van."
+            },
+            {
+                "hely": {
+                    "gepi": 12106803500,
+                    "szep": "Zsolt 68,35"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rettenetes vagy, oh Isten, a te szent hajlékodból; az Izráelnek Istene ád erőt és hatalmat a népnek. Áldott legyen az Isten!"
+            }
+        ]
+    }
+}

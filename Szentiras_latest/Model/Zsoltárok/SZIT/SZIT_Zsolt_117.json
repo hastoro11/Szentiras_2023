@@ -1,0 +1,31 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 117"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111700100,
+                    "szep": "Zsolt 117,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Alleluja!) Áldja az Urat minden nép, minden törzs dicsőítse!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111700200,
+                    "szep": "Zsolt 117,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert kegyelme hathatósan működik bennünk, és hűsége megmarad örökké."
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 12"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101200000,
+                    "szep": "Zsolt 12,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek a seminithre; Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12101200100,
+                    "szep": "Zsolt 12,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segíts Uram, mert elfogyott a kegyes, mert eltüntek a hívek az emberek fiai közül."
+            },
+            {
+                "hely": {
+                    "gepi": 12101200200,
+                    "szep": "Zsolt 12,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hamisságot szól egyik a másiknak; hizelkedő ajakkal kettős szívből szólnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12101200300,
+                    "szep": "Zsolt 12,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vágja ki az Úr mind a hizelkedő ajkakat, a nyelvet, a mely nagyokat mond."
+            },
+            {
+                "hely": {
+                    "gepi": 12101200400,
+                    "szep": "Zsolt 12,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A kik ezt mondják: Nyelvünkkel felülkerekedünk, ajkaink velünk vannak; ki lehetne Úr felettünk?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101200500,
+                    "szep": "Zsolt 12,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A szegények elnyomása miatt, a nyomorultak nyögése miatt legott felkelek, azt mondja az Úr; biztosságba helyezem azt, a ki arra vágyik."
+            },
+            {
+                "hely": {
+                    "gepi": 12101200600,
+                    "szep": "Zsolt 12,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr beszédei tiszta beszédek, mint földből való kohóban megolvasztott ezüst, hétszer megtisztítva."
+            },
+            {
+                "hely": {
+                    "gepi": 12101200700,
+                    "szep": "Zsolt 12,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te Uram, tartsd meg őket; őrizd meg őket e nemzetségtől örökké."
+            },
+            {
+                "hely": {
+                    "gepi": 12101200800,
+                    "szep": "Zsolt 12,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Köröskörül járnak a gonoszok, mihelyt az alávalóság felmagasztaltatik az emberek fiai közt."
+            }
+        ]
+    }
+}

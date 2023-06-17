@@ -1,0 +1,71 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 126"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112600000,
+                    "szep": "Zsolt 126,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Zarándokének.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12112600100,
+                    "szep": "Zsolt 126,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Amikor az Úr hazavezette Sion foglyait, úgy tűnt, hogy álmodtuk az egészet."
+            },
+            {
+                "hely": {
+                    "gepi": 12112600200,
+                    "szep": "Zsolt 126,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szánk tele volt nevetéssel, a nyelvünk pedig ujjongással. A pogányok közt ezt mondogatták: „Az Úr nagy dolgot művelt velük!”"
+            },
+            {
+                "hely": {
+                    "gepi": 12112600300,
+                    "szep": "Zsolt 126,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igen, az Úr nagy dolgot tett, s mi mennyire örültünk neki."
+            },
+            {
+                "hely": {
+                    "gepi": 12112600400,
+                    "szep": "Zsolt 126,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fordítsd meg hát, Urunk, sorsunkat, ahogy délen a patakokat változtatod."
+            },
+            {
+                "hely": {
+                    "gepi": 12112600500,
+                    "szep": "Zsolt 126,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akik könnyek között vetnek, örömmel aratnak majd."
+            },
+            {
+                "hely": {
+                    "gepi": 12112600600,
+                    "szep": "Zsolt 126,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sírva mennek előre, míg a magot szórják, de ujjongva jönnek visszafelé és összegyűjtik kévéiket."
+            }
+        ]
+    }
+}

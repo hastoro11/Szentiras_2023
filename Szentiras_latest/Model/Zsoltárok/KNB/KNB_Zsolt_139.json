@@ -1,0 +1,243 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 139"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113900000,
+                    "szep": "Zsolt 139,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egy hitvalló, tanító költemény. A fogság után íródott. Egy bölcs elmélkedése a mindentudó és mindenütt jelenlévő Istenről, a vele való kapcsolatról (fogság alatti vagy fogság utáni)."
+                    },
+                    {
+                        "position": null,
+                        "text": "»Megvizsgál« és »ismer«: a héberben használt szó nem egy emberrel vagy tárggyal való tárgyilagos, távolságtartó foglalkozást jelent, hanem elkötelezett, érzelmi odafordulást."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Dávid zsoltára.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12113900100,
+                    "szep": "Zsolt 139,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egy hitvalló, tanító költemény. A fogság után íródott. Egy bölcs elmélkedése a mindentudó és mindenütt jelenlévő Istenről, a vele való kapcsolatról (fogság alatti vagy fogság utáni)."
+                    },
+                    {
+                        "position": null,
+                        "text": "»Megvizsgál« és »ismer«: a héberben használt szó nem egy emberrel vagy tárggyal való tárgyilagos, távolságtartó foglalkozást jelent, hanem elkötelezett, érzelmi odafordulást."
+                    }
+                ],
+                "szoveg": "Uram, te megvizsgáltál és ismersz engem,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113900200,
+                    "szep": "Zsolt 139,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "tudod, ha leülök és ha fölkelek.<br>Messziről ismered gondolataimat,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113900300,
+                    "szep": "Zsolt 139,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "szemmel tartod akár járok-kelek, akár pihenek.<br>Előre ismered minden utamat."
+            },
+            {
+                "hely": {
+                    "gepi": 12113900400,
+                    "szep": "Zsolt 139,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Még nyelvemen sincs a szó,<br>és te már érted egészen, Uram."
+            },
+            {
+                "hely": {
+                    "gepi": 12113900500,
+                    "szep": "Zsolt 139,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Minden oldalról körülveszel engem,<br>és fölöttem tartod kezedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12113900600,
+                    "szep": "Zsolt 139,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Oly nagy, oly csodálatos nekem ez a tudás:<br>ésszel föl sem érhetem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113900700,
+                    "szep": "Zsolt 139,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hová mehetnék lelked elől,<br>hová bújhatnék színed elől?"
+            },
+            {
+                "hely": {
+                    "gepi": 12113900800,
+                    "szep": "Zsolt 139,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha fölmennék az ég magasába, te ott vagy,<br>ha alászállnék az alvilágba, jelen vagy."
+            },
+            {
+                "hely": {
+                    "gepi": 12113900900,
+                    "szep": "Zsolt 139,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha felölteném a hajnal szárnyát,<br>s a tenger szélső határára szöknék,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113901000,
+                    "szep": "Zsolt 139,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "ott is a te kezed vezetne,<br>és jobbod tartana engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12113901100,
+                    "szep": "Zsolt 139,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mondhatnám: »Borítson be a sötétség,<br>s váljon éjszakává köröttem a fény«,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113901200,
+                    "szep": "Zsolt 139,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "de neked nem sötét a sötétség,<br>s az éj mint a nappal, oly világos előtted.<br>Fény és sötétség közt neked nincs különbség."
+            },
+            {
+                "hely": {
+                    "gepi": 12113901300,
+                    "szep": "Zsolt 139,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen te formáltad bensőm,<br>s anyám méhében te szőtted a testem."
+            },
+            {
+                "hely": {
+                    "gepi": 12113901400,
+                    "szep": "Zsolt 139,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsőítlek téged, mert olyan csodálatosan alkottál,<br>és tudom jól, milyen csodálatos minden műved!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113901500,
+                    "szep": "Zsolt 139,15"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Arra a (mítoszokból ismert) gondolatra céloz, hogy a földanya szülte az embert (vö. Ter 2,7: Isten földből formálta az embert), a zsoltáros azonban ezt a születést is Istenre vezeti vissza. Életünk minden napja és a napok futása őbenne van eltervezve."
+                    }
+                ],
+                "szoveg": "Létem nem volt titokban előtted,<br>amikor a föld ölén rejtve formálódtam."
+            },
+            {
+                "hely": {
+                    "gepi": 12113901600,
+                    "szep": "Zsolt 139,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Még alakot sem nyertek tagjaim és szemed már látott engem.<br>Könyvedben már minden fel volt jegyezve rólam:<br>napjaim már eltervezted,<br>mielőtt egy is eltelt volna belőlük."
+            },
+            {
+                "hely": {
+                    "gepi": 12113901700,
+                    "szep": "Zsolt 139,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Milyen tiszteletreméltók előttem gondolataid, Istenem,<br>milyen hatalmas a számuk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113901800,
+                    "szep": "Zsolt 139,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megszámlálnám őket, de számosabbak a homokszemeknél,<br>s ha végükre is érnék, még mindig csak nálad tartanék."
+            },
+            {
+                "hely": {
+                    "gepi": 12113901900,
+                    "szep": "Zsolt 139,19"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ez a rész nem jól illeszkedik az előzőkhöz. Megfogalmazza a könyörgő ima tulajdonképpeni okát. Egy üldözött panaszkodik, Isten oldalára áll, és a gyűlöletet hasonlóval viszonozza (ius talionis, Lev 24,19-20; Mt 5,38-48)."
+                    }
+                ],
+                "szoveg": "Bárcsak megsemmisítenéd a gonoszokat, Istenem,<br>és eltávolítanád tőlem a vérszomjas embereket,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113902000,
+                    "szep": "Zsolt 139,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "akik gonoszul beszélnek:<br>hiába kelnek föl ellened."
+            },
+            {
+                "hely": {
+                    "gepi": 12113902100,
+                    "szep": "Zsolt 139,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne gyűlöljem, Uram azokat, akik gyűlölnek téged,<br>ne utáljam ellenségeidet?"
+            },
+            {
+                "hely": {
+                    "gepi": 12113902200,
+                    "szep": "Zsolt 139,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Teljes gyűlölettel gyűlölöm őket,<br>ellenségeim lettek."
+            },
+            {
+                "hely": {
+                    "gepi": 12113902300,
+                    "szep": "Zsolt 139,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vizsgálj meg Istenem és ismerd meg szívemet;<br>tégy próbára és ismerd meg utaimat,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113902400,
+                    "szep": "Zsolt 139,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "lásd, vajon a gonoszok útján járok-e,<br>és vezess az örökkévalóság útján engem."
+            }
+        ]
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 63"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106300000,
+                    "szep": "Zsolt 63,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Dávid zsoltára, amikor Júda pusztájában tartózkodott.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12106300100,
+                    "szep": "Zsolt 63,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten, én Istenem, téged kereslek, utánad szomjazik a lelkem! Érted sóvárog a testem, mint a száraz, tikkadt, kiaszott föld."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300200,
+                    "szep": "Zsolt 63,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Téged keres tekintetem a szent sátorban, hogy erődet és dicsőségedet megláthassam."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300300,
+                    "szep": "Zsolt 63,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert kegyelmed többet ér, mint az élet, ajkam dicséretet zeng neked."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300400,
+                    "szep": "Zsolt 63,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztallak egész életemen át, s nevedben emelem imára kezem."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300500,
+                    "szep": "Zsolt 63,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkem eltelik veled, mint zsírral és velővel, s a szám ujjongó örömmel mond dicséretet."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300600,
+                    "szep": "Zsolt 63,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fekhelyemen rólad elmélkedem, éjjel virrasztva feléd száll a lelkem."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300700,
+                    "szep": "Zsolt 63,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Valóban, te lettél gyámolom, szárnyad oltalmában vigadozom."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300800,
+                    "szep": "Zsolt 63,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkem hozzád ragaszkodik, jobbod szilárdan tart engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300900,
+                    "szep": "Zsolt 63,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akik meg akarják rontani életem, azok lekerülnek a földnek mélyébe,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106301000,
+                    "szep": "Zsolt 63,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "kiszolgáltatva a kard hatalmának és zsákmányul a sakáloknak."
+            },
+            {
+                "hely": {
+                    "gepi": 12106301100,
+                    "szep": "Zsolt 63,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "A király azonban Istenben örül, s mind dicsekszik majd, aki rá esküdött, de a hazugok ajka elnémul örökre."
+            }
+        ]
+    }
+}

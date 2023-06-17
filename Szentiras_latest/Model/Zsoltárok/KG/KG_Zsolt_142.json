@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 142"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114200000,
+                    "szep": "Zsolt 142,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid tanítása; imádság a barlangban létekor."
+            },
+            {
+                "hely": {
+                    "gepi": 12114200100,
+                    "szep": "Zsolt 142,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fenszóval hívom az Urat, fenszóval könyörgök az Úrhoz."
+            },
+            {
+                "hely": {
+                    "gepi": 12114200200,
+                    "szep": "Zsolt 142,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kiöntöm előtte panaszomat, kitárom előtte nyomorúságomat,"
+            },
+            {
+                "hely": {
+                    "gepi": 12114200300,
+                    "szep": "Zsolt 142,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mikor elcsügged bennem a lelkem. Te pedig tudod az én ösvényemet, hogy az úton, a melyen járok, tőrt hánytak elém."
+            },
+            {
+                "hely": {
+                    "gepi": 12114200400,
+                    "szep": "Zsolt 142,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tekints jobbra és lásd meg, hogy senki sincsen, a ki ismerne; nincsen számomra menedék; senki sem tudakozódik felőlem."
+            },
+            {
+                "hely": {
+                    "gepi": 12114200500,
+                    "szep": "Zsolt 142,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hívlak téged, oh Uram; s ezt mondom: Te vagy oltalmam és örökségem az élőknek földén;"
+            },
+            {
+                "hely": {
+                    "gepi": 12114200600,
+                    "szep": "Zsolt 142,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Figyelmezz esedezésemre, mert igen nyomorult vagyok! Szabadíts meg engem üldözőimtől, mert hatalmasabbak nálamnál!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114200700,
+                    "szep": "Zsolt 142,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vezesd ki lelkemet a börtönből, hogy magasztaljam a te nevedet! Az igazak vegyenek engem körül, mikor jól teszel majd velem."
+            }
+        ]
+    }
+}

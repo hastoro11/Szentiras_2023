@@ -1,0 +1,143 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 144"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114400000,
+                    "szep": "Zsolt 144,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Dávidtól.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12114400100,
+                    "szep": "Zsolt 144,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott legyen az Úr, az én sziklám! Ő tanította a kezemet harcra, az ujjaimat viadalra."
+            },
+            {
+                "hely": {
+                    "gepi": 12114400200,
+                    "szep": "Zsolt 144,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te vagy nekem az irgalom, a vár, az erős bástya, a szabadító, te vagy a pajzsom és a menedékem. Te tetted alattvalómmá a népeket."
+            },
+            {
+                "hely": {
+                    "gepi": 12114400300,
+                    "szep": "Zsolt 144,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, mi az ember, hogy felkarolod, az emberfia, hogy megemlékezel róla?"
+            },
+            {
+                "hely": {
+                    "gepi": 12114400400,
+                    "szep": "Zsolt 144,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Olyan az ember, mint a szellő, a fuvallat. Mint az árnyék, úgy fogynak napjai."
+            },
+            {
+                "hely": {
+                    "gepi": 12114400500,
+                    "szep": "Zsolt 144,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hajlítsd meg egedet, Uram, és szállj le, érintsd meg a hegyeket, hogy füstölögjenek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114400600,
+                    "szep": "Zsolt 144,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szórd ki villámaidat, s verd szét az ellenséget, küldd el nyilaidat, és zavard szét őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12114400700,
+                    "szep": "Zsolt 144,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyújtsd ki kezed a magasból, szabadíts ki a hatalmas vizekből, s az idegenek hatalmától ments meg!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114400800,
+                    "szep": "Zsolt 144,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szájuk hazugságot beszél, s jobbjuk hamisan esküszik."
+            },
+            {
+                "hely": {
+                    "gepi": 12114400900,
+                    "szep": "Zsolt 144,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Új éneket énekelek neked, Istenem, tízhúrú hárfán játszom színed előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12114401000,
+                    "szep": "Zsolt 144,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te, aki győzelmet adsz a királyoknak, és aki szolgádat, Dávidot megmentetted:"
+            },
+            {
+                "hely": {
+                    "gepi": 12114401100,
+                    "szep": "Zsolt 144,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "ments meg engem is a végzetes kardtól, szabadíts meg az idegenek hatalmától! Szájuk hazugságot beszél, s jobbjuk hamisan esküszik."
+            },
+            {
+                "hely": {
+                    "gepi": 12114401200,
+                    "szep": "Zsolt 144,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fiaink legyenek, mint az ültetvény, amely fiatalon nagyra nő. Leányaink, mint szegletoszlopok, amiket palotákhoz faragtak."
+            },
+            {
+                "hely": {
+                    "gepi": 12114401300,
+                    "szep": "Zsolt 144,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csűreink teljenek meg gazdagon, mindenféle gyümölcs bőven legyen bennük! Juhaink szaporodjanak ezerszeresen, s tízezerszeresen legelőinkön!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114401400,
+                    "szep": "Zsolt 144,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Barmaink is sokasodjanak, pusztulás és vetélés nélkül. Utcáinkon ne hallatsszék jajszó!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114401500,
+                    "szep": "Zsolt 144,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jó a népnek, amelynek ez az osztályrésze. Jó a népnek, amelynek az Úr az Istene."
+            }
+        ]
+    }
+}

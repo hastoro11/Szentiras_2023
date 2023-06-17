@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 4"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100400000,
+                    "szep": "Zsolt 4,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Húros hangszerre. Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12100400100,
+                    "szep": "Zsolt 4,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgass meg, ha hozzád kiáltok, igazságos Istenem! Szorult helyzetemből adj nekem kiutat, könyörülj rajtam, hallgasd meg imámat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100400200,
+                    "szep": "Zsolt 4,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ti emberek! Meddig gyalázzátok dicsőségemet? Meddig szeretitek az üres beszédet, meddig törekedtek még hazugságra? (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12100400300,
+                    "szep": "Zsolt 4,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tudjátok meg, hogy az ÚR csodákat tesz hívével! Meghallgat az ÚR, ha hozzá kiáltok."
+            },
+            {
+                "hely": {
+                    "gepi": 12100400400,
+                    "szep": "Zsolt 4,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha felindultok is, ne vétkezzetek! Gondolkozzatok el fekvőhelyeteken, és csillapodjatok le! (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12100400500,
+                    "szep": "Zsolt 4,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igaz áldozattal áldozzatok, és bízzatok az ÚRban!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100400600,
+                    "szep": "Zsolt 4,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sokan mondják: Bár jó napokat látnánk, és ránk ragyogna orcád világossága, URunk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100400700,
+                    "szep": "Zsolt 4,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagyobb örömöt adsz szívembe azokénál, akiknek bőven van búzájuk és boruk."
+            },
+            {
+                "hely": {
+                    "gepi": 12100400800,
+                    "szep": "Zsolt 4,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Békében fekszem le, és el is alszom, mert csak te adod meg, URam, hogy biztonságban élhessek!"
+            }
+        ]
+    }
+}

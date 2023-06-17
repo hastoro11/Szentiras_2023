@@ -1,0 +1,159 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 115"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111500100,
+                    "szep": "Zsolt 115,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem nékünk Uram, nem nékünk, hanem a te nevednek adj dicsőséget, a te kegyelmedért és hívségedért!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111500200,
+                    "szep": "Zsolt 115,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Miért mondanák a pogányok: Hol van hát az ő Istenök?"
+            },
+            {
+                "hely": {
+                    "gepi": 12111500300,
+                    "szep": "Zsolt 115,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Pedig a mi Istenünk az égben van, és a mit akar, azt mind megcselekszi."
+            },
+            {
+                "hely": {
+                    "gepi": 12111500400,
+                    "szep": "Zsolt 115,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azoknak bálványa ezüst és arany, emberi kezek munkája."
+            },
+            {
+                "hely": {
+                    "gepi": 12111500500,
+                    "szep": "Zsolt 115,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szájok van, de nem szólanak; szemeik vannak, de nem látnak;"
+            },
+            {
+                "hely": {
+                    "gepi": 12111500600,
+                    "szep": "Zsolt 115,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Füleik vannak, de nem hallanak; orruk van, de nem szagolnak;"
+            },
+            {
+                "hely": {
+                    "gepi": 12111500700,
+                    "szep": "Zsolt 115,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kezeik vannak, de nem tapintanak, lábaik vannak, de nem járnak, nem szólanak az ő torkukkal."
+            },
+            {
+                "hely": {
+                    "gepi": 12111500800,
+                    "szep": "Zsolt 115,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hasonlók legyenek azokhoz készítőik, és mindazok, a kik bíznak bennök!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111500900,
+                    "szep": "Zsolt 115,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Izráel! te az Úrban bízzál; az ilyenek segítsége és paizsa ő."
+            },
+            {
+                "hely": {
+                    "gepi": 12111501000,
+                    "szep": "Zsolt 115,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áronnak háza! az Úrban bízzál; az ilyenek segítsége és paizsa ő."
+            },
+            {
+                "hely": {
+                    "gepi": 12111501100,
+                    "szep": "Zsolt 115,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "A kik félitek az Urat, az Úrban bízzatok; az ilyenek segítsége és paizsa ő."
+            },
+            {
+                "hely": {
+                    "gepi": 12111501200,
+                    "szep": "Zsolt 115,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr megemlékezik mi rólunk és megáld minket; megáldja Izráel házát, megáldja Áronnak házát."
+            },
+            {
+                "hely": {
+                    "gepi": 12111501300,
+                    "szep": "Zsolt 115,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megáldja azokat, a kik félik az Urat, a kicsinyeket és a nagyokat."
+            },
+            {
+                "hely": {
+                    "gepi": 12111501400,
+                    "szep": "Zsolt 115,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szaporítson titeket az Úr, titeket és a ti fiaitokat."
+            },
+            {
+                "hely": {
+                    "gepi": 12111501500,
+                    "szep": "Zsolt 115,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldottai vagytok ti az Úrnak, a ki teremtette a mennyet és a földet."
+            },
+            {
+                "hely": {
+                    "gepi": 12111501600,
+                    "szep": "Zsolt 115,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az egek az Úrnak egei, de a földet az ember fiainak adta."
+            },
+            {
+                "hely": {
+                    "gepi": 12111501700,
+                    "szep": "Zsolt 115,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem a meghaltak dicsérik az Urat, sem nem azok, a kik alászállanak a csendességbe."
+            },
+            {
+                "hely": {
+                    "gepi": 12111501800,
+                    "szep": "Zsolt 115,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "De mi áldjuk az Urat mostantól fogva mindörökké. Dicsérjétek az Urat!"
+            }
+        ]
+    }
+}

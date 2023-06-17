@@ -1,0 +1,129 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 30"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103000000,
+                    "szep": "Zsolt 30,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Hálaének a fogság előtti időkből. A templomi szertartás része volt (Hanuka, templomszentelés és oltárszentelés ünnepe Kr. e. 165-től, vö. 1 Makk 4,52-59; Jn 10,22). Eredetileg egyéni hálaének. A zsoltáros, miután felgyógyult súlyos betegségéből, visszatekint szenvedéseire, és felismeri betegsége okait: elbizakodottság, a kellő belátás hiánya, megfeledkezés arról, hogy boldogságának alapja végérvényesen Isten akaratának teljesítése. Ezért kapta a súlyos betegséget, mint figyelmeztetést, és ő megértette azt. Csak az nem bukik el, akitől Isten nem vonja meg jelenlétének kegyelmét (7-8)"
+                    }
+                ],
+                "szoveg": "<em>Zsoltár. Ének a Templomszentelés ünnepére. Dávidtól.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12103000100,
+                    "szep": "Zsolt 30,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztallak, Uram, mert fölemeltél engem,<br>és nem engedted, hogy ellenségeim örüljenek fölöttem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103000200,
+                    "szep": "Zsolt 30,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hozzád kiáltottam, Uram, én Istenem,<br>és te meggyógyítottál engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103000300,
+                    "szep": "Zsolt 30,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, visszahoztad lelkemet az alvilágból,<br>életben tartottál, hogy ne szálljak a sírba."
+            },
+            {
+                "hely": {
+                    "gepi": 12103000400,
+                    "szep": "Zsolt 30,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zengjetek zsoltárt az Úrnak, ti is az ő szentjei,<br>áldjátok szent emlékezetét!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103000500,
+                    "szep": "Zsolt 30,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert haragja csak egy pillanat,<br>de élethosszig tart jóakarata.<br>Este a sírás tér be, de reggelre a vidámság."
+            },
+            {
+                "hely": {
+                    "gepi": 12103000600,
+                    "szep": "Zsolt 30,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mikor dúslakodtam, így szóltam:<br>»Nem fogok meginogni sohasem.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12103000700,
+                    "szep": "Zsolt 30,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert te, Uram, kegyességedben<br>szilárddá tetted dicsőségemet.<br>De te elfordítottad arcodat tőlem,<br>és én megrendültem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103000800,
+                    "szep": "Zsolt 30,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ekkor, Uram, hozzád kiáltottam,<br>és Istenemhez könyörögtem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103000900,
+                    "szep": "Zsolt 30,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mi hasznod lenne véremből,<br>ha leszállnék a sírgödörbe?<br>Vajon a por magasztalhat-e téged,<br>és hirdetheti-e hűségedet?"
+            },
+            {
+                "hely": {
+                    "gepi": 12103001000,
+                    "szep": "Zsolt 30,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meghallgatott az Úr és megkönyörült rajtam,<br>az Úr lett az én segítségem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103001100,
+                    "szep": "Zsolt 30,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sírásomat öröménekké változtattad,<br>szőrruhámat szétszaggattad,<br>vidámsággal öveztél körül,"
+            },
+            {
+                "hely": {
+                    "gepi": 12103001200,
+                    "szep": "Zsolt 30,12"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Javítva a görög szöveg alapján."
+                    }
+                ],
+                "szoveg": "hogy énekeljen neked dicsőségem,<br>és sohase hallgasson.<br>Áldalak érte örökké, Uram, én Istenem!"
+            }
+        ]
+    }
+}

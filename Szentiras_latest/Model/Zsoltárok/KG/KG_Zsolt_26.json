@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 26"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102600000,
+                    "szep": "Zsolt 26,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávidé."
+            },
+            {
+                "hely": {
+                    "gepi": 12102600100,
+                    "szep": "Zsolt 26,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ítélj meg engem, Uram! mert én ártatlanságban éltem és az Úrban bíztam ingadozás nélkül."
+            },
+            {
+                "hely": {
+                    "gepi": 12102600200,
+                    "szep": "Zsolt 26,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Próbálj meg, Uram, és kisérts meg, és vizsgáld meg veséimet és szívemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12102600300,
+                    "szep": "Zsolt 26,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert kegyelmed szemem előtt van, és hűségedben járok-kelek."
+            },
+            {
+                "hely": {
+                    "gepi": 12102600400,
+                    "szep": "Zsolt 26,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem ültem együtt hivalkodókkal, és alattomosokkal nem barátkoztam."
+            },
+            {
+                "hely": {
+                    "gepi": 12102600500,
+                    "szep": "Zsolt 26,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gyűlölöm a rosszak társaságát, és a gonoszokkal együtt nem ülök."
+            },
+            {
+                "hely": {
+                    "gepi": 12102600600,
+                    "szep": "Zsolt 26,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ártatlanságban mosom kezemet, és oltárodat gyakorlom Uram!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102600700,
+                    "szep": "Zsolt 26,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy hallatós szóval dicsérjelek téged, és elbeszéljem minden csodatettedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12102600800,
+                    "szep": "Zsolt 26,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, szeretem a te házadban való lakozást, és a te dicsőséged hajlékának helyét."
+            },
+            {
+                "hely": {
+                    "gepi": 12102600900,
+                    "szep": "Zsolt 26,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne sorozd a bűnösökkel együvé lelkemet, sem életemet a vérszopókkal együvé,"
+            },
+            {
+                "hely": {
+                    "gepi": 12102601000,
+                    "szep": "Zsolt 26,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A kiknek kezében vétek van, és jobbjuk telve vesztegetéssel."
+            },
+            {
+                "hely": {
+                    "gepi": 12102601100,
+                    "szep": "Zsolt 26,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én pedig ártatlanságban élek; ments meg és könyörülj rajtam."
+            },
+            {
+                "hely": {
+                    "gepi": 12102601200,
+                    "szep": "Zsolt 26,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lábam megáll igazsággal; áldom az Urat a gyülekezetekben."
+            }
+        ]
+    }
+}

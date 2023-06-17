@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 29"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102900000,
+                    "szep": "Zsolt 29,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900100,
+                    "szep": "Zsolt 29,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljátok az URat, ti, mennyei lények, magasztaljátok az ÚR dicsőségét és hatalmát!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102900200,
+                    "szep": "Zsolt 29,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljátok az ÚR dicső nevét, boruljatok le az ÚR előtt szent öltözetben!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102900300,
+                    "szep": "Zsolt 29,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR hangja zeng a vizek fölött, mennydörög a dicsőséges Isten, az ÚR, a nagy vizek fölött."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900400,
+                    "szep": "Zsolt 29,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR hangja hatalmas, az ÚR hangja fenséges."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900500,
+                    "szep": "Zsolt 29,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR hangja cédrusokat tördel, összetöri az ÚR a Libánon cédrusait."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900600,
+                    "szep": "Zsolt 29,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "A Libánon ugrál miatta, mint egy borjú, és a Szirjón, mint egy bivalyborjú."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900700,
+                    "szep": "Zsolt 29,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR hangjára lángok törnek elő."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900800,
+                    "szep": "Zsolt 29,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR hangja megremegteti a pusztát, megremegteti az ÚR Kádés pusztáját."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900900,
+                    "szep": "Zsolt 29,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR hangja megriasztja a szarvasokat, letarolja az erdőket. Templomában mindenki őt dicsőíti."
+            },
+            {
+                "hely": {
+                    "gepi": 12102901000,
+                    "szep": "Zsolt 29,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR trónol az áradat fölött, ott trónol az ÚR, az örökkévaló király."
+            },
+            {
+                "hely": {
+                    "gepi": 12102901100,
+                    "szep": "Zsolt 29,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR erőt ad népének, az ÚR megáldja népét békességgel."
+            }
+        ]
+    }
+}

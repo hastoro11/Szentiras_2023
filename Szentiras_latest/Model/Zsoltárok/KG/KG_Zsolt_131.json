@@ -1,0 +1,47 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 131"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113100000,
+                    "szep": "Zsolt 131,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Grádicsok éneke; Dávidtól."
+            },
+            {
+                "hely": {
+                    "gepi": 12113100100,
+                    "szep": "Zsolt 131,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, nem fuvalkodott fel az én szívem, szemeim sem láttak magasra, és nem jártam nagy dolgok után, erőmet haladó csodadolgok után;"
+            },
+            {
+                "hely": {
+                    "gepi": 12113100200,
+                    "szep": "Zsolt 131,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sőt lecsendesítém és elnémítám lelkemet. A milyen az elválasztott gyermek az anyjánál; mint az elválasztott gyermek, olyan bennem az én lelkem."
+            },
+            {
+                "hely": {
+                    "gepi": 12113100300,
+                    "szep": "Zsolt 131,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bízzál Izráel az Úrban mostantól fogva mindörökké!"
+            }
+        ]
+    }
+}

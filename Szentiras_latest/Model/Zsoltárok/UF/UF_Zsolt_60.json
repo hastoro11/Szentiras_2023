@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 60"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106000000,
+                    "szep": "Zsolt 60,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: A „Liliomok” kezdetű ének dallamára. Intelem, Dávid tanító bizonyságtétele abból az időből, amikor a naharaimi és a cóbai arámok ellen harcolt, Jóáb pedig visszafordult, és levágott a Sós-völgyben tizenkétezer edómi embert."
+            },
+            {
+                "hely": {
+                    "gepi": 12106000100,
+                    "szep": "Zsolt 60,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ó Isten! Elvetettél, szétszórtál bennünket! Megharagudtál ránk, állíts helyre minket!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106000200,
+                    "szep": "Zsolt 60,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megrendítetted, megrepesztetted a földet. Gyógyítsd be sebeit, mert megindult."
+            },
+            {
+                "hely": {
+                    "gepi": 12106000300,
+                    "szep": "Zsolt 60,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szörnyű dolgokat láttattál népeddel, bódító borral itattál minket."
+            },
+            {
+                "hely": {
+                    "gepi": 12106000400,
+                    "szep": "Zsolt 60,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "De jelt adtál az istenfélőknek, hogy megmeneküljenek az íj elől. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12106000500,
+                    "szep": "Zsolt 60,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segítsen jobbod, és hallgass meg minket, hogy megmenekülhessenek kedveltjeid!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106000600,
+                    "szep": "Zsolt 60,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten így szólt szentélyében: Örömmel adom örökségül Sikemet, és kiosztom a Szukkót völgyét."
+            },
+            {
+                "hely": {
+                    "gepi": 12106000700,
+                    "szep": "Zsolt 60,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Enyém Gileád, enyém Manassé, Efraim sisak a fejemen, Júda a kormánypálcám,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106000800,
+                    "szep": "Zsolt 60,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Móáb pedig a mosdómedencém, Edómra teszem sarumat, Filiszteán diadalmaskodom!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106000900,
+                    "szep": "Zsolt 60,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki visz el az erős városba, ki vezet el engem Edómba?"
+            },
+            {
+                "hely": {
+                    "gepi": 12106001000,
+                    "szep": "Zsolt 60,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak te, Istenünk, noha elvetettél minket, te, Istenünk, bár nem jársz seregeinkkel!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106001100,
+                    "szep": "Zsolt 60,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adj nekünk mégis segítséget az ellenség ellen, mert az emberi segítség mit sem ér!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106001200,
+                    "szep": "Zsolt 60,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten segítségével hatalmas dolgokat viszünk véghez, ellenségeinket ő tapossa el."
+            }
+        ]
+    }
+}

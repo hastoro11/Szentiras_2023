@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 149"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114900100,
+                    "szep": "Zsolt 149,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Alleluja!) Énekeljetek az Úrnak új éneket, dicsérete zengjen a szentek közösségében!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114900200,
+                    "szep": "Zsolt 149,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Izrael örüljön Teremtőjének, Sion gyermekei Királyuknak!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114900300,
+                    "szep": "Zsolt 149,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsőítsétek nevét körtánccal, játsszatok előtte dobon és hárfán!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114900400,
+                    "szep": "Zsolt 149,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert az Úr kedvét leli népében, győzelemmel koszorúzza a megalázottakat."
+            },
+            {
+                "hely": {
+                    "gepi": 12114900500,
+                    "szep": "Zsolt 149,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akik hűek, vigadjanak dicsőségükben, ujjongjanak nyugvóhelyükön!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114900600,
+                    "szep": "Zsolt 149,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ajkukon legyen az Isten dicsérete, és kétélű kard a kezükben,"
+            },
+            {
+                "hely": {
+                    "gepi": 12114900700,
+                    "szep": "Zsolt 149,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy bosszút álljanak a pogányokon, és megtorolják a népeket;"
+            },
+            {
+                "hely": {
+                    "gepi": 12114900800,
+                    "szep": "Zsolt 149,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy királyokat verjenek láncra, fejedelmeket vasbilincsbe;"
+            },
+            {
+                "hely": {
+                    "gepi": 12114900900,
+                    "szep": "Zsolt 149,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy ítéletet tartsanak fölöttük, ahogy írva van: Dicsőség ez minden szentjének!"
+            }
+        ]
+    }
+}

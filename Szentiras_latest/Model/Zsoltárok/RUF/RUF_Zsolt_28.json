@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 28"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102800000,
+                    "szep": "Zsolt 28,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávidé."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800100,
+                    "szep": "Zsolt 28,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Téged hívlak, URam, kősziklám, ne fordulj el tőlem némán! Mert ha némán elfordulsz, hasonló leszek a sírba roskadókhoz."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800200,
+                    "szep": "Zsolt 28,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Halld meg esedező hangomat, amikor segítségért kiáltok, kezemet fölemelve szent templomod felé."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800300,
+                    "szep": "Zsolt 28,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne sorolj a bűnösök és gonosztevők közé, akik békésen beszélnek felebarátaikkal, de rossz szándék van a szívükben."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800400,
+                    "szep": "Zsolt 28,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fizess meg nekik tetteik szerint, gonosz cselekedeteik szerint! Kezük munkája szerint fizess meg nekik, torold meg rajtuk, amit elkövettek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102800500,
+                    "szep": "Zsolt 28,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mivel nem figyelnek az ÚR tetteire, sem kezének munkájára, lerombolja, nem építi őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800600,
+                    "szep": "Zsolt 28,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott az ÚR, mert meghallgatta esedező hangomat."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800700,
+                    "szep": "Zsolt 28,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Erőm és pajzsom az ÚR, benne bízik szívem. Ő megsegített, ezért vidám a szívem, és énekelve adok neki hálát."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800800,
+                    "szep": "Zsolt 28,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR az ő népének erőssége, felkentjének megsegítő ereje."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800900,
+                    "szep": "Zsolt 28,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segítsd meg népedet, áldd meg örökségedet, légy pásztora, és gondozd örökké!"
+            }
+        ]
+    }
+}

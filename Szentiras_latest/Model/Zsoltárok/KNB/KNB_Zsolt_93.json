@@ -1,0 +1,69 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 93"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109300100,
+                    "szep": "Zsolt 93,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Himnusz a királyok korai korszakából, a sátoros ünnep liturgiájához tartozik. A közösség szentélybe vonulva hódolattal vallja Istent királyának. Az ő törvénye (amelynek az ünnepen újra elkötelezik magukat) és igazságossága érvényes az országban."
+                    },
+                    {
+                        "position": null,
+                        "text": "Isten a király, a fenség és hatalom, amely a világmindenség rendjét megszilárdította, uralma minden létezőt megszabott."
+                    }
+                ],
+                "szoveg": "Király lett az Úr! Fölségbe öltözött,<br>felöltözött az Úr, erővel övezte fel magát.<br>Megerősítette a föld kerekségét,<br>hogy ne ingadozzék."
+            },
+            {
+                "hely": {
+                    "gepi": 12109300200,
+                    "szep": "Zsolt 93,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Trónod kezdet óta szilárd,<br>te öröktől fogva vagy."
+            },
+            {
+                "hely": {
+                    "gepi": 12109300300,
+                    "szep": "Zsolt 93,3"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Isten biztosítja a létezők fennmaradását. A káosz (mitikus) hatalmai veszélyeztetik a teremtést, de Isten hatalmasabb."
+                    }
+                ],
+                "szoveg": "Emelkednek a folyóvizek, Uram,<br>emelkedik a folyóvizek hangja,<br>emelkedik a folyóvizek zúgása."
+            },
+            {
+                "hely": {
+                    "gepi": 12109300400,
+                    "szep": "Zsolt 93,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "De a nagy vizek zúgásánál,<br>a tenger hatalmas hullámainál<br>is hatalmasabb az Úr a magasságban."
+            },
+            {
+                "hely": {
+                    "gepi": 12109300500,
+                    "szep": "Zsolt 93,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Törvényeid igen megszilárdultak,<br>szentség illeti házadat,<br>Uram, örök időkre."
+            }
+        ]
+    }
+}

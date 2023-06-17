@@ -1,0 +1,183 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 49"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104900000,
+                    "szep": "Zsolt 49,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek – Korach fiainak zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12104900100,
+                    "szep": "Zsolt 49,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Népek, figyeljetek mind, a földnek minden lakója hallja meg:"
+            },
+            {
+                "hely": {
+                    "gepi": 12104900200,
+                    "szep": "Zsolt 49,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "a közemberek és az előkelők, mind a gazdagok és a szegények!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104900300,
+                    "szep": "Zsolt 49,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "A szám bölcsességet hirdet, okos beszédet sugall a szívem."
+            },
+            {
+                "hely": {
+                    "gepi": 12104900400,
+                    "szep": "Zsolt 49,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bölcs mondás felé fordítom fülemet, hárfadallal magyarázom meg rejtélyemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12104900500,
+                    "szep": "Zsolt 49,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A baj napjaiban miért féljek, ha körülvesz az ellenség gonoszsága?"
+            },
+            {
+                "hely": {
+                    "gepi": 12104900600,
+                    "szep": "Zsolt 49,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azok, akik kincseikben bíznak, s akik nagy gazdagságukkal kérkednek."
+            },
+            {
+                "hely": {
+                    "gepi": 12104900700,
+                    "szep": "Zsolt 49,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen önmagát senki meg nem válthatja, senki sem fizethet az Úrnak váltságdíjat."
+            },
+            {
+                "hely": {
+                    "gepi": 12104900800,
+                    "szep": "Zsolt 49,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az élet ára túl magas volna, meg nem fizetheti senki soha,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104900900,
+                    "szep": "Zsolt 49,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy örökké éljen, s a sírt ne lássa."
+            },
+            {
+                "hely": {
+                    "gepi": 12104901000,
+                    "szep": "Zsolt 49,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen látja, hogy meghalnak a bölcsek, esztelenek és balgák együtt eltávoznak. Kincseiket idegenek kapják,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104901100,
+                    "szep": "Zsolt 49,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "és a sír lesz házuk mindörökre, lakásuk nemzedékről nemzedékre, még ha országaik voltak, akkor is."
+            },
+            {
+                "hely": {
+                    "gepi": 12104901200,
+                    "szep": "Zsolt 49,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ember, ha nincs benne belátás, akármilyen gazdag, olyan, mint az állat, amelyre pusztulás vár."
+            },
+            {
+                "hely": {
+                    "gepi": 12104901300,
+                    "szep": "Zsolt 49,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ez a sorsa mindazoknak, akik balgán bizakodnak, akiknek szavára olyan sokat adtak."
+            },
+            {
+                "hely": {
+                    "gepi": 12104901400,
+                    "szep": "Zsolt 49,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Úgy hullanak bele a mélységbe, mint a juhok, a halál fogja legeltetni őket, s az igaz szívűek uralkodnak rajtuk. Alakjuk reggelre elenyészik, s a holtak hazája lesz lakóhelyük."
+            },
+            {
+                "hely": {
+                    "gepi": 12104901500,
+                    "szep": "Zsolt 49,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "De az én lelkemet Isten kimenti az alvilág karmaiból, és magához vesz."
+            },
+            {
+                "hely": {
+                    "gepi": 12104901600,
+                    "szep": "Zsolt 49,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne méltatlankodj hát, ha valaki gazdag, és ha házának fénye gyarapszik!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104901700,
+                    "szep": "Zsolt 49,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha eljön halála, mit sem visz magával, dicsősége nem megy el vele."
+            },
+            {
+                "hely": {
+                    "gepi": 12104901800,
+                    "szep": "Zsolt 49,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Még ha életében boldognak mondta is magát és így szólt: „Dicsérni fognak, mert jól gazdálkodtál”,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104901900,
+                    "szep": "Zsolt 49,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "akkor is leszáll atyáinak táborába, ahol már nem látják többé világát a napnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12104902000,
+                    "szep": "Zsolt 49,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ember, ha nincs benne belátás, akármilyen gazdag, olyan, mint az állat, amelyre pusztulás vár."
+            }
+        ]
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 108"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12110800000,
+                    "szep": "Zsolt 108,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Ének, Dávid zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12110800100,
+                    "szep": "Zsolt 108,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "A szívem nyugodt, én Istenem, énekelek és zenélek színed előtt. Ébredj, lelkem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110800200,
+                    "szep": "Zsolt 108,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Citera, hárfa ébredjetek, fölkeltem a hajnalt."
+            },
+            {
+                "hely": {
+                    "gepi": 12110800300,
+                    "szep": "Zsolt 108,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "A népek között dicsőítlek, Uram, a pogányok közt énekelek neked."
+            },
+            {
+                "hely": {
+                    "gepi": 12110800400,
+                    "szep": "Zsolt 108,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mivel irgalmad az égig ér és hűséged a felhőket veri."
+            },
+            {
+                "hely": {
+                    "gepi": 12110800500,
+                    "szep": "Zsolt 108,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jelenj meg fönségedben az égen, Istenem, az egész föld felett szárnyaljon dicsőséged."
+            },
+            {
+                "hely": {
+                    "gepi": 12110800600,
+                    "szep": "Zsolt 108,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igen, hogy megmeneküljenek, akiket szeretsz, jobbod küldjön segítséget, hallgass meg minket."
+            },
+            {
+                "hely": {
+                    "gepi": 12110800700,
+                    "szep": "Zsolt 108,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így szólt az Úr szentélyében: „Ujjongva osztom fel Szichemet, felmérem Szukkot völgyét."
+            },
+            {
+                "hely": {
+                    "gepi": 12110800800,
+                    "szep": "Zsolt 108,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az enyém Gileád, az enyém Manassze, és Efraim a fejem sisakja, jogarom pedig Júda."
+            },
+            {
+                "hely": {
+                    "gepi": 12110800900,
+                    "szep": "Zsolt 108,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "De Moáb legyen a mosdótálam, és Edomra ráteszem sarumat, s diadalmaskodom a filiszteusok földje fölött.”"
+            },
+            {
+                "hely": {
+                    "gepi": 12110801000,
+                    "szep": "Zsolt 108,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki visz el engem az erős városba? Ki vezet el Edomba?"
+            },
+            {
+                "hely": {
+                    "gepi": 12110801100,
+                    "szep": "Zsolt 108,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem vetettél el minket, Istenem? Istenem, miért nem vonulsz ki seregeinkkel?"
+            },
+            {
+                "hely": {
+                    "gepi": 12110801200,
+                    "szep": "Zsolt 108,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyújts segítséget az ellenség ellen, hisz az emberek segítsége hiábavaló."
+            },
+            {
+                "hely": {
+                    "gepi": 12110801300,
+                    "szep": "Zsolt 108,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istennel hősi tetteket viszünk véghez, ő eltiporja ellenségeinket."
+            }
+        ]
+    }
+}

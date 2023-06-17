@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 46"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104600000,
+                    "szep": "Zsolt 46,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek, a Kóráh fiainak éneke, a halamothra."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600100,
+                    "szep": "Zsolt 46,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten a mi oltalmunk és erősségünk! igen bizonyos segítség a nyomorúságban."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600200,
+                    "szep": "Zsolt 46,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azért nem félünk, ha elváltoznék is a föld, ha hegyek omlanának is a tenger közepébe:"
+            },
+            {
+                "hely": {
+                    "gepi": 12104600300,
+                    "szep": "Zsolt 46,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zúghatnak, tajtékozhatnak hullámai; hegyek rendülhetnek meg háborgásától. Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600400,
+                    "szep": "Zsolt 46,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Forrásainak árja megörvendezteti Isten városát, a Felségesnek szent hajlékait."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600500,
+                    "szep": "Zsolt 46,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Isten ő közepette van, nem rendül meg; megsegíti Isten virradatkor."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600600,
+                    "szep": "Zsolt 46,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nemzetek zajongnak, országok mozognak; kiereszti hangját, megszeppen a föld."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600700,
+                    "szep": "Zsolt 46,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "A Seregek Ura velünk van, Jákób Istene a mi várunk. Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600800,
+                    "szep": "Zsolt 46,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jőjjetek, lássátok az Úr tetteit, a ki pusztaságokat szerez a földön;"
+            },
+            {
+                "hely": {
+                    "gepi": 12104600900,
+                    "szep": "Zsolt 46,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hadakat némít el a föld széléig; ívet tör, kopját ront, hadi szekereket éget el tűzben."
+            },
+            {
+                "hely": {
+                    "gepi": 12104601000,
+                    "szep": "Zsolt 46,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csendesedjetek és ismerjétek el, hogy én vagyok az Isten! Felmagasztaltatom a nemzetek közt, felmagasztaltatom a földön."
+            },
+            {
+                "hely": {
+                    "gepi": 12104601100,
+                    "szep": "Zsolt 46,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "A Seregek Ura velünk van, Jákób Istene a mi várunk! Szela."
+            }
+        ]
+    }
+}

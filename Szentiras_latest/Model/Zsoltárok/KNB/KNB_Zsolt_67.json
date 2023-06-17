@@ -1,0 +1,99 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 67"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106700000,
+                    "szep": "Zsolt 67,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A sátoros ünnep aratási hálaéneke (vö. MTörv 16,13-15). Feltehetően nem sokkal a babiloni fogság után keletkezett."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Hárfára. Zsoltár. Ének.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12106700100,
+                    "szep": "Zsolt 67,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Követi a papi áldást (Szám 6,22-27) és a templomi liturgia szövegeit."
+                    }
+                ],
+                "szoveg": "Irgalmazzon nekünk Isten<br>és áldjon meg minket!<br>Ragyogtassa arcát felettünk,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106700200,
+                    "szep": "Zsolt 67,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Utadat: az a mód, ahogyan Isten az emberi történelemben megmutatkozik."
+                    }
+                ],
+                "szoveg": "hogy megismerjük utadat a földön,<br>minden nemzet lássa szabadításodat."
+            },
+            {
+                "hely": {
+                    "gepi": 12106700300,
+                    "szep": "Zsolt 67,3"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A pogányok is meghívást kaptak arra, hogy megismerjék Izrael Istenének igaz voltát és igazságosságát. Isten ajándékai és az üdvösség mindenkinek szól."
+                    }
+                ],
+                "szoveg": "Áldjanak téged a népek, Isten,<br>áldjanak téged a népek valamennyien!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106700400,
+                    "szep": "Zsolt 67,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örvendjenek és ujjongjanak a nemzetek,<br>mert igazsággal ítéled a népeket,<br>és kormányozod a földön a nemzeteket."
+            },
+            {
+                "hely": {
+                    "gepi": 12106700500,
+                    "szep": "Zsolt 67,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjanak téged a népek, Isten,<br>áldjanak téged a népek valamennyien!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106700600,
+                    "szep": "Zsolt 67,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "A föld megadja gyümölcsét;<br>Áldjon meg minket Isten, a mi Istenünk,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106700700,
+                    "szep": "Zsolt 67,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "áldjon meg minket Isten,<br>a föld minden határa félje őt!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 99"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109900100,
+                    "szep": "Zsolt 99,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uralkodik az ÚR, reszkessenek a népek! A kerúbokon trónol ő, remegjen a föld!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109900200,
+                    "szep": "Zsolt 99,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagy az ÚR a Sionon, magasan fölötte van minden népnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12109900300,
+                    "szep": "Zsolt 99,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztalják nagy és félelmetes nevét, mert szent ő!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109900400,
+                    "szep": "Zsolt 99,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hatalmas király vagy, szereted a jogosságot. Te állapítod meg, mi a helyes, te szolgáltatsz Jákóbnak jogot és igazságot."
+            },
+            {
+                "hely": {
+                    "gepi": 12109900500,
+                    "szep": "Zsolt 99,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljátok Istenünket, az URat, boruljatok le lába zsámolya előtt, mert szent ő!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109900600,
+                    "szep": "Zsolt 99,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mózes és Áron a papokkal együtt, Sámuel és akik nevét segítségül hívták, segítségül hívták az URat, és ő válaszolt nekik."
+            },
+            {
+                "hely": {
+                    "gepi": 12109900700,
+                    "szep": "Zsolt 99,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Felhőoszlopból szólt hozzájuk, ők pedig megtartották intelmeit és a nekik adott rendelkezést."
+            },
+            {
+                "hely": {
+                    "gepi": 12109900800,
+                    "szep": "Zsolt 99,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "URunk, Istenünk, te válaszoltál nekik, megbocsátó Istenük voltál, bár megtoroltad tetteiket."
+            },
+            {
+                "hely": {
+                    "gepi": 12109900900,
+                    "szep": "Zsolt 99,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljátok Istenünket, az URat, és imádjátok őt szent hegyén, mert szent az ÚR, a mi Istenünk!"
+            }
+        ]
+    }
+}

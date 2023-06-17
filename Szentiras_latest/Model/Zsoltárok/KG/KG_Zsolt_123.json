@@ -1,0 +1,55 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 123"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112300000,
+                    "szep": "Zsolt 123,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Grádicsok éneke."
+            },
+            {
+                "hely": {
+                    "gepi": 12112300100,
+                    "szep": "Zsolt 123,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hozzád emelem szemeimet, oh te egekben lakozó!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112300200,
+                    "szep": "Zsolt 123,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ímé, mint a szolgák szemei uroknak kezére, mint a szolgalány szemei asszonya kezére: úgy néznek szemeink az Úrra, a mi Istenünkre, mígnem megkönyörül rajtunk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112300300,
+                    "szep": "Zsolt 123,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörülj rajtunk, Uram, könyörülj rajtunk! Mert igen elteltünk gyalázattal."
+            },
+            {
+                "hely": {
+                    "gepi": 12112300400,
+                    "szep": "Zsolt 123,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkünk igen eltelt a gazdagok csúfolkodásával, és a kevélyek gyalázkodásával."
+            }
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 23"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102300000,
+                    "szep": "Zsolt 23,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12102300100,
+                    "szep": "Zsolt 23,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr az én pásztorom; nem szűkölködöm."
+            },
+            {
+                "hely": {
+                    "gepi": 12102300200,
+                    "szep": "Zsolt 23,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fűves legelőkön nyugtat engem, és csendes vizekhez terelget engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12102300300,
+                    "szep": "Zsolt 23,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkemet megvidámítja, az igazság ösvényein vezet engem az ő nevéért."
+            },
+            {
+                "hely": {
+                    "gepi": 12102300400,
+                    "szep": "Zsolt 23,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Még ha a halál árnyékának völgyében járok is, nem félek a gonosztól, mert te velem vagy; a te veszsződ és botod, azok vigasztalnak engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12102300500,
+                    "szep": "Zsolt 23,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Asztalt terítesz nékem az én ellenségeim előtt; elárasztod fejem olajjal; csordultig van a poharam."
+            },
+            {
+                "hely": {
+                    "gepi": 12102300600,
+                    "szep": "Zsolt 23,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizonyára jóságod és kegyelmed követnek engem életem minden napján, s az Úr házában lakozom hosszú ideig."
+            }
+        ]
+    }
+}

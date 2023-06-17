@@ -1,0 +1,100 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 146"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114600100,
+                    "szep": "Zsolt 146,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Himnusz, késő fogság utáni. A szöveg fordulatai a korábbi dicsőítő énekekből származnak. Ezzel a zsoltárral kezdődik az ún. »Alleluja zsoltárok« csoportja (146-150. zsoltárok: dicsőítésre hívással kezdődnek és fejeződnek be), amelyek a zsidó reggeli imához tartoznak. Alleluja: szó szerint azt jelenti »dicsérjétek Ja-t (Jahvét)!«."
+                    }
+                ],
+                "szoveg": "ALLELUJA!<br>Dicsérd lelkem, az Urat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114600200,
+                    "szep": "Zsolt 146,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérem az Urat, amíg csak élek,<br>zsoltárt énekelek Istenemnek, amíg csak leszek."
+            },
+            {
+                "hely": {
+                    "gepi": 12114600300,
+                    "szep": "Zsolt 146,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne bízzatok fejedelmekben,<br>emberek fiaiban, akik nem segíthetnek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114600400,
+                    "szep": "Zsolt 146,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha lelkük elszáll, visszatérnek a földbe,<br>terveik még aznap mind megsemmisülnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12114600500,
+                    "szep": "Zsolt 146,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog, akinek segítője Jákob Istene,<br>akinek az Úrban, az ő Istenében van reménye!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114600600,
+                    "szep": "Zsolt 146,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő alkotta az eget és a földet,<br>a tengert és mindent ami bennük van.<br>Hűségét megtartja örökre,"
+            },
+            {
+                "hely": {
+                    "gepi": 12114600700,
+                    "szep": "Zsolt 146,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "igazságot szerez a méltatlanul szenvedőknek,<br>kenyeret ad az éhezőknek.<br>Az Úr megszabadítja a foglyokat,"
+            },
+            {
+                "hely": {
+                    "gepi": 12114600800,
+                    "szep": "Zsolt 146,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "az Úr a vakokat látóvá teszi,<br>az Úr felemeli a lesújtottakat,<br>az Úr az igazakat szereti."
+            },
+            {
+                "hely": {
+                    "gepi": 12114600900,
+                    "szep": "Zsolt 146,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr megoltalmazza a jövevényeket,<br>felkarolja az özvegyet és az árvát,<br>de elpusztítja a bűnösök útjait."
+            },
+            {
+                "hely": {
+                    "gepi": 12114601000,
+                    "szep": "Zsolt 146,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Király az Úr mindörökké,<br>a te Istened, Sion, nemzedékről nemzedékre."
+            }
+        ]
+    }
+}

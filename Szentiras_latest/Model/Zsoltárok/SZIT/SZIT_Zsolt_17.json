@@ -1,0 +1,143 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 17"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101700000,
+                    "szep": "Zsolt 17,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Ima Dávidtól.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12101700100,
+                    "szep": "Zsolt 17,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgasd meg, Uram, igaz ügyemet, figyelj könyörgésemre, fogadd el imámat, amely tiszta ajakról száll fel!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101700200,
+                    "szep": "Zsolt 17,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tekinteted ítélkezzék fölöttem, hiszen szemed az igazságot nézi!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101700300,
+                    "szep": "Zsolt 17,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha szívemet megvizsgálod és éjjelente kifürkészed, s ha tűzben kipróbálsz is, nem lelsz hamisságot bennem. Nem vétkezik a szám,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101700400,
+                    "szep": "Zsolt 17,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "mint emberek szoktak, ajkaidnak szavait megtartottam. A kijelölt ösvényen"
+            },
+            {
+                "hely": {
+                    "gepi": 12101700500,
+                    "szep": "Zsolt 17,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "haladnak lépteim a te nyomaidon: így nem botlik lábam."
+            },
+            {
+                "hely": {
+                    "gepi": 12101700600,
+                    "szep": "Zsolt 17,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hozzád kiáltok, s te meghallgatsz, Istenem. Fordítsd felém füled, jusson eléd szavam!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101700700,
+                    "szep": "Zsolt 17,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mutasd meg csodálatos irgalmasságodat, hisz megmented az ellenségtől azokat, akik jobbodhoz menekülnek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101700800,
+                    "szep": "Zsolt 17,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Védj meg, mint szemed világát, szárnyad árnyékában oltalmazz,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101700900,
+                    "szep": "Zsolt 17,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "az álnokoktól, akik erősen szorongatnak! Elleneim bőszülten körülvesznek,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101701000,
+                    "szep": "Zsolt 17,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "megkeményítik érzéketlen szívüket, szájuk elbizakodottan beszél."
+            },
+            {
+                "hely": {
+                    "gepi": 12101701100,
+                    "szep": "Zsolt 17,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Már körülfognak, és szemük azt vizsgálja, hogyan teperhetnek földre."
+            },
+            {
+                "hely": {
+                    "gepi": 12101701200,
+                    "szep": "Zsolt 17,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Olyanok, mint az oroszlán, amely zsákmányra éhes, mint a fiatal oroszlán, amely a rejtekben les."
+            },
+            {
+                "hely": {
+                    "gepi": 12101701300,
+                    "szep": "Zsolt 17,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kelj fel, Uram, szállj szembe vele, terítsd a földre, kardoddal mentsd meg életemet a gonosztól!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101701400,
+                    "szep": "Zsolt 17,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, karod szabadítson meg az emberektől, e világ halandóitól, akiknek csak ez az élet a részük! Amit félretettél, töltsd el vele testüket! Hadd bővelkedjenek fiakban, s amijük megmarad, azt hadd örököljék gyermekeik!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101701500,
+                    "szep": "Zsolt 17,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ám én igazságban meglátom színedet, s arcod fog betölteni, ha fölébredek."
+            }
+        ]
+    }
+}

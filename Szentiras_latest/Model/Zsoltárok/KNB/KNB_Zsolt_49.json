@@ -1,0 +1,208 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 49"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104900000,
+                    "szep": "Zsolt 49,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Tanító költemény, egy bölcstől származik a hellenista időkből. Bevezetésből (2-5) és két versszakból (6-12.14-20) áll, amelyek hasonló zárómondattal fejeződnek be (13. és 21. versek). Témája: értelmetlen dolog a másik ember gazdagsága vagy birtoka miatt irigykedni, hiszen ezek mind mulandó értékek. A halál mindenkit egyenlővé tesz. A 16. vers valószínűleg arra mutat rá, hogy Isten ennek a világnak a szegényeit kiváltja az alvilágból. Vö. Zsolt 73; Lk 12,16-21; 1 Tim 6,7-10."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Kóré fiainak zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12104900100,
+                    "szep": "Zsolt 49,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Halljátok meg ezt, nemzetek, mindnyájan,<br>vegyétek fületekbe, földkerekség lakói, mindannyian:"
+            },
+            {
+                "hely": {
+                    "gepi": 12104900200,
+                    "szep": "Zsolt 49,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "mind alacsonysorsúak és nemesek,<br>gazdagok, szegények egyaránt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104900300,
+                    "szep": "Zsolt 49,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bölcsességet mond a szám,<br>okosságot a szívem elmélkedése."
+            },
+            {
+                "hely": {
+                    "gepi": 12104900400,
+                    "szep": "Zsolt 49,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Példabeszédre hajtom fülemet,<br>hárfaszóval tárom föl rejtélyemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12104900500,
+                    "szep": "Zsolt 49,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Miért félnék a balszerencse napján,<br>ha körülvesz a gáncsoskodók gonoszsága?"
+            },
+            {
+                "hely": {
+                    "gepi": 12104900600,
+                    "szep": "Zsolt 49,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ők saját erejükben bíznak,<br>vagyonuk nagyságával kérkednek."
+            },
+            {
+                "hely": {
+                    "gepi": 12104900700,
+                    "szep": "Zsolt 49,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Pedig az ember nem válthatja meg magát,<br>senki sem adhat Istennek váltságdíjat magáért."
+            },
+            {
+                "hely": {
+                    "gepi": 12104900800,
+                    "szep": "Zsolt 49,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igen drága lelkének váltsága:<br>soha meg nem fizetheti,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104900900,
+                    "szep": "Zsolt 49,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy örökké éljen és ne jusson az enyészetre."
+            },
+            {
+                "hely": {
+                    "gepi": 12104901000,
+                    "szep": "Zsolt 49,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hisz láthatja, meghalnak a bölcsek;<br>Ugyanúgy elvesznek, mint a balgák és az esztelenek,<br>és másokra hagyják gazdagságukat."
+            },
+            {
+                "hely": {
+                    "gepi": 12104901100,
+                    "szep": "Zsolt 49,11"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Sír: javított szöveg (a héber szövegben: az ő belsejük)."
+                    }
+                ],
+                "szoveg": "Sírjuk lesz lakóhelyük mindörökre;<br>Hajlékuk nemzedékről nemzedékre,<br>noha nevet szereztek maguknak földjükön."
+            },
+            {
+                "hely": {
+                    "gepi": 12104901200,
+                    "szep": "Zsolt 49,12"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. Préd 3,19. A refrén összefoglalja: a halál nem tesz különbséget ember és állat között."
+                    }
+                ],
+                "szoveg": "Az ember, övezze bár tisztelet,<br>nem marad meg;<br>Olyan, mint az igavonó állat, amely kimúlik,<br>bizony hasonló hozzá."
+            },
+            {
+                "hely": {
+                    "gepi": 12104901300,
+                    "szep": "Zsolt 49,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ez az útja azoknak, akik önmagukban bíznak,<br>és azoknak a vége, akik saját beszédükben gyönyörködnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12104901400,
+                    "szep": "Zsolt 49,14"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A héber szöveg erősen megromlott."
+                    }
+                ],
+                "szoveg": "Mint a juh, úgy terelődnek az alvilágba,<br>a halál legelteti őket.<br>Leszállnak a sírba sietve, alakjuk megsemmisül,<br>az alvilág lesz lakásuk."
+            },
+            {
+                "hely": {
+                    "gepi": 12104901500,
+                    "szep": "Zsolt 49,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "De az én lelkemet Isten megváltja,<br>az alvilág hatalmából kiragad engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12104901600,
+                    "szep": "Zsolt 49,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne félj, ha valaki meggazdagszik,<br>ha megnövekszik háza dicsősége,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104901700,
+                    "szep": "Zsolt 49,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "mert ha meghal, semmit sem visz magával,<br>és dicsősége nem száll le utána."
+            },
+            {
+                "hely": {
+                    "gepi": 12104901800,
+                    "szep": "Zsolt 49,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mondja bár áldottnak magát életében:<br>»Dicsérni fognak téged, amiért magadnak tetted a jót«,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104901900,
+                    "szep": "Zsolt 49,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "mégis csak elmegy atyái nemzetségéhez,<br>amely soha többé nem látja a világosságot."
+            },
+            {
+                "hely": {
+                    "gepi": 12104902000,
+                    "szep": "Zsolt 49,20"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A refrén kis változtatással ismétlődik: az az ember, aki a halál és a halált követő dolgok miatt aggódik, nem érdemel többet, mint a néma állat."
+                    }
+                ],
+                "szoveg": "Az ember, övezze bár tisztelet,<br>okosságot nem tanúsít;<br>olyan, mint az igavonó állat, amely kimúlik<br>– bizony hasonló hozzá."
+            }
+        ]
+    }
+}

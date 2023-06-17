@@ -1,0 +1,204 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 80"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108000000,
+                    "szep": "Zsolt 80,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A nép panaszdala, amely végső formáját a liturgiában nyerte el. A refrén (4.8.[15].20) átfogja a szöveget."
+                    },
+                    {
+                        "position": null,
+                        "text": "Ászáf: vö. 50,1."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. »A törvény lilioma« szerint. Ászáf zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12108000100,
+                    "szep": "Zsolt 80,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az előénekes könyörgése. Istenről egyfelől mint közeli személyről (Izrael pásztora), másfelől mint hatalmas Úrról beszél. Isten a kerubok fölött trónol (vö. 1Kir 6,23-28), Úr ő mindenek felett. – József a népet személyesíti meg, akit Isten Egyiptomból kihozott. Efraim és Manassze József fiai voltak, akik az észak-izraeli törzsek ősatyái; Benjamin a déli országrészben, Júdában van."
+                    }
+                ],
+                "szoveg": "Figyelj ránk, Izrael pásztora,<br>aki Józsefet nyájként vezérled!<br>Aki a kerubok felett trónolsz, ragyogj fel"
+            },
+            {
+                "hely": {
+                    "gepi": 12108000200,
+                    "szep": "Zsolt 80,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Efraim, Benjamin és Manassze előtt!<br>Ébreszd fel hatalmadat<br>és jöjj, szabadíts meg minket!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108000300,
+                    "szep": "Zsolt 80,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten, állíts helyre minket,<br>ragyogtasd fel arcodat és szabadok leszünk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108000400,
+                    "szep": "Zsolt 80,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az előimádkozó leírja a szerencsétlenséget."
+                    }
+                ],
+                "szoveg": "Uram, seregek Istene,<br>meddig haragszol még néped könyörgése ellenére?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108000500,
+                    "szep": "Zsolt 80,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könnyek kenyerével etetsz minket<br>és bőséggel adod nekünk italul a könnyet."
+            },
+            {
+                "hely": {
+                    "gepi": 12108000600,
+                    "szep": "Zsolt 80,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Civódás tárgyává tettél szomszédaink előtt,<br>s ellenségeink gúnyolnak minket."
+            },
+            {
+                "hely": {
+                    "gepi": 12108000700,
+                    "szep": "Zsolt 80,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Seregek Istene, állíts helyre minket,<br>ragyogtasd fel arcodat és szabadok leszünk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108000800,
+                    "szep": "Zsolt 80,8"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az előimádkozó visszaemlékezik Isten és népe történelmére. Izraelt szőlőtőhöz hasonlítja (vö. Iz 5,1-7; Jer 2,21)."
+                    }
+                ],
+                "szoveg": "Egyiptomból hoztad ki e szőlőtőt,<br>nemzeteket űztél el és elültetted őt."
+            },
+            {
+                "hely": {
+                    "gepi": 12108000900,
+                    "szep": "Zsolt 80,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Utat egyengettél előtte,<br>elültetted gyökereit,<br>s betöltötte a földet."
+            },
+            {
+                "hely": {
+                    "gepi": 12108001000,
+                    "szep": "Zsolt 80,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Árnyéka elborította a hegyeket,<br>vesszői az Isten cédrusfáit."
+            },
+            {
+                "hely": {
+                    "gepi": 12108001100,
+                    "szep": "Zsolt 80,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kiterjesztette indáit a tengerig,<br>hajtásait a folyamig."
+            },
+            {
+                "hely": {
+                    "gepi": 12108001200,
+                    "szep": "Zsolt 80,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Miért rontottad le kerítését,<br>hogy szaggassák mind, akik elmennek mellette?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108001300,
+                    "szep": "Zsolt 80,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Pusztítja az erdei vadkan<br>és lelegeli a mezei vad."
+            },
+            {
+                "hely": {
+                    "gepi": 12108001400,
+                    "szep": "Zsolt 80,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Seregek Istene, fordulj vissza hozzánk!<br>Tekints le az égből, hogy meglásd<br>és meglátogasd e szőlőt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108001500,
+                    "szep": "Zsolt 80,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Oltalmazd, amit jobbod ültetett,<br>s az emberfiát, akit magadnak naggyá neveltél."
+            },
+            {
+                "hely": {
+                    "gepi": 12108001600,
+                    "szep": "Zsolt 80,16"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az ellenségre átkot mond, imát a királyért (Jozijaért ?), akit Isten (vö. Zsolt 110,1) és az Emberfia (vö. Dán 7,13-14) mellé emel."
+                    }
+                ],
+                "szoveg": "Tűzzel égették, feldúlták,<br>vesszenek el arcod feddésétől!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108001700,
+                    "szep": "Zsolt 80,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Legyen kezed jobbodnak férfián,<br>az emberfián, akit magadnak naggyá neveltél."
+            },
+            {
+                "hely": {
+                    "gepi": 12108001800,
+                    "szep": "Zsolt 80,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem távozunk el tőled, te éltetsz minket<br>és mi segítségül hívjuk nevedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12108001900,
+                    "szep": "Zsolt 80,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, seregek Istene, állíts helyre minket,<br>ragyogtasd fel arcodat és szabadok leszünk."
+            }
+        ]
+    }
+}

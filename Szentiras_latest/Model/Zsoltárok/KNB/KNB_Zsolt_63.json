@@ -1,0 +1,135 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 63"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106300000,
+                    "szep": "Zsolt 63,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Bizalom-ének a fogság utáni időkből. Az imádkozó szeretné magát Isten közelében tudni, a szentélyben. Világos, erőteljes kifejezésekkel mondja el Istennek, hogy mennyire szereti őt. Egy dologban bizonyos: Isten hűsége, amely Isten és az ember egyedülálló közösségén alapszik, jobb mint az élet (4). Az imádkozó helyzetét nehéz meghatározni: vagy távol van a templomtól, és élete veszélyben van, vagy már eljutott a templomba, és várja, hogy hivatalosan is menedéket kapjon."
+                    },
+                    {
+                        "position": null,
+                        "text": "Vö. 1 Sám 23,14."
+                    }
+                ],
+                "szoveg": "<em>Dávid zsoltára, amikor Júda sivatagjában tartózkodott.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12106300100,
+                    "szep": "Zsolt 63,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten, én Istenem, pirkadatkor már előtted virrasztok.<br>Téged szomjaz a lelkem,<br>utánad sóvárog a testem,<br>puszta, úttalan, víztelen vidéken."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300200,
+                    "szep": "Zsolt 63,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bárcsak megjelenhetnék előtted a szent helyen,<br>és láthatnám hatalmadat és dicsőségedet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106300300,
+                    "szep": "Zsolt 63,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hisz irgalmad jobb, mint az élet,<br>ajkam téged dicsér."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300400,
+                    "szep": "Zsolt 63,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A felemelt kéz imádkozást jelent."
+                    }
+                ],
+                "szoveg": "Áldani akarlak, amíg csak élek,<br>és nevedben emelem fel kezemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300500,
+                    "szep": "Zsolt 63,5"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Zsír és kövérség: különösen értékesnek tartott ételek, fontos szerepet játszanak az áldozatbemutatásnál is."
+                    }
+                ],
+                "szoveg": "Szinte zsírral és kövérséggel telik el a lelkem,<br>ujjong az ajkam és dicsér a szám."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300600,
+                    "szep": "Zsolt 63,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha reggelenként rólad elmélkedem,<br>rád gondolok fekvőhelyemen."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300700,
+                    "szep": "Zsolt 63,7"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Szárnyad: vö. 57,2."
+                    }
+                ],
+                "szoveg": "Hisz te megsegítettél engem,<br>és szárnyad árnyékában örvendezhetem."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300800,
+                    "szep": "Zsolt 63,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkem tehozzád tapad,<br>és jobbod erősen tart engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300900,
+                    "szep": "Zsolt 63,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akik pedig meg akarják rontani életemet,<br>lesüllyednek a föld mélységeibe,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106301000,
+                    "szep": "Zsolt 63,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "kard hatalmába kerülnek,<br>sakálok osztályrésze lesznek."
+            },
+            {
+                "hely": {
+                    "gepi": 12106301100,
+                    "szep": "Zsolt 63,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örvendezik akkor majd a király Istenben;<br>Akik rá esküsznek, diadalmaskodnak valamennyien,<br>mert elnémul a szája azoknak, akik gonoszat beszélnek."
+            }
+        ]
+    }
+}

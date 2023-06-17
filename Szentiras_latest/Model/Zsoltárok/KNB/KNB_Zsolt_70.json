@@ -1,0 +1,78 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 70"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107000000,
+                    "szep": "Zsolt 70,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni panaszdal a fogság előtti időkből. Valószínűleg egy imaforma, amely mindenkinek a rendelkezésére állt, aki a jeruzsálemi templomban menedéket keresett. A zsoltár szövege csak kevéssel különbözik a 40,14-18-tól."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Dávid zsoltára. Emlékezetül.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12107000100,
+                    "szep": "Zsolt 70,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ezzel a verssel kezdődik minden ima a templomi imaórák idején."
+                    }
+                ],
+                "szoveg": "Isten, fordítsd figyelmedet megmentésemre,<br>Uram, siess segítségemre!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107000200,
+                    "szep": "Zsolt 70,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jöjjenek zavarba és szégyenüljenek meg,<br>akik életemre törnek!<br>Hátráljanak meg, valljanak szégyent,<br>akik rosszat akarnak nekem."
+            },
+            {
+                "hely": {
+                    "gepi": 12107000300,
+                    "szep": "Zsolt 70,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hátráljanak meg és piruljanak,<br>akik az életemre törnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12107000400,
+                    "szep": "Zsolt 70,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az Úr: egy héber kézirat alapján kiegészítve (vö. Zsolt 40,17)."
+                    }
+                ],
+                "szoveg": "Ujjongjanak és örvendezzenek benned<br>mindazok, akik téged keresnek!<br>»Magasztaltassék az Úr!« – mondják mindenkor,<br>akik örvendeznek szabadításodon."
+            },
+            {
+                "hely": {
+                    "gepi": 12107000500,
+                    "szep": "Zsolt 70,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én pedig szűkölködő és szegény vagyok,<br>Istenem, segíts rajtam!<br>Segítőm és szabadítóm te vagy,<br>ne késlekedj, Uram!"
+            }
+        ]
+    }
+}

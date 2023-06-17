@@ -1,0 +1,97 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 149"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114900100,
+                    "szep": "Zsolt 149,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Himnusz a fogság utáni közösség istentiszteletéből, nacionalista színezettel: Izrael dalt zeng saját kiválasztottságáról."
+                    }
+                ],
+                "szoveg": "ALLELUJA!<br>Énekeljetek az Úrnak új éneket,<br>zengjen a szentek gyülekezetében dicsérete!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114900200,
+                    "szep": "Zsolt 149,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örvendezzék Izrael az ő alkotójának,<br>Sion fiai ujjongjanak királyuknak!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114900300,
+                    "szep": "Zsolt 149,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsőítsék nevét körtánccal,<br>dobbal és lanttal zengjenek neki!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114900400,
+                    "szep": "Zsolt 149,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az ének egy győzelem kapcsán születik, amellyel Isten megajándékozta a benne hívőket. A harcosok a szent háborúban meg vannak győződve arról, hogy Istenért harcolnak (vö. 2 Makk 15,27), és Isten ellenségeit semmisítik meg."
+                    }
+                ],
+                "szoveg": "Mert az Úr kedveli népét,<br>diadalra juttatja az alázatosakat."
+            },
+            {
+                "hely": {
+                    "gepi": 12114900500,
+                    "szep": "Zsolt 149,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ujjongnak majd a szentek dicsőségben,<br>és örvendeznek fekvőhelyükön."
+            },
+            {
+                "hely": {
+                    "gepi": 12114900600,
+                    "szep": "Zsolt 149,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szájukban Isten magasztalása lesz,<br>és kétélű kard a kezükben,"
+            },
+            {
+                "hely": {
+                    "gepi": 12114900700,
+                    "szep": "Zsolt 149,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy bosszút álljanak a nemzeteken<br>megfenyítik a népeket,"
+            },
+            {
+                "hely": {
+                    "gepi": 12114900800,
+                    "szep": "Zsolt 149,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "láncra verik királyaikat,<br>vasbilincsbe nagyjaikat,"
+            },
+            {
+                "hely": {
+                    "gepi": 12114900900,
+                    "szep": "Zsolt 149,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "és végrehajtják rajtuk a megírt ítéletet:<br>Dicsősége lesz ez minden szentjének!<br>ALLELUJA!"
+            }
+        ]
+    }
+}

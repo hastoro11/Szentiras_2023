@@ -1,0 +1,186 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 59"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105900000,
+                    "szep": "Zsolt 59,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zsoltár a fogság előtti időkből való, egyéni panaszdal. A fogság után beillesztették egy közösségi panaszénekbe. A két szöveg nem illeszkedik tökéletesen, ez nehezíti a szöveg megértését. Az egyéni panaszban egy hívő szólal meg, akit saját népéből üldöznek a gonoszok. Idegen hatalom győzelmének lehetőségére és az ellenséges katonák önkényeskedésére is utal, ebből következtethetünk a későbbi réteg korára."
+                    },
+                    {
+                        "position": null,
+                        "text": "Vö. 1 Sám 19,11."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. A »Ne semmisíts meg« szerint. Miktám Dávidtól. Amikor Saul elküldte embereit,<br>hogy figyeljék a házát és öljék meg őt.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12105900100,
+                    "szep": "Zsolt 59,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ments meg ellenségeimtől, Isten,<br>támadóimtól szabadíts meg engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105900200,
+                    "szep": "Zsolt 59,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ments meg a gonosztevőktől,<br>oltalmazz meg a vérengző emberektől!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105900300,
+                    "szep": "Zsolt 59,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert íme, életemre leselkednek,<br>rám rohannak az erősek."
+            },
+            {
+                "hely": {
+                    "gepi": 12105900400,
+                    "szep": "Zsolt 59,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bár nincs bennem sem bűn, sem gonoszság, Uram,<br>bűn nélkül járom egyenes utamat.<br>Kelj fel, állj elém és lásd;"
+            },
+            {
+                "hely": {
+                    "gepi": 12105900500,
+                    "szep": "Zsolt 59,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hisz Uram, a seregek Istene te vagy, Izrael Istene.<br>Siess, látogasd meg e nemzeteket mind,<br>ne könyörülj senkin, aki gonoszat cselekszik!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105900600,
+                    "szep": "Zsolt 59,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az ellenséget kóbor kutyákhoz hasonlítja, akiknek nincs se gazdájuk, se otthonuk."
+                    }
+                ],
+                "szoveg": "Minden este megjelennek, mint az éhes kutyák,<br>s a várost körös-körül bejárják."
+            },
+            {
+                "hely": {
+                    "gepi": 12105900700,
+                    "szep": "Zsolt 59,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Íme egyre jártatják szájukat,<br>kard van ajkukon: »hiszen ki hallja meg?«"
+            },
+            {
+                "hely": {
+                    "gepi": 12105900800,
+                    "szep": "Zsolt 59,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ám te, Uram, kineveted őket,<br>megsemmisíted mind e nemzeteket."
+            },
+            {
+                "hely": {
+                    "gepi": 12105900900,
+                    "szep": "Zsolt 59,9"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ez a vers nem illik bele a szövegösszefüggésbe."
+                    },
+                    {
+                        "position": null,
+                        "text": "Javítva a görög és az arám fordítás alapján."
+                    },
+                    {
+                        "position": null,
+                        "text": "Jeromos fordítása alapján javítva (a héber szövegben: Isten az én váram)."
+                    }
+                ],
+                "szoveg": "Én erősségem, terád figyelek,<br>mert te vagy én oltalmam, Istenem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105901000,
+                    "szep": "Zsolt 59,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, akinek irgalma megelőz engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105901100,
+                    "szep": "Zsolt 59,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten megadja nekem, hogy elnézzek ellenségeim fölött.<br>Ne öld meg őket, hogy népem meg ne feledkezzék;<br>de hatalmaddal szórd szerteszét és alázd meg őket,<br>Uram, én oltalmazóm!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105901200,
+                    "szep": "Zsolt 59,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szájuk vétke, ajkuk beszéde,<br>saját kevélységük ejtse őket tőrbe!<br>Átkozódásukért, hazug beszédükért"
+            },
+            {
+                "hely": {
+                    "gepi": 12105901300,
+                    "szep": "Zsolt 59,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "veszítsd el őket haragodban, pusztítsd el, ne legyenek többé;<br>Hadd tudják meg, hogy Isten uralkodik Jákobon,<br>s a föld kerekségén!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105901400,
+                    "szep": "Zsolt 59,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Minden este megjelennek és ugatnak, mint a kutyák,<br>s a várost körös-körül bejárják;"
+            },
+            {
+                "hely": {
+                    "gepi": 12105901500,
+                    "szep": "Zsolt 59,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Étel után barangolnak,<br>és üvöltenek, ha jól nem laknak."
+            },
+            {
+                "hely": {
+                    "gepi": 12105901600,
+                    "szep": "Zsolt 59,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én azonban hatalmadat énekelem,<br>minden reggel magasztalom irgalmadat,<br>mivel te oltalmazóm voltál,<br>és menedékem sanyargatásom napján."
+            },
+            {
+                "hely": {
+                    "gepi": 12105901700,
+                    "szep": "Zsolt 59,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én erősségem, neked zengem énekem,<br>mert te, Isten, oltalmazóm vagy nekem:<br>Istenem, én irgalmasságom!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,199 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 94"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109400100,
+                    "szep": "Zsolt 94,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, bosszúállásnak Istene! Bosszúállásnak Istene, jelenj meg!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109400200,
+                    "szep": "Zsolt 94,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emelkedjél fel te, földnek birája, fizess meg a kevélyeknek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109400300,
+                    "szep": "Zsolt 94,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "A hitetlenek, Uram, meddig még, meddig örvendeznek még a hitetlenek?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109400400,
+                    "szep": "Zsolt 94,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Piszkolódnak, keményen szólnak; kérkednek mindnyájan a hamisság cselekedői."
+            },
+            {
+                "hely": {
+                    "gepi": 12109400500,
+                    "szep": "Zsolt 94,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A te népedet Uram tapossák, és nyomorgatják a te örökségedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12109400600,
+                    "szep": "Zsolt 94,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az özvegyet és jövevényt megölik, az árvákat is fojtogatják."
+            },
+            {
+                "hely": {
+                    "gepi": 12109400700,
+                    "szep": "Zsolt 94,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "És ezt mondják: Nem látja az Úr, és nem veszi észre a Jákób Istene!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109400800,
+                    "szep": "Zsolt 94,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Eszméljetek ti bolondok a nép között! És ti balgatagok, mikor tértek eszetekre?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109400900,
+                    "szep": "Zsolt 94,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki a fület plántálta, avagy nem hall-é? És a ki a szemet formálta, avagy nem lát-é?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109401000,
+                    "szep": "Zsolt 94,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki megfeddi a népeket, avagy nem fenyít-é meg? Ő, a ki az embert tudományra tanítja:"
+            },
+            {
+                "hely": {
+                    "gepi": 12109401100,
+                    "szep": "Zsolt 94,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr tudja az embernek gondolatjait, hogy azok hiábavalók."
+            },
+            {
+                "hely": {
+                    "gepi": 12109401200,
+                    "szep": "Zsolt 94,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog ember az, a kit te megfeddesz Uram, és a kit megtanítasz a te törvényedre;"
+            },
+            {
+                "hely": {
+                    "gepi": 12109401300,
+                    "szep": "Zsolt 94,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy nyugalmat adj annak a veszedelem napján, míg megásták a vermet a hitetlennek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109401400,
+                    "szep": "Zsolt 94,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony nem veti el az Úr az ő népét, és el nem hagyja az ő örökségét!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109401500,
+                    "szep": "Zsolt 94,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert igazságra fordul vissza az ítélet, és utána mennek mind az igazszívűek."
+            },
+            {
+                "hely": {
+                    "gepi": 12109401600,
+                    "szep": "Zsolt 94,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kicsoda támad fel én mellettem a gonoszok ellen? Kicsoda áll mellém a hamisság cselekedők ellen?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109401700,
+                    "szep": "Zsolt 94,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha az Úr nem lett volna segítségül nékem: már-már ott lakoznék lelkem a csendességben."
+            },
+            {
+                "hely": {
+                    "gepi": 12109401800,
+                    "szep": "Zsolt 94,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mikor azt mondtam: Az én lábam eliszamodott: a te kegyelmed, Uram, megtámogatott engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12109401900,
+                    "szep": "Zsolt 94,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mikor megsokasodtak bennem az én aggódásaim: a te vígasztalásaid megvidámították az én lelkemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12109402000,
+                    "szep": "Zsolt 94,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Van-é köze te hozzád a hamisság székének, a mely nyomorúságot szerez törvény színe alatt?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109402100,
+                    "szep": "Zsolt 94,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egybegyülekeznek az igaznak lelke ellen, és elkárhoztatják az ártatlannak vérét."
+            },
+            {
+                "hely": {
+                    "gepi": 12109402200,
+                    "szep": "Zsolt 94,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "De kőváram lőn én nékem az Úr, és az én Istenem az én oltalmamnak kősziklája;"
+            },
+            {
+                "hely": {
+                    "gepi": 12109402300,
+                    "szep": "Zsolt 94,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "És visszafordítja reájok az ő álnokságukat, és az ő gonoszságukkal veszti el őket; elveszti őket az Úr, a mi Istenünk."
+            }
+        ]
+    }
+}

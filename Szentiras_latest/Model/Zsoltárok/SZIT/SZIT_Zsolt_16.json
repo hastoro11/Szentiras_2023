@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 16"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101600000,
+                    "szep": "Zsolt 16,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Miktam – Dávid zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12101600100,
+                    "szep": "Zsolt 16,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Védelmezz, Istenem, hozzád menekülök."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600200,
+                    "szep": "Zsolt 16,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ti így beszéltek az Úrhoz: „Uram, te vagy boldogságom, téged semmi nem szárnyal túl!”"
+            },
+            {
+                "hely": {
+                    "gepi": 12101600300,
+                    "szep": "Zsolt 16,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "A „szentekhez” pedig, kik a földön élnek: „Ti kiválóak, minden kedvem tibennetek telik!”"
+            },
+            {
+                "hely": {
+                    "gepi": 12101600400,
+                    "szep": "Zsolt 16,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bálványaik számosak, azok nyomában járnak. De én nem hozok nekik véráldozatot, és nevüket nem veszem ajkamra."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600500,
+                    "szep": "Zsolt 16,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, örökrészem és kelyhem, te tartod kezedben sorsomat."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600600,
+                    "szep": "Zsolt 16,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mérőláncom kedves földre esett, s kedvem telik örökségemben."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600700,
+                    "szep": "Zsolt 16,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsőítem az Urat, mert értelmet adott nekem, s mert szívem még éjjel is figyelmeztet."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600800,
+                    "szep": "Zsolt 16,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mindig szemem előtt lebeg az Úr, ő áll jobbomon, hogy meg ne inogjak."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600900,
+                    "szep": "Zsolt 16,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezért örül a szívem és ujjong a lelkem s testem is békében fog majd nyugodni."
+            },
+            {
+                "hely": {
+                    "gepi": 12101601000,
+                    "szep": "Zsolt 16,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem adod lelkemet a holtak országának, s nem hagyod, hogy szented meglássa a sírt."
+            },
+            {
+                "hely": {
+                    "gepi": 12101601100,
+                    "szep": "Zsolt 16,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az élet útjára tanítasz engem. Színed előtt az öröm teljessége, s jobbodon a gyönyörűség mindörökké."
+            }
+        ]
+    }
+}

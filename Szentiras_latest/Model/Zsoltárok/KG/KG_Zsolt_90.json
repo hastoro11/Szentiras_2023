@@ -1,0 +1,159 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 90"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109000000,
+                    "szep": "Zsolt 90,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mózesnek, az Isten emberének imádsága."
+            },
+            {
+                "hely": {
+                    "gepi": 12109000100,
+                    "szep": "Zsolt 90,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, te voltál nékünk hajlékunk nemzedékről nemzedékre!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109000200,
+                    "szep": "Zsolt 90,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Minekelőtte hegyek lettek és föld és világ formáltaték, öröktől fogva mindörökké te vagy Isten."
+            },
+            {
+                "hely": {
+                    "gepi": 12109000300,
+                    "szep": "Zsolt 90,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te visszatéríted a halandót a porba, és ezt mondod: Térjetek vissza embernek fiai!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109000400,
+                    "szep": "Zsolt 90,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ezer esztendő annyi előtted, mint a tegnapi nap, a mely elmúlt, és mint egy őrjárási idő éjjel."
+            },
+            {
+                "hely": {
+                    "gepi": 12109000500,
+                    "szep": "Zsolt 90,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elragadod őket; olyanokká lesznek, mint az álom; mint a fű, a mely reggel sarjad;"
+            },
+            {
+                "hely": {
+                    "gepi": 12109000600,
+                    "szep": "Zsolt 90,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Reggel virágzik és sarjad, és estvére elhervad és megszárad."
+            },
+            {
+                "hely": {
+                    "gepi": 12109000700,
+                    "szep": "Zsolt 90,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony megemésztetünk a te haragod által, és a te búsulásod miatt megromlunk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109000800,
+                    "szep": "Zsolt 90,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elédbe vetetted a mi álnokságainkat; titkos bűneinket a te orczádnak világa elé."
+            },
+            {
+                "hely": {
+                    "gepi": 12109000900,
+                    "szep": "Zsolt 90,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony elmúlik minden mi napunk a te bosszúállásod miatt; megemésztjük a mi esztendeinket, mint a beszédet."
+            },
+            {
+                "hely": {
+                    "gepi": 12109001000,
+                    "szep": "Zsolt 90,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A mi esztendeinknek napjai hetven esztendő, vagy ha feljebb, nyolczvan esztendő, és nagyobb részök nyomorúság és fáradság, a mely gyorsan tovatünik, mintha repülnénk."
+            },
+            {
+                "hely": {
+                    "gepi": 12109001100,
+                    "szep": "Zsolt 90,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki tudhatja a te haragodnak erejét, és a te félelmetességed szerint való bosszúállásodat?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109001200,
+                    "szep": "Zsolt 90,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Taníts minket úgy számlálni napjainkat, hogy bölcs szívhez jussunk."
+            },
+            {
+                "hely": {
+                    "gepi": 12109001300,
+                    "szep": "Zsolt 90,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Térj vissza Uram! meddig késel? és könyörülj a te szolgáidon."
+            },
+            {
+                "hely": {
+                    "gepi": 12109001400,
+                    "szep": "Zsolt 90,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jó reggel elégíts meg minket a te kegyelmeddel, hogy örvendezzünk és vígadjunk minden mi időnkben."
+            },
+            {
+                "hely": {
+                    "gepi": 12109001500,
+                    "szep": "Zsolt 90,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vidámíts meg minket a mi nyomorúságunk napjaihoz képest, az esztendőkhöz képest, a melyekben gonoszt láttunk."
+            },
+            {
+                "hely": {
+                    "gepi": 12109001600,
+                    "szep": "Zsolt 90,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Láttassék meg a te műved a te szolgáidon, és a te dicsőséged azoknak fiain."
+            },
+            {
+                "hely": {
+                    "gepi": 12109001700,
+                    "szep": "Zsolt 90,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "És legyen az Úrnak, a mi Istenünknek jó kedve mi rajtunk, és a mi kezünknek munkáját tedd állandóvá nékünk, és a mi kezünknek munkáját tedd állandóvá!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 11"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101100000,
+                    "szep": "Zsolt 11,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek – Dávid zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12101100100,
+                    "szep": "Zsolt 11,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úrnál keresek menedéket. Miért mondjátok: „Menekülj a hegyekbe, mint a madár!”?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101100200,
+                    "szep": "Zsolt 11,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lám, a bűnösök feszítik íjukat, nyilat helyeznek a húrra, hogy az igaz szívűeket a sötétben leterítsék."
+            },
+            {
+                "hely": {
+                    "gepi": 12101100300,
+                    "szep": "Zsolt 11,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha az alapfalak leomlanak, mit tegyen az igaz?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101100400,
+                    "szep": "Zsolt 11,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr szent hajlékában lakik, az Úr az égben trónol. Szeme látja a világot, pillantása szemügyre veszi az emberek fiait."
+            },
+            {
+                "hely": {
+                    "gepi": 12101100500,
+                    "szep": "Zsolt 11,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr megvizsgálja az igazat éppúgy, mint a gonoszt, s aki a gonoszságot kedveli, azt gyűlöli lelke."
+            },
+            {
+                "hely": {
+                    "gepi": 12101100600,
+                    "szep": "Zsolt 11,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kénes esőt és égő parazsat hullat a bűnösökre, s perzselő szél lesz kelyhük osztályrésze."
+            },
+            {
+                "hely": {
+                    "gepi": 12101100700,
+                    "szep": "Zsolt 11,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert az Úr igazságos és az igazságot szereti, az igazak látják majd meg arcát."
+            }
+        ]
+    }
+}

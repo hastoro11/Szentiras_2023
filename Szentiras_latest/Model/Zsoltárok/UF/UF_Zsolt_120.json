@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 120"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112000000,
+                    "szep": "Zsolt 120,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zarándokének."
+            },
+            {
+                "hely": {
+                    "gepi": 12112000100,
+                    "szep": "Zsolt 120,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyomorúságomban az ÚRhoz kiáltok, és ő meghallgat engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12112000200,
+                    "szep": "Zsolt 120,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, ments meg engem a hazug ajaktól és a csalárd nyelvtől!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112000300,
+                    "szep": "Zsolt 120,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mit érdemelsz, mit fogsz majd kapni, te csalárd nyelv?"
+            },
+            {
+                "hely": {
+                    "gepi": 12112000400,
+                    "szep": "Zsolt 120,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A hős hegyes nyilait rekettye parazsával!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112000500,
+                    "szep": "Zsolt 120,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jaj nekem, mert Mesekben kell tartózkodnom, Kédár sátrai közt kell laknom!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112000600,
+                    "szep": "Zsolt 120,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Régóta lakom már együtt a békesség gyűlölőivel."
+            },
+            {
+                "hely": {
+                    "gepi": 12112000700,
+                    "szep": "Zsolt 120,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én békét akarok, de amint megszólalok, ők mindjárt harcra készek."
+            }
+        ]
+    }
+}

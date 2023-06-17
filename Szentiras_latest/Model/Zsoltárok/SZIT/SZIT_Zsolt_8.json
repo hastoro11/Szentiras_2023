@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 8"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100800000,
+                    "szep": "Zsolt 8,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek, Gát szerint – Dávid zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12100800100,
+                    "szep": "Zsolt 8,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, mi Urunk, milyen csodálatos széles e világon a te neved! Dicsőséged az egekig magasztalja"
+            },
+            {
+                "hely": {
+                    "gepi": 12100800200,
+                    "szep": "Zsolt 8,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "a gyermekek és a kicsinyek ajka. Védőbástyát emeltél elleneid ellen, hogy elhallgattasd az ellenszegülőt és a lázadót."
+            },
+            {
+                "hely": {
+                    "gepi": 12100800300,
+                    "szep": "Zsolt 8,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bámulom az eget, kezed művét, a holdat és a csillagokat, amelyeket te alkottál."
+            },
+            {
+                "hely": {
+                    "gepi": 12100800400,
+                    "szep": "Zsolt 8,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mi az ember, hogy megemlékezel róla, az ember fia, hogy gondot viselsz reá?"
+            },
+            {
+                "hely": {
+                    "gepi": 12100800500,
+                    "szep": "Zsolt 8,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Majdnem isteni lénnyé tetted, dicsőséggel és fönséggel koronáztad."
+            },
+            {
+                "hely": {
+                    "gepi": 12100800600,
+                    "szep": "Zsolt 8,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hatalmat adtál neki kezed műve fölött, mindent lába alá vetettél:"
+            },
+            {
+                "hely": {
+                    "gepi": 12100800700,
+                    "szep": "Zsolt 8,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "minden juhot és barmot, a mezők vadjait,"
+            },
+            {
+                "hely": {
+                    "gepi": 12100800800,
+                    "szep": "Zsolt 8,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "az ég madarait s a tenger halait, mindent, ami a tengerek ösvényén kering,"
+            },
+            {
+                "hely": {
+                    "gepi": 12100800900,
+                    "szep": "Zsolt 8,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, mi Urunk, milyen csodálatos széles e világon a te neved!"
+            }
+        ]
+    }
+}

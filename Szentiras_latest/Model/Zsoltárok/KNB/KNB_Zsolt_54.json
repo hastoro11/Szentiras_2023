@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 54"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105400000,
+                    "szep": "Zsolt 54,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "<em>A karvezetőnek. Lantra. Maszkíl Dávidtól, amikor Zíf lakói Saulhoz mentek és így szóltak:<br>»Íme, Dávid nálunk rejtőzködik.«</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12105400100,
+                    "szep": "Zsolt 54,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten, szabadíts meg engem nevedben,<br>hatalmaddal szolgáltass igazságot nekem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105400200,
+                    "szep": "Zsolt 54,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten, hallgasd meg imádságomat,<br>fogadd füledbe szám szavait."
+            },
+            {
+                "hely": {
+                    "gepi": 12105400300,
+                    "szep": "Zsolt 54,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert idegenek keltek föl ellenem,<br>erőszakosak törnek életemre,<br>akik nem tekintenek Istenre."
+            },
+            {
+                "hely": {
+                    "gepi": 12105400400,
+                    "szep": "Zsolt 54,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Íme, azonban, Isten segít engem,<br>s az Úr oltalmazza lelkemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12105400500,
+                    "szep": "Zsolt 54,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fordítsd a rosszat ellenségeimre,<br>igazságodban pusztítsd el őket!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105400600,
+                    "szep": "Zsolt 54,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Készségesen áldozom majd neked,<br>és hálát adok, Uram, jóságos nevednek;"
+            },
+            {
+                "hely": {
+                    "gepi": 12105400700,
+                    "szep": "Zsolt 54,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert minden nyomorúságból kiragadott engem,<br>és szemem lenézheti ellenségeimet."
+            }
+        ]
+    }
+}

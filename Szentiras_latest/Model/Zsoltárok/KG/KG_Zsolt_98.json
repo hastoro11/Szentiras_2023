@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 98"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109800000,
+                    "szep": "Zsolt 98,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zsoltár."
+            },
+            {
+                "hely": {
+                    "gepi": 12109800100,
+                    "szep": "Zsolt 98,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Énekeljetek az Úrnak új éneket, mert csodadolgokat cselekedett; megsegítette őt az ő jobbkeze és az ő szentséges karja."
+            },
+            {
+                "hely": {
+                    "gepi": 12109800200,
+                    "szep": "Zsolt 98,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tudtul adta az Úr az ő szabadítását; a népek előtt megjelentette az ő igazságát."
+            },
+            {
+                "hely": {
+                    "gepi": 12109800300,
+                    "szep": "Zsolt 98,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megemlékezett az ő kegyelméről és Izráel házához való hűségéről; látták a föld határai mind a mi Istenünknek szabadítását."
+            },
+            {
+                "hely": {
+                    "gepi": 12109800400,
+                    "szep": "Zsolt 98,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vígan énekelj az Úrnak te egész föld; harsanjatok fel, örvendezzetek és zengedezzetek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800500,
+                    "szep": "Zsolt 98,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zengedezzetek az Úrnak hárfával, hárfával és hangos énekléssel;"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800600,
+                    "szep": "Zsolt 98,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Trombitákkal és kürtzengéssel vígadozzatok a király, az Úr előtt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800700,
+                    "szep": "Zsolt 98,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Harsogjon a tenger és minden benne való, a világ és a kik lakoznak benne."
+            },
+            {
+                "hely": {
+                    "gepi": 12109800800,
+                    "szep": "Zsolt 98,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "A folyóvizek tapsoljanak, a hegyek együttesen örvendezzenek"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800900,
+                    "szep": "Zsolt 98,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr előtt, mert eljön megítélni a földet; megítéli a világot igazsággal és a népeket méltányossággal."
+            }
+        ]
+    }
+}

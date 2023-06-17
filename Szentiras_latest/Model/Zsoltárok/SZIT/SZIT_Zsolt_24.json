@@ -1,0 +1,103 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 24"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102400000,
+                    "szep": "Zsolt 24,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Dávid zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12102400100,
+                    "szep": "Zsolt 24,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úré a föld és ami betölti, a földkerekség és minden lakója."
+            },
+            {
+                "hely": {
+                    "gepi": 12102400200,
+                    "szep": "Zsolt 24,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő alapozta tengerekre, és megerősítette a vizek fölött."
+            },
+            {
+                "hely": {
+                    "gepi": 12102400300,
+                    "szep": "Zsolt 24,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki mehet föl az Úr hegyére? Ki állhat az ő szent helyén?"
+            },
+            {
+                "hely": {
+                    "gepi": 12102400400,
+                    "szep": "Zsolt 24,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akinek a keze tiszta és ártatlan a szíve, akinek az esze nem csaláson jár, s aki nem esküszik hamisan."
+            },
+            {
+                "hely": {
+                    "gepi": 12102400500,
+                    "szep": "Zsolt 24,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr az ilyet áldja meg, Istenétől, gyámolától megkapja jutalmát."
+            },
+            {
+                "hely": {
+                    "gepi": 12102400600,
+                    "szep": "Zsolt 24,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ez lesz a sorsa a népnek, amely őt keresi, amely a te arcodat keresi, Jákob Istene."
+            },
+            {
+                "hely": {
+                    "gepi": 12102400700,
+                    "szep": "Zsolt 24,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emeljétek föl fejeteket, kapuk, ősi kapuszárnyak, táruljatok, hadd vonuljon be a dicsőség királya!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102400800,
+                    "szep": "Zsolt 24,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki a dicsőség királya? Az Úr, a hatalmas és erős. Az Úr, a harcban verhetetlen."
+            },
+            {
+                "hely": {
+                    "gepi": 12102400900,
+                    "szep": "Zsolt 24,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emeljétek föl fejeteket, kapuk, ősi kapuszárnyak, táruljatok, hadd vonuljon be a dicsőség királya!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102401000,
+                    "szep": "Zsolt 24,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki ez a dicsőség királya? A Seregek Ura a dicsőség királya."
+            }
+        ]
+    }
+}

@@ -1,0 +1,215 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 31"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103100000,
+                    "szep": "Zsolt 31,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek, Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12103100100,
+                    "szep": "Zsolt 31,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te benned bíztam, Uram! Ne szégyenüljek meg soha; igazságoddal szabadíts meg engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103100200,
+                    "szep": "Zsolt 31,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hajtsd hozzám füledet, hamar szabadíts meg; légy nékem erős kőszálam, erődített házam, hogy megtarts engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103100300,
+                    "szep": "Zsolt 31,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert kősziklám és védőváram vagy te; vezess hát engem a te nevedért és vezérelj engemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12103100400,
+                    "szep": "Zsolt 31,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ments ki engem a hálóból, a melyet titkon vetettek nékem; hiszen te vagy az én erősségem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103100500,
+                    "szep": "Zsolt 31,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kezedre bízom lelkemet, te váltasz meg engemet, oh Uram, hűséges Isten."
+            },
+            {
+                "hely": {
+                    "gepi": 12103100600,
+                    "szep": "Zsolt 31,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gyűlölöm a hazug hiúságok híveit, és az Úrban bízom én."
+            },
+            {
+                "hely": {
+                    "gepi": 12103100700,
+                    "szep": "Zsolt 31,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hadd vigadjak és örüljek a te kegyelmednek, a miért meglátod nyomorúságomat és megismered a háborúságokban lelkemet;"
+            },
+            {
+                "hely": {
+                    "gepi": 12103100800,
+                    "szep": "Zsolt 31,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "És nem rekesztesz be engem ellenség kezébe, sőt tágas térre állatod lábaimat."
+            },
+            {
+                "hely": {
+                    "gepi": 12103100900,
+                    "szep": "Zsolt 31,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörülj rajtam, Uram, mert szorongattatom; elsenyved a búbánat miatt szemem, lelkem, testem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103101000,
+                    "szep": "Zsolt 31,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert bánatban enyészik életem, és sóhajtásban múlnak éveim; bűnöm miatt roskadoz erőm, és kiasznak csontjaim."
+            },
+            {
+                "hely": {
+                    "gepi": 12103101100,
+                    "szep": "Zsolt 31,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Temérdek üldözőm miatt csúfsággá lettem, kivált szomszédaimé, és ismerőseimnek félelmévé; a kik az utczán látnak, elfutnak tőlem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103101200,
+                    "szep": "Zsolt 31,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Töröltettem, akár a halott, az emlékezetből; olyanná lettem, mint az elroshadt edény."
+            },
+            {
+                "hely": {
+                    "gepi": 12103101300,
+                    "szep": "Zsolt 31,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert hallottam sokak rágalmát, iszonyatosságot mindenfelől, a mint együtt tanácskoztak ellenem, és tervezték, hogy elrabolják lelkemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12103101400,
+                    "szep": "Zsolt 31,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "De én benned bízom, Uram! Azt mondom: Te vagy Istenem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103101500,
+                    "szep": "Zsolt 31,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Életem ideje kezedben van: szabadíts meg ellenségeim kezéből és üldözőimtől."
+            },
+            {
+                "hely": {
+                    "gepi": 12103101600,
+                    "szep": "Zsolt 31,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Világosítsd meg orczádat a te szolgádon, tarts meg engem jóvoltodból."
+            },
+            {
+                "hely": {
+                    "gepi": 12103101700,
+                    "szep": "Zsolt 31,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, ne szégyenüljek meg, mivelhogy hívlak téged; a gonoszok szégyenüljenek meg és pusztuljanak a Seolba."
+            },
+            {
+                "hely": {
+                    "gepi": 12103101800,
+                    "szep": "Zsolt 31,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "A hazug ajkak némuljanak el, a melyek vakmerően szólnak az igaz ellen, kevélységgel és megvetéssel."
+            },
+            {
+                "hely": {
+                    "gepi": 12103101900,
+                    "szep": "Zsolt 31,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mily bőséges a te jóságod, a melyet fentartasz a téged félőknek, és megbizonyítasz a te benned bízókon az emberek fiai előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12103102000,
+                    "szep": "Zsolt 31,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elrejted őket a te orczádnak rejtekében az emberek zendülései elől; sátorban őrzöd őket a perpatvarkodó nyelvektől."
+            },
+            {
+                "hely": {
+                    "gepi": 12103102100,
+                    "szep": "Zsolt 31,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott az Úr, hogy csodálatossá tette kegyelmét rajtam, mint egy megerősített városon!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103102200,
+                    "szep": "Zsolt 31,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én ugyan azt gondoltam ijedtemben: Elvettettem szemeid elől; de mégis, meghallgattad esedezéseimnek szavát, mikor kiáltottam hozzád."
+            },
+            {
+                "hely": {
+                    "gepi": 12103102300,
+                    "szep": "Zsolt 31,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szeressétek az Urat mind ti ő kedveltjei; a híveket megőrzi az Úr és bőven megfizet a kevélyen cselekvőknek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103102400,
+                    "szep": "Zsolt 31,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Legyetek erősek és bátorodjék a ti szívetek mindnyájan, a kik várjátok az Urat!"
+            }
+        ]
+    }
+}

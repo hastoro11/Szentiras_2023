@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 121"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112100000,
+                    "szep": "Zsolt 121,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Zarándokének.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12112100100,
+                    "szep": "Zsolt 121,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tekintetem a hegyek felé emelem: honnan jön segítség számomra?"
+            },
+            {
+                "hely": {
+                    "gepi": 12112100200,
+                    "szep": "Zsolt 121,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "A segítség az Úrtól jön, aki az eget és a földet teremtette."
+            },
+            {
+                "hely": {
+                    "gepi": 12112100300,
+                    "szep": "Zsolt 121,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő nem engedi, hogy botladozzék lábad, nem alszik az, aki őriz téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12112100400,
+                    "szep": "Zsolt 121,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lám, nem alszik, nem pihen, aki őrséget áll Izrael felett."
+            },
+            {
+                "hely": {
+                    "gepi": 12112100500,
+                    "szep": "Zsolt 121,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr a te oltalmazód, az Úr védelmez jobbod felől."
+            },
+            {
+                "hely": {
+                    "gepi": 12112100600,
+                    "szep": "Zsolt 121,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nappal nem éget a nap, s éjjel nem árt neked a hold."
+            },
+            {
+                "hely": {
+                    "gepi": 12112100700,
+                    "szep": "Zsolt 121,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr megóv minden bajtól, ő vigyáz életedre."
+            },
+            {
+                "hely": {
+                    "gepi": 12112100800,
+                    "szep": "Zsolt 121,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr megőriz jártodban-keltedben, mostantól fogva mindörökké."
+            }
+        ]
+    }
+}

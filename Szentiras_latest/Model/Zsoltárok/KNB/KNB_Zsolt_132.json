@@ -1,0 +1,205 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 132"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113200000,
+                    "szep": "Zsolt 132,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az ének a Sion-ünnep szertartásába tartozott, amelyen a királyok korában a szentély alapítását és a dávidi ház kiválasztását ünnepelték (vö. 2 Sám 6 és 7). A fogság utáni idők szertartásaiban új értelmet nyert (a templom és a Dávid házából való végidei Fölkent)."
+                    },
+                    {
+                        "position": null,
+                        "text": "Egy beszélő elmondja Dávid fogadalmát, hogy házat épít az Úrnak."
+                    }
+                ],
+                "szoveg": "<em>Zarándok-ének.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12113200100,
+                    "szep": "Zsolt 132,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az ének a Sion-ünnep szertartásába tartozott, amelyen a királyok korában a szentély alapítását és a dávidi ház kiválasztását ünnepelték (vö. 2 Sám 6 és 7). A fogság utáni idők szertartásaiban új értelmet nyert (a templom és a Dávid házából való végidei Fölkent)."
+                    },
+                    {
+                        "position": null,
+                        "text": "Egy beszélő elmondja Dávid fogadalmát, hogy házat épít az Úrnak."
+                    }
+                ],
+                "szoveg": "Emlékezzél meg, Uram, Dávidról,<br>és minden gyötrődéséről,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113200200,
+                    "szep": "Zsolt 132,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "arról, hogy megesküdött az Úrnak,<br>fogadalmat tett Jákob erős Istenének:"
+            },
+            {
+                "hely": {
+                    "gepi": 12113200300,
+                    "szep": "Zsolt 132,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "»Nem lépek be házam sátorába,<br>nem megyek föl fekvőhelyem nyugalmába,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113200400,
+                    "szep": "Zsolt 132,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "nem engedem szememet aludni,<br>pilláimat szunnyadozni,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113200500,
+                    "szep": "Zsolt 132,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "amíg helyet nem találok az Úrnak,<br>hajlékot Jákob erős Istenének!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12113200600,
+                    "szep": "Zsolt 132,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A kórus szavai: Dávid Efratából való."
+                    }
+                ],
+                "szoveg": "Íme, hallottuk, hogy Efratában volt,<br>és rátaláltunk Jaár mezején."
+            },
+            {
+                "hely": {
+                    "gepi": 12113200700,
+                    "szep": "Zsolt 132,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lépjünk be az ő hajlékába,<br>boruljunk le lábának zsámolyához!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113200800,
+                    "szep": "Zsolt 132,8"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A verset Salamon templomszentelési imája is idézi (2 Krón 6,41-42)."
+                    }
+                ],
+                "szoveg": "Indulj el, Uram, nyugalmad helyére,<br>te és a te hatalmad ládája!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113200900,
+                    "szep": "Zsolt 132,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Papjaid öltözzenek igazságba,<br>szentjeid pedig ujjongjanak."
+            },
+            {
+                "hely": {
+                    "gepi": 12113201000,
+                    "szep": "Zsolt 132,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávidért, a te szolgádért,<br>ne vesd meg fölkentednek színét!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113201100,
+                    "szep": "Zsolt 132,11"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "2 Sám 7."
+                    }
+                ],
+                "szoveg": "Igaz esküt tett az Úr Dávidnak<br>s azt nem másítja meg:<br>»Ágyékod gyümölcsét<br>ültetem királyi székedbe."
+            },
+            {
+                "hely": {
+                    "gepi": 12113201200,
+                    "szep": "Zsolt 132,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha fiaid megtartják szövetségemet,<br>s e törvényeimet, amelyekre megtanítom őket,<br>fiaik is mindenkor<br>trónodon ülnek majd.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12113201300,
+                    "szep": "Zsolt 132,13"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A Dávid házának tett ígéret (11-12) összhangban áll a templommal kapcsolatos ígérettel (14-18): ez az a hely, ahol az ember Istennel találkozhat, ahol a szegények jóllaknak (vö. Mt 5,3-10), a papok Istennek szolgálnak, a hívek örvendeznek. A templomra és Dávid házára vonatkozó ígéretek érvényben vannak; az utolsó Fölkent, a Messiás ígérete is be fog teljesedni (vö. Lk 1,69)."
+                    }
+                ],
+                "szoveg": "Mert Siont választotta ki az Úr,<br>lakásául azt választotta."
+            },
+            {
+                "hely": {
+                    "gepi": 12113201400,
+                    "szep": "Zsolt 132,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "»Ez lesz a nyugvóhelyem mindörökre,<br>itt lesz a lakásom, mert ezt szeretem."
+            },
+            {
+                "hely": {
+                    "gepi": 12113201500,
+                    "szep": "Zsolt 132,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Özvegyeit áldva megáldom,<br>szegényeit jóllakatom kenyérrel."
+            },
+            {
+                "hely": {
+                    "gepi": 12113201600,
+                    "szep": "Zsolt 132,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Papjait felruházom segítségemmel,<br>s ujjongva ujjonganak majd szentjei."
+            },
+            {
+                "hely": {
+                    "gepi": 12113201700,
+                    "szep": "Zsolt 132,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid hatalmát itt növelem meg,<br>fölkentemnek fáklyát készítek."
+            },
+            {
+                "hely": {
+                    "gepi": 12113201800,
+                    "szep": "Zsolt 132,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ellenségeit szégyenbe öltöztetem,<br>rajta azonban ragyogni fog koronája.«"
+            }
+        ]
+    }
+}

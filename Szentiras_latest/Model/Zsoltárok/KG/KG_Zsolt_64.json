@@ -1,0 +1,103 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 64"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106400000,
+                    "szep": "Zsolt 64,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek; Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400100,
+                    "szep": "Zsolt 64,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgasd meg, Isten, az én szómat, mikor panaszkodom; az ellenségtől való félelemtől mentsd meg éltemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400200,
+                    "szep": "Zsolt 64,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rejts el engem a rosszakaróknak tanácsa elől, a gonosztevőknek gyülekezetétől."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400300,
+                    "szep": "Zsolt 64,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "A kik megélesítik nyelvöket, mint a szablyát; irányozzák nyilokat, keserű beszédöket."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400400,
+                    "szep": "Zsolt 64,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy lövöldözzék titkon az ártatlant; nagy hirtelenséggel lövöldözik azt, és nem félnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400500,
+                    "szep": "Zsolt 64,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megátalkodottak gonosz szándékukban; megegyeztek, hogy tőrt vetnek titkon, mondják: ki látja őket?"
+            },
+            {
+                "hely": {
+                    "gepi": 12106400600,
+                    "szep": "Zsolt 64,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Álnokságokat koholnak; a kikoholt tervet végrehajták; mindenikök keble és szíve kikutathatatlan."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400700,
+                    "szep": "Zsolt 64,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "De meglövi őket az Isten; hirtelen nyíl üt rajtok sebet."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400800,
+                    "szep": "Zsolt 64,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "És megejtik őket, a nyelvök lesz ellenök; iszonyodik mindenki, a ki őket látja."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400900,
+                    "szep": "Zsolt 64,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor megfélemlenek mind az emberek; hirdetni fogják Istennek dolgát, és megértik cselekedetét."
+            },
+            {
+                "hely": {
+                    "gepi": 12106401000,
+                    "szep": "Zsolt 64,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örvendeni fog az igaz Istenben, és hozzá menekül; és dicsekedni fognak minden egyenesszívűek."
+            }
+        ]
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 92"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109200000,
+                    "szep": "Zsolt 92,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Himnusz, amelyben egy hívő megvallja Istent, aki új szemléletmódot ajándékozott neki. A zsoltár a fogság utáni közösség szombati imája volt."
+                    }
+                ],
+                "szoveg": "<em>Zsoltár. Ének. Szombatnapra.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12109200100,
+                    "szep": "Zsolt 92,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Felszólítás a dicsőítő hálaadásra."
+                    }
+                ],
+                "szoveg": "Jó dolog az Urat dicsérni,<br>nevednek, ó Fölséges, éneket zengeni,"
+            },
+            {
+                "hely": {
+                    "gepi": 12109200200,
+                    "szep": "Zsolt 92,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "hirdetni reggelenként kegyelmedet,<br>éjjelente hűségedet"
+            },
+            {
+                "hely": {
+                    "gepi": 12109200300,
+                    "szep": "Zsolt 92,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "tízhúrú hárfával,<br>énekszóval, lanttal."
+            },
+            {
+                "hely": {
+                    "gepi": 12109200400,
+                    "szep": "Zsolt 92,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A hála és dicsőítés okai: az imádkozó újra felismerte Isten gondolatainak mélységét. Legyőzi a kételyeket és biztossá válik hitében."
+                    }
+                ],
+                "szoveg": "Mert tetteiddel megörvendeztettél, Uram,<br>s ujjongok kezed műveinek."
+            },
+            {
+                "hely": {
+                    "gepi": 12109200500,
+                    "szep": "Zsolt 92,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Milyen nagyok, Uram, műveid,<br>milyen mélységesek gondolataid!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109200600,
+                    "szep": "Zsolt 92,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "De az oktalan ember nem ismeri,<br>s az esztelen nem érti ezt meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12109200700,
+                    "szep": "Zsolt 92,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Amikor elburjánzanak, mint a fű, a bűnösök,<br>és virágzásnak indulnak, akik gonoszt cselekszenek,<br>s ez pusztulásukra lesz örökkön örökre."
+            },
+            {
+                "hely": {
+                    "gepi": 12109200800,
+                    "szep": "Zsolt 92,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "De te, Uram, fölséges vagy örökké!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109200900,
+                    "szep": "Zsolt 92,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert íme, Uram, a te ellenségeid,<br>a te ellenfeleid elvesznek,<br>és akik gonoszat tesznek, mind szétszóródnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12109201000,
+                    "szep": "Zsolt 92,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "De engem erőssé teszel, mint a bivalyt,<br>s gazdagon elárasztasz olajjal."
+            },
+            {
+                "hely": {
+                    "gepi": 12109201100,
+                    "szep": "Zsolt 92,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szemem lenézi majd ellenségeimet,<br>és gonosz támadóimról hallani fog fülem."
+            },
+            {
+                "hely": {
+                    "gepi": 12109201200,
+                    "szep": "Zsolt 92,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az igaz virul majd, mint a pálma,<br>és terebélyesedik, mint a Libanon cédrusa."
+            },
+            {
+                "hely": {
+                    "gepi": 12109201300,
+                    "szep": "Zsolt 92,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr házában vannak elültetve,<br>Istenünk udvaraiban virulnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12109201400,
+                    "szep": "Zsolt 92,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Még késő öregségükben is gyümölcsöt hoznak,<br>bőven teremnek és jól érzik magukat,"
+            },
+            {
+                "hely": {
+                    "gepi": 12109201500,
+                    "szep": "Zsolt 92,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "hirdetve, hogy igazságos az Úr, az én menedékem,<br>és nincs igazságtalanság benne."
+            }
+        ]
+    }
+}

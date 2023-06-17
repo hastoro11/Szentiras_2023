@@ -1,0 +1,78 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 13"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101300000,
+                    "szep": "Zsolt 13,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni panaszdal, amely valószínűleg a királyok korának első feléből maradt fenn. A szöveg a szokásos sémát követi: panasz (2-3), kérés (4-5), a bizalom kinyilvánítása (6)"
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Dávid zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12101300100,
+                    "szep": "Zsolt 13,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meddig felejtesz el egészen, Uram?<br>Arcodat meddig fordítod el tőlem?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101300200,
+                    "szep": "Zsolt 13,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Javított szöveg (a héber eredeti érthetetlen)."
+                    }
+                ],
+                "szoveg": "Meddig kell gondokat hordoznom lelkemben,<br>szívemben fájdalmat mindennap?<br>Meddig kerekedik fölém ellenségem?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101300300,
+                    "szep": "Zsolt 13,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nézz rám és hallgass meg, Uram, Istenem!<br>Ragyogtasd fel szememet,<br>hogy halálos álomba sohase merüljek,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101300400,
+                    "szep": "Zsolt 13,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy sohase mondja ellenségem: »Legyőztem!«<br>Ne örvendezzenek szorongatóim, hogy meginogtam."
+            },
+            {
+                "hely": {
+                    "gepi": 12101300500,
+                    "szep": "Zsolt 13,5"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Hangsúlyozza, hogy az ember öröme az Isten iránti szeretet gyümölcse."
+                    }
+                ],
+                "szoveg": "Én azonban bízom a te irgalmadban.<br>Szívem ujjong, mert megszabadítasz,<br>énekelek az Úrnak, aki jót tesz velem."
+            }
+        ]
+    }
+}

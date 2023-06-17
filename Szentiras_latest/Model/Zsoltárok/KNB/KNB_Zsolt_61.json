@@ -1,0 +1,107 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 61"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106100000,
+                    "szep": "Zsolt 61,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Könyörgő-ének a királyok korának utolsó éveiből. Egy levita vágyakozása a templom után, akit már a templom lerombolása előtt (Kr. e. 586) Babilonba hurcoltak. Úgy is értelmezhető, mint a király könyörgése (1-6), akit hű alattvalói támogatnak (7-9)"
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Hárfára. Dávidtól.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12106100100,
+                    "szep": "Zsolt 61,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgass, Isten, esdeklésemre,<br>figyelj könyörgésemre."
+            },
+            {
+                "hely": {
+                    "gepi": 12106100200,
+                    "szep": "Zsolt 61,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A föld széléről: a kép a nagyon nagy távolságot akarja érzékeltetni. Kőszikla: az imádkozó úgy érzi, hogy a dombra, amelyen a templom áll, csak Isten segítségével tud feljutni. Egyedül ott érzi magát biztonságban."
+                    }
+                ],
+                "szoveg": "A föld széléről kiáltok hozzád szorongó szívvel.<br>Vezess engem a megközelíthetetlen kősziklára!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106100300,
+                    "szep": "Zsolt 61,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert te vagy az én reménységem,<br>erős tornyom az ellenséggel szemben."
+            },
+            {
+                "hely": {
+                    "gepi": 12106100400,
+                    "szep": "Zsolt 61,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Szárnyad: vö. Zsolt 37,2"
+                    }
+                ],
+                "szoveg": "Bár lakhatnék mindörökké hajlékodban,<br>hogy oltalmat lelhetnék szárnyad árnyékában!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106100500,
+                    "szep": "Zsolt 61,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert Istenem, te meghallgatod imádságomat,<br>s azoknak, akik nevedet félik, örökséget adsz."
+            },
+            {
+                "hely": {
+                    "gepi": 12106100600,
+                    "szep": "Zsolt 61,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Utalás az eljövendő »Dávid Fia« örök uralmára (vö. Lk 1,33)."
+                    }
+                ],
+                "szoveg": "Adj a király napjaihoz napokat,<br>esztendeit nemzedékről nemzedékre nyújtsd."
+            },
+            {
+                "hely": {
+                    "gepi": 12106100700,
+                    "szep": "Zsolt 61,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Maradjon meg örökké Isten színe előtt,<br>irgalmad és hűséged őrizzék meg őt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106100800,
+                    "szep": "Zsolt 61,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így majd zsoltárt zengek nevednek mindörökké,<br>hogy napról napra teljesítsem fogadalmaimat."
+            }
+        ]
+    }
+}

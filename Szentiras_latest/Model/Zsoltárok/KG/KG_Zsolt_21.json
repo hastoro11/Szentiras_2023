@@ -1,0 +1,127 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 21"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102100000,
+                    "szep": "Zsolt 21,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek; Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100100,
+                    "szep": "Zsolt 21,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, a te erősségedben örül a király, és a te segítségedben felette örvendez."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100200,
+                    "szep": "Zsolt 21,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szívének kivánságát megadtad néki; és ajkainak kérését nem tagadtad meg. Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100300,
+                    "szep": "Zsolt 21,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sőt eléje vitted javaidnak áldásait; szín-arany koronát tettél fejére."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100400,
+                    "szep": "Zsolt 21,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Életet kért tőled: adtál néki hosszú időt, örökkévalót és végtelent."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100500,
+                    "szep": "Zsolt 21,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagy az ő dicsősége a te segítséged által; fényt és méltóságot adtál reája."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100600,
+                    "szep": "Zsolt 21,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sőt áldássá tetted őt örökké, megvidámítottad őt színed örömével."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100700,
+                    "szep": "Zsolt 21,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony a király bízik az Úrban, és nem inog meg, mert vele a Magasságosnak kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100800,
+                    "szep": "Zsolt 21,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megtalálja kezed minden ellenségedet; jobbod megtalálja gyűlölőidet."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100900,
+                    "szep": "Zsolt 21,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tüzes kemenczévé teszed őket megjelenésed idején; az Úr az ő haragjában elnyeli őket és tűz emészti meg őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12102101000,
+                    "szep": "Zsolt 21,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gyümölcsüket kiveszted e földről, és magvokat az emberek fiai közül."
+            },
+            {
+                "hely": {
+                    "gepi": 12102101100,
+                    "szep": "Zsolt 21,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert gonoszságot terveztek ellened, csalárdságot gondoltak, de nem vihetik ki;"
+            },
+            {
+                "hely": {
+                    "gepi": 12102101200,
+                    "szep": "Zsolt 21,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert meghátráltatod őket, íved húrjait arczuknak feszíted."
+            },
+            {
+                "hely": {
+                    "gepi": 12102101300,
+                    "szep": "Zsolt 21,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emelkedjél fel Uram, a te erőddel, hadd énekeljünk, hadd zengedezzük hatalmadat!"
+            }
+        ]
+    }
+}

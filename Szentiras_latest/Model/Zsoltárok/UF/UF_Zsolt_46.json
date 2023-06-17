@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 46"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104600000,
+                    "szep": "Zsolt 46,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Kórah fiaié. Ének magas hangra."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600100,
+                    "szep": "Zsolt 46,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten a mi oltalmunk és erősségünk, mindig biztos segítség a nyomorúságban."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600200,
+                    "szep": "Zsolt 46,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azért nem félünk, ha megindul is a föld, és hegyek omlanak a tenger mélyébe;"
+            },
+            {
+                "hely": {
+                    "gepi": 12104600300,
+                    "szep": "Zsolt 46,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "ha háborognak és tajtékoznak is vizei, és tombolásától megrendülnek a hegyek. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12104600400,
+                    "szep": "Zsolt 46,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egy folyam ágai örvendeztetik Isten városát, A Felségesnek szent hajlékait."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600500,
+                    "szep": "Zsolt 46,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten van benne, nem inog meg, megsegíti Isten reggelre kelve."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600600,
+                    "szep": "Zsolt 46,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Népek háborognak, országok inognak, ha az ÚR mennydörög, megretten a föld."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600700,
+                    "szep": "Zsolt 46,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "A Seregek URa velünk van, Jákób Istene a mi várunk. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12104600800,
+                    "szep": "Zsolt 46,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jöjjetek, lássátok az ÚR tetteit, aki bámulatos dolgokat művel a földön."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600900,
+                    "szep": "Zsolt 46,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Háborúkat szüntet meg a föld kerekségén, íjat tör össze, lándzsát tördel szét, harci kocsikat éget el."
+            },
+            {
+                "hely": {
+                    "gepi": 12104601000,
+                    "szep": "Zsolt 46,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csendesedjetek el, és tudjátok meg, hogy én vagyok az Isten! Magasztalnak a népek, magasztal a föld."
+            },
+            {
+                "hely": {
+                    "gepi": 12104601100,
+                    "szep": "Zsolt 46,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "A Seregek URa velünk van, Jákób Istene a mi várunk. (Szela.)"
+            }
+        ]
+    }
+}

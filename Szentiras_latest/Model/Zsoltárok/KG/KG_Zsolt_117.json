@@ -1,0 +1,31 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 117"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111700100,
+                    "szep": "Zsolt 117,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek az Urat mind, ti pogányok; magasztalják őt mind a népek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111700200,
+                    "szep": "Zsolt 117,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nagy az ő kegyelmessége mi hozzánk, és az Úrnak igazsága megmarad örökké. Dicsérjétek az Urat!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 113"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111300100,
+                    "szep": "Zsolt 113,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek az URat! ÚRnak szolgái, dicsérjétek, dicsérjétek az ÚR nevét!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111300200,
+                    "szep": "Zsolt 113,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Legyen áldott az ÚR neve most és mindörökké!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111300300,
+                    "szep": "Zsolt 113,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Napkelettől napnyugatig dicsérjétek az ÚR nevét!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111300400,
+                    "szep": "Zsolt 113,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasan fölötte van az ÚR minden népnek, dicsősége fölötte van az egeknek."
+            },
+            {
+                "hely": {
+                    "gepi": 12111300500,
+                    "szep": "Zsolt 113,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki hasonlítható Istenünkhöz, az ÚRhoz, aki a magasban lakik,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111300600,
+                    "szep": "Zsolt 113,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "és a mélybe néz, az égre is, a földre is?"
+            },
+            {
+                "hely": {
+                    "gepi": 12111300700,
+                    "szep": "Zsolt 113,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fölemeli a porból a nincstelent, és kiemeli a szemétből a szegényt."
+            },
+            {
+                "hely": {
+                    "gepi": 12111300800,
+                    "szep": "Zsolt 113,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az előkelők közé ülteti, népe előkelői közé."
+            },
+            {
+                "hely": {
+                    "gepi": 12111300900,
+                    "szep": "Zsolt 113,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megengedi, hogy a meddő úgy lakjék a házban, mint fiaknak boldog édesanyja. Dicsérjétek az URat!"
+            }
+        ]
+    }
+}

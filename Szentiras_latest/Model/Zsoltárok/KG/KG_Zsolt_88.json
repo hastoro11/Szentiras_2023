@@ -1,0 +1,167 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 88"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108800000,
+                    "szep": "Zsolt 88,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ének. A Kóráh fiainak zsoltára. Az éneklőmesternek a Mahalath-lehannóthra. Az Ezrahita Hémán tanítása."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800100,
+                    "szep": "Zsolt 88,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, szabadításomnak Istene! Nappal kiáltok, éjjelente előtted vagyok:"
+            },
+            {
+                "hely": {
+                    "gepi": 12108800200,
+                    "szep": "Zsolt 88,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jusson elődbe imádságom, hajtsad füled az én kiáltozásomra!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108800300,
+                    "szep": "Zsolt 88,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert betelt a lelkem nyomorúságokkal, és életem a Seolig jutott."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800400,
+                    "szep": "Zsolt 88,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hasonlatossá lettem a sírba szállókhoz; olyan vagyok, mint az erejevesztett ember."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800500,
+                    "szep": "Zsolt 88,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A holtak közt van az én helyem, mint a megölteknek, a kik koporsóban feküsznek, a kikről többé nem emlékezel, mert elszakasztattak a te kezedtől."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800600,
+                    "szep": "Zsolt 88,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mély sírba vetettél be engem, sötétségbe, örvények közé."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800700,
+                    "szep": "Zsolt 88,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "A te haragod reám nehezedett, és minden haboddal nyomtál engem. Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800800,
+                    "szep": "Zsolt 88,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elszakasztottad ismerőseimet tőlem, útálattá tettél előttök engem; berekesztettem és ki nem jöhetek."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800900,
+                    "szep": "Zsolt 88,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szemem megsenyvedett a nyomorúság miatt; kiáltalak téged Uram minden napon, hozzád terjengetem kezeimet."
+            },
+            {
+                "hely": {
+                    "gepi": 12108801000,
+                    "szep": "Zsolt 88,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Avagy a holtakkal teszel-é csodát? Felkelnek-é vajjon az árnyak, hogy dicsérjenek téged? Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12108801100,
+                    "szep": "Zsolt 88,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Beszélik-é a koporsóban a te kegyelmedet, hűségedet a pusztulás helyén?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108801200,
+                    "szep": "Zsolt 88,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megtudhatják-é a sötétségben a te csodáidat, és igazságodat a feledékenység földén?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108801300,
+                    "szep": "Zsolt 88,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "De én hozzád rimánkodom, Uram, és jó reggel elédbe jut az én imádságom:"
+            },
+            {
+                "hely": {
+                    "gepi": 12108801400,
+                    "szep": "Zsolt 88,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Miért vetsz el hát Uram engem, és rejted el orczádat én tőlem?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108801500,
+                    "szep": "Zsolt 88,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyomorult és holteleven vagyok ifjúságomtól kezdve; viselem a te rettentéseidet, roskadozom."
+            },
+            {
+                "hely": {
+                    "gepi": 12108801600,
+                    "szep": "Zsolt 88,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Általmentek rajtam a te búsulásaid; a te szorongatásaid elemésztettek engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12108801700,
+                    "szep": "Zsolt 88,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Körülvettek engem, mint a vizek egész napon; együttesen körülöveztek engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12108801800,
+                    "szep": "Zsolt 88,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elszakasztottál tőlem barátot és rokont; ismerőseim a - setétség."
+            }
+        ]
+    }
+}

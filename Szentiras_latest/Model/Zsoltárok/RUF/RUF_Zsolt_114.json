@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 114"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111400100,
+                    "szep": "Zsolt 114,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Amikor Izráel kivonult Egyiptomból, Jákób háza népe az idegen nyelvű nép közül,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111400200,
+                    "szep": "Zsolt 114,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Júda lett az ÚR szent népe, Izráel a birodalma."
+            },
+            {
+                "hely": {
+                    "gepi": 12111400300,
+                    "szep": "Zsolt 114,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Látta a tenger, és elfutott, a Jordán pedig meghátrált."
+            },
+            {
+                "hely": {
+                    "gepi": 12111400400,
+                    "szep": "Zsolt 114,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A hegyek ugrándoztak, mint a kosok, a halmok, mint a bárányok."
+            },
+            {
+                "hely": {
+                    "gepi": 12111400500,
+                    "szep": "Zsolt 114,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mi lelt téged, tenger, hogy elfutottál, és téged, Jordán, hogy meghátráltál?"
+            },
+            {
+                "hely": {
+                    "gepi": 12111400600,
+                    "szep": "Zsolt 114,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hegyek, mit ugrándoztok, mint a kosok, és ti halmok, mint a bárányok?"
+            },
+            {
+                "hely": {
+                    "gepi": 12111400700,
+                    "szep": "Zsolt 114,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Reszkess, te, föld, az Úrtól, Jákób Istenétől,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111400800,
+                    "szep": "Zsolt 114,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "aki a sziklát bővizű tóvá változtatta, a kovakövet forrássá!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 128"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112800000,
+                    "szep": "Zsolt 128,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Grádicsok éneke."
+            },
+            {
+                "hely": {
+                    "gepi": 12112800100,
+                    "szep": "Zsolt 128,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mind boldog az, a ki féli az Urat; a ki az ő útaiban jár!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112800200,
+                    "szep": "Zsolt 128,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony, kezed munkáját eszed! Boldog vagy és jól van dolgod."
+            },
+            {
+                "hely": {
+                    "gepi": 12112800300,
+                    "szep": "Zsolt 128,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Feleséged, mint a termő szőlő házad belsejében; fiaid, mint az olajfacsemeték asztalod körül."
+            },
+            {
+                "hely": {
+                    "gepi": 12112800400,
+                    "szep": "Zsolt 128,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ímé, így áldatik meg a férfiú, a ki féli az Urat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112800500,
+                    "szep": "Zsolt 128,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megáld téged az Úr a Sionról, hogy boldognak lássad Jeruzsálemet életednek minden idejében;"
+            },
+            {
+                "hely": {
+                    "gepi": 12112800600,
+                    "szep": "Zsolt 128,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "És meglássad fiaidnak fiait; békesség legyen Izráelen!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 147"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114700100,
+                    "szep": "Zsolt 147,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Alleluja!) Áldjátok az Urat, mert jó neki énekelni, Istenünknek kedves a dicsőítés!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114700200,
+                    "szep": "Zsolt 147,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr újjáépíti Jeruzsálemet, a szétszórt Izraelt összegyűjti."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700300,
+                    "szep": "Zsolt 147,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meggyógyítja a megtört szívűeket, és bekötözi sebeiket."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700400,
+                    "szep": "Zsolt 147,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A csillagokat számon tartja, mindegyiket nevén szólítja."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700500,
+                    "szep": "Zsolt 147,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagy az Úr, ereje hatalmas, és bölcsessége mérhetetlen."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700600,
+                    "szep": "Zsolt 147,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr fölemeli a megalázottakat, de a gonoszokat földre tiporja."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700700,
+                    "szep": "Zsolt 147,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Énekeljetek az Úrnak és adjatok neki hálát! Játsszatok hárfán Istenünknek,"
+            },
+            {
+                "hely": {
+                    "gepi": 12114700800,
+                    "szep": "Zsolt 147,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "aki az eget felhővel borítja, és esőt juttat a földnek! A hegyeken füvet sarjaszt, és növényeket az emberek javára."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700900,
+                    "szep": "Zsolt 147,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ellátja táplálékkal az állatokat, a rikácsoló hollófiakat."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701000,
+                    "szep": "Zsolt 147,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem a ló erejében telik öröme, nem leli tetszését a harcos izmaiban."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701100,
+                    "szep": "Zsolt 147,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azok tetszenek az Úrnak, akik félik őt, akik bíznak jóságában és kegyelmében."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701200,
+                    "szep": "Zsolt 147,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jeruzsálem, áldd az Urat, Sion, magasztald a te Istenedet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114701300,
+                    "szep": "Zsolt 147,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kapuid zárait megerősítette, s megáldotta benned fiaidat."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701400,
+                    "szep": "Zsolt 147,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Határaidat békében elrendezte, s a búza javával táplált téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701500,
+                    "szep": "Zsolt 147,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ítéletet küld a földre, szava gyorsan odaér."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701600,
+                    "szep": "Zsolt 147,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Havat ad, mintha gyapjú hullna, a deret úgy hinti, mint a hamut."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701700,
+                    "szep": "Zsolt 147,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "A jégesőt úgy szórja, mint a morzsát, s faggyal dermeszti meg a vizeket."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701800,
+                    "szep": "Zsolt 147,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szava elhangzik, és olvadni kezd, feltámad a szél, és folynak a vizek."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701900,
+                    "szep": "Zsolt 147,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szavát kihirdette Jákobnak, igazságát és törvényét Izraelnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12114702000,
+                    "szep": "Zsolt 147,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egyetlen néppel sem tett így, senki másnak nem hirdette ki törvényeit."
+            }
+        ]
+    }
+}

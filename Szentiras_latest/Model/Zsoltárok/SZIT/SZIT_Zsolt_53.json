@@ -1,0 +1,71 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 53"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105300000,
+                    "szep": "Zsolt 53,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek – betegség idején; Dávid tanítókölteménye.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12105300100,
+                    "szep": "Zsolt 53,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az esztelen így szól szívében: „Nincs Isten!” Álnokok, romlottak, s amit művelnek, borzalom. Senki sincs, aki még a jót tenné."
+            },
+            {
+                "hely": {
+                    "gepi": 12105300200,
+                    "szep": "Zsolt 53,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten, nézz le az égből az ember fiaira, hogy van-e még bölcs, van-e még, aki az Istent keresi."
+            },
+            {
+                "hely": {
+                    "gepi": 12105300300,
+                    "szep": "Zsolt 53,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tévelygők és romlottak mind! Egyetlenegy sincs, aki a jót tenné."
+            },
+            {
+                "hely": {
+                    "gepi": 12105300400,
+                    "szep": "Zsolt 53,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem jutnak jobb belátásra, akik rosszat tesznek, akik emésztik népemet, mint ahogy a kenyeret eszik, akik nem folyamodnak Istenhez?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105300500,
+                    "szep": "Zsolt 53,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor majd rettegés veri őket, amilyen váratlan rettegés még nem volt. Akik hűtlenek lettek, azoknak csontját szétszórta az Úr, megszégyenültek, mivel Isten elvetette őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12105300600,
+                    "szep": "Zsolt 53,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jöjjön hát szabadulás Sionból Izrael számára! Ha majd Isten megfordítja népe sorsát, akkor ujjong majd Jákob és vigad Izrael."
+            }
+        ]
+    }
+}

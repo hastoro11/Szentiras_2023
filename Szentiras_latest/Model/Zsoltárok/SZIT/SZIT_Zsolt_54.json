@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 54"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105400000,
+                    "szep": "Zsolt 54,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek, húros hangszerre – Dávid tanítókölteménye, azután, hogy a cifiták elmentek Saulhoz és jelentették: „Dávid nálunk rejtőzik.”)"
+            },
+            {
+                "hely": {
+                    "gepi": 12105400100,
+                    "szep": "Zsolt 54,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segíts meg, Isten, neved által, légy hatalmas szószólója ügyemnek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105400200,
+                    "szep": "Zsolt 54,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgasd meg imámat, Istenem, figyelj szám szavára!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105400300,
+                    "szep": "Zsolt 54,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert gőgösek keltek föl ellenem, a hatalom emberei életemre törnek, s nem tekintik az Istent."
+            },
+            {
+                "hely": {
+                    "gepi": 12105400400,
+                    "szep": "Zsolt 54,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "De lám, Isten az én segítségem, az Úr ereje tartja fenn életem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105400500,
+                    "szep": "Zsolt 54,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A bajt fordítsd vissza ellenségeimre, hűségedben, Uram, semmisítsd meg őket!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105400600,
+                    "szep": "Zsolt 54,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor örömmel mutatok be áldozatot neked, és dicsőítem jóságos nevedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12105400700,
+                    "szep": "Zsolt 54,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kimentett engem minden gyötrelemből s szememmel láttam ellenségem vesztét."
+            }
+        ]
+    }
+}

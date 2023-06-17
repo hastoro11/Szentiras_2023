@@ -1,0 +1,137 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 21"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102100000,
+                    "szep": "Zsolt 21,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Királyzsoltár a fogság előtti időkből. Hasonló a 20. zsoltárhoz, de az a harc előtti helyzetet feltételezi, ez pedig már a győzelmet köszöni meg. A szöveg első változata Dávid egyik győzelme után keletkezhetett. Ez a későbbi feldolgozás a háborúk után bemutatott hálaadó istentiszteletek része lehetett."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Dávid zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12102100100,
+                    "szep": "Zsolt 21,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Jahve segített a királynak, ezért az győztesként térhetett vissza."
+                    }
+                ],
+                "szoveg": "Uram, hatalmadon örvend a király,<br>és mérhetetlenül ujjong segítségeden."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100200,
+                    "szep": "Zsolt 21,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Teljesítetted szívének kívánságát,<br>nem tagadtad meg tőle ajkának óhajtását."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100300,
+                    "szep": "Zsolt 21,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sőt elébe siettél boldogító áldással,<br>fejére színarany koronát helyeztél."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100400,
+                    "szep": "Zsolt 21,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Életet kért tőled, s te megadtad neki,<br>hogy sokáig éljen, időtlen időkig."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100500,
+                    "szep": "Zsolt 21,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segítséged folytán nagy a dicsősége,<br>dicsőséggel és nagy ékességgel ruháztad fel őt."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100600,
+                    "szep": "Zsolt 21,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Valóban, áldássá tetted őt mindörökre,<br>megörvendeztetted vidámsággal színed előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100700,
+                    "szep": "Zsolt 21,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Minthogy az Úrban bízik a király,<br>meg nem inog a Fölséges irgalmából."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100800,
+                    "szep": "Zsolt 21,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Érje utol kezed minden ellenségedet,<br>érje el jobbod minden gyűlölődet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102100900,
+                    "szep": "Zsolt 21,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tedd őket hasonlókká tüzes kemencéhez,<br>abban az időben, amikor megjelensz.<br>Nyelje el őket haragjában az Úr,<br>és a tűz eméssze el őket!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102101000,
+                    "szep": "Zsolt 21,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Pusztítsd el magzataikat a földről,<br>utódaikat az emberek fiai közül!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102101100,
+                    "szep": "Zsolt 21,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert gonoszat határoztak ellened,<br>álnok terveket szőttek,<br>de semmit sem vihettek keresztül."
+            },
+            {
+                "hely": {
+                    "gepi": 12102101200,
+                    "szep": "Zsolt 21,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert te megfutamítottad őket,<br>íjaddal célba vetted arcukat."
+            },
+            {
+                "hely": {
+                    "gepi": 12102101300,
+                    "szep": "Zsolt 21,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kelj fel, Uram, hatalmaddal!<br>Hadd magasztaljuk erődet énekkel és zsoltárral!"
+            }
+        ]
+    }
+}

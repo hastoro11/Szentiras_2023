@@ -1,0 +1,135 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 27"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102700000,
+                    "szep": "Zsolt 27,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Dávid zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12102700100,
+                    "szep": "Zsolt 27,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Világosságom és üdvösségem az Úr – kitől félnék? Életem oltalmazója az Úr – kitől rettegnék?"
+            },
+            {
+                "hely": {
+                    "gepi": 12102700200,
+                    "szep": "Zsolt 27,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha rám törnek a gonoszok, hogy elemésszék testemet, elleneim és ellenségeim megtántorodnak és a földre zuhannak."
+            },
+            {
+                "hely": {
+                    "gepi": 12102700300,
+                    "szep": "Zsolt 27,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha hadsereg áll is velem szemben, szívem akkor sem remeg. Ha harcra kelnek ellenem, akkor is bizakodom."
+            },
+            {
+                "hely": {
+                    "gepi": 12102700400,
+                    "szep": "Zsolt 27,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egyet kérek az Úrtól, csak egy a vágyam: hogy életem minden napján az Úr házában lakjam. Hogy élvezhessem az Úr édességét, és szemlélhessem szent templomát."
+            },
+            {
+                "hely": {
+                    "gepi": 12102700500,
+                    "szep": "Zsolt 27,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A bajnak napján elrejt hajlékában, megvéd sátrának oltalmában, és sziklára állít engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12102700600,
+                    "szep": "Zsolt 27,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezért magasra emelhetem fejem, ellenségeim fölé, akik körülvesznek. Hajlékában dicsőítő áldozatot mutatok be, hangszeren játszva énekelek az Úrnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12102700700,
+                    "szep": "Zsolt 27,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, halld meg hozzád kiáltó szavam, könyörülj rajtam és hallgass meg engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102700800,
+                    "szep": "Zsolt 27,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szívem ezt sugallta: „Keresd tekintetét!” Uram, a te arcodat akarom keresni."
+            },
+            {
+                "hely": {
+                    "gepi": 12102700900,
+                    "szep": "Zsolt 27,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne rejtsd el előlem arcodat, ne taszítsd el szolgádat haraggal! Te vagy oltalmazóm, ne utasíts vissza, Istenem, megmentőm, ne hagyj el végképp!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102701000,
+                    "szep": "Zsolt 27,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha apám, anyám el is felednének, az Úr akkor is fölemelne."
+            },
+            {
+                "hely": {
+                    "gepi": 12102701100,
+                    "szep": "Zsolt 27,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, mutasd meg ösvényedet, s ellenségeim miatt vezess sima úton!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102701200,
+                    "szep": "Zsolt 27,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne szolgáltass ki ellenségem bosszújának! Hiszen hamis tanúk lépnek föl ellenem, férfiak, kik gonoszat forralnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12102701300,
+                    "szep": "Zsolt 27,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "De biztos vagyok benne: meglátom az Úr dicsőségét az élők honában."
+            },
+            {
+                "hely": {
+                    "gepi": 12102701400,
+                    "szep": "Zsolt 27,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezért remélj az Úrban és légy erős, légy bátorsággal és bízzál az Úrban!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 143"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114300000,
+                    "szep": "Zsolt 143,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12114300100,
+                    "szep": "Zsolt 143,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, hallgasd meg imádságomat, figyelj könyörgésemre! Hallgass meg, mert hű és igaz vagy te!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114300200,
+                    "szep": "Zsolt 143,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne szállj perbe szolgáddal, hiszen egy élő sem igaz előtted!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114300300,
+                    "szep": "Zsolt 143,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ellenség üldöz engem, földre tiporja életemet, sötétségbe taszít, mint a régen meghaltakat."
+            },
+            {
+                "hely": {
+                    "gepi": 12114300400,
+                    "szep": "Zsolt 143,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkem elcsüggedt bennem, szívem megdermedt bensőmben."
+            },
+            {
+                "hely": {
+                    "gepi": 12114300500,
+                    "szep": "Zsolt 143,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Visszaemlékezem a régi napokra, végiggondolom minden tettedet, elmélkedem kezed alkotásain."
+            },
+            {
+                "hely": {
+                    "gepi": 12114300600,
+                    "szep": "Zsolt 143,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Imádkozva nyújtom feléd kezem, lelkem utánad eped, mint a kiszikkadt föld. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12114300700,
+                    "szep": "Zsolt 143,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Siess, URam, hallgass meg, mert odavan a lelkem. Ne rejtsd el orcádat előlem, mert olyan leszek, mint a sírba leszállók!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114300800,
+                    "szep": "Zsolt 143,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hadd halljam minden reggel, hogy hűséges vagy, hiszen benned bízom! Ismertesd meg velem, melyik úton járjak, mert hozzád vágyódik lelkem."
+            },
+            {
+                "hely": {
+                    "gepi": 12114300900,
+                    "szep": "Zsolt 143,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ments meg ellenségeimtől, URam, nálad keresek oltalmat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114301000,
+                    "szep": "Zsolt 143,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Taníts akaratod teljesítésére, mert te vagy Istenem! A te jó lelked vezéreljen az egyenes úton!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114301100,
+                    "szep": "Zsolt 143,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tartsd meg életemet nevedért, URam, hozz ki engem a nyomorúságból a te igazságodért!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114301200,
+                    "szep": "Zsolt 143,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Némítsd el ellenségeimet a te hűségedért! Pusztítsd el azokat, akik életemre törnek, mert a te szolgád vagyok én!"
+            }
+        ]
+    }
+}

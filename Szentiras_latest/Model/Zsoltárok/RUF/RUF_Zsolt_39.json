@@ -1,0 +1,127 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 39"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103900000,
+                    "szep": "Zsolt 39,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek, Jedútúnnak: Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12103900100,
+                    "szep": "Zsolt 39,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezt határoztam: vigyázok szavaimra, hogy ne vétkezzem nyelvemmel, megzabolázom számat, ha gonosz ember kerül elém."
+            },
+            {
+                "hely": {
+                    "gepi": 12103900200,
+                    "szep": "Zsolt 39,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Néma voltam, szótalan, hallgattam, de ez nem volt jó, fájdalmam kiújult."
+            },
+            {
+                "hely": {
+                    "gepi": 12103900300,
+                    "szep": "Zsolt 39,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szívem fölhevült bennem, míg sóhajtoztam, lángra lobbantam, nyelvemmel beszélni kezdtem:"
+            },
+            {
+                "hely": {
+                    "gepi": 12103900400,
+                    "szep": "Zsolt 39,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Add tudtomra, URam, életem végét, meddig tart napjaim sora, hadd tudjam meg, milyen mulandó vagyok!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103900500,
+                    "szep": "Zsolt 39,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Íme, arasznyivá tetted napjaimat, életem ideje semmiség előtted. Mint egy lehelet, annyit ér minden ember, aki él. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12103900600,
+                    "szep": "Zsolt 39,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Árnyékként jár-kel itt az ember, bizony hiába vesződik. Gyűjtöget, de nem tudja, ki fogja hasznát venni."
+            },
+            {
+                "hely": {
+                    "gepi": 12103900700,
+                    "szep": "Zsolt 39,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így hát mit várhatok, Uram? Egyedül benned reménykedem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103900800,
+                    "szep": "Zsolt 39,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ments meg az ellenem vétőktől, ne engedd, hogy a bolondok gyalázzanak!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103900900,
+                    "szep": "Zsolt 39,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Néma maradok, nem nyitom ki számat, hiszen te munkálkodsz."
+            },
+            {
+                "hely": {
+                    "gepi": 12103901000,
+                    "szep": "Zsolt 39,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vedd le rólam csapásodat, elpusztulok sújtó kezed alatt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103901100,
+                    "szep": "Zsolt 39,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "A bűn miatt büntetéssel fenyíted az embert, tönkreteszed szépségét, mint a moly. Mint egy lehelet, annyit ér minden ember. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12103901200,
+                    "szep": "Zsolt 39,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgasd meg imádságomat, URam, figyelj segélykiáltásomra! Könnyeim láttán ne légy néma, mert jövevény vagyok nálad, betelepült, mint minden ősöm."
+            },
+            {
+                "hely": {
+                    "gepi": 12103901300,
+                    "szep": "Zsolt 39,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne nézz rám haraggal, hadd viduljak föl, mielőtt elmegyek, és nem leszek többé."
+            }
+        ]
+    }
+}

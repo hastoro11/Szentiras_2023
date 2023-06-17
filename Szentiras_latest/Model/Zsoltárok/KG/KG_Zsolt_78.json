@@ -1,0 +1,599 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 78"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107800000,
+                    "szep": "Zsolt 78,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aszáf tanítása."
+            },
+            {
+                "hely": {
+                    "gepi": 12107800100,
+                    "szep": "Zsolt 78,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Figyelj én népem az én tanításomra; hajtsátok füleiteket számnak beszédeire."
+            },
+            {
+                "hely": {
+                    "gepi": 12107800200,
+                    "szep": "Zsolt 78,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megnyitom az én számat példabeszédre; rejtett dolgokat szólok a régi időből."
+            },
+            {
+                "hely": {
+                    "gepi": 12107800300,
+                    "szep": "Zsolt 78,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "A miket hallottunk és tudunk; és a miket atyáink beszéltek nékünk,"
+            },
+            {
+                "hely": {
+                    "gepi": 12107800400,
+                    "szep": "Zsolt 78,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem titkoljuk el azokat az ő fiaiktól; a jövő nemzedéknek is elbeszéljük az Úr dicséretét, hatalmát és csodáit, a melyeket cselekedett."
+            },
+            {
+                "hely": {
+                    "gepi": 12107800500,
+                    "szep": "Zsolt 78,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert bizonyságot állított Jákóbban, és törvényt rendelt Izráelben; a melyek felől megparancsolta atyáinknak, hogy megtanítsák azokra fiaikat;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107800600,
+                    "szep": "Zsolt 78,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy megtudja azokat a jövő nemzedék, a fiak, a kik születnek; és felkeljenek és hirdessék azokat fiaiknak;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107800700,
+                    "szep": "Zsolt 78,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy Istenbe vessék reménységüket és el ne felejtkezzenek Isten dolgairól, hanem az ő parancsolatait megtartsák."
+            },
+            {
+                "hely": {
+                    "gepi": 12107800800,
+                    "szep": "Zsolt 78,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy ne legyenek olyanok, mint apáik: szilaj és makacs nemzedék, olyan nemzedék, a melynek szíve nem volt szilárd, és lelke sem volt hű Isten iránt."
+            },
+            {
+                "hely": {
+                    "gepi": 12107800900,
+                    "szep": "Zsolt 78,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Efraim fiai, a fegyveres íjászok hátat fordítottak az ütközet napján;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107801000,
+                    "szep": "Zsolt 78,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem őrizték meg az Isten szövetségét, és nem akartak járni az ő törvényében;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107801100,
+                    "szep": "Zsolt 78,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sőt elfelejtkeztek az ő tetteiről, csodáiról, a melyeket mutatott nékik."
+            },
+            {
+                "hely": {
+                    "gepi": 12107801200,
+                    "szep": "Zsolt 78,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Apáik előtt csodát mívelt Égyiptom földjén, a Czoán mezején."
+            },
+            {
+                "hely": {
+                    "gepi": 12107801300,
+                    "szep": "Zsolt 78,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ketté választotta a tengert s átvitte őket; és felállította a vizeket fal gyanánt."
+            },
+            {
+                "hely": {
+                    "gepi": 12107801400,
+                    "szep": "Zsolt 78,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vezette őket nappal felhőben, és egész éjen át tűznek világosságában."
+            },
+            {
+                "hely": {
+                    "gepi": 12107801500,
+                    "szep": "Zsolt 78,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sziklákat hasított meg a pusztában, és inniok adott bőségesen, akárcsak a mélységes vizekből."
+            },
+            {
+                "hely": {
+                    "gepi": 12107801600,
+                    "szep": "Zsolt 78,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Patakokat fakasztott a kősziklából, és folyamok módjára vizeket ömlesztett:"
+            },
+            {
+                "hely": {
+                    "gepi": 12107801700,
+                    "szep": "Zsolt 78,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mégis folyvást vétkeztek ellene, és haragították a Felségest a pusztában;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107801800,
+                    "szep": "Zsolt 78,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "És megkísérték Istent az ő szívökben, enni valót kérvén az ő kivánságuk szerint."
+            },
+            {
+                "hely": {
+                    "gepi": 12107801900,
+                    "szep": "Zsolt 78,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "És szólának Isten ellen, mondván: Avagy tudna-é Isten asztalt teríteni a pusztában?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107802000,
+                    "szep": "Zsolt 78,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ímé, megcsapta a kősziklát és víz ömlött és patakok özönlöttek; de vajjon tud-é kenyeret is adni? avagy készíthet-é húst az ő népének?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107802100,
+                    "szep": "Zsolt 78,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meghallotta az Úr és megharagudott ezért, és tűz gyulladt fel Jákób ellen, és harag gerjedt fel Izráel ellen;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107802200,
+                    "szep": "Zsolt 78,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nem hittek Istenben, és nem bíztak az ő segedelmében,"
+            },
+            {
+                "hely": {
+                    "gepi": 12107802300,
+                    "szep": "Zsolt 78,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "És ráparancsolt a felhőkre ott fenn, és az egek ajtait megnyitotta."
+            },
+            {
+                "hely": {
+                    "gepi": 12107802400,
+                    "szep": "Zsolt 78,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "És hullatott reájuk mannát eledelül, és mennyei gabonát adott nékik."
+            },
+            {
+                "hely": {
+                    "gepi": 12107802500,
+                    "szep": "Zsolt 78,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Angyalok kenyerét ette az ember, bőséggel vetett nékik eleséget,"
+            },
+            {
+                "hely": {
+                    "gepi": 12107802600,
+                    "szep": "Zsolt 78,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megindítá a keleti szelet az egekben, és elhozá erejével a déli szelet;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107802700,
+                    "szep": "Zsolt 78,27"
+                },
+                "jegyzetek": [],
+                "szoveg": "És hullata rájuk annyi húst, mint a por, és annyi madarat, mint a tenger fövénye."
+            },
+            {
+                "hely": {
+                    "gepi": 12107802800,
+                    "szep": "Zsolt 78,28"
+                },
+                "jegyzetek": [],
+                "szoveg": "És leszállítá azokat az ő táboruk közepére, az ő sátoraikhoz köröskörül."
+            },
+            {
+                "hely": {
+                    "gepi": 12107802900,
+                    "szep": "Zsolt 78,29"
+                },
+                "jegyzetek": [],
+                "szoveg": "Evének azért és igen megelégedének, és a mit kivántak, azt hozá nékik."
+            },
+            {
+                "hely": {
+                    "gepi": 12107803000,
+                    "szep": "Zsolt 78,30"
+                },
+                "jegyzetek": [],
+                "szoveg": "Még fel sem hagytak a kivánságukkal; az étel még a szájukban vala:"
+            },
+            {
+                "hely": {
+                    "gepi": 12107803100,
+                    "szep": "Zsolt 78,31"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mikor az Isten haragja felgerjede ellenök, és főbbjeik közül sokakat megöle, és Izráelnek ifjait levágá;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107803200,
+                    "szep": "Zsolt 78,32"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mindamellett is újra vétkezének, és nem hivének az ő csodadolgaiban."
+            },
+            {
+                "hely": {
+                    "gepi": 12107803300,
+                    "szep": "Zsolt 78,33"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azért hiábavalóságban töltette el napjaikat, éveiket pedig rettegésben."
+            },
+            {
+                "hely": {
+                    "gepi": 12107803400,
+                    "szep": "Zsolt 78,34"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha ölte őket, hozzá fordultak, megtértek és Istent keresék."
+            },
+            {
+                "hely": {
+                    "gepi": 12107803500,
+                    "szep": "Zsolt 78,35"
+                },
+                "jegyzetek": [],
+                "szoveg": "És eszökbe vevék, hogy Isten az ő sziklájok, és a felséges Isten az ő megváltójok;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107803600,
+                    "szep": "Zsolt 78,36"
+                },
+                "jegyzetek": [],
+                "szoveg": "És hízelkedének néki szájokkal, nyelvökkel pedig hazudozának néki."
+            },
+            {
+                "hely": {
+                    "gepi": 12107803700,
+                    "szep": "Zsolt 78,37"
+                },
+                "jegyzetek": [],
+                "szoveg": "De szívök nem volt tökéletes iránta, és nem voltak hűségesek az ő szövetségéhez;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107803800,
+                    "szep": "Zsolt 78,38"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő azonban irgalmas és bűnbocsátó, nem semmisít meg, sőt sokszor elfordítja haragját, és nem önti ki teljes búsulását."
+            },
+            {
+                "hely": {
+                    "gepi": 12107803900,
+                    "szep": "Zsolt 78,39"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azért eszébe vevé, hogy test ők, és olyanok, mint az ellebbenő szél, a mely nem tér vissza."
+            },
+            {
+                "hely": {
+                    "gepi": 12107804000,
+                    "szep": "Zsolt 78,40"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hányszor keserítették őt a pusztában, hányszor illették fájdalommal a kietlenben?!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107804100,
+                    "szep": "Zsolt 78,41"
+                },
+                "jegyzetek": [],
+                "szoveg": "És újra kísértették az Istent, és ingerelték Izráel szentjét."
+            },
+            {
+                "hely": {
+                    "gepi": 12107804200,
+                    "szep": "Zsolt 78,42"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem emlékeztek meg az ő kezéről, sem a napról, a melyen megváltotta őket a nyomorgatótól;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107804300,
+                    "szep": "Zsolt 78,43"
+                },
+                "jegyzetek": [],
+                "szoveg": "Midőn kitűzte jeleit Égyiptomban, és csodáit a Czoán mezején."
+            },
+            {
+                "hely": {
+                    "gepi": 12107804400,
+                    "szep": "Zsolt 78,44"
+                },
+                "jegyzetek": [],
+                "szoveg": "És vérré változtatta folyóikat, hogy nem ihatták patakjaikat."
+            },
+            {
+                "hely": {
+                    "gepi": 12107804500,
+                    "szep": "Zsolt 78,45"
+                },
+                "jegyzetek": [],
+                "szoveg": "Legyeket bocsáta reájok, a melyek emészték őket, és békát, a mely pusztítá őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12107804600,
+                    "szep": "Zsolt 78,46"
+                },
+                "jegyzetek": [],
+                "szoveg": "Odaadta termésöket a szöcskének, s munkájuk gyümölcsét a sáskának."
+            },
+            {
+                "hely": {
+                    "gepi": 12107804700,
+                    "szep": "Zsolt 78,47"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jégesővel pusztítá el szőlőjüket, s figefáikat kőesővel."
+            },
+            {
+                "hely": {
+                    "gepi": 12107804800,
+                    "szep": "Zsolt 78,48"
+                },
+                "jegyzetek": [],
+                "szoveg": "Odaveté barmaikat a jégesőnek, marháikat pedig a mennyköveknek."
+            },
+            {
+                "hely": {
+                    "gepi": 12107804900,
+                    "szep": "Zsolt 78,49"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rájok bocsátá haragjának tüzét, mérgét, búsulását és a szorongatást: a gonosz angyalok seregét."
+            },
+            {
+                "hely": {
+                    "gepi": 12107805000,
+                    "szep": "Zsolt 78,50"
+                },
+                "jegyzetek": [],
+                "szoveg": "Utat tört haragjának, s nem tartotta meg a haláltól lelköket, és életöket döghalálnak veté."
+            },
+            {
+                "hely": {
+                    "gepi": 12107805100,
+                    "szep": "Zsolt 78,51"
+                },
+                "jegyzetek": [],
+                "szoveg": "És megöle minden elsőszülöttet Égyiptomban, az erő zsengéjét Khám sátoraiban."
+            },
+            {
+                "hely": {
+                    "gepi": 12107805200,
+                    "szep": "Zsolt 78,52"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elindítá mint juhokat, az ő népét, s vezeté őket, mint nyájat a pusztában."
+            },
+            {
+                "hely": {
+                    "gepi": 12107805300,
+                    "szep": "Zsolt 78,53"
+                },
+                "jegyzetek": [],
+                "szoveg": "És vezeté őket biztonságban, és nem félének, ellenségeiket pedig elborítá a tenger."
+            },
+            {
+                "hely": {
+                    "gepi": 12107805400,
+                    "szep": "Zsolt 78,54"
+                },
+                "jegyzetek": [],
+                "szoveg": "És bevivé őket az ő szent határába, arra a hegyre, a melyet szerzett az ő jobbkezével."
+            },
+            {
+                "hely": {
+                    "gepi": 12107805500,
+                    "szep": "Zsolt 78,55"
+                },
+                "jegyzetek": [],
+                "szoveg": "És kiűzé előlük a pogányokat, és elosztá nékik az örökséget sorsvetéssel; és letelepíté azok sátoraiban az Izráel törzseit."
+            },
+            {
+                "hely": {
+                    "gepi": 12107805600,
+                    "szep": "Zsolt 78,56"
+                },
+                "jegyzetek": [],
+                "szoveg": "De megkisérték és megharagíták a magasságos Istent, és nem őrizék meg bizonyságait;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107805700,
+                    "szep": "Zsolt 78,57"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elfordulának ugyanis és hűtlenek levének, mint apáik; visszafelé fordulának, mint a csalfa kézív."
+            },
+            {
+                "hely": {
+                    "gepi": 12107805800,
+                    "szep": "Zsolt 78,58"
+                },
+                "jegyzetek": [],
+                "szoveg": "Haragra ingerelték őt magaslataikkal, és bosszantották faragott bálványaikkal."
+            },
+            {
+                "hely": {
+                    "gepi": 12107805900,
+                    "szep": "Zsolt 78,59"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meghallá ezt Isten és felgerjede; és az Izráelt felette megútálá."
+            },
+            {
+                "hely": {
+                    "gepi": 12107806000,
+                    "szep": "Zsolt 78,60"
+                },
+                "jegyzetek": [],
+                "szoveg": "És elveté magától Silói hajlékát, a sátort, a melyben lakott vala az emberek között;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107806100,
+                    "szep": "Zsolt 78,61"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sőt fogságba viteté erejét, dicsőségét pedig ellenség kezébe."
+            },
+            {
+                "hely": {
+                    "gepi": 12107806200,
+                    "szep": "Zsolt 78,62"
+                },
+                "jegyzetek": [],
+                "szoveg": "És fegyver alá rekeszté az ő népét; és az ő öröksége ellen felgerjede."
+            },
+            {
+                "hely": {
+                    "gepi": 12107806300,
+                    "szep": "Zsolt 78,63"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ifjait tűz emészté meg, és szüzei nem énekeltettek meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12107806400,
+                    "szep": "Zsolt 78,64"
+                },
+                "jegyzetek": [],
+                "szoveg": "Papjai fegyver miatt hullottak el, és özvegyei nem végezheték a siratást."
+            },
+            {
+                "hely": {
+                    "gepi": 12107806500,
+                    "szep": "Zsolt 78,65"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor felserkene az Úr, mintegy álomból; mint hős, a ki bortól vigadoz;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107806600,
+                    "szep": "Zsolt 78,66"
+                },
+                "jegyzetek": [],
+                "szoveg": "És visszaveré ellenségeit; s örök gyalázatot vete reájok."
+            },
+            {
+                "hely": {
+                    "gepi": 12107806700,
+                    "szep": "Zsolt 78,67"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azután megútálá a József sátorát, és nem választá Efraim törzsét;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107806800,
+                    "szep": "Zsolt 78,68"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hanem a Júda törzsét választá; a Sion hegyét, a melyet szeret."
+            },
+            {
+                "hely": {
+                    "gepi": 12107806900,
+                    "szep": "Zsolt 78,69"
+                },
+                "jegyzetek": [],
+                "szoveg": "És megépíté szent helyét, mint egy magas várat; mint a földet, a melyet örök időre fundált."
+            },
+            {
+                "hely": {
+                    "gepi": 12107807000,
+                    "szep": "Zsolt 78,70"
+                },
+                "jegyzetek": [],
+                "szoveg": "És kiválasztá Dávidot, az ő szolgáját, és elhozá őt a juhok aklaiból."
+            },
+            {
+                "hely": {
+                    "gepi": 12107807100,
+                    "szep": "Zsolt 78,71"
+                },
+                "jegyzetek": [],
+                "szoveg": "A szoptatós juhok mellől hozá el őt, hogy legeltesse Jákóbot, az ő népét, és Izráelt, az ő örökségét."
+            },
+            {
+                "hely": {
+                    "gepi": 12107807200,
+                    "szep": "Zsolt 78,72"
+                },
+                "jegyzetek": [],
+                "szoveg": "És legelteté őket szívének tökéletessége szerint, és vezeté őket bölcs kezeivel."
+            }
+        ]
+    }
+}

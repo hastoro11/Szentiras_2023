@@ -1,0 +1,55 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 123"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112300000,
+                    "szep": "Zsolt 123,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zarándokének."
+            },
+            {
+                "hely": {
+                    "gepi": 12112300100,
+                    "szep": "Zsolt 123,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hozzád emelem tekintetemet, aki a mennyben laksz!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112300200,
+                    "szep": "Zsolt 123,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ahogy a szolgák uruk kezére néznek, vagy a szolgáló úrnője kezére néz, úgy nézünk mi Istenünkre, az ÚRra, míg meg nem könyörül rajtunk."
+            },
+            {
+                "hely": {
+                    "gepi": 12112300300,
+                    "szep": "Zsolt 123,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörülj, URam, könyörülj rajtunk, mert torkig vagyunk a gyalázattal!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112300400,
+                    "szep": "Zsolt 123,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Torkig vagyunk már az elbizakodottak gúnyolódásával, a gőgösök gyalázkodásával."
+            }
+        ]
+    }
+}

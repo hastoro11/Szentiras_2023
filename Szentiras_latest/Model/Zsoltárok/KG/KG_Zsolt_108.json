@@ -1,0 +1,127 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 108"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12110800000,
+                    "szep": "Zsolt 108,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ének. Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12110800100,
+                    "szep": "Zsolt 108,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kész az én szívem, oh Isten, hadd énekeljek és zengedezzek; az én dicsőségem is kész."
+            },
+            {
+                "hely": {
+                    "gepi": 12110800200,
+                    "szep": "Zsolt 108,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Serkenj fel te lant és hárfa, hadd keltsem fel a hajnalt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110800300,
+                    "szep": "Zsolt 108,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hálát adok néked a népek között Uram, és zengedezek néked a nemzetek között!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110800400,
+                    "szep": "Zsolt 108,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nagy, egek felett való a te kegyelmed, és a felhőkig ér a te hűséges voltod!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110800500,
+                    "szep": "Zsolt 108,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaltassál fel, oh Isten, az egek felett, és dicsőséged legyen az egész földön!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110800600,
+                    "szep": "Zsolt 108,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy megszabaduljanak a te szeretteid, segíts a te jobb kezeddel és hallgass meg engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110800700,
+                    "szep": "Zsolt 108,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ő szentélyében szólott az Isten: Örvendezek, hogy eloszthatom Sikhemet, és felmérhetem Sukkothnak völgyét."
+            },
+            {
+                "hely": {
+                    "gepi": 12110800800,
+                    "szep": "Zsolt 108,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Enyém Gileád, enyém Manassé; Efraim az én fejemnek védelme, Júda az én törvényrendelőm."
+            },
+            {
+                "hely": {
+                    "gepi": 12110800900,
+                    "szep": "Zsolt 108,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Moáb az én mosdómedenczém, Edomra az én saruimat vetem, Filistea felett kaczagok."
+            },
+            {
+                "hely": {
+                    "gepi": 12110801000,
+                    "szep": "Zsolt 108,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kicsoda visz el engem a kerített városba? kicsoda vezérel engem Edomig?"
+            },
+            {
+                "hely": {
+                    "gepi": 12110801100,
+                    "szep": "Zsolt 108,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem te vagy-é, oh Isten, a ki megvetettél minket, hogy ki ne menj, oh Isten, a mi seregeinkkel?"
+            },
+            {
+                "hely": {
+                    "gepi": 12110801200,
+                    "szep": "Zsolt 108,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adj szabadulást nékünk az ellenségtől, mert hiábavaló az emberi segítség!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110801300,
+                    "szep": "Zsolt 108,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istennel hatalmasan cselekszünk, és ő megtapodja ellenségeinket."
+            }
+        ]
+    }
+}

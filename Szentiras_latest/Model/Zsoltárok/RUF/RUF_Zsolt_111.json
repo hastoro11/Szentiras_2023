@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 111"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111100100,
+                    "szep": "Zsolt 111,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek az URat! Hálát adok az ÚRnak teljes szívből a becsületes emberek körében és közösségében."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100200,
+                    "szep": "Zsolt 111,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagyok az ÚR tettei, kikutathatják, akiknek csak kedvük telik benne."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100300,
+                    "szep": "Zsolt 111,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Munkája fenséges és ékes, igazsága örökre megmarad."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100400,
+                    "szep": "Zsolt 111,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emlékezetessé tette csodáit, kegyelmes és irgalmas az ÚR."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100500,
+                    "szep": "Zsolt 111,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Eledelt adott az istenfélőknek, örökké emlékezik szövetségére."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100600,
+                    "szep": "Zsolt 111,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hatalmas tetteit kijelentette népének, nekik adta a pogányok birtokát."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100700,
+                    "szep": "Zsolt 111,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kezének munkái igazak és jogosak, rendelkezései maradandóak,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111100800,
+                    "szep": "Zsolt 111,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "rendíthetetlenek mindörökké, igazán és helyesen vannak megalkotva."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100900,
+                    "szep": "Zsolt 111,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gondoskodott népe megváltásáról, örökre elrendelte szövetségét, szent és félelmetes az ő neve."
+            },
+            {
+                "hely": {
+                    "gepi": 12111101000,
+                    "szep": "Zsolt 111,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A bölcsesség kezdete az ÚR félelme. A józan eszűek mind eszerint élnek. Az ő dicsérete örökre megmarad."
+            }
+        ]
+    }
+}

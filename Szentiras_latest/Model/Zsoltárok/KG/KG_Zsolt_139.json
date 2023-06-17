@@ -1,0 +1,215 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 139"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113900000,
+                    "szep": "Zsolt 139,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek, Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12113900100,
+                    "szep": "Zsolt 139,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, megvizsgáltál engem, és ismersz."
+            },
+            {
+                "hely": {
+                    "gepi": 12113900200,
+                    "szep": "Zsolt 139,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te ismered ülésemet és felkelésemet, messziről érted gondolatomat."
+            },
+            {
+                "hely": {
+                    "gepi": 12113900300,
+                    "szep": "Zsolt 139,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Járásomra és fekvésemre ügyelsz, minden útamat jól tudod."
+            },
+            {
+                "hely": {
+                    "gepi": 12113900400,
+                    "szep": "Zsolt 139,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mikor még nyelvemen sincs a szó, immár egészen érted azt Uram!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113900500,
+                    "szep": "Zsolt 139,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elől és hátul körülzártál engem, és fölöttem tartod kezedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12113900600,
+                    "szep": "Zsolt 139,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csodálatos előttem e tudás, magasságos, nem érthetem azt."
+            },
+            {
+                "hely": {
+                    "gepi": 12113900700,
+                    "szep": "Zsolt 139,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hová menjek a te lelked elől és a te orczád elől hova fussak?"
+            },
+            {
+                "hely": {
+                    "gepi": 12113900800,
+                    "szep": "Zsolt 139,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha a mennybe hágok fel, ott vagy; ha a Seolba vetek ágyat, ott is jelen vagy."
+            },
+            {
+                "hely": {
+                    "gepi": 12113900900,
+                    "szep": "Zsolt 139,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha a hajnal szárnyaira kelnék, és a tenger túlsó szélére szállanék:"
+            },
+            {
+                "hely": {
+                    "gepi": 12113901000,
+                    "szep": "Zsolt 139,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ott is a te kezed vezérelne engem, és a te jobbkezed fogna engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12113901100,
+                    "szep": "Zsolt 139,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha azt mondom: A sötétség bizonyosan elborít engem és a világosság körülöttem éjszaka lesz,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113901200,
+                    "szep": "Zsolt 139,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "A sötétség sem borít el előled, és fénylik az éjszaka, mint a nappal; a sötétség olyan, mint a világosság."
+            },
+            {
+                "hely": {
+                    "gepi": 12113901300,
+                    "szep": "Zsolt 139,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony te alkottad veséimet, te takargattál engem anyám méhében."
+            },
+            {
+                "hely": {
+                    "gepi": 12113901400,
+                    "szep": "Zsolt 139,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztallak, hogy csodálatosan megkülönböztettél. Csodálatosak a te cselekedeteid! és jól tudja ezt az én lelkem."
+            },
+            {
+                "hely": {
+                    "gepi": 12113901500,
+                    "szep": "Zsolt 139,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem volt elrejtve előtted az én csontom, mikor titokban formáltattam és idomíttattam, mintegy a föld mélyében."
+            },
+            {
+                "hely": {
+                    "gepi": 12113901600,
+                    "szep": "Zsolt 139,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Látták szemeid az én alaktalan testemet, és könyvedben ezek mind be voltak írva: a napok is, a melyeken formáltatni fognak; holott egy sem volt még meg közülök."
+            },
+            {
+                "hely": {
+                    "gepi": 12113901700,
+                    "szep": "Zsolt 139,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "És nékem milyen kedvesek a te gondolataid, oh Isten! Mily nagy azoknak summája!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113901800,
+                    "szep": "Zsolt 139,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Számlálgatom őket: többek a fövénynél; felserkenek s mégis veled vagyok."
+            },
+            {
+                "hely": {
+                    "gepi": 12113901900,
+                    "szep": "Zsolt 139,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vajha elvesztené Isten a gonoszt! Vérszopó emberek, fussatok el tőlem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113902000,
+                    "szep": "Zsolt 139,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "A kik gonoszul szólnak felőled, és nevedet hiába veszik fel, a te ellenségeid."
+            },
+            {
+                "hely": {
+                    "gepi": 12113902100,
+                    "szep": "Zsolt 139,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne gyűlöljem-é, Uram, a téged gyűlölőket? Az ellened lázadókat ne útáljam-é?"
+            },
+            {
+                "hely": {
+                    "gepi": 12113902200,
+                    "szep": "Zsolt 139,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Teljes gyűlölettel gyűlölöm őket, ellenségeimmé lettek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113902300,
+                    "szep": "Zsolt 139,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vizsgálj meg engem, oh Isten, és ismerd meg szívemet! Próbálj meg engem, és ismerd meg gondolataimat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113902400,
+                    "szep": "Zsolt 139,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "És lásd meg, ha van-e nálam a gonoszságnak valamilyen útja? és vezérelj engem az örökkévalóság útján!"
+            }
+        ]
+    }
+}

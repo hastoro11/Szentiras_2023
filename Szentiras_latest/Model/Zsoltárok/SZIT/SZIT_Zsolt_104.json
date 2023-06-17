@@ -1,0 +1,295 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 104"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12110400100,
+                    "szep": "Zsolt 104,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjad, lelkem, az Urat! Uram, Istenem, mindennél nagyobb vagy! Fönségbe és méltóságba öltözöl,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110400200,
+                    "szep": "Zsolt 104,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "a fény, mint köntös, úgy fog körül. Az eget kifeszíted, mint a sátort,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110400300,
+                    "szep": "Zsolt 104,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "lakóhelyed a vizek fölött rendezted be. A felhőket fogatként használod, a szelek szárnyán szállsz tova."
+            },
+            {
+                "hely": {
+                    "gepi": 12110400400,
+                    "szep": "Zsolt 104,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A szeleket követeddé teszed, a haragos villámot szolgáddá."
+            },
+            {
+                "hely": {
+                    "gepi": 12110400500,
+                    "szep": "Zsolt 104,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A földet biztos alapra helyezted, nem inog meg az idők folyamán."
+            },
+            {
+                "hely": {
+                    "gepi": 12110400600,
+                    "szep": "Zsolt 104,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vizek árjával vetted körül, a hegyeket is vizek borították."
+            },
+            {
+                "hely": {
+                    "gepi": 12110400700,
+                    "szep": "Zsolt 104,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "De parancsodra visszafolytak, s megremegtek mennydörgő hangodra."
+            },
+            {
+                "hely": {
+                    "gepi": 12110400800,
+                    "szep": "Zsolt 104,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "A hegyek kiemelkedtek, a völgyek leszorultak arra a helyre, amelyet nekik szántál."
+            },
+            {
+                "hely": {
+                    "gepi": 12110400900,
+                    "szep": "Zsolt 104,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Határt szabtál nekik, amit nem lépnek át, nem önthetik el többé a földet."
+            },
+            {
+                "hely": {
+                    "gepi": 12110401000,
+                    "szep": "Zsolt 104,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te öntöd a források vizét patakokba, a hegyek közt csörgedeznek."
+            },
+            {
+                "hely": {
+                    "gepi": 12110401100,
+                    "szep": "Zsolt 104,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Inni adsz a mező vadjainak, a szomjas vadszamár merít belőlük."
+            },
+            {
+                "hely": {
+                    "gepi": 12110401200,
+                    "szep": "Zsolt 104,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ég madarai partjaikon laknak, az ágak közt zengik énekük."
+            },
+            {
+                "hely": {
+                    "gepi": 12110401300,
+                    "szep": "Zsolt 104,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "A hegyeket kamráid vizéből öntözöd, eged gyümölcsével a földet jóltartod."
+            },
+            {
+                "hely": {
+                    "gepi": 12110401400,
+                    "szep": "Zsolt 104,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Füvet nevelsz az állatoknak, és növényeket, hogy az ember jóllakhasson; hogy a földből kenyeret nyerjen,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110401500,
+                    "szep": "Zsolt 104,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "a szívét meg borral vidíthassa hogy az olaj kenetül szolgáljon fejére, s a kenyér erőt kölcsönözzön neki."
+            },
+            {
+                "hely": {
+                    "gepi": 12110401600,
+                    "szep": "Zsolt 104,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr fái is teleszívják magukat, a Libanon cédrusai, melyeket ültetett."
+            },
+            {
+                "hely": {
+                    "gepi": 12110401700,
+                    "szep": "Zsolt 104,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "A madarak rakják ott fészküket, tetejükön a gólya tanyázik."
+            },
+            {
+                "hely": {
+                    "gepi": 12110401800,
+                    "szep": "Zsolt 104,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "A zergéé a hegyek magaslata, a borz a sziklák közt rejtőzik."
+            },
+            {
+                "hely": {
+                    "gepi": 12110401900,
+                    "szep": "Zsolt 104,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te alkottad a holdat, hogy az időt mérje, és a nap is tudja, mikor nyugodjék le."
+            },
+            {
+                "hely": {
+                    "gepi": 12110402000,
+                    "szep": "Zsolt 104,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te hozod a sötétséget és ránk köszönt az éj, s az erdő vadjai körülhúznak."
+            },
+            {
+                "hely": {
+                    "gepi": 12110402100,
+                    "szep": "Zsolt 104,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az oroszlánkölykök zsákmányért ordítanak, Istentől követelik táplálékukat."
+            },
+            {
+                "hely": {
+                    "gepi": 12110402200,
+                    "szep": "Zsolt 104,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "De ha a nap fölkel, mind visszavonulnak, és elrejtőznek a barlangokban."
+            },
+            {
+                "hely": {
+                    "gepi": 12110402300,
+                    "szep": "Zsolt 104,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ember elindul a munkája után, hogy dolgozzék az est beálltáig."
+            },
+            {
+                "hely": {
+                    "gepi": 12110402400,
+                    "szep": "Zsolt 104,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Milyen sokrétű a te műved, Uram! Mindent bölcsességedben alkottál, s a föld teremtményeiddel van tele."
+            },
+            {
+                "hely": {
+                    "gepi": 12110402500,
+                    "szep": "Zsolt 104,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nézd, mily nagy és széles a tenger, benne az élőlények nyüzsgő sokasága, kicsi és nagy állatok serege."
+            },
+            {
+                "hely": {
+                    "gepi": 12110402600,
+                    "szep": "Zsolt 104,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rajta járnak a hajók, s ott kóborol a leviatán is, amit teremtettél, hogy a tengerben kergetőzzék."
+            },
+            {
+                "hely": {
+                    "gepi": 12110402700,
+                    "szep": "Zsolt 104,27"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rád vár minden élő, hogy ételt adj nekik a kellő időben."
+            },
+            {
+                "hely": {
+                    "gepi": 12110402800,
+                    "szep": "Zsolt 104,28"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megadod nekik, és ők összegyűjtik, kitárod kezed, s eltelnek javakkal."
+            },
+            {
+                "hely": {
+                    "gepi": 12110402900,
+                    "szep": "Zsolt 104,29"
+                },
+                "jegyzetek": [],
+                "szoveg": "De ha elrejted arcodat, félelem szállja meg őket. Ha megvonod éltető erődet, elpusztulnak és a porba térnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12110403000,
+                    "szep": "Zsolt 104,30"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ám ha kiárasztod lelkedet, fölébrednek, és megújítod a föld színét."
+            },
+            {
+                "hely": {
+                    "gepi": 12110403100,
+                    "szep": "Zsolt 104,31"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsőség legyen az Úrnak mindörökké, örüljön az Úr műveinek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110403200,
+                    "szep": "Zsolt 104,32"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha letekint a földre, az megremeg, ha megérinti a hegyeket, azok füstölnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12110403300,
+                    "szep": "Zsolt 104,33"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egész életemben az Úrnak énekelek, zsoltárokkal dicsérem, amíg csak vagyok."
+            },
+            {
+                "hely": {
+                    "gepi": 12110403400,
+                    "szep": "Zsolt 104,34"
+                },
+                "jegyzetek": [],
+                "szoveg": "Találjon tetszésre nála énekem, hisz az Úrban lelem örömöm."
+            },
+            {
+                "hely": {
+                    "gepi": 12110403500,
+                    "szep": "Zsolt 104,35"
+                },
+                "jegyzetek": [],
+                "szoveg": "A bűnösök tűnjenek el a földről, és ne legyenek többé gonoszok. Áldjad, lelkem, az Urat!"
+            }
+        ]
+    }
+}

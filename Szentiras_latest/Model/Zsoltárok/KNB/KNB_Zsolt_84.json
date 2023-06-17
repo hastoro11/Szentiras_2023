@@ -1,0 +1,138 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 84"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108400000,
+                    "szep": "Zsolt 84,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni zarándok ének. A zsoltáros Jeruzsálembe zarándokol (talán a sátoros ünnepre), és a város kapui előtt énekli el örömét és háláját. A fogság előtti időkben keletkezett."
+                    },
+                    {
+                        "position": null,
+                        "text": "Kóré fiai: vö. 42,1-49,11."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. A »Szőlőprések« szerint. Kóré fiainak zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12108400100,
+                    "szep": "Zsolt 84,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zarándok már maga előtt látja úti célját: Jeruzsálemet és Isten házát, a templomot. A szent helyen meg akarja tapasztalni Isten közelségét, ahol félelem nélkül megnyílhat, ujjonghat."
+                    }
+                ],
+                "szoveg": "Milyen kedvesek a te hajlékaid,<br>Seregek Ura!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108400200,
+                    "szep": "Zsolt 84,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sóvárogva vágyakozik lelkem<br>az Úr udvaraiba.<br>Szívem és testem ujjong az élő Isten után."
+            },
+            {
+                "hely": {
+                    "gepi": 12108400300,
+                    "szep": "Zsolt 84,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen a veréb házat talál magának,<br>a gerlice fészket,<br>ahová fiait helyezze:<br>a te oltáraidnál, seregek Ura,<br>én királyom és én Istenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108400400,
+                    "szep": "Zsolt 84,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Milyen boldogok, Uram, akik házadban lakhatnak:<br>magasztalhatnak téged örökkön örökké!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108400500,
+                    "szep": "Zsolt 84,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog az az ember, akit te segítesz,<br>akinek szíve zarándokútra készül."
+            },
+            {
+                "hely": {
+                    "gepi": 12108400600,
+                    "szep": "Zsolt 84,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Átkelnek a kiaszott völgyön és forrássá teszik azt,<br>és a korai eső is áldásodba öltözteti."
+            },
+            {
+                "hely": {
+                    "gepi": 12108400700,
+                    "szep": "Zsolt 84,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Erősségről erősségre mennek,<br>mígnem meglátják az istenek Istenét a Sionon."
+            },
+            {
+                "hely": {
+                    "gepi": 12108400800,
+                    "szep": "Zsolt 84,8"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Könyörgés a királyért, aki a nép védelmezője és Isten fölkentje."
+                    }
+                ],
+                "szoveg": "Uram, Seregek Istene, hallgasd meg imádságomat,<br>vedd füledbe, Jákob Istene!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108400900,
+                    "szep": "Zsolt 84,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Oltalmazó Istenünk, tekints ide,<br>nézz fölkentednek arcára!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108401000,
+                    "szep": "Zsolt 84,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert jobb egy nap a te udvaraidban,<br>mint más helyen ezer.<br>Inkább akarok a küszöbön lenni Istenem házában,<br>mint a gonoszok sátraiban lakni."
+            },
+            {
+                "hely": {
+                    "gepi": 12108401100,
+                    "szep": "Zsolt 84,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nap és védőpajzs az Úr Isten,<br>kegyelmet és dicsőséget ad az Úr,"
+            },
+            {
+                "hely": {
+                    "gepi": 12108401200,
+                    "szep": "Zsolt 84,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "nem vonja meg javait azoktól,<br>akik ártatlanságban járnak.<br>Seregek Ura, boldog az az ember,<br>aki tebenned bízik!"
+            }
+        ]
+    }
+}

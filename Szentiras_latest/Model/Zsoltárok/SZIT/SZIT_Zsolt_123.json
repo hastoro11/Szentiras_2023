@@ -1,0 +1,55 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 123"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112300000,
+                    "szep": "Zsolt 123,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Zarándokének.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12112300100,
+                    "szep": "Zsolt 123,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tekintetem hozzád emelem, hozzád, aki az égben trónolsz."
+            },
+            {
+                "hely": {
+                    "gepi": 12112300200,
+                    "szep": "Zsolt 123,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ahogy a szolgák szeme uruk kezén, s a szolgálók szeme úrnőjük kezén: úgy tekint szemünk az Úrra, a mi Istenünkre, amíg meg nem hallgat."
+            },
+            {
+                "hely": {
+                    "gepi": 12112300300,
+                    "szep": "Zsolt 123,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörülj rajtunk, Uram, könyörülj rajtunk! Eléggé megízleltük már a gyalázatot."
+            },
+            {
+                "hely": {
+                    "gepi": 12112300400,
+                    "szep": "Zsolt 123,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Túlságosan megízlelte lelkünk a dúslakodók gúnyolódását s a fennhéjázók büszkeségét."
+            }
+        ]
+    }
+}

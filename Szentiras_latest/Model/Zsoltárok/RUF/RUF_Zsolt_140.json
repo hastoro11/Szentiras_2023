@@ -1,0 +1,127 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 140"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114000000,
+                    "szep": "Zsolt 140,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12114000100,
+                    "szep": "Zsolt 140,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ments meg, URam, a gonosz emberektől, oltalmazz meg az erőszakos emberektől,"
+            },
+            {
+                "hely": {
+                    "gepi": 12114000200,
+                    "szep": "Zsolt 140,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "akik rosszat terveznek szívükben, mindennap háborúságot szítanak!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114000300,
+                    "szep": "Zsolt 140,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyelvük éles, mint a kígyóé, viperaméreg van ajkukon. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12114000400,
+                    "szep": "Zsolt 140,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Őrizz meg, URam, a bűnösök hatalmától, oltalmazz meg az erőszakos emberektől, akik jártomban el akarnak gáncsolni!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114000500,
+                    "szep": "Zsolt 140,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tőrt vetettek nekem a gőgös emberek, köteleket és hálót feszítettek ki, az út mentén csapdát állítottak nekem. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12114000600,
+                    "szep": "Zsolt 140,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te vagy Istenem – mondom az ÚRnak –, figyelj hát, URam, könyörgő szavamra!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114000700,
+                    "szep": "Zsolt 140,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én Uram, URam, hatalmas szabadítóm, te véded fejemet a küzdelem napján."
+            },
+            {
+                "hely": {
+                    "gepi": 12114000800,
+                    "szep": "Zsolt 140,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne teljesítsd, URam, a bűnös kívánságát, ne engedd sikerülni terveit, ne fuvalkodhasson fel! (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12114000900,
+                    "szep": "Zsolt 140,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "A körülöttem ólálkodók fejére zúduljon az a nyomorúság, amit ajkuk felidéz!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114001000,
+                    "szep": "Zsolt 140,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hulljon rájuk tüzes parázs, taszítsd őket vizes gödrökbe, hogy föl ne kelhessenek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114001100,
+                    "szep": "Zsolt 140,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne maradjon meg a rágalmazó a földön, az erőszakos embert üldözze gonoszsága, míg össze nem roskad!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114001200,
+                    "szep": "Zsolt 140,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tudom, hogy az ÚR felkarolja a nincstelenek ügyét, a szegények jogát."
+            },
+            {
+                "hely": {
+                    "gepi": 12114001300,
+                    "szep": "Zsolt 140,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak az igazak magasztalják nevedet, a becsületesek maradnak meg színed előtt."
+            }
+        ]
+    }
+}

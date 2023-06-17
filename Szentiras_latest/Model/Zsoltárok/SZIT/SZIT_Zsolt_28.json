@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 28"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102800000,
+                    "szep": "Zsolt 28,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Dávid zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12102800100,
+                    "szep": "Zsolt 28,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hozzád kiáltok, Uram, sziklám, ne zárd be előlem füled! Ha nem hallgatsz meg, olyan leszek, mint a sírba szállók."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800200,
+                    "szep": "Zsolt 28,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Halld meg könyörgő szavam, hisz hozzád kiáltok, kezemet kitárom, Uram, szent templomod felé!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102800300,
+                    "szep": "Zsolt 28,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne taszíts el a bűnösökkel, azokkal, kik a rosszat teszik! Békésen beszélnek embertársaikkal, szívükben azonban gonoszat forralnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800400,
+                    "szep": "Zsolt 28,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bánj velük, Uram, ahogy megérdemlik, tetteiknek gonoszsága szerint! Torold meg kezük művét, tettüket fizesd vissza nekik!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102800500,
+                    "szep": "Zsolt 28,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem törődnek az Úr törvényével és kezének műveivel, ezért rontsa le őket és ne építse újra!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102800600,
+                    "szep": "Zsolt 28,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott legyen az Úr, meghallgatta könyörgő szavam!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102800700,
+                    "szep": "Zsolt 28,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr az én erőm és védőpajzsom, szívem benne bízott és segítséget kaptam, testem újjáéledt, szívből megköszönöm neki."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800800,
+                    "szep": "Zsolt 28,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Népének ereje az Úr, ő a szabadulás vára fölkentjének."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800900,
+                    "szep": "Zsolt 28,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segíts népeden és áldd meg örökséged, gondozd tieidet és tartsd meg mindörökre!"
+            }
+        ]
+    }
+}

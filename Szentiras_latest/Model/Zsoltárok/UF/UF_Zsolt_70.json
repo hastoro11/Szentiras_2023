@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 70"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107000000,
+                    "szep": "Zsolt 70,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Dávidé, emlékeztetőül."
+            },
+            {
+                "hely": {
+                    "gepi": 12107000100,
+                    "szep": "Zsolt 70,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, ments meg engem, URam, siess segítségemre!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107000200,
+                    "szep": "Zsolt 70,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szégyenkezzenek és piruljanak, akik életemre törnek! Riadjanak vissza, és érje gyalázat azokat, akik bajomban gyönyörködnek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107000300,
+                    "szep": "Zsolt 70,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Távozzanak megszégyenülve, akik hahotázva beszélnek rólam!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107000400,
+                    "szep": "Zsolt 70,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örüljenek és örvendezzenek benned mindazok, akik téged keresnek! Akik szabadításodra vágyódnak, hadd mondhassák mindig, hogy nagy az Isten!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107000500,
+                    "szep": "Zsolt 70,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "De én nyomorult és szegény vagyok, siess hozzám, Istenem! Te vagy segítségem és megmentőm, URam, ne késlekedj!"
+            }
+        ]
+    }
+}

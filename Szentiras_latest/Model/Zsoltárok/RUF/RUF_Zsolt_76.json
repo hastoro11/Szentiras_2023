@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 76"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107600000,
+                    "szep": "Zsolt 76,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Húros hangszerre. Ászáf zsoltáréneke."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600100,
+                    "szep": "Zsolt 76,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ismerik Istent Júdában, nagy az ő neve Izráelben."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600200,
+                    "szep": "Zsolt 76,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sálémbe került a sátra, lakóhelye a Sionra."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600300,
+                    "szep": "Zsolt 76,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ott törte össze a tüzes nyilakat, a pajzsot, a kardot, a harci eszközöket. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12107600400,
+                    "szep": "Zsolt 76,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ragyogó vagy te, hatalmasabb a hegyeknél, ahol zsákmányt ejtenek."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600500,
+                    "szep": "Zsolt 76,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kifosztottak lettek az elbizakodottak, álomba merültek, elvesztették erejüket a harcosok."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600600,
+                    "szep": "Zsolt 76,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dorgálásodtól, Jákób Istene, mozdulni sem tud a kocsi és a ló."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600700,
+                    "szep": "Zsolt 76,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Félelmetes vagy, ki állhat meg előtted, amikor haragszol?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107600800,
+                    "szep": "Zsolt 76,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha ítéletet hirdetsz a mennyben, félni fog a föld, és elcsendesül."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600900,
+                    "szep": "Zsolt 76,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ítéletet tart az Isten, szabadulást ad a földön az alázatosaknak. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12107601000,
+                    "szep": "Zsolt 76,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Még a haragvó emberek is magasztalni fognak téged, haragjuk maradékát is megfékezed."
+            },
+            {
+                "hely": {
+                    "gepi": 12107601100,
+                    "szep": "Zsolt 76,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tegyetek fogadalmat Isteneteknek, az ÚRnak, és teljesítsétek, ti, akik körülötte vagytok! Vigyetek ajándékot a Félelmetesnek,"
+            },
+            {
+                "hely": {
+                    "gepi": 12107601200,
+                    "szep": "Zsolt 76,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "aki megtöri a fejedelmek büszkeségét, és félelmet kelt a föld királyaiban!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 1"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100100100,
+                    "szep": "Zsolt 1,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog ember az, a ki nem jár gonoszok tanácsán, bűnösök útján meg nem áll, és csúfolódók székében nem ül;"
+            },
+            {
+                "hely": {
+                    "gepi": 12100100200,
+                    "szep": "Zsolt 1,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hanem az Úr törvényében van gyönyörűsége, és az ő törvényéről gondolkodik éjjel és nappal."
+            },
+            {
+                "hely": {
+                    "gepi": 12100100300,
+                    "szep": "Zsolt 1,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "És olyan lesz, mint a folyóvizek mellé ültetett fa, a mely idejekorán megadja gyümölcsét, és levele nem hervad el; és minden munkájában jó szerencsés lészen."
+            },
+            {
+                "hely": {
+                    "gepi": 12100100400,
+                    "szep": "Zsolt 1,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem úgy a gonoszok, hanem, mint a polyva, a mit szétszór a szél."
+            },
+            {
+                "hely": {
+                    "gepi": 12100100500,
+                    "szep": "Zsolt 1,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azért nem állhatnak meg a gonoszok az ítéletben; sem a bűnösök az igazak gyülekezetében."
+            },
+            {
+                "hely": {
+                    "gepi": 12100100600,
+                    "szep": "Zsolt 1,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert tudja az Úr az igazak útját; a gonoszok útja pedig elvész."
+            }
+        ]
+    }
+}

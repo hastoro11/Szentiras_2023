@@ -1,0 +1,151 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 81"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108100000,
+                    "szep": "Zsolt 81,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek Gát szerint – Aszaftól.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12108100100,
+                    "szep": "Zsolt 81,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsőítsétek Istent, gyámolunkat, ujjongjatok Jákob Istenének!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108100200,
+                    "szep": "Zsolt 81,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Pengessétek a húrt, verjétek a dobot, lágyan szóljon a hárfa a lant szava mellett!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108100300,
+                    "szep": "Zsolt 81,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fújjátok meg a harsonát újholdra, és holdtöltére ünnepünk napján!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108100400,
+                    "szep": "Zsolt 81,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Parancs ez Izrael számára, és törvény Jákob Istenétől."
+            },
+            {
+                "hely": {
+                    "gepi": 12108100500,
+                    "szep": "Zsolt 81,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rendelkezés, amely Józsefnek szólt, amikor felvonult Egyiptom ellen. Hangot hallottam, amit nem ismertem:"
+            },
+            {
+                "hely": {
+                    "gepi": 12108100600,
+                    "szep": "Zsolt 81,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "„Hátáról levettem a terhet, kezéből kivettem kosarát."
+            },
+            {
+                "hely": {
+                    "gepi": 12108100700,
+                    "szep": "Zsolt 81,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bánatodban hozzám kiáltottál, s én megszabadítottalak; dörgő felhőből adtam választ neked, Meriba vizénél megpróbáltalak."
+            },
+            {
+                "hely": {
+                    "gepi": 12108100800,
+                    "szep": "Zsolt 81,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Halld meg, népem, amire intelek, bárcsak hallgatnál rám, Izrael!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108100900,
+                    "szep": "Zsolt 81,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne legyen körödben más isten, idegen istent ne tisztelj soha!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108101000,
+                    "szep": "Zsolt 81,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én vagyok az Úr, a te Istened, aki kivezetett Egyiptomból. Nyisd ki a szádat és én teletöltöm."
+            },
+            {
+                "hely": {
+                    "gepi": 12108101100,
+                    "szep": "Zsolt 81,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "De népem nem hallgatott szavamra, Izrael nem igazodott akaratomhoz."
+            },
+            {
+                "hely": {
+                    "gepi": 12108101200,
+                    "szep": "Zsolt 81,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezért ráhagytam őket kemény szívükre, hadd menjenek csak saját fejük után."
+            },
+            {
+                "hely": {
+                    "gepi": 12108101300,
+                    "szep": "Zsolt 81,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ó, bárcsak hallgatna rám népem, bárcsak utamon járna Izrael!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108101400,
+                    "szep": "Zsolt 81,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor rögtön megfékezném támadóit, kezemet emelném összes elnyomója ellen."
+            },
+            {
+                "hely": {
+                    "gepi": 12108101500,
+                    "szep": "Zsolt 81,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akik gyűlölik az Urat, azok is hódolnának nekik, és a sorsuk örökké tartana."
+            },
+            {
+                "hely": {
+                    "gepi": 12108101600,
+                    "szep": "Zsolt 81,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Népemet azonban a búza javával fogom etetni és sziklából fakasztott mézzel felüdítem.”"
+            }
+        ]
+    }
+}

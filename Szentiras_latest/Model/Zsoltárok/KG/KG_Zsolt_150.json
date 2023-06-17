@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 150"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12115000100,
+                    "szep": "Zsolt 150,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek az Urat! <br>Dicsérjétek Istent az ő szent helyén; dicsérjétek őt az ő hatalmának boltozatán!"
+            },
+            {
+                "hely": {
+                    "gepi": 12115000200,
+                    "szep": "Zsolt 150,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek őt hősi tetteiért, dicsérjétek őt nagyságának gazdagsága szerint!"
+            },
+            {
+                "hely": {
+                    "gepi": 12115000300,
+                    "szep": "Zsolt 150,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek őt kürt-zengéssel; dicsérjétek őt hárfán és cziterán;"
+            },
+            {
+                "hely": {
+                    "gepi": 12115000400,
+                    "szep": "Zsolt 150,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek őt dobbal és tánczczal, dicsérjétek őt hegedűkkel és fuvolával;"
+            },
+            {
+                "hely": {
+                    "gepi": 12115000500,
+                    "szep": "Zsolt 150,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek őt hangos czimbalommal, dicsérjétek őt harsogó czimbalommal."
+            },
+            {
+                "hely": {
+                    "gepi": 12115000600,
+                    "szep": "Zsolt 150,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Minden lélek dicsérje az Urat! Dicsérjétek az Urat!"
+            }
+        ]
+    }
+}

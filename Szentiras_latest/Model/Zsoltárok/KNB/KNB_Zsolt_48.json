@@ -1,0 +1,164 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 48"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104800000,
+                    "szep": "Zsolt 48,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Sion-himnusz, amely talán (mint a Zsolt 46) Jeruzsálem megszállása alatt keletkezett (Szanherib, Kr. e. 701). Hálát ad Jeruzsálem megszabadulásáért, és azért, hogy Sion megmenekült a nagy veszélyből."
+                    },
+                    {
+                        "position": null,
+                        "text": "Kóré fiai: vö. 42,1-49,21"
+                    }
+                ],
+                "szoveg": "<em>Ének. Kóré fiainak zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12104800100,
+                    "szep": "Zsolt 48,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagy az Úr, minden dicséretre méltó<br>Istenünk városában."
+            },
+            {
+                "hely": {
+                    "gepi": 12104800200,
+                    "szep": "Zsolt 48,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. Mt 5,35. – Az »észak« szóval a zsoltáros azt mondja, hogy a Sion hegye az isteni világ központja. A szemita mitológia tud egy Zafon nevű hegyről (Észak-Ugaritban), amely az istenek lakóhelye, egyfajta Olümposz. A zsoltáros azt mondja, hogy nem Zafon, hanem Sion van északon, amely az egyetlen Úr lakóhelye."
+                    }
+                ],
+                "szoveg": "Pompás magaslat az ő szent hegye,<br>gyönyörűsége az egész földnek.<br>Sion hegye messzi észak, a nagy király városa."
+            },
+            {
+                "hely": {
+                    "gepi": 12104800300,
+                    "szep": "Zsolt 48,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Házaiban úgy ismerik Istent, mint menedéket."
+            },
+            {
+                "hely": {
+                    "gepi": 12104800400,
+                    "szep": "Zsolt 48,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert íme, a föld királyai összegyűltek és egyesültek."
+            },
+            {
+                "hely": {
+                    "gepi": 12104800500,
+                    "szep": "Zsolt 48,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "De ahogy meglátták, ámulatba estek,<br>Megrémültek, megremegtek;"
+            },
+            {
+                "hely": {
+                    "gepi": 12104800600,
+                    "szep": "Zsolt 48,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rettegés fogta el őket ott,<br>s a vajúdó asszonyéhoz hasonló gyötrelem."
+            },
+            {
+                "hely": {
+                    "gepi": 12104800700,
+                    "szep": "Zsolt 48,7"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Társisi hajók: tengerjáró hajók, amelyek a távoli, spanyol partokon fekvő Társist (Tartessos) is el tudják érni."
+                    }
+                ],
+                "szoveg": "Hatalmas széllel összetörted<br>a társisi hajókat."
+            },
+            {
+                "hely": {
+                    "gepi": 12104800800,
+                    "szep": "Zsolt 48,8"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A jelen tapasztalata megerősíti a hagyományt: a szent Isten temploma örökre Sion hegyén áll."
+                    }
+                ],
+                "szoveg": "Amint hallottuk, magunk is láttuk,<br>hogy a seregek Urának városát,<br>a mi Istenünknek városát<br>örökre alapította Isten!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104800900,
+                    "szep": "Zsolt 48,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megemlékezünk irgalmadról, ó Isten,<br>templomod belsejében."
+            },
+            {
+                "hely": {
+                    "gepi": 12104801000,
+                    "szep": "Zsolt 48,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mint ahogy híred, ó Isten, dicséreted is<br>betölti a föld határait;<br>Jobbod igazsággal teljes."
+            },
+            {
+                "hely": {
+                    "gepi": 12104801100,
+                    "szep": "Zsolt 48,11"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Júda leányai: a déli királyság (Júda) városait jelenti."
+                    }
+                ],
+                "szoveg": "Örvendezik Sion hegye,<br>s Júda leányai ujjongva örülnek<br>ítéleteidnek, Uram."
+            },
+            {
+                "hely": {
+                    "gepi": 12104801200,
+                    "szep": "Zsolt 48,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Járjátok körül Siont, nézzétek meg,<br>számláljátok meg tornyait!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104801300,
+                    "szep": "Zsolt 48,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tekintsétek meg erődítéseit,<br>járjátok be házait,<br>hogy elmondhassátok a jövendő nemzedéknek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104801400,
+                    "szep": "Zsolt 48,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Valóban ő az Isten, a mi Istenünk örökké, mindörökkön-örökké,<br>ő vezet minket mindörökké!"
+            }
+        ]
+    }
+}

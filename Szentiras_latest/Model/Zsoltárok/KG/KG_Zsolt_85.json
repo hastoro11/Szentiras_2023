@@ -1,0 +1,127 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 85"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108500000,
+                    "szep": "Zsolt 85,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek, Kóráh fiainak zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12108500100,
+                    "szep": "Zsolt 85,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jóakarattal voltál Uram a te földedhez. Visszahoztad a Jákób nemzetségéből való foglyokat."
+            },
+            {
+                "hely": {
+                    "gepi": 12108500200,
+                    "szep": "Zsolt 85,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elengedted népednek álnokságát, elfedezted minden bűnüket. Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12108500300,
+                    "szep": "Zsolt 85,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elhárítottad róluk minden búsulásod, elfordítottad haragod gerjedezését."
+            },
+            {
+                "hely": {
+                    "gepi": 12108500400,
+                    "szep": "Zsolt 85,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hozz vissza bennünket szabadításunk Istene, és szüntesd meg ellenünk való bosszankodásodat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108500500,
+                    "szep": "Zsolt 85,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Avagy mindörökké haragszol-é ránk? Nemzedékről nemzedékre tartod-é haragod?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108500600,
+                    "szep": "Zsolt 85,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Avagy nem elevenítesz-é meg minket ismét, hogy néped örvendezzen benned?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108500700,
+                    "szep": "Zsolt 85,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mutasd meg nékünk Uram a te kegyelmedet, és a te szabadításodat adjad mi nékünk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108500800,
+                    "szep": "Zsolt 85,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hadd halljam meg: mit szól az Úr Isten! Kétségnélkül békességet szól az ő népének és kegyeltjeinek, hogy vissza ne térjenek a bolondságra."
+            },
+            {
+                "hely": {
+                    "gepi": 12108500900,
+                    "szep": "Zsolt 85,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizonyára közel van az ő szabadítása az őt félőkhöz, hogy dicsőség lakozzék a mi földünkön."
+            },
+            {
+                "hely": {
+                    "gepi": 12108501000,
+                    "szep": "Zsolt 85,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Irgalmasság és hűség összetalálkoznak, igazság és békesség csókolgatják egymást."
+            },
+            {
+                "hely": {
+                    "gepi": 12108501100,
+                    "szep": "Zsolt 85,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hűség sarjad a földből, és igazság tekint alá az égből."
+            },
+            {
+                "hely": {
+                    "gepi": 12108501200,
+                    "szep": "Zsolt 85,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr is megadja a jót, és földünk is megtermi gyümölcsét."
+            },
+            {
+                "hely": {
+                    "gepi": 12108501300,
+                    "szep": "Zsolt 85,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igazság jár előtte és követi őt az ő lépéseinek útján."
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 3"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100300000,
+                    "szep": "Zsolt 3,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid zsoltára, abból az időből, amikor fia, Absolon elől menekült."
+            },
+            {
+                "hely": {
+                    "gepi": 12100300100,
+                    "szep": "Zsolt 3,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, mily sok ellenségem van, mily sokan támadnak rám!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100300200,
+                    "szep": "Zsolt 3,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sokan mondják rólam: Nem segít rajta Isten! (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12100300300,
+                    "szep": "Zsolt 3,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "De te, URam, pajzsom vagy nekem, dicsőségem, aki fölemeled fejem."
+            },
+            {
+                "hely": {
+                    "gepi": 12100300400,
+                    "szep": "Zsolt 3,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hangosan kiáltok az ÚRhoz, és ő meghallgat szent hegyén. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12100300500,
+                    "szep": "Zsolt 3,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lefekszem, alszom és fölébredek, mert az ÚR támogat engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12100300600,
+                    "szep": "Zsolt 3,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem félek a sok ezernyi néptől, amely körülvett engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12100300700,
+                    "szep": "Zsolt 3,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Állj mellém, URam, szabadíts meg, Istenem! Hiszen te vered arcul minden ellenségemet, kitördeled a bűnösök fogait!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100300800,
+                    "szep": "Zsolt 3,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚRtól jön a szabadítás. Legyen áldásod népeden! (Szela.)"
+            }
+        ]
+    }
+}

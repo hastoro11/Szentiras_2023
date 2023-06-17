@@ -1,0 +1,181 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 88"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108800000,
+                    "szep": "Zsolt 88,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egy beteg egyéni panaszdala. A zsoltárost barátai elhagyták, ezért Istennek panaszolja el félelmét, hogy meg kell halnia. A zsoltár keletkezési ideje bizonytalan."
+                    },
+                    {
+                        "position": null,
+                        "text": "Kóré fiai: vö. 42,1-49,21. – Ezrahita: vö. 1Kir 5,11. – Hemán: egy énekes neve, vö. 1 Krón 6,18. A beteg Istenhez fordul, akitől a gyógyulása függ. Éjjel-nappal könyörög Istenhez, hogy hallgassa meg, és tekintsen a panaszára. A helyzete kétségbeejtő. A szóban forgó betegség lepra, l. 6. vers: a beteget kizárták az élők közösségéből, mint akire már csak a sír és halál vár. Meg van győződve arról, hogy Isten elfeledi a holtakat (vö. 139,8)."
+                    }
+                ],
+                "szoveg": "<em>Kóré fiainak éneke. Zsoltár. A karvezetőnek.<br>A »Mahálát« szerint. Éneklésre.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12108800100,
+                    "szep": "Zsolt 88,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, szabadításom Istene,<br>éjjel-nappal hozzád kiáltok."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800200,
+                    "szep": "Zsolt 88,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jusson színed elé imádságom,<br>füledet hajtsd könyörgésemre."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800300,
+                    "szep": "Zsolt 88,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert fájdalommal van tele a lelkem<br>és életem az alvilághoz közeledik."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800400,
+                    "szep": "Zsolt 88,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A sírba szállók közé soroltak engem,<br>olyanná lettem, mint akinek nincsen segítsége."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800500,
+                    "szep": "Zsolt 88,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A holtak között van fekhelyem,<br>mint a halálra sebzettek, akik a sírban alszanak,<br>akikről nem emlékezel meg többé,<br>és akiket kitéptek kezedből."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800600,
+                    "szep": "Zsolt 88,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Letettél engem a verem mélyére,<br>a sötétségbe s a halál árnyékába."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800700,
+                    "szep": "Zsolt 88,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rám nehezedett haragod,<br>rám zúdítottad minden hullámodat."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800800,
+                    "szep": "Zsolt 88,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Eltávolítottad tőlem ismerőseimet,<br>utálatossá tettél előttük;<br>Fogoly vagyok és nincs menekvésem."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800900,
+                    "szep": "Zsolt 88,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szemem elbágyad a gyötrelemtől.<br>Uram, egész nap tehozzád kiáltok,<br>feléd terjesztem kezemet:"
+            },
+            {
+                "hely": {
+                    "gepi": 12108801000,
+                    "szep": "Zsolt 88,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vajon a holtakkal művelsz-e csodákat,<br>és fölkelnek-e az árnyak, hogy dicsérjenek téged?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108801100,
+                    "szep": "Zsolt 88,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vajon hirdeti-e valaki a sírban irgalmasságodat<br>és hűségedet az enyészet helyén?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108801200,
+                    "szep": "Zsolt 88,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vajon a sötétség helyén ismerik-e csodáidat<br>és igazságodat a feledés földjén?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108801300,
+                    "szep": "Zsolt 88,13"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ameddig él az ember, addig tud kérni, kiáltani és panaszkodni; minden ellenkező látszat ellenére is reménykedni."
+                    }
+                ],
+                "szoveg": "Uram, én hozzád kiáltok,<br>kora reggel eléd száll imádságom."
+            },
+            {
+                "hely": {
+                    "gepi": 12108801400,
+                    "szep": "Zsolt 88,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Miért taszítasz el engem, Uram,<br>miért rejted el tőlem arcodat?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108801500,
+                    "szep": "Zsolt 88,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szegény és halálos beteg vagyok ifjúkorom óta,<br>a tőled való rettegés súlya nyom, bensőm összezavarodott."
+            },
+            {
+                "hely": {
+                    "gepi": 12108801600,
+                    "szep": "Zsolt 88,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Átcsapott rajtam haragod<br>és megrendítettek engem borzalmaid."
+            },
+            {
+                "hely": {
+                    "gepi": 12108801700,
+                    "szep": "Zsolt 88,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Körülvesznek engem, mint a vizek, egész nap,<br>mindenünnen körülvesznek."
+            },
+            {
+                "hely": {
+                    "gepi": 12108801800,
+                    "szep": "Zsolt 88,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Eltávolítottad tőlem a barátokat és a közelállókat,<br>csak a sötétség a társam."
+            }
+        ]
+    }
+}

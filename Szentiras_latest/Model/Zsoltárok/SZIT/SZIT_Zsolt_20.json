@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 20"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102000000,
+                    "szep": "Zsolt 20,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek – Dávid zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12102000100,
+                    "szep": "Zsolt 20,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "A megpróbáltatás napján hallgasson meg az Úr, védelmezzen meg Jákob Istenének neve!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102000200,
+                    "szep": "Zsolt 20,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Küldjön neked segítséget szentélyéből és Sionból oltalmazzon téged!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102000300,
+                    "szep": "Zsolt 20,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emlékezzék minden áldozatodra, legyen kedves előtte égőáldozatod!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102000400,
+                    "szep": "Zsolt 20,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adja meg neked, amit szíved kíván, s váltsa valóra minden tervedet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102000500,
+                    "szep": "Zsolt 20,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor majd örülünk győzelmednek, s Istenünk nevében lengetjük zászlóinkat. Az Úr teljesítse minden kérésedet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102000600,
+                    "szep": "Zsolt 20,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Most már tudom: Az Úr győzelmet adott fölkentjének, meghallgatta szent egéből, győzelmes jobbjának erejében."
+            },
+            {
+                "hely": {
+                    "gepi": 12102000700,
+                    "szep": "Zsolt 20,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Némelyek a harci szekerekben, mások a lovakban bíznak, mi ellenben Urunk, Istenünk nevét hívjuk segítségül."
+            },
+            {
+                "hely": {
+                    "gepi": 12102000800,
+                    "szep": "Zsolt 20,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ők összeestek és a földre rogytak, mi pedig állunk és maradunk."
+            },
+            {
+                "hely": {
+                    "gepi": 12102000900,
+                    "szep": "Zsolt 20,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, adj győzelmet a királynak, s hallgass meg bennünket, amely napon hozzád kiáltunk!"
+            }
+        ]
+    }
+}

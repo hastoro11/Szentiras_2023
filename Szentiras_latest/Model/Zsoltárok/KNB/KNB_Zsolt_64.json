@@ -1,0 +1,118 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 64"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106400000,
+                    "szep": "Zsolt 64,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni panaszdal, feltehetően a fogság előtti időkből. A szöveg egy országos ínség idején, mint az egész nép panasza, bekerült a templomi liturgiába. Nem katonákról és zsoldosokról van benne szó, hanem rágalmazókról, akik nem egykönnyen fedik fel kilétüket, és akik orvul támadnak meg másokat. Az imádkozó ebben a küzdelemben Istennél talál menedéket."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Dávid zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12106400100,
+                    "szep": "Zsolt 64,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgasd meg, Isten, esdő könyörgésemet,<br>szabadítsd meg lelkemet az ellenség félelmétől!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106400200,
+                    "szep": "Zsolt 64,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Lehetséges fordítás: a gonoszok összeesküvésétől."
+                    }
+                ],
+                "szoveg": "Oltalmazz meg a gonoszok gyülekezetétől,<br>a gonosztevők sokaságától!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106400300,
+                    "szep": "Zsolt 64,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyelvük, mint a megélesített kard,<br>keserű beszédük, mint a felajzott íj,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106400400,
+                    "szep": "Zsolt 64,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy titkon lenyilazzák az ártatlant.<br>Le is nyilazzák hirtelen, anélkül, hogy félnének,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106400500,
+                    "szep": "Zsolt 64,5"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Javított szöveg."
+                    }
+                ],
+                "szoveg": "megátalkodnak gonosz szándékukban.<br>Megegyeznek, hogy tőrt vetnek titokban,<br>azt mondogatják: »Ki látja meg?«"
+            },
+            {
+                "hely": {
+                    "gepi": 12106400600,
+                    "szep": "Zsolt 64,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gonoszságokat terveznek<br>és véghezviszik a kigondolt terveket.<br>Az ember benseje és szíve kikutathatatlan."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400700,
+                    "szep": "Zsolt 64,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "De Isten lenyilazza őket;<br>hirtelen megsebesülnek,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106400800,
+                    "szep": "Zsolt 64,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "és saját nyelvük lesz romlásukra.<br>Fejét csóválja mindenki, aki látja őket,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106400900,
+                    "szep": "Zsolt 64,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "és félelem fog el minden embert;<br>Hirdetik Isten tetteit,<br>és megértik cselekedeteit."
+            },
+            {
+                "hely": {
+                    "gepi": 12106401000,
+                    "szep": "Zsolt 64,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örvendezik akkor majd az igaz az Úrban,<br>benne reménykedik,<br>és mindnyájan dicsekszenek az igaz szívűek."
+            }
+        ]
+    }
+}

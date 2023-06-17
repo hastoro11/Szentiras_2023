@@ -1,0 +1,136 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 39"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103900000,
+                    "szep": "Zsolt 39,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni panaszdal, feltehetően a fogság ideje alatt keletkezett. A zsoltáros a Prédikátor könyvének írójához hasonlóan az emberi mulandóság miatt kesereg."
+                    },
+                    {
+                        "position": null,
+                        "text": "Iditun egyike a templomi zenészeknek, vö. 1 Krón 16,41."
+                    }
+                ],
+                "szoveg": "<em>Iditun karvezetőnek. Dávid zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12103900100,
+                    "szep": "Zsolt 39,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így szóltam: »Vigyázok útjaimra,<br>hogy ne vétkezzem nyelvemmel;<br>féket teszek számra,<br>míg a bűnös szemben áll velem.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12103900200,
+                    "szep": "Zsolt 39,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elnémultam, megalázkodtam,<br>hallgattam minden vigasztalás nélkül,<br>és fájdalmam megújult."
+            },
+            {
+                "hely": {
+                    "gepi": 12103900300,
+                    "szep": "Zsolt 39,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szívem csak izzott bensőmben,<br>amíg elmélkedtem, tűz égette lelkem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103900400,
+                    "szep": "Zsolt 39,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyelvem szólásra indult:<br>»Add tudtomra, Uram, végemet,<br>és napjaim számát,<br>hadd tudjam, milyen rövid az életem!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12103900500,
+                    "szep": "Zsolt 39,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Íme napjaimat arasznyivá tetted,<br>s létem olyan előtted, mint a semmi.<br>Bizony csak hiábavalóság minden élő ember."
+            },
+            {
+                "hely": {
+                    "gepi": 12103900600,
+                    "szep": "Zsolt 39,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony mint az árnyék, elmúlik az ember,<br>bizony hiába is fáradozik;<br>Halmozza a kincset és nem tudja,<br>ki gyűjti majd be azt."
+            },
+            {
+                "hely": {
+                    "gepi": 12103900700,
+                    "szep": "Zsolt 39,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nos hát, miben reménykedjem Uram?<br>Csak benned van reménységem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103900800,
+                    "szep": "Zsolt 39,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ragadj ki engem minden gonoszságomból,<br>ne tégy ki az esztelenek gyalázatának."
+            },
+            {
+                "hely": {
+                    "gepi": 12103900900,
+                    "szep": "Zsolt 39,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elnémulok, nem nyitom ki számat,<br>mert te tetted ezt velem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103901000,
+                    "szep": "Zsolt 39,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vedd le rólam csapásaidat,<br>mert elpusztulok kezed ütései alatt."
+            },
+            {
+                "hely": {
+                    "gepi": 12103901100,
+                    "szep": "Zsolt 39,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gonoszságáért fenyítéseiddel bünteted az embert;<br>s kezed alatt pókhálóként elenyészik élete.<br>Bizony, hiábavaló minden ember!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103901200,
+                    "szep": "Zsolt 39,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgasd meg, Uram, könyörgésemet,<br>fogadd füledbe esdeklésemet.<br>Ne hagyd válasz nélkül könnyeimet,<br>hisz vándor vagyok én tenálad<br>és zsellér, mint atyáim mindnyájan."
+            },
+            {
+                "hely": {
+                    "gepi": 12103901300,
+                    "szep": "Zsolt 39,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fordítsd el rólam haragod, hogy enyhülést leljek,<br>mielőtt eltávoznék, hogy ne legyek többé!"
+            }
+        ]
+    }
+}

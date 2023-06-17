@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 124"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112400000,
+                    "szep": "Zsolt 124,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Zarándokének – Dávidtól.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12112400100,
+                    "szep": "Zsolt 124,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha az Úr nem lett volna velünk – Izrael bevallhatja –"
+            },
+            {
+                "hely": {
+                    "gepi": 12112400200,
+                    "szep": "Zsolt 124,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "ha az Úr nem lett volna velünk, amikor az emberek ellenünk fordultak,"
+            },
+            {
+                "hely": {
+                    "gepi": 12112400300,
+                    "szep": "Zsolt 124,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "elevenen nyeltek volna le minket. Amikor fellángolt dühük ellenünk,"
+            },
+            {
+                "hely": {
+                    "gepi": 12112400400,
+                    "szep": "Zsolt 124,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "elborítottak volna minket a vizek. A hegyi patak elöntött volna,"
+            },
+            {
+                "hely": {
+                    "gepi": 12112400500,
+                    "szep": "Zsolt 124,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "a zúgó ár elragadott volna."
+            },
+            {
+                "hely": {
+                    "gepi": 12112400600,
+                    "szep": "Zsolt 124,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "De áldott legyen az Úr, mert nem vetett oda zsákmányul fogaiknak."
+            },
+            {
+                "hely": {
+                    "gepi": 12112400700,
+                    "szep": "Zsolt 124,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkünk megmenekült, mint a madár a vadász hálójából. A háló szétszakadt, s mi szabadok lettünk."
+            },
+            {
+                "hely": {
+                    "gepi": 12112400800,
+                    "szep": "Zsolt 124,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segítségünk az Úr nevében, aki az eget és a földet alkotta."
+            }
+        ]
+    }
+}

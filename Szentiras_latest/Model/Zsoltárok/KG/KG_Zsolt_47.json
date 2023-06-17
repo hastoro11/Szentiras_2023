@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 47"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104700000,
+                    "szep": "Zsolt 47,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek, a Kóráh fiainak zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700100,
+                    "szep": "Zsolt 47,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ti népek mind tapsoljatok, harsogjatok Istennek vígságos szóval."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700200,
+                    "szep": "Zsolt 47,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert az Úr felséges, rettenetes; nagy király az egész földön."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700300,
+                    "szep": "Zsolt 47,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Alánk veti a népeket, a nemzeteket lábaink alá."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700400,
+                    "szep": "Zsolt 47,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kiválasztja nékünk örökségünket, Jákób dicsőségét, a kit szeret. Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700500,
+                    "szep": "Zsolt 47,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Felvonul Isten harsona-szónál, kürtzengés közt az Úr."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700600,
+                    "szep": "Zsolt 47,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Énekeljetek Istennek, énekeljetek; énekeljetek királyunknak, énekeljetek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104700700,
+                    "szep": "Zsolt 47,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert az egész föld királya az Isten: énekeljetek bölcseséggel."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700800,
+                    "szep": "Zsolt 47,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten uralkodik a nemzetek fölött; Isten ott ül az ő szentségének trónján."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700900,
+                    "szep": "Zsolt 47,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Népek fejedelmei gyülekeztek össze, mint Ábrahám Istenének népe, mert Istené a földnek pajzsai; magasságos ő igen!"
+            }
+        ]
+    }
+}

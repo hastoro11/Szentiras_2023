@@ -1,0 +1,207 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 55"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105500000,
+                    "szep": "Zsolt 55,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Húros hangszerre. Dávid tanítókölteménye."
+            },
+            {
+                "hely": {
+                    "gepi": 12105500100,
+                    "szep": "Zsolt 55,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, figyelj imádságomra, ne zárkózz el könyörgésem elől!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105500200,
+                    "szep": "Zsolt 55,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Figyelj rám, hallgass meg engem! Bánatomban bolyongok, és sóhajtozom"
+            },
+            {
+                "hely": {
+                    "gepi": 12105500300,
+                    "szep": "Zsolt 55,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "az ellenség hangoskodása, a bűnösök nyomorgatása miatt. Mert bajt zúdítanak rám, és haraggal támadnak rám."
+            },
+            {
+                "hely": {
+                    "gepi": 12105500400,
+                    "szep": "Zsolt 55,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szívem vergődik keblemben, halálos rémület fogott el."
+            },
+            {
+                "hely": {
+                    "gepi": 12105500500,
+                    "szep": "Zsolt 55,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Félelem és reszketés lepett meg, borzongás járt át."
+            },
+            {
+                "hely": {
+                    "gepi": 12105500600,
+                    "szep": "Zsolt 55,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezért így szóltam: Miért is nincs szárnyam, mint a galambnak, hogy elrepülhetnék, és nyugton lehetnék?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105500700,
+                    "szep": "Zsolt 55,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Messzire bujdosnék, a pusztában laknék. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12105500800,
+                    "szep": "Zsolt 55,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sietve keresnék menedéket a szélvész és a vihar elől."
+            },
+            {
+                "hely": {
+                    "gepi": 12105500900,
+                    "szep": "Zsolt 55,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kergesd szét őket, Uram, zavard össze nyelvüket! Csak erőszakot és viszályt látok a városban;"
+            },
+            {
+                "hely": {
+                    "gepi": 12105501000,
+                    "szep": "Zsolt 55,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "ez megy éjjel-nappal falai közt, vész és nyomor van benne."
+            },
+            {
+                "hely": {
+                    "gepi": 12105501100,
+                    "szep": "Zsolt 55,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Romlás uralkodik benne, nem távozik tereiről a zsarnokság és a csalás."
+            },
+            {
+                "hely": {
+                    "gepi": 12105501200,
+                    "szep": "Zsolt 55,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem az ellenség gyaláz engem, azt elszenvedném. Nem gyűlölőm hatalmaskodik rajtam, előle elrejtőzném."
+            },
+            {
+                "hely": {
+                    "gepi": 12105501300,
+                    "szep": "Zsolt 55,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hanem te, magamfajta ember, bizalmas jó barátom,"
+            },
+            {
+                "hely": {
+                    "gepi": 12105501400,
+                    "szep": "Zsolt 55,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "akivel meghitt barátságban voltam; az Isten házába együtt jártunk a gyülekezet körében."
+            },
+            {
+                "hely": {
+                    "gepi": 12105501500,
+                    "szep": "Zsolt 55,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Törjön rájuk a halál! Szálljanak elevenen a holtak hazájába, mert gonoszsággal van tele lakóhelyük."
+            },
+            {
+                "hely": {
+                    "gepi": 12105501600,
+                    "szep": "Zsolt 55,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én pedig Istenhez kiáltok, és az ÚR megsegít engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105501700,
+                    "szep": "Zsolt 55,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bár reggel, délben, este gondban vagyok, és sóhajtozom, ő meghallja hangomat."
+            },
+            {
+                "hely": {
+                    "gepi": 12105501800,
+                    "szep": "Zsolt 55,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megszabadít engem támadóimtól, hogy békességem legyen, bár sokan vannak ellenem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105501900,
+                    "szep": "Zsolt 55,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meghallgat Isten, és megalázza őket az, aki ősidők óta trónján ül. (Szela.) Mert nem akarnak megváltozni, és nem félik az Istent."
+            },
+            {
+                "hely": {
+                    "gepi": 12105502000,
+                    "szep": "Zsolt 55,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kezet emelt jó barátjára, és meggyalázta a szövetséget."
+            },
+            {
+                "hely": {
+                    "gepi": 12105502100,
+                    "szep": "Zsolt 55,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szája simább a vajnál, de viszálykodáson jár az esze. Beszéde lágyabb az olajnál, pedig olyan, mint a kivont kard."
+            },
+            {
+                "hely": {
+                    "gepi": 12105502200,
+                    "szep": "Zsolt 55,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vesd az ÚRra terhedet, és ő gondot visel rád! Nem engedi sohasem, hogy ingadozzon az igaz."
+            },
+            {
+                "hely": {
+                    "gepi": 12105502300,
+                    "szep": "Zsolt 55,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, te taszítod őket a sírnak mélyére. A véreskezű és álnok emberek az emberélet felét sem érik el. De én benned bízom!"
+            }
+        ]
+    }
+}

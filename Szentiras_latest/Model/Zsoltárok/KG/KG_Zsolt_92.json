@@ -1,0 +1,143 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 92"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109200000,
+                    "szep": "Zsolt 92,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zsoltár, ének szombat napra."
+            },
+            {
+                "hely": {
+                    "gepi": 12109200100,
+                    "szep": "Zsolt 92,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jó dolog dicsérni az Urat, és éneket mondani a te nevednek, oh Felséges!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109200200,
+                    "szep": "Zsolt 92,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hirdetni jó reggel a te kegyelmedet, és éjjelente a te hűséges voltodat."
+            },
+            {
+                "hely": {
+                    "gepi": 12109200300,
+                    "szep": "Zsolt 92,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tíz húrú hegedűvel és lanttal, hárfán való zengedezéssel."
+            },
+            {
+                "hely": {
+                    "gepi": 12109200400,
+                    "szep": "Zsolt 92,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert megvidámítottál engem Uram a te cselekedeteddel, a te kezednek műveiben örvendezem."
+            },
+            {
+                "hely": {
+                    "gepi": 12109200500,
+                    "szep": "Zsolt 92,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mely nagyok Uram a te műveid, igen mélységesek a te gondolataid!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109200600,
+                    "szep": "Zsolt 92,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "A balgatag ember nem tudja, a bolond pedig nem érti meg ezt:"
+            },
+            {
+                "hely": {
+                    "gepi": 12109200700,
+                    "szep": "Zsolt 92,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy mikor felsarjaznak a gonoszok, mint a fű, és virágoznak mind a hamisság cselekedők, mindörökké elveszszenek ők;"
+            },
+            {
+                "hely": {
+                    "gepi": 12109200800,
+                    "szep": "Zsolt 92,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te pedig Uram, magasságos vagy örökké!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109200900,
+                    "szep": "Zsolt 92,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ímé, a te ellenségeid elvesznek, és elszélednek mind a hamisság cselekedők!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109201000,
+                    "szep": "Zsolt 92,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "De magasra növeszted az én szarvamat, mint az egyszarvúét; elárasztatom csillogó olajjal."
+            },
+            {
+                "hely": {
+                    "gepi": 12109201100,
+                    "szep": "Zsolt 92,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "És legeltetem szememet az én ellenségeimen, és az ellenem támadó gonosztevőkön mulat majd a fülem."
+            },
+            {
+                "hely": {
+                    "gepi": 12109201200,
+                    "szep": "Zsolt 92,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az igaz virágzik, mint a pálmafa, növekedik, mint a czédrus a Libánonon."
+            },
+            {
+                "hely": {
+                    "gepi": 12109201300,
+                    "szep": "Zsolt 92,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Plánták ők az Úrnak házában; a mi Istenünknek tornáczaiban virágzanak."
+            },
+            {
+                "hely": {
+                    "gepi": 12109201400,
+                    "szep": "Zsolt 92,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Még a vén korban is gyümölcsöznek; kövérek és zöldellők lesznek;"
+            },
+            {
+                "hely": {
+                    "gepi": 12109201500,
+                    "szep": "Zsolt 92,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy hirdessék, hogy igazságos az Úr, az én kősziklám, és hogy nincsen hamisság benne!"
+            }
+        ]
+    }
+}

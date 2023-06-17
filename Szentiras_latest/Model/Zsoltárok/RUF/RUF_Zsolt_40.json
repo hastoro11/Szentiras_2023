@@ -1,0 +1,159 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 40"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104000000,
+                    "szep": "Zsolt 40,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12104000100,
+                    "szep": "Zsolt 40,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Várva vártam az URat, és ő lehajolt hozzám, meghallotta kiáltásomat."
+            },
+            {
+                "hely": {
+                    "gepi": 12104000200,
+                    "szep": "Zsolt 40,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kiemelt a pusztulás verméből, a sárból és az iszapból. Sziklára állította lábamat, biztossá tette lépteimet."
+            },
+            {
+                "hely": {
+                    "gepi": 12104000300,
+                    "szep": "Zsolt 40,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Új éneket adott a számba, Istenünknek dicséretét. Sokan látják ezt, félik az URat, és bíznak benne."
+            },
+            {
+                "hely": {
+                    "gepi": 12104000400,
+                    "szep": "Zsolt 40,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog ember az, aki az ÚRba veti bizodalmát, nem igazodik a kevélyekhez és az elvetemült hazugokhoz."
+            },
+            {
+                "hely": {
+                    "gepi": 12104000500,
+                    "szep": "Zsolt 40,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, Istenem! Sok csodás tervet vittél véghez értünk, nincs hozzád fogható. Szeretném hirdetni és elmondani, de több annál, mint amit fel tudnék sorolni."
+            },
+            {
+                "hely": {
+                    "gepi": 12104000600,
+                    "szep": "Zsolt 40,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Véresáldozatban és ételáldozatban nem telik kedved: nyitott fület adtál nekem. Égőáldozatot és vétekáldozatot nem kívánsz."
+            },
+            {
+                "hely": {
+                    "gepi": 12104000700,
+                    "szep": "Zsolt 40,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor így szóltam: Íme, megjelentem, a könyvtekercsben írva van rólam."
+            },
+            {
+                "hely": {
+                    "gepi": 12104000800,
+                    "szep": "Zsolt 40,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Abban telik kedvem, Istenem, hogy akaratodat teljesítsem, törvényed szívemben van."
+            },
+            {
+                "hely": {
+                    "gepi": 12104000900,
+                    "szep": "Zsolt 40,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hirdetem igazságodat a nagy gyülekezetben, és nem zárom be számat, jól tudod, URam!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104001000,
+                    "szep": "Zsolt 40,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igazságodat nem rejtegetem szívem mélyén, hanem beszélek hűségedről és szabadításodról. Nem titkolom el szeretetedet és hűségedet a nagy gyülekezet előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12104001100,
+                    "szep": "Zsolt 40,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, ne vond meg tőlem irgalmadat, szereteted és hűséged őrizzen szüntelen!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104001200,
+                    "szep": "Zsolt 40,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert annyi baj vett engem körül, hogy megszámlálni sem lehet. Bűneim büntetése utolért engem, áttekinteni sem tudom őket, számosabbak hajam szálainál, és a szívem is elhagyott engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12104001300,
+                    "szep": "Zsolt 40,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Légy kegyelmes, URam, és ments meg, URam, siess segítségemre!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104001400,
+                    "szep": "Zsolt 40,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szégyenkezzen, piruljon mindenki, aki életemet el akarja venni! Riadjanak vissza, és érje gyalázat azokat, akik bajomban gyönyörködnek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104001500,
+                    "szep": "Zsolt 40,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rettegjenek szégyenükben, akik hahotázva beszélnek rólam!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104001600,
+                    "szep": "Zsolt 40,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örüljenek és örvendezzenek benned mindazok, akik téged keresnek! Akik szabadításodra vágyódnak, hadd mondhassák mindig, hogy nagy az ÚR!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104001700,
+                    "szep": "Zsolt 40,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elesett és szegény vagyok, de gondol rám az Úr! Te vagy segítségem és megmentőm, Istenem, ne késlekedj!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 148"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114800100,
+                    "szep": "Zsolt 148,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Himnusz a fogság utáni közösség istentiszteletéből. Hasonlít a három ifjú dicsőítőénekéhez (vö. Dán 3,51-90). A teremtett világ sokféleségét mint egységet értelmezi: az egység Isten dicsőítésében valósul meg."
+                    },
+                    {
+                        "position": null,
+                        "text": "Az első (leltárszerű) felsorolásban az emberek az »égieket« hívják, hogy dicsőítsék alkotójukat (vö. Ter 1,6-8)"
+                    }
+                ],
+                "szoveg": "ALLELUJA!<br>Dicsérjétek az Urat az egekből,<br>dicsérjétek őt a magasságban!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114800200,
+                    "szep": "Zsolt 148,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek őt, angyalai mind,<br>dicsérjétek őt, seregei mind!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114800300,
+                    "szep": "Zsolt 148,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek őt, nap és hold,<br>dicsérjétek őt mind, ragyogó csillagok!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114800400,
+                    "szep": "Zsolt 148,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek őt egek egei,<br>és minden vizek az ég felett"
+            },
+            {
+                "hely": {
+                    "gepi": 12114800500,
+                    "szep": "Zsolt 148,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "dicsérjék az Úr nevét!<br>Mert ő parancsolt és azok létrejöttek,"
+            },
+            {
+                "hely": {
+                    "gepi": 12114800600,
+                    "szep": "Zsolt 148,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "felállította őket mindörökre,<br>s el nem múló törvényt szabott nekik."
+            },
+            {
+                "hely": {
+                    "gepi": 12114800700,
+                    "szep": "Zsolt 148,7"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A második felsorolásban felszólítanak minden földi élőlényt Isten dicsőítésére. A leírás az akkori világképet tükrözi."
+                    }
+                ],
+                "szoveg": "Dicsérjétek az Urat a földről,<br>sárkányok és mélységes vizek mind!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114800800,
+                    "szep": "Zsolt 148,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tűz, jégeső, hó, fagy és szélvihar,<br>amelyek parancsát teljesítik;"
+            },
+            {
+                "hely": {
+                    "gepi": 12114800900,
+                    "szep": "Zsolt 148,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mindnyájan ti hegyek és halmok,<br>gyümölcstermő fák és mind a cédrusok,"
+            },
+            {
+                "hely": {
+                    "gepi": 12114801000,
+                    "szep": "Zsolt 148,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "vadállatok és minden állat,<br>csúszómászók és szárnyasok,"
+            },
+            {
+                "hely": {
+                    "gepi": 12114801100,
+                    "szep": "Zsolt 148,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "föld királyai és mind a népek,<br>fejedelmek és mind, bírái a földnek,"
+            },
+            {
+                "hely": {
+                    "gepi": 12114801200,
+                    "szep": "Zsolt 148,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "ifjak és szüzek,<br>vének és gyermekek,"
+            },
+            {
+                "hely": {
+                    "gepi": 12114801300,
+                    "szep": "Zsolt 148,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "dicsérjék az Úr nevét,<br>mert csak az ő neve magasztos.<br>Fönsége felülmúlja az eget és a földet,"
+            },
+            {
+                "hely": {
+                    "gepi": 12114801400,
+                    "szep": "Zsolt 148,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "és hatalmat adott népének.<br>Dicséret minden szentjének,<br>Izrael fiainak, a népnek amely hozzá tartozik.<br>ALLELUJA!"
+            }
+        ]
+    }
+}

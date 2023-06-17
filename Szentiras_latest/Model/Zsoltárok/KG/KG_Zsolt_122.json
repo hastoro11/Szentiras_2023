@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 122"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112200000,
+                    "szep": "Zsolt 122,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Grádicsok éneke, Dávidtól."
+            },
+            {
+                "hely": {
+                    "gepi": 12112200100,
+                    "szep": "Zsolt 122,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örvendezek, mikor mondják nékem: Menjünk el az Úr házába!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112200200,
+                    "szep": "Zsolt 122,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ott álltak a mi lábaink a te kapuidban, oh Jeruzsálem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112200300,
+                    "szep": "Zsolt 122,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jeruzsálem, te szépen épült, mint a jól egybeszerkesztett város!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112200400,
+                    "szep": "Zsolt 122,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A hová feljárnak a nemzetségek, az Úrnak nemzetségei, bizonyságul Izráelnek, az Úr nevének tiszteletére."
+            },
+            {
+                "hely": {
+                    "gepi": 12112200500,
+                    "szep": "Zsolt 122,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ott ülnek az ítélőszékek, Dávid házának székei."
+            },
+            {
+                "hely": {
+                    "gepi": 12112200600,
+                    "szep": "Zsolt 122,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörögjetek Jeruzsálem békességéért; legyenek boldogok a téged szeretők!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112200700,
+                    "szep": "Zsolt 122,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Békesség legyen a te várfalaid között, csendesség a te palotáidban."
+            },
+            {
+                "hely": {
+                    "gepi": 12112200800,
+                    "szep": "Zsolt 122,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Atyámfiaiért és barátaimért hadd mondhassam: béke veled!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112200900,
+                    "szep": "Zsolt 122,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úrnak, a mi Istenünknek házáért hadd kivánhassak jót tenéked!"
+            }
+        ]
+    }
+}

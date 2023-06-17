@@ -1,0 +1,139 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 96"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109600100,
+                    "szep": "Zsolt 96,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Királyzsoltár; Isten mindent felölelő királyi uralmáról szól a hívőkhöz. Izrael nem harcol többé kiválasztottságának előjogáért. Isten végleges eljövetelét hirdeti, amely a mindent átfogó üdvösség (10)."
+                    }
+                ],
+                "szoveg": "Énekeljetek az Úrnak új éneket,<br>énekeljetek az Úrnak minden földek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109600200,
+                    "szep": "Zsolt 96,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "»Neve«: magát Istent jelenti, aki az emberhez fordult."
+                    }
+                ],
+                "szoveg": "Énekeljetek az Úrnak, áldjátok nevét,<br>hirdessétek napról-napra szabadítását!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109600300,
+                    "szep": "Zsolt 96,3"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az üdvösség örömhírét hirdetni kell."
+                    }
+                ],
+                "szoveg": "Hirdessétek dicsőségét a nemzetek között,<br>csodatetteit minden népnek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109600400,
+                    "szep": "Zsolt 96,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nagy az Úr, méltó a dicséretre,<br>minden istennél félelmetesebb."
+            },
+            {
+                "hely": {
+                    "gepi": 12109600500,
+                    "szep": "Zsolt 96,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert a nemzetek istenei mind csak hamis istenek,<br>az Úr azonban egeket alkotott."
+            },
+            {
+                "hely": {
+                    "gepi": 12109600600,
+                    "szep": "Zsolt 96,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Színe előtt fenség van és szépség,<br>szentélyében ékesség és hatalom."
+            },
+            {
+                "hely": {
+                    "gepi": 12109600700,
+                    "szep": "Zsolt 96,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ünnepeljétek az Urat, népek családjai,<br>ünnepeljétek az Úr dicsőségét és hatalmát."
+            },
+            {
+                "hely": {
+                    "gepi": 12109600800,
+                    "szep": "Zsolt 96,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adjátok meg az Úr nevének a dicsőséget,<br>hozzatok áldozati ajándékokat és jöjjetek udvaraiba."
+            },
+            {
+                "hely": {
+                    "gepi": 12109600900,
+                    "szep": "Zsolt 96,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boruljatok le szent pompával az Úr előtt,<br>rettegjen előtte az egész föld!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109601000,
+                    "szep": "Zsolt 96,10"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A fogság utáni négy himnusz feltételezi Második és Harmadik Izajás (Iz 40-66) igehirdetését. Izrael dicsőíti Istenét, mint királyt minden teremtmény fölött."
+                    }
+                ],
+                "szoveg": "Hirdessétek a nemzetek közt: »Király az Úr!«<br>Megerősítette a föld kerekségét, hogy ne ingadozzék,<br>s igazságosan ítéli a népeket."
+            },
+            {
+                "hely": {
+                    "gepi": 12109601100,
+                    "szep": "Zsolt 96,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örvendjenek az egek, ujjongjon a föld,<br>zúgjon a tenger s ami betölti azt;"
+            },
+            {
+                "hely": {
+                    "gepi": 12109601200,
+                    "szep": "Zsolt 96,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vigadjanak a mezők és minden, ami rajtuk van!<br>Ujjongjon akkor az erdő minden fája"
+            },
+            {
+                "hely": {
+                    "gepi": 12109601300,
+                    "szep": "Zsolt 96,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "az Úr előtt, mert eljön,<br>eljön hogy megítélje a földet.<br>Igazságban ítéli meg a föld kerekségét,<br>s a népeket hűsége szerint."
+            }
+        ]
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 47"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104700000,
+                    "szep": "Zsolt 47,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Himnusz az Úrhoz, Izrael királyához, a királyok korai korszakából. A szöveget később átdolgozták, megváltoztatták. Az éneket akkor énekelték, amikor a frigyládát, amely által Isten győzelmet adott a királynak, körmenetben körülhordozták és ünnepeltek. Később a trónralépési szertartás részévé lett Jeruzsálemben."
+                    },
+                    {
+                        "position": null,
+                        "text": "Kóré fiai: vö. 42,1-49,21"
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Kóré fiainak zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12104700100,
+                    "szep": "Zsolt 47,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tapsoljatok mindnyájan, nemzetek,<br>örvendezzetek Istennek ujjongó szóval,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104700200,
+                    "szep": "Zsolt 47,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Izrael egyedüli királya Isten, ő gondoskodik népéről és annak országáról."
+                    }
+                ],
+                "szoveg": "mert az Úr felséges, rettenetes,<br>hatalmas királya ő az egész földnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700300,
+                    "szep": "Zsolt 47,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Alánk vetette a népeket,<br>lábunk alá a nemzeteket."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700400,
+                    "szep": "Zsolt 47,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "»Örökségét«: nem családi örökséget, hanem az egész nép örökségét jelenti."
+                    }
+                ],
+                "szoveg": "Kiszemelte nekünk örökségünket,<br>Jákob ékességét, melyben kedvét leli."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700500,
+                    "szep": "Zsolt 47,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ujjongás közepette felvonul az Isten,<br>harsonazengés között az Úr."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700600,
+                    "szep": "Zsolt 47,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zengjetek Istennek, zsoltárt zengjetek,<br>zengjetek királyunknak, zengedezzetek."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700700,
+                    "szep": "Zsolt 47,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert Isten az egész föld királya,<br>zengjetek bölcsességgel."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700800,
+                    "szep": "Zsolt 47,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten uralkodik a nemzeteken,<br>s ül szent trónusán az Isten."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700900,
+                    "szep": "Zsolt 47,9"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "»A föld pajzsa«: a héber szöveg szerint (a görögben: a föld hatalmasai)."
+                    }
+                ],
+                "szoveg": "Egybegyűlnek a népek fejedelmei<br>Ábrahám Istenének népével,<br>mert az Istené a föld pajzsa:<br>s igen fenséges ő."
+            }
+        ]
+    }
+}

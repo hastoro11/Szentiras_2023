@@ -1,0 +1,462 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 18"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101800000,
+                    "szep": "Zsolt 18,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Királyi győzelmi ének, amelyet kétszer őrzött meg a hagyomány a Bibliában. Ez a későbbi változat (a korábbit l. 2 Sám 22)."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Dávidtól, az Úr szolgájától, aki ez ének igéit intézte az Úrhoz, amikor az Úr megszabadította őt minden ellenségének hatalmából és Saul kezéből. Így szólt tehát:</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12101800100,
+                    "szep": "Zsolt 18,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Javított szöveg (a héber eredetiben: szeretni akarlak téged)."
+                    }
+                ],
+                "szoveg": "<br>Szeretlek Uram, én erősségem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101800200,
+                    "szep": "Zsolt 18,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, én erősségem, menedékem és megszabadítóm;<br>Én Istenem, segítségem, akiben reménykedem,<br>oltalmazóm, üdvösségem szarva,<br>aki fölemelsz engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12101800300,
+                    "szep": "Zsolt 18,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérem és segítségül hívom az Urat,<br>és megszabadulok ellenségeimtől."
+            },
+            {
+                "hely": {
+                    "gepi": 12101800400,
+                    "szep": "Zsolt 18,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Körülvettek a halál hullámai,<br>megrémítettek a gonoszság örvényei,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101800500,
+                    "szep": "Zsolt 18,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "körülfogtak az alvilág kötelei,<br>hatalmukba kerítettek a halál tőrei."
+            },
+            {
+                "hely": {
+                    "gepi": 12101800600,
+                    "szep": "Zsolt 18,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szorultságomban az Urat hívtam segítségül,<br>Istenemhez kiáltottam.<br>Ő meghallgatta templomából szavam,<br>és hozzá intézett kiáltásom a füléhez jutott."
+            },
+            {
+                "hely": {
+                    "gepi": 12101800700,
+                    "szep": "Zsolt 18,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "A föld megindult és megreszketett,<br>alapjukban megrendültek a hegyek,<br>és megindultak, mert ő haragra gerjedt."
+            },
+            {
+                "hely": {
+                    "gepi": 12101800800,
+                    "szep": "Zsolt 18,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Füst szállt fel orrából,<br>és emésztő tűz a szájából,<br>égő parazsat lövellt magából."
+            },
+            {
+                "hely": {
+                    "gepi": 12101800900,
+                    "szep": "Zsolt 18,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lehajtotta az eget és leszállott,<br>ködhomály volt lába alatt."
+            },
+            {
+                "hely": {
+                    "gepi": 12101801000,
+                    "szep": "Zsolt 18,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fölszállt a kerubok fölé,<br>a szél szárnyain repült."
+            },
+            {
+                "hely": {
+                    "gepi": 12101801100,
+                    "szep": "Zsolt 18,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rejtekhelyévé tette a sötétséget,<br>sátrat vont maga köré<br>sötét vízből, a lég felhőiből."
+            },
+            {
+                "hely": {
+                    "gepi": 12101801200,
+                    "szep": "Zsolt 18,12"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A felhők: javítva a görög és a 2 Sám 22,14 alapján."
+                    },
+                    {
+                        "position": null,
+                        "text": "Jégeső és izzó parázs: a görögben nem található."
+                    }
+                ],
+                "szoveg": "Arcának fényessége előtt futottak a felhők,<br>a jégeső s az izzó parázs."
+            },
+            {
+                "hely": {
+                    "gepi": 12101801300,
+                    "szep": "Zsolt 18,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dörgött az Úr az égből,<br>hallatta hangját a Fölséges:<br>jégeső és az izzó parázs."
+            },
+            {
+                "hely": {
+                    "gepi": 12101801400,
+                    "szep": "Zsolt 18,14"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A 2 Sám 22,15 alapján javítva."
+                    }
+                ],
+                "szoveg": "Kilőtte nyilait és szétszórta őket,<br>leküldte villámait és szétzavarta őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12101801500,
+                    "szep": "Zsolt 18,15"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Javított szöveg (a héberben: a tengerek vize)."
+                    }
+                ],
+                "szoveg": "Előtűntek a vizek forrásai,<br>feltárultak a földkerekség alapjai<br>korholó szavadtól, Uram,<br>haragod leheletének fúvásától."
+            },
+            {
+                "hely": {
+                    "gepi": 12101801600,
+                    "szep": "Zsolt 18,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lenyúlt a magasból, megfogott,<br>a nagy vizekből kihúzott engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12101801700,
+                    "szep": "Zsolt 18,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megszabadított hatalmas ellenségeimtől,<br>nálamnál hatalmasabb gyűlölőimtől."
+            },
+            {
+                "hely": {
+                    "gepi": 12101801800,
+                    "szep": "Zsolt 18,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megrohantak engem nyomorúságom napján,<br>de támaszom lett az Úr."
+            },
+            {
+                "hely": {
+                    "gepi": 12101801900,
+                    "szep": "Zsolt 18,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kivezetett a szabad térre engem,<br>megmentett, mert kedvét lelte bennem."
+            },
+            {
+                "hely": {
+                    "gepi": 12101802000,
+                    "szep": "Zsolt 18,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megfizetett nekem az Úr igaz voltom szerint,<br>megjutalmazott kezem tisztasága szerint,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101802100,
+                    "szep": "Zsolt 18,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "mert megőriztem az Úr útjait,<br>Istenemtől gonoszul el nem tértem."
+            },
+            {
+                "hely": {
+                    "gepi": 12101802200,
+                    "szep": "Zsolt 18,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert szem előtt tartottam minden rendeletét,<br>igaz ítéleteit magamtól el nem távolítottam."
+            },
+            {
+                "hely": {
+                    "gepi": 12101802300,
+                    "szep": "Zsolt 18,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert szeplőtelen voltam előtte,<br>s őrizkedtem, hogy vétkem ne legyen."
+            },
+            {
+                "hely": {
+                    "gepi": 12101802400,
+                    "szep": "Zsolt 18,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megfizetett nekem az Úr igaz voltom szerint,<br>kezemnek előtte ismeretes tisztasága szerint."
+            },
+            {
+                "hely": {
+                    "gepi": 12101802500,
+                    "szep": "Zsolt 18,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "A szenthez szent vagy,<br>az ártatlan emberhez ártatlan,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101802600,
+                    "szep": "Zsolt 18,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "a választotthoz választott vagy,<br>a fondorkodókat kiforgatod."
+            },
+            {
+                "hely": {
+                    "gepi": 12101802700,
+                    "szep": "Zsolt 18,27"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert a megalázott népet megmented,<br>de megalázod a kevélyek szemét."
+            },
+            {
+                "hely": {
+                    "gepi": 12101802800,
+                    "szep": "Zsolt 18,28"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert te gyújtod meg, Uram, lámpásomat,<br>Isten teszi világossá sötétségemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12101802900,
+                    "szep": "Zsolt 18,29"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Javított szöveg (a héber szöveg nem világos)."
+                    }
+                ],
+                "szoveg": "Mert te ragadsz ki a kísértésből,<br>Istenem által ugrom át a falat."
+            },
+            {
+                "hely": {
+                    "gepi": 12101803000,
+                    "szep": "Zsolt 18,30"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én Istenem! – Szeplőtelen az ő útja,<br>tűzben próbált az Úr szava,<br>oltalmazója ő minden benne bízónak."
+            },
+            {
+                "hely": {
+                    "gepi": 12101803100,
+                    "szep": "Zsolt 18,31"
+                },
+                "jegyzetek": [],
+                "szoveg": "Valóban, ki Isten az Úron kívül?<br>Ki kőszikla a mi Istenünkön kívül?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101803200,
+                    "szep": "Zsolt 18,32"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő az Isten, aki erővel övezett fel engem,<br>és szeplőtelenné tette utamat."
+            },
+            {
+                "hely": {
+                    "gepi": 12101803300,
+                    "szep": "Zsolt 18,33"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lábamat gyorssá tette mint a szarvasét,<br>és magaslatokra állított fel engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12101803400,
+                    "szep": "Zsolt 18,34"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kezemet harcra tanította,<br>karom ércveretű íjat feszít."
+            },
+            {
+                "hely": {
+                    "gepi": 12101803500,
+                    "szep": "Zsolt 18,35"
+                },
+                "jegyzetek": [],
+                "szoveg": "Üdvösséged pajzsát adtad nekem,<br>jobbod fölemelt és jóságod naggyá tett engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12101803600,
+                    "szep": "Zsolt 18,36"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tág teret nyitottál lépteimnek,<br>és bokáim nem gyengültek el."
+            },
+            {
+                "hely": {
+                    "gepi": 12101803700,
+                    "szep": "Zsolt 18,37"
+                },
+                "jegyzetek": [],
+                "szoveg": "Üldözőbe vettem ellenségeimet s elfogtam őket,<br>nem tértem vissza, míg el nem pusztultak."
+            },
+            {
+                "hely": {
+                    "gepi": 12101803800,
+                    "szep": "Zsolt 18,38"
+                },
+                "jegyzetek": [],
+                "szoveg": "Összetörtem őket, nem tudtak felkelni,<br>a lábam alá estek."
+            },
+            {
+                "hely": {
+                    "gepi": 12101803900,
+                    "szep": "Zsolt 18,39"
+                },
+                "jegyzetek": [],
+                "szoveg": "Erővel öveztél fel engem a harcra,<br>az ellenem állókat alám vetetted."
+            },
+            {
+                "hely": {
+                    "gepi": 12101804000,
+                    "szep": "Zsolt 18,40"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megszalasztottad ellenségeimet,<br>és gyűlölőimet széjjelszórtad."
+            },
+            {
+                "hely": {
+                    "gepi": 12101804100,
+                    "szep": "Zsolt 18,41"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kiáltottak, de nem volt, aki megmentse őket,<br>kiáltottak az Úrhoz, de nem hallgatott rájuk."
+            },
+            {
+                "hely": {
+                    "gepi": 12101804200,
+                    "szep": "Zsolt 18,42"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szétszórtam őket, mint a szél a port,<br>széttiportam őket, mint az utca sarát."
+            },
+            {
+                "hely": {
+                    "gepi": 12101804300,
+                    "szep": "Zsolt 18,43"
+                },
+                "jegyzetek": [],
+                "szoveg": "Népem lázadásától megmentettél,<br>nemzetek vezetőjévé tettél engem.<br>Az a nép, amelyet nem ismertem, szolgámmá lett,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101804400,
+                    "szep": "Zsolt 18,44"
+                },
+                "jegyzetek": [],
+                "szoveg": "mihelyt füle hallotta, engedelmeskedett nekem.<br>Idegen fiak hízelegtek nekem,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101804500,
+                    "szep": "Zsolt 18,45"
+                },
+                "jegyzetek": [],
+                "szoveg": "idegenek fiai erejüket vesztették,<br>remegtek rejtekükben."
+            },
+            {
+                "hely": {
+                    "gepi": 12101804600,
+                    "szep": "Zsolt 18,46"
+                },
+                "jegyzetek": [],
+                "szoveg": "Él az Úr, áldott legyen Segítőm,<br>magasztalják az én megmentő Istenemet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101804700,
+                    "szep": "Zsolt 18,47"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten, aki megengeded, hogy bosszút álljak,<br>és népeket vetsz alám,<br>aki megszabadítasz haragos ellenségeimtől,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101804800,
+                    "szep": "Zsolt 18,48"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A 2 Sám 22,49 alapján javítva."
+                    }
+                ],
+                "szoveg": "az ellenem támadók fölé juttatsz,<br>megszabadítasz az erőszak emberétől."
+            },
+            {
+                "hely": {
+                    "gepi": 12101804900,
+                    "szep": "Zsolt 18,49"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérlek érte, Uram, a nemzetek között,<br>és zsoltárt zengek nevednek,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101805000,
+                    "szep": "Zsolt 18,50"
+                },
+                "jegyzetek": [],
+                "szoveg": "aki bőségesen segíti királyát,<br>aki irgalmat gyakorol Fölkentjével,<br>Dáviddal és utódaival mindörökké."
+            }
+        ]
+    }
+}

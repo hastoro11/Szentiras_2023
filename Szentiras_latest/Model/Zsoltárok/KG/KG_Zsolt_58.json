@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 58"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105800000,
+                    "szep": "Zsolt 58,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek az altashétre; Dávid miktámja."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800100,
+                    "szep": "Zsolt 58,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Avagy valóban a néma igazságot szólaltatjátok-é meg? Avagy igazán ítéltek-é ti embernek fiai?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105800200,
+                    "szep": "Zsolt 58,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sőt inkább hamisságot forgattok a ti szívetekben! a ti kezeiteknek hamisságát méritek e földön."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800300,
+                    "szep": "Zsolt 58,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Eltértek a gonoszok fogantatásuk óta; tévelygenek a hazugok anyjok méhétől kezdve."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800400,
+                    "szep": "Zsolt 58,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mérgök olyan, mint a kígyónak mérge; mint a siket áspisé, a mely füleit bedugja."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800500,
+                    "szep": "Zsolt 58,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A mely nem hallja a bűbájosoknak szavát, sem a bűvölőét, a ki bűbájakban jártas."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800600,
+                    "szep": "Zsolt 58,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten, rontsd meg az ő fogaikat az ő szájokban; az oroszlánoknak zápfogait törd össze, Uram!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105800700,
+                    "szep": "Zsolt 58,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Olvadjanak el, folyjanak széllyel, mint a víz; ha felteszi nyilait, legyenek tompultak azok."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800800,
+                    "szep": "Zsolt 58,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Legyenek mint a csiga, a mely szétfolyván, elmúlik; mint az aszszonynak idétlen szülötte, a mely nem látta a napot."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800900,
+                    "szep": "Zsolt 58,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mielőtt megéreznék fazekaitok a tövist, mind nyersen, mind égőn elragadja azt a forgószél."
+            },
+            {
+                "hely": {
+                    "gepi": 12105801000,
+                    "szep": "Zsolt 58,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örül az igaz, mikor látja a bosszúállást; lábait mossa a gonosznak vérében."
+            },
+            {
+                "hely": {
+                    "gepi": 12105801100,
+                    "szep": "Zsolt 58,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "És azt mondja az ember: Bizonyára van jutalma az igaznak; bizony van ítélő Isten e földön!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 14"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101400000,
+                    "szep": "Zsolt 14,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek – Dávid zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12101400100,
+                    "szep": "Zsolt 14,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az esztelen ezt mondja szívében: „Nincs Isten!” Megromlottak – szörnyűség, amit művelnek, senki sincs, aki még a jót tenné."
+            },
+            {
+                "hely": {
+                    "gepi": 12101400200,
+                    "szep": "Zsolt 14,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr az égből az emberekre tekint, hogy lássa, van-e még, aki értő lelkű, van-e még, aki keresi az Istent."
+            },
+            {
+                "hely": {
+                    "gepi": 12101400300,
+                    "szep": "Zsolt 14,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ám mind elfordultak, mind megromlottak, senki, de senki nincs, aki a jót tenné."
+            },
+            {
+                "hely": {
+                    "gepi": 12101400400,
+                    "szep": "Zsolt 14,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem térnek észre, akik rosszat tesznek, s emésztik népemet, mint ahogy a kenyeret eszik, azok, akik nem kiáltanak segítségért az Úrhoz."
+            },
+            {
+                "hely": {
+                    "gepi": 12101400500,
+                    "szep": "Zsolt 14,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "De majd rettegés veri őket, amilyen rettegés még nem volt, mivel Isten az igazak nemzetségével tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12101400600,
+                    "szep": "Zsolt 14,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ti meghiúsítottátok tervét a szegénynek, az Úr azonban menedéke marad."
+            },
+            {
+                "hely": {
+                    "gepi": 12101400700,
+                    "szep": "Zsolt 14,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki ad segítséget Sionból Izrael számára? Ha egyszer az Úr megfordítja népe sorsát, örül majd Jákob és ujjong Izrael!"
+            }
+        ]
+    }
+}

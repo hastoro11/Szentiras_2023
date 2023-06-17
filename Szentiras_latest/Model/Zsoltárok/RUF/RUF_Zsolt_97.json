@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 97"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109700100,
+                    "szep": "Zsolt 97,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uralkodik az ÚR! Vigadjon a föld, örüljön a sok sziget!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109700200,
+                    "szep": "Zsolt 97,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Felhő és sűrű köd van körülötte, igazság és jog trónjának támasza."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700300,
+                    "szep": "Zsolt 97,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tűz jár előtte, és megemészti ellenségeit mindenütt."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700400,
+                    "szep": "Zsolt 97,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Villámai bevilágítják a földkerekséget, látja ezt a föld, és megremeg."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700500,
+                    "szep": "Zsolt 97,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Viaszként olvadnak meg a hegyek az ÚR előtt, az egész föld Ura előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700600,
+                    "szep": "Zsolt 97,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az egek hirdetik igazságát, minden nép látja dicsőségét."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700700,
+                    "szep": "Zsolt 97,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megszégyenülnek a bálványimádók mind, akik a bálványokkal dicsekszenek. Az ÚR előtt borul le minden isten."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700800,
+                    "szep": "Zsolt 97,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallja ezt Sion, és örül, Júda leányai vigadnak ítéleteiden, ó, URam!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109700900,
+                    "szep": "Zsolt 97,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert te vagy, URam, a legfenségesebb az egész földön, magasan fölötte vagy minden istennek."
+            },
+            {
+                "hely": {
+                    "gepi": 12109701000,
+                    "szep": "Zsolt 97,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ti, akik szeretitek az URat, gyűlöljétek a gonoszságot! Megőrzi ő híveinek életét, kimenti őket a bűnösök kezéből."
+            },
+            {
+                "hely": {
+                    "gepi": 12109701100,
+                    "szep": "Zsolt 97,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fényözön árad az igazra, és öröm a tiszta szívűekre."
+            },
+            {
+                "hely": {
+                    "gepi": 12109701200,
+                    "szep": "Zsolt 97,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örüljetek, ti, igazak, az ÚRnak, magasztaljátok szent nevét!"
+            }
+        ]
+    }
+}

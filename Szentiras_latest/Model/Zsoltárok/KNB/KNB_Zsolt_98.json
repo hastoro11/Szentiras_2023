@@ -1,0 +1,113 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 98"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109800000,
+                    "szep": "Zsolt 98,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Végidei himnusz a fogság utáni időkből (vö. 96,1-99,9)."
+                    },
+                    {
+                        "position": null,
+                        "text": "Az »új ének« válaszol Isten új tetteire. Amit Izrael a Bábelből való visszatérésben megtapasztalt, az szolgál mintául a végidők újjászületéséhez. Isten hű maradt az Izrael házával kötött szövetséghez. A föld határainak (a közeli és a távoli országoknak) fel kell ismernie Istent, az üdvösség egyedüli szerzőjét."
+                    }
+                ],
+                "szoveg": "<em>Zsoltár.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800100,
+                    "szep": "Zsolt 98,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Végidei himnusz a fogság utáni időkből (vö. 96,1-99,9)."
+                    },
+                    {
+                        "position": null,
+                        "text": "Az »új ének« válaszol Isten új tetteire. Amit Izrael a Bábelből való visszatérésben megtapasztalt, az szolgál mintául a végidők újjászületéséhez. Isten hű maradt az Izrael házával kötött szövetséghez. A föld határainak (a közeli és a távoli országoknak) fel kell ismernie Istent, az üdvösség egyedüli szerzőjét."
+                    }
+                ],
+                "szoveg": "Énekeljetek az Úrnak új éneket,<br>mert csodálatos dolgokat cselekedett.<br>Győzelmet szerzett jobbja,<br>az ő szentséges karja."
+            },
+            {
+                "hely": {
+                    "gepi": 12109800200,
+                    "szep": "Zsolt 98,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megismertette szabadítását az Úr,<br>megmutatta igazságosságát a nemzetek előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12109800300,
+                    "szep": "Zsolt 98,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megemlékezett irgalmáról,<br>Izrael házához való hűségéről.<br>A föld minden határa látta<br>Istenünk szabadítását."
+            },
+            {
+                "hely": {
+                    "gepi": 12109800400,
+                    "szep": "Zsolt 98,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ujjongjatok Istennek, minden földek,<br>énekeljetek, örvendjetek, zengjetek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800500,
+                    "szep": "Zsolt 98,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zengjetek az Úrnak lanttal,<br>lanttal és a zsoltár szavával;"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800600,
+                    "szep": "Zsolt 98,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Trombitával és kürtszóval,<br>ujjongjatok az Úr, a király előtt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800700,
+                    "szep": "Zsolt 98,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zúgjon a tenger s ami betölti azt,<br>a földkerekség és lakói."
+            },
+            {
+                "hely": {
+                    "gepi": 12109800800,
+                    "szep": "Zsolt 98,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tapsoljanak a folyóvizek,<br>és a hegyek is mind ujjongjanak"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800900,
+                    "szep": "Zsolt 98,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "az Úr előtt, mert eljön<br>megítélni a földet.<br>Igazságban ítéli meg a földkerekséget,<br>és méltányosan a népeket."
+            }
+        ]
+    }
+}

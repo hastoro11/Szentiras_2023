@@ -1,0 +1,47 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 131"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113100000,
+                    "szep": "Zsolt 131,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zarándokének. Dávidé."
+            },
+            {
+                "hely": {
+                    "gepi": 12113100100,
+                    "szep": "Zsolt 131,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, nem fuvalkodik fel a szívem, nem kevély a tekintetem. Nem törekszem arra, ami túl nagy és elérhetetlen nekem."
+            },
+            {
+                "hely": {
+                    "gepi": 12113100200,
+                    "szep": "Zsolt 131,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Inkább csitítottam, csendesítettem lelkemet, mint anya a gyermekét. Mint a gyermek, olyan most a lelkem."
+            },
+            {
+                "hely": {
+                    "gepi": 12113100300,
+                    "szep": "Zsolt 131,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bízzál, Izráel, az ÚRban most és mindörökké!"
+            }
+        ]
+    }
+}

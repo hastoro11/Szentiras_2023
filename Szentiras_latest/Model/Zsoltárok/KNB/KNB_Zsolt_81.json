@@ -1,0 +1,170 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 81"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108100000,
+                    "szep": "Zsolt 81,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zsoltár a sátoros ünnep fogság utáni szertartásának része."
+                    },
+                    {
+                        "position": null,
+                        "text": "Ászáf: vö.50,1."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. A »Szőlőprések« szerint. Ászáftól.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12108100100,
+                    "szep": "Zsolt 81,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Felhívás az ünnepi dicsőítésre. Az őszi ünnepi időszak újholdtól holdtöltéig tart (vö. Lev 23,24-36)."
+                    }
+                ],
+                "szoveg": "Örvendjetek Istennek, a mi segítőnknek,<br>ujjongjatok Jákob Istenének."
+            },
+            {
+                "hely": {
+                    "gepi": 12108100200,
+                    "szep": "Zsolt 81,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kezdjetek énekelni és szóljon a dob,<br>a szép hangú lant és a hárfa."
+            },
+            {
+                "hely": {
+                    "gepi": 12108100300,
+                    "szep": "Zsolt 81,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fújjátok a harsonát újholdkor,<br>és holdtöltekor, ünnepünk napján."
+            },
+            {
+                "hely": {
+                    "gepi": 12108100400,
+                    "szep": "Zsolt 81,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ez Izrael törvénye,<br>Jákob Istenének parancsa."
+            },
+            {
+                "hely": {
+                    "gepi": 12108100500,
+                    "szep": "Zsolt 81,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizonyságául rendelte ezt Józsefnek,<br>amikor kivonult Egyiptom földjéről.<br>Ismeretlen beszédet hallottam:"
+            },
+            {
+                "hely": {
+                    "gepi": 12108100600,
+                    "szep": "Zsolt 81,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "»Megszabadítottam hátát a tehertől,<br>kezét a rabszolgakosártól."
+            },
+            {
+                "hely": {
+                    "gepi": 12108100700,
+                    "szep": "Zsolt 81,7"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Meriba vizénél: vö. Kiv 17,1-7."
+                    }
+                ],
+                "szoveg": "Szorongatásodban segítségül hívtál, s én megszabadítottalak,<br>meghallgattalak a fergeteg rejtekéből,<br>a Meriba vizénél próbára tettelek."
+            },
+            {
+                "hely": {
+                    "gepi": 12108100800,
+                    "szep": "Zsolt 81,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Halljad, én népem, hadd intselek!<br>Izrael, bárcsak meghallgatnál engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108100900,
+                    "szep": "Zsolt 81,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne legyen más isten közötted,<br>ne imádj idegen istent!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108101000,
+                    "szep": "Zsolt 81,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert én vagyok a te Urad, Istened,<br>aki kihoztalak téged Egyiptom földjéről:<br>nyisd ki szádat és én megtöltöm."
+            },
+            {
+                "hely": {
+                    "gepi": 12108101100,
+                    "szep": "Zsolt 81,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "De népem nem hallgatott szavamra,<br>s Izrael nem figyelt rám."
+            },
+            {
+                "hely": {
+                    "gepi": 12108101200,
+                    "szep": "Zsolt 81,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezért ráhagytam őket szívük keménységére,<br>hadd menjenek a saját fejük után."
+            },
+            {
+                "hely": {
+                    "gepi": 12108101300,
+                    "szep": "Zsolt 81,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha népem rám hallgatott volna,<br>ha Izrael az én útjaimon járt volna,"
+            },
+            {
+                "hely": {
+                    "gepi": 12108101400,
+                    "szep": "Zsolt 81,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "rögtön megaláztam volna ellenségeit,<br>s üldözőire vetettem volna kezemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12108101500,
+                    "szep": "Zsolt 81,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hízelegnének neki az Úr ellenségei,<br>s idejük örökké tartana."
+            },
+            {
+                "hely": {
+                    "gepi": 12108101600,
+                    "szep": "Zsolt 81,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Táplálnám őket a búza javával,<br>és jóltartanám mézzel a kősziklából.«"
+            }
+        ]
+    }
+}

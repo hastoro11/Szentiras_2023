@@ -1,0 +1,103 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 64"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106400000,
+                    "szep": "Zsolt 64,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek – Dávid zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12106400100,
+                    "szep": "Zsolt 64,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Halld meg a szavam, Istenem, hozzád száll panaszom! Őrizd meg életem, hogy ne féljek az ellenségtől!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106400200,
+                    "szep": "Zsolt 64,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Oltalmazz a gonoszok hadától, az elvetemültek tomboló dühétől!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106400300,
+                    "szep": "Zsolt 64,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyelvüket, mint a kardot, élezik, keserű szavukat ontják, mint a mérges nyilat,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106400400,
+                    "szep": "Zsolt 64,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy rejtekükből eltalálják az ártatlant, és arcátlanul gyorsan leterítsék."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400500,
+                    "szep": "Zsolt 64,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Eljegyezték magukat a gonoszsággal, arról töprengenek, hogyan vessenek tőrt. Így szólnak: „Ki lát bennünket?"
+            },
+            {
+                "hely": {
+                    "gepi": 12106400600,
+                    "szep": "Zsolt 64,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Titkos útjainkat ki tekinti át?” Átlátja az, aki ismeri az ember bensejét, a kifürkészhetetlen szívet."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400700,
+                    "szep": "Zsolt 64,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten saját nyilaival találja el őket, és váratlanul üt sebet rajtuk."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400800,
+                    "szep": "Zsolt 64,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyelvük miatt veszíti el őket, s mind, akik ezt látják, csóválják fejüket."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400900,
+                    "szep": "Zsolt 64,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Félelem tölt el mindenkit, hirdetik Isten műveit, és tetteit megértik."
+            },
+            {
+                "hely": {
+                    "gepi": 12106401000,
+                    "szep": "Zsolt 64,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az igaz az Úrban örül, nála talál menedéket; a tiszta szívűek mind dicsekedhetnek."
+            }
+        ]
+    }
+}

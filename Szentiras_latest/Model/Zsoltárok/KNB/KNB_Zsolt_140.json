@@ -1,0 +1,142 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 140"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114000000,
+                    "szep": "Zsolt 140,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni panaszdal, amely a szertartás részévé vált. Keletkezésének ideje bizonytalan."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Dávid zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12114000100,
+                    "szep": "Zsolt 140,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az üldözött Istenhez fordul védelemért, mert rosszindulatú és álnok emberekkel gyűlt meg a baja, velük szemben ő kevésnek bizonyul."
+                    }
+                ],
+                "szoveg": "Ments meg engem, Uram, a gonosz embertől,<br>szabadíts meg az erőszakos embertől."
+            },
+            {
+                "hely": {
+                    "gepi": 12114000200,
+                    "szep": "Zsolt 140,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akik gonoszságot terveznek szívükben,<br>és egész nap háborúságot keltenek."
+            },
+            {
+                "hely": {
+                    "gepi": 12114000300,
+                    "szep": "Zsolt 140,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyelvüket élesítik, mint a kígyók,<br>vipera mérge van a nyelvük alatt."
+            },
+            {
+                "hely": {
+                    "gepi": 12114000400,
+                    "szep": "Zsolt 140,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Óvj meg, Uram, a bűnös kezétől,<br>szabadíts meg az erőszakos embertől,<br>akik lépteimnek gáncsot vetnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12114000500,
+                    "szep": "Zsolt 140,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tőrt vetnek nekem titkon a kevélyek,<br>kötelekből hálót feszítenek elém,<br>kelepcét állítanak elém az út mentén."
+            },
+            {
+                "hely": {
+                    "gepi": 12114000600,
+                    "szep": "Zsolt 140,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mondom az Úrnak: »Te vagy az én Istenem,<br>hallgasd meg, Uram, hangos könyörgésemet.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12114000700,
+                    "szep": "Zsolt 140,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, Uram, erős segítségem,<br>takard be fejemet a harc napján."
+            },
+            {
+                "hely": {
+                    "gepi": 12114000800,
+                    "szep": "Zsolt 140,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne add meg, Uram, amit a gonosz kíván,<br>ne hagyd beteljesülni terveit."
+            },
+            {
+                "hely": {
+                    "gepi": 12114000900,
+                    "szep": "Zsolt 140,9"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az ellenségre mondott átkok (ius talionis, vö. 109,6-20). A szénparázs képe az elkövetkező isteni ítéletet jelenti. Ennek alapján érthető a fordulat: »izzó parazsat gyűjtesz a fejére« (Péld 25,22; Róm 12,20). Aki ellenségével jót tesz, izzó parazsat gyűjt Istennél, neki adja át (őrá bízza) a megtorlást."
+                    }
+                ],
+                "szoveg": "Fölemelik körülöttem fejüket,<br>borítsa el őket önnön ajkuk gonoszsága!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114001000,
+                    "szep": "Zsolt 140,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hulljon rájuk izzó parázs, vesd őket a mélységbe,<br>hogy föl ne keljenek."
+            },
+            {
+                "hely": {
+                    "gepi": 12114001100,
+                    "szep": "Zsolt 140,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne legyen maradása az országban a szájhősnek,<br>gonoszsága ragadja veszedelembe az erőszakost."
+            },
+            {
+                "hely": {
+                    "gepi": 12114001200,
+                    "szep": "Zsolt 140,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tudom, hogy az Úr jogot szolgáltat a szűkölködőknek<br>és igazságot a szegényeknek."
+            },
+            {
+                "hely": {
+                    "gepi": 12114001300,
+                    "szep": "Zsolt 140,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldják majd nevedet az igazak,<br>és színed előtt laknak az egyenes lelkűek."
+            }
+        ]
+    }
+}

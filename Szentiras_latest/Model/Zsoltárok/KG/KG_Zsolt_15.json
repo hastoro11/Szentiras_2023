@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 15"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101500000,
+                    "szep": "Zsolt 15,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12101500100,
+                    "szep": "Zsolt 15,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, kicsoda tartózkodhatik sátorodban, kicsoda lakozhatik szent hegyeden?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101500200,
+                    "szep": "Zsolt 15,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki tökéletességben jár, igazságot cselekszik, és igazat szól az ő szívében."
+            },
+            {
+                "hely": {
+                    "gepi": 12101500300,
+                    "szep": "Zsolt 15,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem rágalmaz nyelvével; nem tesz rosszat felebarátjának, és nem szerez gyalázatot rokonainak."
+            },
+            {
+                "hely": {
+                    "gepi": 12101500400,
+                    "szep": "Zsolt 15,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A megbélyegzett útálatos az ő szemeiben, de az Urat félőket tiszteli: a ki kárára esküszik, és meg nem változtatja."
+            },
+            {
+                "hely": {
+                    "gepi": 12101500500,
+                    "szep": "Zsolt 15,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Pénzét nem adja uzsorára, és nem vesz el ajándékot az ártatlan ellen. A ki ezeket cselekszi, nem rendül meg soha örökké."
+            }
+        ]
+    }
+}

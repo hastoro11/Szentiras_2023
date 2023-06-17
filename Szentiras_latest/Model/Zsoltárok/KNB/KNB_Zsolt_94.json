@@ -1,0 +1,217 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 94"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109400100,
+                    "szep": "Zsolt 94,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Panaszdal és könyörgő ének a fogság utáni idők késői korszakából. Két részre tagolódik: az elsőben a közösség (1-15), a másodikban egy hívő szólal meg (16-24). Közös téma: az emberi hatalmasságok gyakran önkényeskednek, semmibe veszik és elferdítik az isteni igazságokat, a sikereikkel dicsekszenek, amelyeket istentelen életükkel és tetteikkel elértek. Ezért kéri a közösség (vagy egy személy), hogy Isten lépjen közbe, ítélje meg őket és fizessen meg nekik."
+                    }
+                ],
+                "szoveg": "Uram, bosszúállás Istene,<br>bosszúállás Istene, jelenj meg!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109400200,
+                    "szep": "Zsolt 94,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kelj fel, ó föld bírája,<br>fizess meg a kevélyeknek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109400300,
+                    "szep": "Zsolt 94,3"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A »bűnösöket« nem a kisemberek között kell keresni; akikről a zsoltáros beszél, azoknak hatalmuk van és visszaélnek azzal."
+                    }
+                ],
+                "szoveg": "Meddig fognak, Uram, a bűnösök,<br>meddig fognak még a bűnösök dicsekedni?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109400400,
+                    "szep": "Zsolt 94,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fecsegnek, vakmerően gonoszságot beszélnek<br>és kérkednek mind a gonosztevők."
+            },
+            {
+                "hely": {
+                    "gepi": 12109400500,
+                    "szep": "Zsolt 94,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Népedet, Uram, elnyomják,<br>örökségedet sanyargatják."
+            },
+            {
+                "hely": {
+                    "gepi": 12109400600,
+                    "szep": "Zsolt 94,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meggyilkolják az özvegyet s a jövevényt,<br>lemészárolják az árvákat."
+            },
+            {
+                "hely": {
+                    "gepi": 12109400700,
+                    "szep": "Zsolt 94,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azt mondják: »Nem látja ezt az Úr,<br>Nem veszi észre Jákob Istene.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12109400800,
+                    "szep": "Zsolt 94,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Eszméljetek, ti oktalanjai a népnek,<br>ostobák mikor tértek észhez?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109400900,
+                    "szep": "Zsolt 94,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "A fül plántálója ne hallana,<br>s a szem alkotója ne látna?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109401000,
+                    "szep": "Zsolt 94,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne büntetne, aki dorgálja a népeket,<br>aki tudományra tanítja az embert?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109401100,
+                    "szep": "Zsolt 94,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ismeri az Úr az emberek gondolatait<br>és tudja, hogy hiábavalók."
+            },
+            {
+                "hely": {
+                    "gepi": 12109401200,
+                    "szep": "Zsolt 94,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog az az ember, akit te oktatsz, Uram,<br>és megtanítasz törvényedre,"
+            },
+            {
+                "hely": {
+                    "gepi": 12109401300,
+                    "szep": "Zsolt 94,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy megóvd őt a gonosz napoktól,<br>amíg a bűnös számára a verem el nem készül."
+            },
+            {
+                "hely": {
+                    "gepi": 12109401400,
+                    "szep": "Zsolt 94,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nem taszítja el népét az Úr,<br>és nem hagyja el örökségét."
+            },
+            {
+                "hely": {
+                    "gepi": 12109401500,
+                    "szep": "Zsolt 94,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert az ítélkezés visszatér az igazsághoz,<br>és követik mind az igazszívűek."
+            },
+            {
+                "hely": {
+                    "gepi": 12109401600,
+                    "szep": "Zsolt 94,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki kel fel értem a gonoszok ellen,<br>ki áll mellém a gonosztevőkkel szemben?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109401700,
+                    "szep": "Zsolt 94,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha az Úr nem nyújtott volna segítséget,<br>már-már a némaság helyén lakoznék a lelkem."
+            },
+            {
+                "hely": {
+                    "gepi": 12109401800,
+                    "szep": "Zsolt 94,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha azt mondtam: »Inog a lábam«,<br>megsegített a te irgalmad, Uram."
+            },
+            {
+                "hely": {
+                    "gepi": 12109401900,
+                    "szep": "Zsolt 94,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bármilyen sok fájdalmam volt szívemben,<br>vigasztalásaid felvidítottak engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12109402000,
+                    "szep": "Zsolt 94,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lehet-e köze hozzád a hamisság ítélőszékének,<br>amely nyomorúságot szerez a törvény ellenére?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109402100,
+                    "szep": "Zsolt 94,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az igaz életére leskelődnek ők,<br>s elítélik az ártatlan vért."
+            },
+            {
+                "hely": {
+                    "gepi": 12109402200,
+                    "szep": "Zsolt 94,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "De nekem oltalmam lett az Úr,<br>és menedékem sziklája az én Istenem;"
+            },
+            {
+                "hely": {
+                    "gepi": 12109402300,
+                    "szep": "Zsolt 94,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő megtorolja rajtuk hamisságukat,<br>saját gonoszságukkal semmisíti meg őket;"
+            },
+            {
+                "hely": {
+                    "gepi": 12109402400,
+                    "szep": "Zsolt 94,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megsemmisíti őket az Úr, a mi Istenünk."
+            }
+        ]
+    }
+}

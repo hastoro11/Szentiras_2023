@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 142"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114200000,
+                    "szep": "Zsolt 142,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Tanítóköltemény Dávidtól, amikor a barlangban volt – ima.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12114200100,
+                    "szep": "Zsolt 142,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hangos szóval kiáltok az Úrhoz, hangos szóval könyörgök az Úrhoz!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114200200,
+                    "szep": "Zsolt 142,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kiöntöm előtte panaszomat, feltárom előtte gondjaimat."
+            },
+            {
+                "hely": {
+                    "gepi": 12114200300,
+                    "szep": "Zsolt 142,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha aggódás tölti is el lelkem, te mégis ismered útjaimat. Az útra, amelyen haladok, titokban csapdát állítottak."
+            },
+            {
+                "hely": {
+                    "gepi": 12114200400,
+                    "szep": "Zsolt 142,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha jobbra tekintek és nézem: nincs senki, aki törődnék velem. Sehol egy hely, ahol menedéket lelnék, senki, aki gondolna életemre."
+            },
+            {
+                "hely": {
+                    "gepi": 12114200500,
+                    "szep": "Zsolt 142,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, hozzád kiáltok és mondom: te vagy menedékem, osztályrészem az élők országában."
+            },
+            {
+                "hely": {
+                    "gepi": 12114200600,
+                    "szep": "Zsolt 142,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Halld meg panaszom, mert nagy a nyomorúságom. Ments meg az üldözőktől, akik hatalmasabbak nálam."
+            },
+            {
+                "hely": {
+                    "gepi": 12114200700,
+                    "szep": "Zsolt 142,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vezess ki börtönömből, s akkor hálát adok nevednek. az igazak körém gyűlnek, mivel jót tettél velem."
+            }
+        ]
+    }
+}

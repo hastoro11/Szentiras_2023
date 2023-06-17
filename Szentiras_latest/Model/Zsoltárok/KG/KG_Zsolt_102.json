@@ -1,0 +1,247 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 102"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12110200000,
+                    "szep": "Zsolt 102,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A nyomorultnak imádsága, a mikor eleped és kiönti panaszát az Úr elé."
+            },
+            {
+                "hely": {
+                    "gepi": 12110200100,
+                    "szep": "Zsolt 102,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, hallgasd meg az én imádságomat, és kiáltásom jusson te hozzád!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110200200,
+                    "szep": "Zsolt 102,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne rejtsd el a te orczádat tőlem; mikor szorongatnak engem, hajtsd hozzám a te füledet; mikor kiáltok, hamar hallgass meg engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110200300,
+                    "szep": "Zsolt 102,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert elenyésznek az én napjaim, mint a füst, és csontjaim, mint valami tűzhely, üszkösök."
+            },
+            {
+                "hely": {
+                    "gepi": 12110200400,
+                    "szep": "Zsolt 102,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Letaroltatott és megszáradt, mint a fű az én szívem; még kenyerem megevéséről is elfelejtkezem."
+            },
+            {
+                "hely": {
+                    "gepi": 12110200500,
+                    "szep": "Zsolt 102,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyögésemnek szavától csontom a húsomhoz ragadt."
+            },
+            {
+                "hely": {
+                    "gepi": 12110200600,
+                    "szep": "Zsolt 102,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hasonló vagyok a pusztai pelikánhoz; olyanná lettem, mint a bagoly a romokon."
+            },
+            {
+                "hely": {
+                    "gepi": 12110200700,
+                    "szep": "Zsolt 102,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Virrasztok és olyan vagyok, mint a magános madár a háztetőn."
+            },
+            {
+                "hely": {
+                    "gepi": 12110200800,
+                    "szep": "Zsolt 102,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Minden napon gyaláznak engem ellenségeim, csúfolóim esküsznek én reám."
+            },
+            {
+                "hely": {
+                    "gepi": 12110200900,
+                    "szep": "Zsolt 102,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony a port eszem kenyér gyanánt, és italomat könyekkel vegyítem,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110201000,
+                    "szep": "Zsolt 102,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A te felindulásod és búsulásod miatt; mert felemeltél engem és földhöz vertél engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12110201100,
+                    "szep": "Zsolt 102,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Napjaim olyanok, mint a megnyúlt árnyék; magam pedig, mint a fű, megszáradtam."
+            },
+            {
+                "hely": {
+                    "gepi": 12110201200,
+                    "szep": "Zsolt 102,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "De te Uram örökké megmaradsz, és a te emlékezeted nemzetségről nemzetségre áll."
+            },
+            {
+                "hely": {
+                    "gepi": 12110201300,
+                    "szep": "Zsolt 102,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te kelj fel, könyörülj a Sionon! Mert ideje, hogy könyörülj rajta, mert eljött a megszabott idő."
+            },
+            {
+                "hely": {
+                    "gepi": 12110201400,
+                    "szep": "Zsolt 102,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert kedvelik a te szolgáid annak köveit, és a porát is kímélik."
+            },
+            {
+                "hely": {
+                    "gepi": 12110201500,
+                    "szep": "Zsolt 102,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "És félik a népek az Úrnak nevét, és e földnek minden királya a te dicsőségedet;"
+            },
+            {
+                "hely": {
+                    "gepi": 12110201600,
+                    "szep": "Zsolt 102,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mivelhogy az Úr megépítette a Siont, megláttatta magát az ő dicsőségében."
+            },
+            {
+                "hely": {
+                    "gepi": 12110201700,
+                    "szep": "Zsolt 102,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Oda fordult a gyámoltalanok imádsága felé, és azoknak imádságát meg nem útálta."
+            },
+            {
+                "hely": {
+                    "gepi": 12110201800,
+                    "szep": "Zsolt 102,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Irattassék meg ez a következő nemzedéknek, és a teremtendő nép dicsérni fogja az Urat."
+            },
+            {
+                "hely": {
+                    "gepi": 12110201900,
+                    "szep": "Zsolt 102,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert alátekintett az ő szentségének magaslatáról; a mennyekből a földre nézett le az Úr."
+            },
+            {
+                "hely": {
+                    "gepi": 12110202000,
+                    "szep": "Zsolt 102,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy meghallja a fogolynak nyögését, és hogy feloldozza a halálnak fiait."
+            },
+            {
+                "hely": {
+                    "gepi": 12110202100,
+                    "szep": "Zsolt 102,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy hirdessék a Sionon az Úrnak nevét, és az ő dicséretét Jeruzsálemben."
+            },
+            {
+                "hely": {
+                    "gepi": 12110202200,
+                    "szep": "Zsolt 102,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mikor egybegyűlnek a népek mindnyájan, és az országok, hogy szolgáljanak az Úrnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12110202300,
+                    "szep": "Zsolt 102,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megsanyargatta az én erőmet ez útban, megrövidítette napjaimat."
+            },
+            {
+                "hely": {
+                    "gepi": 12110202400,
+                    "szep": "Zsolt 102,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezt mondám: Én Istenem! Ne vígy el engem az én napjaimnak felén; a te esztendeid nemzedékek nemzedékéig tartanak."
+            },
+            {
+                "hely": {
+                    "gepi": 12110202500,
+                    "szep": "Zsolt 102,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Régente fundáltad a földet, s az egek is a te kezednek munkája."
+            },
+            {
+                "hely": {
+                    "gepi": 12110202600,
+                    "szep": "Zsolt 102,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azok elvesznek, de te megmaradsz; mindazok elavulnak, mint a ruha; mint az öltözetet, elváltoztatod azokat, és elváltoznak."
+            },
+            {
+                "hely": {
+                    "gepi": 12110202700,
+                    "szep": "Zsolt 102,27"
+                },
+                "jegyzetek": [],
+                "szoveg": "De te ugyanaz vagy, és a te esztendeid el nem fogynak."
+            },
+            {
+                "hely": {
+                    "gepi": 12110202800,
+                    "szep": "Zsolt 102,28"
+                },
+                "jegyzetek": [],
+                "szoveg": "A te szolgáidnak fiai megmaradnak, és az ő magvok erősen megáll előtted."
+            }
+        ]
+    }
+}

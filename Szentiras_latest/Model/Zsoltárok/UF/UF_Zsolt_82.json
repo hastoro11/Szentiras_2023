@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 82"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108200000,
+                    "szep": "Zsolt 82,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ászáf zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12108200100,
+                    "szep": "Zsolt 82,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten ott áll az isteni közösségben, ítéletet tart az istenek fölött:"
+            },
+            {
+                "hely": {
+                    "gepi": 12108200200,
+                    "szep": "Zsolt 82,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meddig ítélkeztek álnokul, pártjukat fogva a bűnösöknek?! (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12108200300,
+                    "szep": "Zsolt 82,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Védelmezzétek a nincstelennek és az árvának a jogát, szolgáltassatok igazságot a nyomorultnak és szűkölködőnek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108200400,
+                    "szep": "Zsolt 82,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mentsétek meg a nincstelent és a szegényt, ragadjátok ki a bűnösök kezéből!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108200500,
+                    "szep": "Zsolt 82,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem tudnak és nem értenek semmit, sötétségben járnak, a föld alapjai mind ingadoznak."
+            },
+            {
+                "hely": {
+                    "gepi": 12108200600,
+                    "szep": "Zsolt 82,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azt mondtam ugyan, istenek vagytok, a Felséges fiai mindnyájan,"
+            },
+            {
+                "hely": {
+                    "gepi": 12108200700,
+                    "szep": "Zsolt 82,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "mégis meg fogtok halni, mint a közemberek, és elhullotok, mint bármelyik főember."
+            },
+            {
+                "hely": {
+                    "gepi": 12108200800,
+                    "szep": "Zsolt 82,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jöjj, Istenünk, légy bírája a földnek, mert minden nép a te örökséged!"
+            }
+        ]
+    }
+}

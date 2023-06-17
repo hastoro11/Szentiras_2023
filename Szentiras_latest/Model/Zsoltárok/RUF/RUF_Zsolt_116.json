@@ -1,0 +1,167 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 116"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111600100,
+                    "szep": "Zsolt 116,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szeretem az URat, mert meghallgatja könyörgésem szavát."
+            },
+            {
+                "hely": {
+                    "gepi": 12111600200,
+                    "szep": "Zsolt 116,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Felém fordította fülét, ezért őt hívom segítségül, amíg csak élek."
+            },
+            {
+                "hely": {
+                    "gepi": 12111600300,
+                    "szep": "Zsolt 116,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Körülfontak a halál kötelei, a sírtól való rettegés fogott el engem, nyomorúságban és bánatban van részem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111600400,
+                    "szep": "Zsolt 116,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "De az ÚR nevét hívom segítségül: Ó, URam, mentsd meg életemet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111600500,
+                    "szep": "Zsolt 116,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kegyelmes és igazságos az ÚR, irgalmas a mi Istenünk."
+            },
+            {
+                "hely": {
+                    "gepi": 12111600600,
+                    "szep": "Zsolt 116,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megőrzi az ÚR az együgyűeket, elesett vagyok, de ő megsegít."
+            },
+            {
+                "hely": {
+                    "gepi": 12111600700,
+                    "szep": "Zsolt 116,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Légy újból nyugodt, lelkem, mert jól bánt veled az ÚR!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111600800,
+                    "szep": "Zsolt 116,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megmentettél engem a haláltól, szememet a könnyhullatástól, lábamat az elbukástól,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111600900,
+                    "szep": "Zsolt 116,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "az ÚR színe előtt járhatok az élők földjén."
+            },
+            {
+                "hely": {
+                    "gepi": 12111601000,
+                    "szep": "Zsolt 116,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hittem, ha így szólok is: Igen elesett vagyok!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111601100,
+                    "szep": "Zsolt 116,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kétségbeesésemben mondtam: Minden ember hazug!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111601200,
+                    "szep": "Zsolt 116,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mit fizessek az ÚRnak a sok jóért, amit velem tett?"
+            },
+            {
+                "hely": {
+                    "gepi": 12111601300,
+                    "szep": "Zsolt 116,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "A szabadulásért fölemelem a poharat, és az ÚR nevét hirdetem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111601400,
+                    "szep": "Zsolt 116,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Teljesítem az ÚRnak tett fogadalmaimat egész népe jelenlétében."
+            },
+            {
+                "hely": {
+                    "gepi": 12111601500,
+                    "szep": "Zsolt 116,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Drágának tekinti az ÚR híveinek halálát."
+            },
+            {
+                "hely": {
+                    "gepi": 12111601600,
+                    "szep": "Zsolt 116,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ó, URam, én a te szolgád vagyok, szolgád vagyok, szolgálóleányod fia: levetted rólam a bilincset."
+            },
+            {
+                "hely": {
+                    "gepi": 12111601700,
+                    "szep": "Zsolt 116,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hálaáldozatot mutatok be neked, és az ÚR nevét hirdetem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111601800,
+                    "szep": "Zsolt 116,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Teljesítem az ÚRnak tett fogadalmaimat egész népe jelenlétében,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111601900,
+                    "szep": "Zsolt 116,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "az ÚR házának udvaraiban, tebenned, Jeruzsálem! Dicsérjétek az URat!"
+            }
+        ]
+    }
+}

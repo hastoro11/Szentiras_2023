@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 58"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105800000,
+                    "szep": "Zsolt 58,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek a „Ne töröld el” szerint – miktam Dávidtól.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12105800100,
+                    "szep": "Zsolt 58,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ti istenek, az igazság szerint beszéltek? Emberek fiai, igazságosak az ítéleteitek?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105800200,
+                    "szep": "Zsolt 58,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem, szívetekben gonoszság rejtőzik, kezetek igazságtalanságot oszt az országnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800300,
+                    "szep": "Zsolt 58,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gonoszok már anyjuk ölétől eltávolodtak, a hazugok már az anyaméhtől téves úton járnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800400,
+                    "szep": "Zsolt 58,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mérgük, mint a kígyó mérge, mint a süket vipera mérge, amely a fülét bezárja."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800500,
+                    "szep": "Zsolt 58,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem hallja meg a varázsló hangját, a kígyóbűvölő hangját, aki jól ért a bűvöléshez."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800600,
+                    "szep": "Zsolt 58,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, zúzd össze szájukban fogukat, Uram, törd össze az oroszlánok állkapcsát!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105800700,
+                    "szep": "Zsolt 58,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hadd folyjanak szét, mint a kiömlött víz, hervadjanak el, mint a letiport fű."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800800,
+                    "szep": "Zsolt 58,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Múljanak el, ahogy elmúlik a csiga, s mint az asszony elvetélt magzata, amely a napot nem látja meg soha!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105800900,
+                    "szep": "Zsolt 58,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mielőtt még tövist hajtanak, mint a tüskebozót, – zölden vagy száradtan – hordja el őket a haragos szél!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105801000,
+                    "szep": "Zsolt 58,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örüljön az igaz, ha látja a megtorlást, lábát fürössze a gonoszok vérében!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105801100,
+                    "szep": "Zsolt 58,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "S az emberek majd mondogatják: „Valóban, az igazra mégis jutalom vár, van még Isten, aki ítél a földön!”"
+            }
+        ]
+    }
+}

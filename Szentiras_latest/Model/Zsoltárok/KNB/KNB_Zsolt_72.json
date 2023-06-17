@@ -1,0 +1,203 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 72"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107200000,
+                    "szep": "Zsolt 72,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Királyzsoltár a fogság előtti időkből, lezárja a Dávid nevéhez fűződő gyűjtemény második könyvét (51-71. zsoltárok). A zsoltár a királyi udvar ünnepi szertartásának része. Úgy ábrázolja a királyt, mint igazságos bírót, bölcs uralkodót, ideális királyt. Az itt kifejezett remény aligha teljesedhet egy földi királyban. Ezért tekintjük ezt messiási zsoltárnak: a Dávidnak tett ígéretek beteljesítőjéről, a Messiásról beszél."
+                    },
+                    {
+                        "position": null,
+                        "text": "A király, mint Isten képviselője a földön, igazságosan ítél, és örökre megteremti az igazságot."
+                    }
+                ],
+                "szoveg": "<em>Salamontól.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12107200100,
+                    "szep": "Zsolt 72,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Királyzsoltár a fogság előtti időkből, lezárja a Dávid nevéhez fűződő gyűjtemény második könyvét (51-71. zsoltárok). A zsoltár a királyi udvar ünnepi szertartásának része. Úgy ábrázolja a királyt, mint igazságos bírót, bölcs uralkodót, ideális királyt. Az itt kifejezett remény aligha teljesedhet egy földi királyban. Ezért tekintjük ezt messiási zsoltárnak: a Dávidnak tett ígéretek beteljesítőjéről, a Messiásról beszél."
+                    },
+                    {
+                        "position": null,
+                        "text": "A király, mint Isten képviselője a földön, igazságosan ítél, és örökre megteremti az igazságot."
+                    }
+                ],
+                "szoveg": "<em>Salamontól.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12107200200,
+                    "szep": "Zsolt 72,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten, add át ítéletedet a királynak,<br>igazságodat a király fiának,<br>hogy igazságosan ítélje népedet,<br>és méltányosan szegényeidet."
+            },
+            {
+                "hely": {
+                    "gepi": 12107200300,
+                    "szep": "Zsolt 72,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Békét teremjenek a hegyek a népnek,<br>és igazságot a halmok."
+            },
+            {
+                "hely": {
+                    "gepi": 12107200400,
+                    "szep": "Zsolt 72,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szolgáltasson igazságot a nép szegényeinek,<br>nyújtson a szegények fiainak segítséget,<br>s alázza meg az erőszakoskodót."
+            },
+            {
+                "hely": {
+                    "gepi": 12107200500,
+                    "szep": "Zsolt 72,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Éljen, amíg a nap és a hold,<br>nemzedékről nemzedékre."
+            },
+            {
+                "hely": {
+                    "gepi": 12107200600,
+                    "szep": "Zsolt 72,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Úgy szálljon le, mint az eső a rétre,<br>s mint ahogy az esőcsepp öntözi a földet."
+            },
+            {
+                "hely": {
+                    "gepi": 12107200700,
+                    "szep": "Zsolt 72,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Virágozzék napjaiban az igazság<br>és a béke teljessége, amíg a hold el nem múlik."
+            },
+            {
+                "hely": {
+                    "gepi": 12107200800,
+                    "szep": "Zsolt 72,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uralkodjék tengertől tengerig,<br>A folyamtól a földkerekség széléig."
+            },
+            {
+                "hely": {
+                    "gepi": 12107200900,
+                    "szep": "Zsolt 72,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boruljanak le előtte a sivatag lakói<br>s ellenségei nyalják a port."
+            },
+            {
+                "hely": {
+                    "gepi": 12107201000,
+                    "szep": "Zsolt 72,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tarzis királyai és a szigetek hordjanak adományokat,<br>Arábia és Sába királyai ajándékokat hozzanak."
+            },
+            {
+                "hely": {
+                    "gepi": 12107201100,
+                    "szep": "Zsolt 72,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "A föld minden királya hódoljon előtte,<br>s legyen minden nemzet a szolgája."
+            },
+            {
+                "hely": {
+                    "gepi": 12107201200,
+                    "szep": "Zsolt 72,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ő megszabadítja a szegényt, aki hozzá kiált,<br>s a szűkölködőt, akin senki sem segít."
+            },
+            {
+                "hely": {
+                    "gepi": 12107201300,
+                    "szep": "Zsolt 72,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megkönyörül a szegényen és a nincstelenen<br>és megszabadítja a szűkölködőket."
+            },
+            {
+                "hely": {
+                    "gepi": 12107201400,
+                    "szep": "Zsolt 72,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megmenti őket az elnyomástól és az erőszaktól,<br>mert szemében drága az ő vérük."
+            },
+            {
+                "hely": {
+                    "gepi": 12107201500,
+                    "szep": "Zsolt 72,15"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Áldás és jókívánság a királynak. Amikor ezek beteljesednek, akkor érkezik el az ígéret megvalósulásának ideje (vö. Ter 12,3; 22,18)."
+                    }
+                ],
+                "szoveg": "Éljen és legyen része Arábia aranyában,<br>imádkoznak is majd érte mindenkor;<br>Áldják őt minden nap."
+            },
+            {
+                "hely": {
+                    "gepi": 12107201600,
+                    "szep": "Zsolt 72,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bőséggel legyen gabona a földön,<br>s hullámozzék a hegyek tetején,<br>mint a Libanon, olyan legyen termése;<br>A város népe virágozzék mint a rét füve."
+            },
+            {
+                "hely": {
+                    "gepi": 12107201700,
+                    "szep": "Zsolt 72,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott legyen neve mindörökre,<br>maradjon meg neve, amíg a nap ragyog;<br>Benne nyerjen áldást a föld minden nemzetsége,<br>dicsérje őt minden nemzet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107201800,
+                    "szep": "Zsolt 72,18"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Himnikus dicsőítés; nem csak a 72. zsoltárt, hanem az egész második könyvet lezárja."
+                    }
+                ],
+                "szoveg": "Áldott legyen az Úr Isten, Izrael Istene,<br>egyedül ő művel csodákat."
+            },
+            {
+                "hely": {
+                    "gepi": 12107201900,
+                    "szep": "Zsolt 72,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott legyen az ő fölséges neve örökre,<br>teljék be fölségével az egész világ! Ámen! Ámen!"
+            }
+        ]
+    }
+}

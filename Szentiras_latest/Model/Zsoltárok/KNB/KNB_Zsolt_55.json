@@ -1,0 +1,242 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 55"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105500000,
+                    "szep": "Zsolt 55,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni panaszdal, amely feltehetően több önálló ének összefoglalásából született. Legalább két rész egészen világosan felismerhető: 2-18. és 19-24. versek. A versek eredeti sorrendje bizonytalan."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Lantra. Maszkíl Dávidtól.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12105500100,
+                    "szep": "Zsolt 55,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgasd meg, Isten, könyörgésemet,<br>ne rejtőzz el esdeklésem elől;"
+            },
+            {
+                "hely": {
+                    "gepi": 12105500200,
+                    "szep": "Zsolt 55,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Figyelj rám és hallgass meg engem.<br>Elcsüggedtem küzdelmemben, meggyötört"
+            },
+            {
+                "hely": {
+                    "gepi": 12105500300,
+                    "szep": "Zsolt 55,3"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az imádkozó szorult helyzetben, veszélyben van, barátai elhagyták, ellenségei fenyegetően körülvették. Szeretne elrepülni a pusztába, hogy biztonságban lehessen ezektől az emberektől. A hazája ellenséggé vált, mert anarchia, gyűlölet és törvénytelenség uralkodik."
+                    }
+                ],
+                "szoveg": "az ellenség kiáltozása,<br>a bűnösök szorongatása.<br>Hiszen veszedelmet zúdítanak rám,<br>haragjukban ellenségeskednek velem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105500400,
+                    "szep": "Zsolt 55,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szívem remeg bennem,<br>halálos félelem szállt meg engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105500500,
+                    "szep": "Zsolt 55,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elfogott a reszketés és a félelem,<br>és sötétség borított el engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105500600,
+                    "szep": "Zsolt 55,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így szóltam: »Bár szárnyam volna, mint a galambnak,<br>hogy elszállhatnék s megpihenhetnék!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105500700,
+                    "szep": "Zsolt 55,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony messzire menekülnék,<br>s a pusztában ütném fel lakóhelyemet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105500800,
+                    "szep": "Zsolt 55,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ott várnám azt, aki megszabadít<br>a szélvésztől és a vihartól.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12105500900,
+                    "szep": "Zsolt 55,9"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "»Zavard össze nyelvüket« (utalás a Ter 11,6-9-re): az ellenség ne tudjon többé szót érteni egymással.- A »város«: Jeruzsálem."
+                    }
+                ],
+                "szoveg": "Sújts le, Uram! Zavard össze nyelvüket,<br>mert gonoszságot és viszályt<br>látok a városban."
+            },
+            {
+                "hely": {
+                    "gepi": 12105501000,
+                    "szep": "Zsolt 55,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Éjjel-nappal körüljárnak falain,"
+            },
+            {
+                "hely": {
+                    "gepi": 12105501100,
+                    "szep": "Zsolt 55,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Benne pedig jogtalanság, nyomorúság és álnokság,<br>és utcáin nem szűnik meg a csalás és a rászedés."
+            },
+            {
+                "hely": {
+                    "gepi": 12105501200,
+                    "szep": "Zsolt 55,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ha ellenségem szórna rám átkokat,<br>azt elviselném könnyedén;<br>És ha gyűlölőm sértegetne,<br>előle talán elrejtőznék."
+            },
+            {
+                "hely": {
+                    "gepi": 12105501300,
+                    "szep": "Zsolt 55,13"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. Mt 26,21-24: az őskeresztény közösség ezt Júdásra való célzásnak vette."
+                    }
+                ],
+                "szoveg": "Hanem te teszed, aki velem egyet akartál,<br>jó ismerősöm és bizalmas barátom voltál,"
+            },
+            {
+                "hely": {
+                    "gepi": 12105501400,
+                    "szep": "Zsolt 55,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "aki velem együtt etted az édes étkeket:<br>akivel együtt jártunk az Isten házába."
+            },
+            {
+                "hely": {
+                    "gepi": 12105501500,
+                    "szep": "Zsolt 55,15"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Kóré és társai zuhantak elevenen az alvilágba, vö. Szám 16,33."
+                    }
+                ],
+                "szoveg": "Érje el az ilyeneket a halál,<br>elevenen szálljanak az alvilágba,<br>mert gonoszság lakik hajlékukban és szívükben."
+            },
+            {
+                "hely": {
+                    "gepi": 12105501600,
+                    "szep": "Zsolt 55,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én azonban Istenhez kiáltok,<br>s az Úr megszabadít engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105501700,
+                    "szep": "Zsolt 55,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Este, reggel, délben<br>panaszkodom, sóhajtok,<br>s ő meghallja szavamat."
+            },
+            {
+                "hely": {
+                    "gepi": 12105501800,
+                    "szep": "Zsolt 55,18"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A héber szöveg megromlott."
+                    }
+                ],
+                "szoveg": "Békességben megszabadítja lelkemet azoktól,<br>akik rámtámadnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12105501900,
+                    "szep": "Zsolt 55,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten, aki öröktől fogva létezik,<br>meghallgat és megalázza őket,<br>mert az ilyenek meg nem változnak,<br>nem félik Istent."
+            },
+            {
+                "hely": {
+                    "gepi": 12105502000,
+                    "szep": "Zsolt 55,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Társaira emelte kezét,<br>szövetségét meggyalázta."
+            },
+            {
+                "hely": {
+                    "gepi": 12105502100,
+                    "szep": "Zsolt 55,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ajkai a vajnál lágyabbak,<br>de szíve háborúsággal teli.<br>Szavai simábbak az olajnál,<br>ugyanakkor azonban kivont kardok."
+            },
+            {
+                "hely": {
+                    "gepi": 12105502200,
+                    "szep": "Zsolt 55,22"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. 1 Pét 5,7."
+                    }
+                ],
+                "szoveg": "Vesd az Úrra gondodat,<br>s ő majd gondoskodik rólad;<br>Nem engedi soha, hogy ingadozzék az igaz."
+            },
+            {
+                "hely": {
+                    "gepi": 12105502300,
+                    "szep": "Zsolt 55,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten, te letaszítod őket<br>a pusztulás vermébe.<br>A vérengző és álnok emberek<br>életük felét sem érik el;<br>Ezért bízom én, Uram, tebenned!"
+            }
+        ]
+    }
+}

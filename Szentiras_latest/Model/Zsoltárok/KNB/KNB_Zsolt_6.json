@@ -1,0 +1,113 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 6"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100600000,
+                    "szep": "Zsolt 6,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ez az első a hét, ún. bűnbánati zsoltár közül."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Hárfára. Dávid zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12100600100,
+                    "szep": "Zsolt 6,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A betegség és a büntetés közti ok- és okozati összefüggés gyakran tükröződik a Szentírásban. (vö. Óz 6-7.fej.; Iz 38,16-17; Sír 38,15; Jn 9,2-3). A betegséget nemcsak orvosi értelemben, hanem általában, mint az erőtlenség, a kiszolgáltatottság állapotát érti."
+                    }
+                ],
+                "szoveg": "Uram, ne feddj meg bosszúságodban,<br>és ne fenyíts meg engem haragodban."
+            },
+            {
+                "hely": {
+                    "gepi": 12100600200,
+                    "szep": "Zsolt 6,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörülj rajtam, Uram, mert erőtlen vagyok,<br>gyógyíts meg, Uram, mert csontjaim remegnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12100600300,
+                    "szep": "Zsolt 6,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkem teljesen összezavarodott,<br>Uram, meddig késlekedsz még?"
+            },
+            {
+                "hely": {
+                    "gepi": 12100600400,
+                    "szep": "Zsolt 6,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fordulj felém, Uram és ments meg engem,<br>szabadíts meg irgalmadban engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100600500,
+                    "szep": "Zsolt 6,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hisz a halál honában senki sem emlékezik meg rólad,<br>s az alvilágban ki dicsér téged?"
+            },
+            {
+                "hely": {
+                    "gepi": 12100600600,
+                    "szep": "Zsolt 6,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kimerültem a sóhajtozásban,<br>éjjelenként megfürösztöm ágyamat,<br>könnyeimmel öntözöm nyugvóhelyemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12100600700,
+                    "szep": "Zsolt 6,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szememet a bánat homályossá tette,<br>aggá lettem sok ellenségem miatt."
+            },
+            {
+                "hely": {
+                    "gepi": 12100600800,
+                    "szep": "Zsolt 6,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "El tőlem mind, ti gonosztevők,<br>mert az Úr meghallgatta sírásom szavát!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100600900,
+                    "szep": "Zsolt 6,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr meghallgatta könyörgésemet,<br>az Úr figyelembe vette imádságomat."
+            },
+            {
+                "hely": {
+                    "gepi": 12100601000,
+                    "szep": "Zsolt 6,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Valljon szégyent és zavarodjon össze<br>minden ellenségem,<br>távozzon mind és valljon szégyent."
+            }
+        ]
+    }
+}

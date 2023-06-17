@@ -1,0 +1,97 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 101"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12110100000,
+                    "szep": "Zsolt 101,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zsoltár formája: egy (valóságos vagy eszményi) király vallomása, aki elkötelezte magát Istennek. A királyok korszakának késői szakaszában keletkezett. A kereszténységben az egyházért és az államért felelősséget viselő személyek könyörgése."
+                    }
+                ],
+                "szoveg": "<em>Dávid zsoltára.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12110100100,
+                    "szep": "Zsolt 101,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zsoltár formája: egy (valóságos vagy eszményi) király vallomása, aki elkötelezte magát Istennek. A királyok korszakának késői szakaszában keletkezett. A kereszténységben az egyházért és az államért felelősséget viselő személyek könyörgése."
+                    }
+                ],
+                "szoveg": "Kegyelemről s igazságról énekelek,<br>neked zengek zsoltárt, Uram."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100200,
+                    "szep": "Zsolt 101,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vigyázok, hogy utam szeplőtelen legyen,<br>mikor látogatsz meg engem?<br>Ártatlan szívvel járok<br>házam belsejében."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100300,
+                    "szep": "Zsolt 101,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szemem elé nem állítok<br>igazságtalan dolgot.<br>A törvényszegőt gyűlölöm,<br>nincs köze hozzám."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100400,
+                    "szep": "Zsolt 101,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gonosz szív távol legyen tőlem,<br>az álnokságot nem ismerem."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100500,
+                    "szep": "Zsolt 101,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki titokban rágalmazza felebarátját,<br>azt elnémítom;<br>akinek szeme kevély és szíve felfuvalkodott,<br>azt nem szenvedhetem."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100600,
+                    "szep": "Zsolt 101,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szemem felkutatja az igazakat az országban,<br>hogy nálam lakjanak;<br>aki szeplőtelen úton jár,<br>csak az szolgálhat nekem."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100700,
+                    "szep": "Zsolt 101,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem lakhat házam belsejében,<br>aki kevélyen cselekszik;<br>aki hazugságot beszél,<br>nem állhat meg szemem előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100800,
+                    "szep": "Zsolt 101,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Reggelenként kiirtom<br>az ország minden bűnösét,<br>hogy kigyomláljak az Úr városából<br>minden gonosztevőt."
+            }
+        ]
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 84"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108400000,
+                    "szep": "Zsolt 84,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: „A szőlőtaposók” kezdetű ének dallamára. Kórah fiainak zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12108400100,
+                    "szep": "Zsolt 84,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mily kedvesek a te hajlékaid, ó, Seregek URa!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108400200,
+                    "szep": "Zsolt 84,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sóvárog, sőt eleped a lelkem az ÚR udvarai után. Testem és lelkem ujjongva kiált az élő Istenhez."
+            },
+            {
+                "hely": {
+                    "gepi": 12108400300,
+                    "szep": "Zsolt 84,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Még a veréb is talál házat, és a fecske is fészket, ahova fiókáit helyezi oltáraidnál, Seregek URa, királyom és Istenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108400400,
+                    "szep": "Zsolt 84,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldogok, akik házadban laknak, szüntelenül dicsérhetnek téged! (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12108400500,
+                    "szep": "Zsolt 84,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog az az ember, akinek te vagy ereje, aki a te utaidra gondol."
+            },
+            {
+                "hely": {
+                    "gepi": 12108400600,
+                    "szep": "Zsolt 84,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha a Siralom völgyén mennek is át, források völgyévé teszik azt, az őszi eső is elárasztja áldásával."
+            },
+            {
+                "hely": {
+                    "gepi": 12108400700,
+                    "szep": "Zsolt 84,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Újult erővel haladnak, és megjelennek Istennél a Sionon."
+            },
+            {
+                "hely": {
+                    "gepi": 12108400800,
+                    "szep": "Zsolt 84,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, Seregek Istene, hallgasd meg imádságomat! Figyelj rám, Jákób Istene! (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12108400900,
+                    "szep": "Zsolt 84,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenünk, pajzsunk, nézz ránk, tekints fölkented személyére!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108401000,
+                    "szep": "Zsolt 84,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony, jobb egy nap a te udvaraidban, mint máshol ezer. Jobb az Isten háza küszöbén állni, mint a bűnösök sátraiban lakni."
+            },
+            {
+                "hely": {
+                    "gepi": 12108401100,
+                    "szep": "Zsolt 84,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nap és pajzs az ÚR, kegyelmet és dicsőséget ad az Isten. Nem vonja meg javait az ÚR azoktól, akik feddhetetlenül élnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12108401200,
+                    "szep": "Zsolt 84,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Seregek URa, boldog az az ember, aki benned bízik!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 128"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112800000,
+                    "szep": "Zsolt 128,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Bölcsességi ének a fogság utáni időkből. Hasonló a témája a Zsolt 127-nek is. Isten áldása nélkül semmi sem sikerül az embernek, sem magának, sem a családjának. Ha Istennel és Isten színe előtt él, minden sikerül. Válaszos ének is lehetett."
+                    },
+                    {
+                        "position": null,
+                        "text": "Az előénekes megnevezi a témát: a hívők boldogsága."
+                    }
+                ],
+                "szoveg": "<em>Zarándok-ének.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12112800100,
+                    "szep": "Zsolt 128,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Bölcsességi ének a fogság utáni időkből. Hasonló a témája a Zsolt 127-nek is. Isten áldása nélkül semmi sem sikerül az embernek, sem magának, sem a családjának. Ha Istennel és Isten színe előtt él, minden sikerül. Válaszos ének is lehetett."
+                    },
+                    {
+                        "position": null,
+                        "text": "Az előénekes megnevezi a témát: a hívők boldogsága."
+                    }
+                ],
+                "szoveg": "Mind boldog az, aki féli az Urat,<br>s az ő útjain jár!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112800200,
+                    "szep": "Zsolt 128,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A kórus válasza elmondja, hogy hogyan valósul meg Isten áldása a családban."
+                    }
+                ],
+                "szoveg": "Élvezed akkor kezed munkáját,<br>boldog vagy, és jó dolgod lesz."
+            },
+            {
+                "hely": {
+                    "gepi": 12112800300,
+                    "szep": "Zsolt 128,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Feleséged olyan lesz, mint a bőven termő szőlőtő<br>házad oldalán,<br>fiaid, mint az olajfacsemeték<br>asztalod körül."
+            },
+            {
+                "hely": {
+                    "gepi": 12112800400,
+                    "szep": "Zsolt 128,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Íme, ilyen áldás éri azt az embert,<br>aki féli az Urat."
+            },
+            {
+                "hely": {
+                    "gepi": 12112800500,
+                    "szep": "Zsolt 128,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjon meg téged Sionról az Úr,<br>hogy lásd Jeruzsálem boldogságát<br>életed minden napján,"
+            },
+            {
+                "hely": {
+                    "gepi": 12112800600,
+                    "szep": "Zsolt 128,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "és lásd fiaidnak fiait.<br>Békesség legyen Izraelen!"
+            }
+        ]
+    }
+}

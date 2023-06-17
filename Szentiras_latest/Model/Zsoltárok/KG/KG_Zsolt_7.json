@@ -1,0 +1,159 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 7"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100700000,
+                    "szep": "Zsolt 7,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid siggajonja, a melyet az Úrhoz énekelt a Benjáminita Kús beszéde miatt."
+            },
+            {
+                "hely": {
+                    "gepi": 12100700100,
+                    "szep": "Zsolt 7,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én Uram Istenem, benned bízom; oltalmazz meg engem minden üldözőmtől, és szabadíts meg engem,"
+            },
+            {
+                "hely": {
+                    "gepi": 12100700200,
+                    "szep": "Zsolt 7,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy szét ne tépje, mint az oroszlán az én lelkemet, szét ne szaggassa, ha nincsen szabadító."
+            },
+            {
+                "hely": {
+                    "gepi": 12100700300,
+                    "szep": "Zsolt 7,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én Uram Istenem, ha cselekedtem ezt, ha hamisság van az én kezeimben."
+            },
+            {
+                "hely": {
+                    "gepi": 12100700400,
+                    "szep": "Zsolt 7,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha gonoszszal fizettem jó emberemnek, és háborgattam ok nélkül való ellenségemet:"
+            },
+            {
+                "hely": {
+                    "gepi": 12100700500,
+                    "szep": "Zsolt 7,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor ellenség üldözze lelkemet s érje el és tapodja földre az én életemet, és sujtsa porba az én dicsőségemet. Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12100700600,
+                    "szep": "Zsolt 7,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kelj fel, Uram, haragodban, emelkedjél fel ellenségeim dühe ellen; serkenj fel mellettem, te, a ki parancsoltál ítéletet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100700700,
+                    "szep": "Zsolt 7,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "És népek gyülekezete vegyen téged körül, és felettök térj vissza a magasságba."
+            },
+            {
+                "hely": {
+                    "gepi": 12100700800,
+                    "szep": "Zsolt 7,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr ítéli meg a népeket. Bírálj meg engem Uram, az én igazságom és ártatlanságom szerint!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100700900,
+                    "szep": "Zsolt 7,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szünjék meg, kérlek, a gonoszok rosszasága és erősítsd meg az igazat; mert az igaz Isten vizsgálja meg a szíveket és veséket."
+            },
+            {
+                "hely": {
+                    "gepi": 12100701000,
+                    "szep": "Zsolt 7,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az én paizsom az Istennél van, a ki megszabadítja az igazszívűeket."
+            },
+            {
+                "hely": {
+                    "gepi": 12100701100,
+                    "szep": "Zsolt 7,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten igaz biró; és olyan Isten, a ki mindennap haragszik."
+            },
+            {
+                "hely": {
+                    "gepi": 12100701200,
+                    "szep": "Zsolt 7,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha meg nem tér a gonosz, kardját élesíti, kézívét felvonja és felkészíti azt."
+            },
+            {
+                "hely": {
+                    "gepi": 12100701300,
+                    "szep": "Zsolt 7,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Halálos eszközöket fordít reá, és megtüzesíti nyilait."
+            },
+            {
+                "hely": {
+                    "gepi": 12100701400,
+                    "szep": "Zsolt 7,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ímé, álnoksággal vajúdik a gonosz, hamisságot fogan és hazugságot szül."
+            },
+            {
+                "hely": {
+                    "gepi": 12100701500,
+                    "szep": "Zsolt 7,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gödröt ás és mélyre vájja azt; de beleesik a verembe, a mit csinált."
+            },
+            {
+                "hely": {
+                    "gepi": 12100701600,
+                    "szep": "Zsolt 7,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Forduljon vissza fejére az, a mit elkövetett, és szálljon feje tetejére az ő erőszakossága."
+            },
+            {
+                "hely": {
+                    "gepi": 12100701700,
+                    "szep": "Zsolt 7,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérem az Urat az ő igazsága szerint, és éneklek a felséges Úr nevének."
+            }
+        ]
+    }
+}

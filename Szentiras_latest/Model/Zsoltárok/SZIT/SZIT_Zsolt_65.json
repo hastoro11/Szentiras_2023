@@ -1,0 +1,127 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 65"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106500000,
+                    "szep": "Zsolt 65,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek – Dávid zsoltára, ének.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12106500100,
+                    "szep": "Zsolt 65,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Téged illet a dicsőítés Sionban, Istenem, neked tesznek fogadalmakat."
+            },
+            {
+                "hely": {
+                    "gepi": 12106500200,
+                    "szep": "Zsolt 65,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te meghallgatod a kéréseket,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106500300,
+                    "szep": "Zsolt 65,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "ezért bűnével terhelten hozzád siet minden ember. Vétkeink ránk nehezednek, de te megbocsátod őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12106500400,
+                    "szep": "Zsolt 65,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog, akit kiválasztasz és fölemelsz, hogy csarnokaidban lakjék. Eltelünk házad javaival, templomodnak szentségével."
+            },
+            {
+                "hely": {
+                    "gepi": 12106500500,
+                    "szep": "Zsolt 65,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igazságosságodban meghallgatsz minket, Istenünk, segítőnk, s megrendítő, fönséges jeleket adsz. Te vagy a föld határainak reménye, s reménysége a távoli partoknak."
+            },
+            {
+                "hely": {
+                    "gepi": 12106500600,
+                    "szep": "Zsolt 65,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te, aki erőddel megszilárdítod a hegyeket, te, aki hatalommal övezed magad."
+            },
+            {
+                "hely": {
+                    "gepi": 12106500700,
+                    "szep": "Zsolt 65,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te csendesíted el a tenger morajlását, hullámainak vészjósló zúgását. A népek háborognak;"
+            },
+            {
+                "hely": {
+                    "gepi": 12106500800,
+                    "szep": "Zsolt 65,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "félelem fogja el azokat, akik a föld határain laknak. Jeleid láttán öröm tölti el kelet és nyugat kapuit."
+            },
+            {
+                "hely": {
+                    "gepi": 12106500900,
+                    "szep": "Zsolt 65,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meglátogattad a földet és megitattad, áldásod bőségével elárasztottad. Isten patakja tele van vízzel; jó termést adtál gabonából, s a földet is előkészítetted:"
+            },
+            {
+                "hely": {
+                    "gepi": 12106501000,
+                    "szep": "Zsolt 65,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "barázdáit megöntözted, göröngyeit simára porlasztottad, esővel fellazítottad, és a sarjadó vetést megáldottad."
+            },
+            {
+                "hely": {
+                    "gepi": 12106501100,
+                    "szep": "Zsolt 65,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jóságod koszorújával koronáztad az évet, kocsid nyomában jólét jár és bőség;"
+            },
+            {
+                "hely": {
+                    "gepi": 12106501200,
+                    "szep": "Zsolt 65,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "pezsdülnek a puszta legelői, a dombok vígságba öltöznek;"
+            },
+            {
+                "hely": {
+                    "gepi": 12106501300,
+                    "szep": "Zsolt 65,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "a réteket nyájak lepik el, a völgyekben gabona hullámzik. Minden ujjong és dalol színed előtt!"
+            }
+        ]
+    }
+}

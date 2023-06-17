@@ -1,0 +1,199 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 25"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102500000,
+                    "szep": "Zsolt 25,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávidé."
+            },
+            {
+                "hely": {
+                    "gepi": 12102500100,
+                    "szep": "Zsolt 25,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, hozzád emelkedem lélekben!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102500200,
+                    "szep": "Zsolt 25,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Benned bízom, Istenem, ne szégyenüljek meg, ne nevessenek ki ellenségeim!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102500300,
+                    "szep": "Zsolt 25,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Senki se szégyenüljön meg, aki benned reménykedik, azok szégyenüljenek meg, akik ok nélkül elpártolnak tőled!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102500400,
+                    "szep": "Zsolt 25,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Utaidat, URam, ismertesd meg velem, ösvényeidre taníts meg engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102500500,
+                    "szep": "Zsolt 25,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vezess hűségesen, és taníts engem, mert te vagy szabadító Istenem, mindig benned reménykedem."
+            },
+            {
+                "hely": {
+                    "gepi": 12102500600,
+                    "szep": "Zsolt 25,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gondolj, URam, irgalmadra és kegyelmedre, melyek öröktől fogva vannak."
+            },
+            {
+                "hely": {
+                    "gepi": 12102500700,
+                    "szep": "Zsolt 25,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ifjúkorom vétkeire és bűneimre ne emlékezz! Kegyelmesen gondolj rám, mert te jóságos vagy, URam!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102500800,
+                    "szep": "Zsolt 25,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jó és igaz az ÚR, ezért megmutatja a vétkeseknek a jó utat."
+            },
+            {
+                "hely": {
+                    "gepi": 12102500900,
+                    "szep": "Zsolt 25,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az alázatosakat igazságosan vezeti, és az ő útjára tanítja az alázatosakat."
+            },
+            {
+                "hely": {
+                    "gepi": 12102501000,
+                    "szep": "Zsolt 25,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR minden ösvénye szeretet és hűség azoknak, akik megtartják szövetségét és intelmeit."
+            },
+            {
+                "hely": {
+                    "gepi": 12102501100,
+                    "szep": "Zsolt 25,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "A te nevedért, ó URam, bocsásd meg bűneimet, mert sok van!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102501200,
+                    "szep": "Zsolt 25,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azt az embert, aki féli az URat, oktatja ő, hogy melyik utat válassza."
+            },
+            {
+                "hely": {
+                    "gepi": 12102501300,
+                    "szep": "Zsolt 25,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Élete boldog marad, és utódai öröklik a földet."
+            },
+            {
+                "hely": {
+                    "gepi": 12102501400,
+                    "szep": "Zsolt 25,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Közösségben van az ÚR az őt félőkkel, szövetségére tanítja őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12102501500,
+                    "szep": "Zsolt 25,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szemem állandóan az ÚRra néz, mert ő szabadítja ki lábamat a csapdából."
+            },
+            {
+                "hely": {
+                    "gepi": 12102501600,
+                    "szep": "Zsolt 25,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fordulj felém, és könyörülj rajtam, mert magányos és nyomorult vagyok."
+            },
+            {
+                "hely": {
+                    "gepi": 12102501700,
+                    "szep": "Zsolt 25,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Enyhítsd szívem szorongását, szorult helyzetemből szabadíts ki!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102501800,
+                    "szep": "Zsolt 25,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lásd meg nyomorúságomat és gyötrődésemet, és bocsásd meg minden vétkemet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102501900,
+                    "szep": "Zsolt 25,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nézd, mennyi ellenségem van! Gyűlölnek kegyetlen gyűlölettel."
+            },
+            {
+                "hely": {
+                    "gepi": 12102502000,
+                    "szep": "Zsolt 25,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tartsd meg életemet, ments meg, ne szégyenüljek meg, mert hozzád menekültem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102502100,
+                    "szep": "Zsolt 25,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Feddhetetlen becsület őrizzen engem, mert benned reménykedem."
+            },
+            {
+                "hely": {
+                    "gepi": 12102502200,
+                    "szep": "Zsolt 25,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szabadítsd ki, ó Isten, Izráelt minden nyomorúságából!"
+            }
+        ]
+    }
+}

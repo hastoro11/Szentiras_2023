@@ -1,0 +1,103 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 6"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100600000,
+                    "szep": "Zsolt 6,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek a neginóthra, a seminith szerint; Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12100600100,
+                    "szep": "Zsolt 6,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, ne feddj meg engem haragodban, és ne ostorozz engem búsulásodban."
+            },
+            {
+                "hely": {
+                    "gepi": 12100600200,
+                    "szep": "Zsolt 6,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörülj rajtam Uram, mert ellankadtam: gyógyíts meg engem Uram, mert megháborodtak csontjaim!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100600300,
+                    "szep": "Zsolt 6,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkem is igen megháborodott, és te, oh Uram, míglen?"
+            },
+            {
+                "hely": {
+                    "gepi": 12100600400,
+                    "szep": "Zsolt 6,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Térj vissza Uram, mentsd ki lelkemet, segíts meg engem kegyelmedért;"
+            },
+            {
+                "hely": {
+                    "gepi": 12100600500,
+                    "szep": "Zsolt 6,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nincs emlékezés rólad a halálban, a seolban kicsoda dicsőít téged?"
+            },
+            {
+                "hely": {
+                    "gepi": 12100600600,
+                    "szep": "Zsolt 6,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elfáradtam sóhajtozásomban, egész éjjel áztattam ágyamat, könyhullatással öntöztem nyoszolyámat."
+            },
+            {
+                "hely": {
+                    "gepi": 12100600700,
+                    "szep": "Zsolt 6,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szemem a bánattól elbágyadt, megvénhedett minden szorongatóm miatt."
+            },
+            {
+                "hely": {
+                    "gepi": 12100600800,
+                    "szep": "Zsolt 6,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Távozzatok tőlem mind, ti bűnt cselekedők, mert meghallgatja az Úr az én siralmam szavát."
+            },
+            {
+                "hely": {
+                    "gepi": 12100600900,
+                    "szep": "Zsolt 6,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meghallgatja az Úr az én könyörgésemet, elfogadja az Úr az én imádságomat."
+            },
+            {
+                "hely": {
+                    "gepi": 12100601000,
+                    "szep": "Zsolt 6,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megszégyenül majd és igen megháborodik minden ellenségem; meghátrálnak és megszégyenülnek hirtelen."
+            }
+        ]
+    }
+}

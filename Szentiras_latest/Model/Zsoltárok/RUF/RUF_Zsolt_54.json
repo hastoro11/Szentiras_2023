@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 54"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105400000,
+                    "szep": "Zsolt 54,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Húros hangszerre. Dávid tanítókölteménye, abból az időből, amikor a zífiek Saulhoz mentek, és ezt mondták neki: Nem tudod, hogy Dávid nálunk rejtőzködik?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105400100,
+                    "szep": "Zsolt 54,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, segíts meg neveddel, szolgáltass nekem igazságot hatalmaddal!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105400200,
+                    "szep": "Zsolt 54,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, hallgasd meg imádságomat, figyelj beszédemre!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105400300,
+                    "szep": "Zsolt 54,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert idegenek támadtak rám, erőszakos emberek törtek életemre, akik nem törődnek Istennel. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12105400400,
+                    "szep": "Zsolt 54,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "De Isten megsegít engem, az Úr megtartja életemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12105400500,
+                    "szep": "Zsolt 54,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szálljon a baj támadóimra, semmisítsd meg őket igazságoddal!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105400600,
+                    "szep": "Zsolt 54,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Készségesen áldozok neked, magasztalom neved, URam, mert jó vagy."
+            },
+            {
+                "hely": {
+                    "gepi": 12105400700,
+                    "szep": "Zsolt 54,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert minden nyomorúságból kimentettél engem, megvetéssel nézek ellenségeimre."
+            }
+        ]
+    }
+}

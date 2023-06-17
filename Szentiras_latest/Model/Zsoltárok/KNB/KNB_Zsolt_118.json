@@ -1,0 +1,266 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 118"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111800100,
+                    "szep": "Zsolt 118,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zsoltár a fogság utáni közösség hálaadó szertartásának a része. Utal a szertartás részleteire (beszéd, válasz, válaszos ima, tanúságtétel), amelyek magát a szöveget is formálták."
+                    },
+                    {
+                        "position": null,
+                        "text": "Válaszos ima. A pap felszólítja a közösséget a hálaadásra, amely válaszol. A három csoport: vö. 115,9-11."
+                    }
+                ],
+                "szoveg": "ALLELUJA!<br>Magasztaljátok az Urat, mert jó,<br>mert irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111800200,
+                    "szep": "Zsolt 118,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mondja hát Izrael, hogy jó,<br>hogy irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111800300,
+                    "szep": "Zsolt 118,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mondja hát Áron háza,<br>hogy irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111800400,
+                    "szep": "Zsolt 118,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mondják hát, akik félik az Urat,<br>hogy irgalma örökkévaló!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111800500,
+                    "szep": "Zsolt 118,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szorongatásomban segítségül hívtam az Urat,<br>s az Úr meghallgatott és tágas térre vezetett."
+            },
+            {
+                "hely": {
+                    "gepi": 12111800600,
+                    "szep": "Zsolt 118,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr velem van, nem félek,<br>ember mit árthatna nekem?"
+            },
+            {
+                "hely": {
+                    "gepi": 12111800700,
+                    "szep": "Zsolt 118,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr az én segítőm,<br>s én lenézhetem ellenségeimet."
+            },
+            {
+                "hely": {
+                    "gepi": 12111800800,
+                    "szep": "Zsolt 118,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jobb az Úrhoz menekülni,<br>mint emberben reménykedni."
+            },
+            {
+                "hely": {
+                    "gepi": 12111800900,
+                    "szep": "Zsolt 118,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jobb az Úrhoz menekülni,<br>mint fejedelmekben reménykedni."
+            },
+            {
+                "hely": {
+                    "gepi": 12111801000,
+                    "szep": "Zsolt 118,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mind körülvettek engem a nemzetek,<br>de én az Úr nevében diadalmaskodtam rajtuk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111801100,
+                    "szep": "Zsolt 118,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Körülvettek, bizony körülvettek engem,<br>de én az Úr nevében diadalmaskodtam rajtuk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111801200,
+                    "szep": "Zsolt 118,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Körülvettek engem, mint a méhek,<br>föllobbantak, mint a tűz a bozótban,<br>de az Úr nevében diadalmaskodtam rajtuk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111801300,
+                    "szep": "Zsolt 118,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meglöktek, bizony meglöktek, hogy elessem,<br>de az Úr megsegített engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111801400,
+                    "szep": "Zsolt 118,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr az én erőm és dicsőségem,<br>ő lett az én szabadítóm."
+            },
+            {
+                "hely": {
+                    "gepi": 12111801500,
+                    "szep": "Zsolt 118,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ujjongás és diadal szava<br>hangzik az igazak sátraiban:<br>»Az Úr jobbja győzelmet szerzett,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111801600,
+                    "szep": "Zsolt 118,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "az Úr jobbja fölmagasztalt engem,<br>az Úr jobbja győzelmet szerzett!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12111801700,
+                    "szep": "Zsolt 118,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem halok meg, hanem élek,<br>és hirdetem az Úr tetteit."
+            },
+            {
+                "hely": {
+                    "gepi": 12111801800,
+                    "szep": "Zsolt 118,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr nagyon megfenyített engem,<br>de nem engedett át a halálnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12111801900,
+                    "szep": "Zsolt 118,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyissátok meg előttem az igazság kapuit,<br>hadd lépjek be rajtuk, hogy dicsérjem az Urat."
+            },
+            {
+                "hely": {
+                    "gepi": 12111802000,
+                    "szep": "Zsolt 118,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ez az Úr kapuja,<br>az igazak lépnek be rajta."
+            },
+            {
+                "hely": {
+                    "gepi": 12111802100,
+                    "szep": "Zsolt 118,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hálát adok neked, hogy meghallgattál engem,<br>és szabadítóm lettél."
+            },
+            {
+                "hely": {
+                    "gepi": 12111802200,
+                    "szep": "Zsolt 118,22"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Leírás a kívülállók szemszögéből, akik csodálkoznak azon, hogy Isten egy embert, aki jelentéktelennek látszott, sarokkővé (vagy a boltív zárókövévé) tett. Valaki, akit elvetettek, hordozza a többieket, valaki, aki a halálba hanyatlott, él (vö. Mt 21,42; Csel 4,11). Mások a történtekben Isten működését ismerik fel."
+                    }
+                ],
+                "szoveg": "A kő, amelyet az építők elvetettek,<br>szegletkővé lett."
+            },
+            {
+                "hely": {
+                    "gepi": 12111802300,
+                    "szep": "Zsolt 118,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr műve ez,<br>csodálatos a mi szemünkben."
+            },
+            {
+                "hely": {
+                    "gepi": 12111802400,
+                    "szep": "Zsolt 118,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezt a napot az Úr adta,<br>ujjongjunk és vigadjunk rajta!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111802500,
+                    "szep": "Zsolt 118,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyújts, ó Uram, segítséget,<br>adj, ó Uram, jó sikert!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111802600,
+                    "szep": "Zsolt 118,26"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A pap áldó szavai. Máté kétszer is idézi (jeruzsálemi bevonulás, 21,9; 23,39). Később az Eucharisztiára összegyűlt közösség is így köszönti az érkező Urat (Benedictus)."
+                    }
+                ],
+                "szoveg": "Áldott, aki az Úr nevében jön!<br>Áldunk az Úr házából titeket."
+            },
+            {
+                "hely": {
+                    "gepi": 12111802700,
+                    "szep": "Zsolt 118,27"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr Isten világosított meg minket.<br>Álljatok sort az ünnepi lombokkal,<br>egészen az oltár szarváig."
+            },
+            {
+                "hely": {
+                    "gepi": 12111802800,
+                    "szep": "Zsolt 118,28"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem vagy te, hálát adok neked,<br>Istenem vagy te, magasztallak téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12111802900,
+                    "szep": "Zsolt 118,29"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjátok az Urat, mert jó,<br>mert irgalma örökkévaló."
+            }
+        ]
+    }
+}

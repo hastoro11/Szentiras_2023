@@ -1,0 +1,243 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 44"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104400000,
+                    "szep": "Zsolt 44,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Könyörgés szorongattatásban, talán a fogság utáni idők korai korszakából. Két részből áll: egy himnuszból (2-9) és egy könyörgőénekből (10-26)."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Maszkíl, Kóré fiaitól.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12104400100,
+                    "szep": "Zsolt 44,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A közösség megemlékezik Isten nagy tetteiről a honfoglalás idején (vö. Józs). Izrael nem a maga akaratából foglalta el ezt a területet, Isten bízta rá ezt a földet."
+                    }
+                ],
+                "szoveg": "Isten, tulajdon fülünkkel hallottuk,<br>atyáink beszélték el nekünk,<br>mit műveltél napjaikban,<br>a hajdankor napjaiban."
+            },
+            {
+                "hely": {
+                    "gepi": 12104400200,
+                    "szep": "Zsolt 44,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nemzeteket szórt szét kezed, őket pedig elültetted,<br>népeket sanyargattál meg, őket pedig kiterjesztetted."
+            },
+            {
+                "hely": {
+                    "gepi": 12104400300,
+                    "szep": "Zsolt 44,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem kardjukkal szereztek országot,<br>s nem karjuk juttatta diadalra őket,<br>hanem a te jobbod, a te karod,<br>s arcod ragyogása, mert bennük lelted kedvedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12104400400,
+                    "szep": "Zsolt 44,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Javított szöveg."
+                    }
+                ],
+                "szoveg": "Te vagy az én királyom és Istenem,<br>te küldesz segítséget Jákobnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12104400500,
+                    "szep": "Zsolt 44,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Általad ökleljük ellenségeinket,<br>neveddel tiporjuk le támadóinkat."
+            },
+            {
+                "hely": {
+                    "gepi": 12104400600,
+                    "szep": "Zsolt 44,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nem az íjamban bízom,<br>nem a kardom hoz szabadulást nekem."
+            },
+            {
+                "hely": {
+                    "gepi": 12104400700,
+                    "szep": "Zsolt 44,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sanyargatóinktól te mentesz meg minket,<br>és te szégyeníted meg gyűlölőinket."
+            },
+            {
+                "hely": {
+                    "gepi": 12104400800,
+                    "szep": "Zsolt 44,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mindennap Istenben dicsekszünk,<br>és a te nevedet magasztaljuk mindörökké."
+            },
+            {
+                "hely": {
+                    "gepi": 12104400900,
+                    "szep": "Zsolt 44,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "De most elvetettél és szégyenben hagytál minket,<br>nem vonultál ki seregeinkkel, ó Isten."
+            },
+            {
+                "hely": {
+                    "gepi": 12104401000,
+                    "szep": "Zsolt 44,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megfutamítottál ellenségeink előtt,<br>és gyűlölőink fosztogatnak minket."
+            },
+            {
+                "hely": {
+                    "gepi": 12104401100,
+                    "szep": "Zsolt 44,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vágójuhok gyanánt odaadtál minket,<br>szétszórtál a nemzetek között."
+            },
+            {
+                "hely": {
+                    "gepi": 12104401200,
+                    "szep": "Zsolt 44,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Népedet ár nélkül eladtad,<br>nem lettél gazdagabb a cserével."
+            },
+            {
+                "hely": {
+                    "gepi": 12104401300,
+                    "szep": "Zsolt 44,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kiszolgáltattál szomszédaink gyalázásának,<br>azok nevetésének és gúnyolódásának, akik körülöttünk laknak."
+            },
+            {
+                "hely": {
+                    "gepi": 12104401400,
+                    "szep": "Zsolt 44,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Példabeszédül vetettél minket a nemzeteknek,<br>fejüket csóválgatják fölöttünk a népek."
+            },
+            {
+                "hely": {
+                    "gepi": 12104401500,
+                    "szep": "Zsolt 44,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egész nap szemem előtt van szégyenem,<br>s arcom gyalázata elborít engem,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104401600,
+                    "szep": "Zsolt 44,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy gúnyolódót és szidalmazót kell hallanom,<br>ellenséget és üldözőt kell látnom."
+            },
+            {
+                "hely": {
+                    "gepi": 12104401700,
+                    "szep": "Zsolt 44,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mindez ránk szakadt, pedig mi nem feledtünk el téged,<br>nem szegtük meg szövetségedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12104401800,
+                    "szep": "Zsolt 44,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szívünk nem fordult el tőled,<br>és nem tértek el ösvényeink a te utaidtól,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104401900,
+                    "szep": "Zsolt 44,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "noha kiűztél minket a sakálok helyére,<br>és beborítottál minket a halál árnyékával."
+            },
+            {
+                "hely": {
+                    "gepi": 12104402000,
+                    "szep": "Zsolt 44,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha Istenünk nevét elfeledtük volna,<br>ha más istenek felé tártuk volna kezünket,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104402100,
+                    "szep": "Zsolt 44,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "nemde számonkérné azt Isten?<br>Hiszen ő ismeri a szív rejtekeit."
+            },
+            {
+                "hely": {
+                    "gepi": 12104402200,
+                    "szep": "Zsolt 44,22"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. Róm 8,36"
+                    }
+                ],
+                "szoveg": "Ámde minket mindenkor teérted gyilkolnak,<br>és levágásra szánt juhoknak tartanak."
+            },
+            {
+                "hely": {
+                    "gepi": 12104402300,
+                    "szep": "Zsolt 44,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ébredj fel, miért alszol, Uram?<br>Ébredj fel, ne taszíts el végleg!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104402400,
+                    "szep": "Zsolt 44,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Miért fordítod el arcodat,<br>s felejted el ínségünket és szorongatásunkat?"
+            },
+            {
+                "hely": {
+                    "gepi": 12104402500,
+                    "szep": "Zsolt 44,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hisz lelkünk a porba hanyatlott,<br>testünk a földhöz tapadt.<br>Kelj, Uram, segítségünkre,<br>és irgalmadban válts meg minket!"
+            }
+        ]
+    }
+}

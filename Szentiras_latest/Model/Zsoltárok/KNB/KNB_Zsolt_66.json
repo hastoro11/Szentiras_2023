@@ -1,0 +1,203 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 66"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106600000,
+                    "szep": "Zsolt 66,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Hálaének fogság utáni időkből. Három részből áll: a nép dicsőíti Istent az Egyiptomból való szabadulás csodájáért, amelynek fennmaradását köszönheti (1-7); ezt követi egy ének, amelyben a közösség a pillanatnyi veszélyből való szabadulást köszöni meg (8-12); végül a zsoltáros hálaimája (13-20). Lehetséges, hogy a zsoltár három régi ének egyesítéséből keletkezett."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Ének. Zsoltár.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12106600100,
+                    "szep": "Zsolt 66,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Hálaének fogság utáni időkből. Három részből áll: a nép dicsőíti Istent az Egyiptomból való szabadulás csodájáért, amelynek fennmaradását köszönheti (1-7); ezt követi egy ének, amelyben a közösség a pillanatnyi veszélyből való szabadulást köszöni meg (8-12); végül a zsoltáros hálaimája (13-20). Lehetséges, hogy a zsoltár három régi ének egyesítéséből keletkezett."
+                    }
+                ],
+                "szoveg": "Ujjongjatok az Istennek, minden földek,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106600200,
+                    "szep": "Zsolt 66,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "mondjatok nevének éneket,<br>dicsőségét dicsérve zengjétek."
+            },
+            {
+                "hely": {
+                    "gepi": 12106600300,
+                    "szep": "Zsolt 66,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mondjátok Istennek: »Milyen félelmetesek műveid,<br>hatalmad nagysága miatt ellenségeid hízelegnek neked."
+            },
+            {
+                "hely": {
+                    "gepi": 12106600400,
+                    "szep": "Zsolt 66,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az egész föld imádjon és dicsérjen téged,<br>zengjen nevednek dicséretet.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12106600500,
+                    "szep": "Zsolt 66,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jöjjetek és lássátok az Úr tetteit,<br>félelmetes, amit végbevitt az emberek fiai közt."
+            },
+            {
+                "hely": {
+                    "gepi": 12106600600,
+                    "szep": "Zsolt 66,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. Kiv 14,21-22; Józs 3,16-17."
+                    }
+                ],
+                "szoveg": "Szárazfölddé változtatta a tengert,<br>gyalog keltek át a folyóvízen;<br>Örvendeztünk akkor benne."
+            },
+            {
+                "hely": {
+                    "gepi": 12106600700,
+                    "szep": "Zsolt 66,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uralkodik hatalmával örökre,<br>szemmel tartja a nemzeteket,<br>hogy fel ne fuvalkodjanak magukban a lázongók."
+            },
+            {
+                "hely": {
+                    "gepi": 12106600800,
+                    "szep": "Zsolt 66,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjátok Istenünket, ti nemzetek,<br>hallassátok dicséretének szavát;"
+            },
+            {
+                "hely": {
+                    "gepi": 12106600900,
+                    "szep": "Zsolt 66,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő adott életet lelkünknek,<br>és nem hagyta meginogni lábunkat."
+            },
+            {
+                "hely": {
+                    "gepi": 12106601000,
+                    "szep": "Zsolt 66,10"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Nem tudjuk, milyen katasztrófára gondol. Mindenesetre Izrael nem egyszer szenvedett vereséget, és nem egyszer igázta le az ellenség (12). Most azonban visszakapta a szabadságát."
+                    }
+                ],
+                "szoveg": "Mert próbára tettél minket, Isten,<br>megvizsgáltál minket tűzzel, mint ahogy az ezüstöt vizsgálják."
+            },
+            {
+                "hely": {
+                    "gepi": 12106601100,
+                    "szep": "Zsolt 66,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tőrbe is vezettél,<br>nyomorúságot tettél hátunkra."
+            },
+            {
+                "hely": {
+                    "gepi": 12106601200,
+                    "szep": "Zsolt 66,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Engedted, hogy emberek gázoljanak a fejünkön,<br>tűzön és vízen mentünk keresztül,<br>de te kivezettél minket az enyhülésre."
+            },
+            {
+                "hely": {
+                    "gepi": 12106601300,
+                    "szep": "Zsolt 66,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Égő áldozatokkal jövök házadba;<br>Megadom neked, amiket fogadtam,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106601400,
+                    "szep": "Zsolt 66,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "amit megígért ajkam,<br>amit szám fogadott nyomorúságomban."
+            },
+            {
+                "hely": {
+                    "gepi": 12106601500,
+                    "szep": "Zsolt 66,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kövér égőáldozatokat mutatok be neked;<br>Jóillatú áldozatul kosokat<br>mutatok be neked, bikákat és kecskebakokat."
+            },
+            {
+                "hely": {
+                    "gepi": 12106601600,
+                    "szep": "Zsolt 66,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ti mind, akik félitek Istent,<br>jöjjetek, halljátok, elbeszélem,<br>milyen nagy dolgokat cselekedett velem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106601700,
+                    "szep": "Zsolt 66,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Számmal hozzá kiáltoztam,<br>nyelvemmel őt magasztaltam."
+            },
+            {
+                "hely": {
+                    "gepi": 12106601800,
+                    "szep": "Zsolt 66,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha gonoszság lett volna szívemben,<br>az Úr nem hallgatott volna meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12106601900,
+                    "szep": "Zsolt 66,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ám Isten meghallgatott engem,<br>figyelembe vette hangos könyörgésemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12106602000,
+                    "szep": "Zsolt 66,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott az Isten, aki nem vetette el imámat,<br>s nem vonta meg irgalmasságát tőlem."
+            }
+        ]
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 30"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103000000,
+                    "szep": "Zsolt 30,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Zsoltár, templomszentelési ének – Dávidtól.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12103000100,
+                    "szep": "Zsolt 30,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsőítlek, Uram, mivel megmentettél, nem engedted, hogy ellenségeim ujjongjanak."
+            },
+            {
+                "hely": {
+                    "gepi": 12103000200,
+                    "szep": "Zsolt 30,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, Istenem, hozzád kiáltottam, s te meggyógyítottál,"
+            },
+            {
+                "hely": {
+                    "gepi": 12103000300,
+                    "szep": "Zsolt 30,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, lelkemet kihoztad a halál országából, megmentettél attól, hogy a sírba szálljak."
+            },
+            {
+                "hely": {
+                    "gepi": 12103000400,
+                    "szep": "Zsolt 30,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ti, akik szeretitek, dicsőítsétek az Urat, magasztaljátok szent emlékét!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103000500,
+                    "szep": "Zsolt 30,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert haragja csak egy pillanatig tart, jósága azonban az egész életen át. Ha este sírás látogat is meg, reggel visszatér az öröm."
+            },
+            {
+                "hely": {
+                    "gepi": 12103000600,
+                    "szep": "Zsolt 30,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így szóltam magamban bízva: Nem ingok meg soha,"
+            },
+            {
+                "hely": {
+                    "gepi": 12103000700,
+                    "szep": "Zsolt 30,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "mert jóságod, Uram, szilárd hegyre állított. De mikor elrejtetted arcodat, megrendültem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103000800,
+                    "szep": "Zsolt 30,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, akkor hozzád kiáltottam, Istenemhez könyörögtem irgalomért:"
+            },
+            {
+                "hely": {
+                    "gepi": 12103000900,
+                    "szep": "Zsolt 30,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mi haszon származna véremből, hogyha sírba szállnék? Dicsőíthet téged a por, hirdetheti nagy hűségedet?"
+            },
+            {
+                "hely": {
+                    "gepi": 12103001000,
+                    "szep": "Zsolt 30,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgass meg, Uram, és könyörülj rajtam, légy az én segítőm, Uram."
+            },
+            {
+                "hely": {
+                    "gepi": 12103001100,
+                    "szep": "Zsolt 30,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Panaszomat öröménekre változtattad, leoldottad vezeklőruhám és örömmel öveztél körül."
+            },
+            {
+                "hely": {
+                    "gepi": 12103001200,
+                    "szep": "Zsolt 30,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy lelkem énekeljen neked és ne hallgasson soha. Uram, Istenem, mindörökké dicsőítelek!"
+            }
+        ]
+    }
+}

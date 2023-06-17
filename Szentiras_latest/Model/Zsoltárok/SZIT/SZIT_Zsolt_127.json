@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 127"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112700000,
+                    "szep": "Zsolt 127,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Zarándokének – Salamontól.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12112700100,
+                    "szep": "Zsolt 127,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha az Úr nem építi a házat, az építők hiába fáradnak. Hogyha az Úr nem őrzi a várost, az őr hiába őrködik fölötte."
+            },
+            {
+                "hely": {
+                    "gepi": 12112700200,
+                    "szep": "Zsolt 127,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiába keltek hajnalban és fáradoztok késő éjjelig: a kemény fáradság kenyerét eszitek. Ám akiket szeret, ő azokat elhalmozza, jóllehet alszanak."
+            },
+            {
+                "hely": {
+                    "gepi": 12112700300,
+                    "szep": "Zsolt 127,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lám, a gyermekek az Úr ajándékai, a test gyümölcse jutalom."
+            },
+            {
+                "hely": {
+                    "gepi": 12112700400,
+                    "szep": "Zsolt 127,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ahogy a nyíl a harcos kezéből, úgy sorakoznak a gyermekek az ifjú évekből."
+            },
+            {
+                "hely": {
+                    "gepi": 12112700500,
+                    "szep": "Zsolt 127,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog ember, aki velük tölti meg tegzét: nem vall szégyent, ha az ellenséggel vitába száll a kapunál."
+            }
+        ]
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 7"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100700000,
+                    "szep": "Zsolt 7,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni panaszdal a fogság előtti időkből. Végleges formáját későbbi átdolgozás során nyerte el."
+                    }
+                ],
+                "szoveg": "<em>Dávid panasza, amelyet az Úrnak énekelt<br>Kúsinak, Jemini fiának beszéde miatt.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12100700100,
+                    "szep": "Zsolt 7,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Istennél csak az kereshet és találhat oltalmat, aki kész arra, hogy feltétel nélkül rábízza magát. A becsületes ember, aki Isten ítéletét keresi, biztos lehet abban, hogy Isten igazságos lesz hozzá."
+                    }
+                ],
+                "szoveg": "Uram, én Istenem, benned remélek!<br>Ments meg minden üldözőmtől<br>és szabadíts meg engem,"
+            },
+            {
+                "hely": {
+                    "gepi": 12100700200,
+                    "szep": "Zsolt 7,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy mint az oroszlán, ellenségem szét ne tépjen,<br>mert nincsen, aki megmentene!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100700300,
+                    "szep": "Zsolt 7,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, én Istenem, ha elkövettem azt,<br>ha gonoszság tapad kezemhez,"
+            },
+            {
+                "hely": {
+                    "gepi": 12100700400,
+                    "szep": "Zsolt 7,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "ha megfizettem annak, aki bántott,<br>s ha kiraboltam ellenségemet és kisemmiztem,"
+            },
+            {
+                "hely": {
+                    "gepi": 12100700500,
+                    "szep": "Zsolt 7,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "üldözzön az ellenség és hadd érjen utol,<br>életemet tiporja földre,<br>tegye porrá dicsőségemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12100700600,
+                    "szep": "Zsolt 7,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kelj föl, Uram, haragodban,<br>kelj föl ellenségeim bősz dühe ellen,<br>kelj föl, Uram, én Istenem,<br>Tégy ítéletet törvényed szerint!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100700700,
+                    "szep": "Zsolt 7,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gyűljön köréd a népek serege,<br>és foglald el fölöttük magas helyed:"
+            },
+            {
+                "hely": {
+                    "gepi": 12100700800,
+                    "szep": "Zsolt 7,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "az Úr megítéli a népeket!<br>Ítélj meg, Uram, igazságom szerint,<br>s ártatlanságom szerint mondj ítéletet fölöttem."
+            },
+            {
+                "hely": {
+                    "gepi": 12100700900,
+                    "szep": "Zsolt 7,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szűnjék meg az istentelenek gonoszsága,<br>és erősítsd meg az igazat.<br>Igazságos Isten, a szívek és vesék vizsgálója!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100701000,
+                    "szep": "Zsolt 7,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segítségem az Úrtól jön,<br>aki megmenti az igazszívűeket."
+            },
+            {
+                "hely": {
+                    "gepi": 12100701100,
+                    "szep": "Zsolt 7,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten igazságos bíró,<br>erős ő, mindennap fellobban haragja."
+            },
+            {
+                "hely": {
+                    "gepi": 12100701200,
+                    "szep": "Zsolt 7,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nemde ismét kivonta kardját,<br>íját kifeszítette és készen tartja?"
+            },
+            {
+                "hely": {
+                    "gepi": 12100701300,
+                    "szep": "Zsolt 7,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elkészítette halálos fegyverét,<br>nyilait tüzesekké tette."
+            },
+            {
+                "hely": {
+                    "gepi": 12100701400,
+                    "szep": "Zsolt 7,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Íme, ez igaztalanságot vajúdott:<br>fájdalmat fogant, és gonoszságot szült."
+            },
+            {
+                "hely": {
+                    "gepi": 12100701500,
+                    "szep": "Zsolt 7,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vermet nyitott és mélyre kiásta,<br>s beleesett a maga ásta gödörbe."
+            },
+            {
+                "hely": {
+                    "gepi": 12100701600,
+                    "szep": "Zsolt 7,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Saját fejére hullik vissza bűne,<br>és gonoszsága visszaszáll önnön fejére."
+            },
+            {
+                "hely": {
+                    "gepi": 12100701700,
+                    "szep": "Zsolt 7,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztalom az Urat igazságosságáért,<br>s zsoltárral dicsérem a fölséges Úr nevét."
+            }
+        ]
+    }
+}

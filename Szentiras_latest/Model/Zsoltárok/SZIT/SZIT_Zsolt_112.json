@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 112"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111200100,
+                    "szep": "Zsolt 112,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Alleluja!) Boldog ember, aki féli az Urat, akinek öröme telik törvényében."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200200,
+                    "szep": "Zsolt 112,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Törzse hatalmas lesz a földön, áldás van az igazak nemzedékén."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200300,
+                    "szep": "Zsolt 112,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Házát bőség és gazdagság tölti el, igazsága megmarad örökre."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200400,
+                    "szep": "Zsolt 112,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A jóknak világít, mint fény a sötétben, kegyes, igazságos és irgalmas."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200500,
+                    "szep": "Zsolt 112,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jó annak, aki gyakorolja az irgalmat, aki szívesen ad kölcsön, és tetteit az igazsághoz szabja."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200600,
+                    "szep": "Zsolt 112,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem tántorodik meg soha, az igaz örökre emlékezetben marad."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200700,
+                    "szep": "Zsolt 112,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rossz hírtől nem kell félnie, bátorsága szilárd, mert az Úrban remél."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200800,
+                    "szep": "Zsolt 112,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szíve nyugodt, nem ismer félelmet; ellenségei szégyenben maradnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200900,
+                    "szep": "Zsolt 112,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Osztogat a szegénynek és adakozik, igazsága megmarad örökre, ereje dicsőségesen fölemelkedik."
+            },
+            {
+                "hely": {
+                    "gepi": 12111201000,
+                    "szep": "Zsolt 112,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gonosz rettegve látja ezt, fogát csikorgatja és eltűnik, a bűnösök öröme szertefoszlik."
+            }
+        ]
+    }
+}

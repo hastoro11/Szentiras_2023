@@ -1,0 +1,167 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 83"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108300000,
+                    "szep": "Zsolt 83,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ászáf zsoltáréneke."
+            },
+            {
+                "hely": {
+                    "gepi": 12108300100,
+                    "szep": "Zsolt 83,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, ne maradj csendben, ne hallgass, és ne légy tétlen, Istenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108300200,
+                    "szep": "Zsolt 83,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen háborognak ellenségeid, gyűlölőid fenn hordják fejüket."
+            },
+            {
+                "hely": {
+                    "gepi": 12108300300,
+                    "szep": "Zsolt 83,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Néped ellen titkon ármányt szőnek, tanácskoznak védenceid ellen."
+            },
+            {
+                "hely": {
+                    "gepi": 12108300400,
+                    "szep": "Zsolt 83,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jertek - mondják - irtsuk ki e népet, ne is emlékezzenek többé Izráel nevére!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108300500,
+                    "szep": "Zsolt 83,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert egyetértésben tanácskoznak, szövetséget kötnek ellened"
+            },
+            {
+                "hely": {
+                    "gepi": 12108300600,
+                    "szep": "Zsolt 83,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Edóm lakói és az izmáeliek, a móábiak és a hagriak,"
+            },
+            {
+                "hely": {
+                    "gepi": 12108300700,
+                    "szep": "Zsolt 83,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gebál, Ammón és Amálék, Filisztea, Tírusz lakóival."
+            },
+            {
+                "hely": {
+                    "gepi": 12108300800,
+                    "szep": "Zsolt 83,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Asszíria is hozzájuk csatlakozott, támasza lett Lót fiainak. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12108300900,
+                    "szep": "Zsolt 83,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Úgy bánj velük, mint Midjánnal, mint Siserával, mint Jábínnal a Kísón-pataknál,"
+            },
+            {
+                "hely": {
+                    "gepi": 12108301000,
+                    "szep": "Zsolt 83,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "akik megsemmisültek Éndórnál, és a föld trágyájává lettek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108301100,
+                    "szep": "Zsolt 83,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tégy úgy előkelőikkel, mint Órébbel és Zeébbel, minden főemberükkel úgy, mint Zebahhal és Calmunnával,"
+            },
+            {
+                "hely": {
+                    "gepi": 12108301200,
+                    "szep": "Zsolt 83,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "akik ezt mondták: Foglaljuk el Isten birtokát!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108301300,
+                    "szep": "Zsolt 83,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, tedd őket olyanná, mint az ördögszekér, vagy mint a szélhordta polyva!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108301400,
+                    "szep": "Zsolt 83,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ahogyan a tűz fölgyújtja az erdőt, és a láng égeti a hegyeket,"
+            },
+            {
+                "hely": {
+                    "gepi": 12108301500,
+                    "szep": "Zsolt 83,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "úgy üldözd őket viharoddal, úgy rémítsd őket forgószeleddel!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108301600,
+                    "szep": "Zsolt 83,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Borítsd el gyalázattal arcukat, hogy keressék nevedet, URam!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108301700,
+                    "szep": "Zsolt 83,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szégyenüljenek meg, és rémüldözzenek örökké, pironkodjanak, és vesszenek el!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108301800,
+                    "szep": "Zsolt 83,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tudják meg, hogy egyedül te vagy az, akinek ÚR a neve, aki felséges az egész földön!"
+            }
+        ]
+    }
+}

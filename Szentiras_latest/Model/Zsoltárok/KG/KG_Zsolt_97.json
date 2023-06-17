@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 97"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109700100,
+                    "szep": "Zsolt 97,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr uralkodik, örüljön a föld; örvendezzenek a temérdek szigetek."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700200,
+                    "szep": "Zsolt 97,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Felhő és homályosság van körülte; igazság és jogosság az ő székének erőssége."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700300,
+                    "szep": "Zsolt 97,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tűz jár előtte, és köröskörül elégeti az ő szorongatóit."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700400,
+                    "szep": "Zsolt 97,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megvilágosítják az ő villámai a világot; látja és megretteg a föld."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700500,
+                    "szep": "Zsolt 97,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A hegyek, mint a viasz megolvadnak az Úr előtt, az egész földnek Ura előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700600,
+                    "szep": "Zsolt 97,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az egek hirdetik az ő igazságát, és minden nép látja az ő dicsőségét."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700700,
+                    "szep": "Zsolt 97,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megszégyenülnek mind a faragott képek szolgái, a kik bálványokkal dicsekednek; meghajolnak előtte mind az istenek."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700800,
+                    "szep": "Zsolt 97,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallotta és örvendeze Sion, és örülének Júdának leányai a te ítéleteidnek Uram!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109700900,
+                    "szep": "Zsolt 97,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert te felséges vagy Uram az egész földön, és igen felmagasztaltattál minden isten felett!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109701000,
+                    "szep": "Zsolt 97,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A kik szeretitek az Urat, gyűlöljétek a gonoszt! Megőrzi ő az ő kegyeltjeinek lelkét; a gonoszok kezéből megszabadítja őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12109701100,
+                    "szep": "Zsolt 97,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Világosság támad fel az igazra, és az egyenesszívűekre öröm."
+            },
+            {
+                "hely": {
+                    "gepi": 12109701200,
+                    "szep": "Zsolt 97,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örüljetek igazak az Úrban, és tiszteljétek az ő szentséges emlékezetét!"
+            }
+        ]
+    }
+}

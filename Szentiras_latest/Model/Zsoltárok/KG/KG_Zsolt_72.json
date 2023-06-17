@@ -1,0 +1,183 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 72"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107200000,
+                    "szep": "Zsolt 72,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Salamoné."
+            },
+            {
+                "hely": {
+                    "gepi": 12107200100,
+                    "szep": "Zsolt 72,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten, a te ítéletidet add a királynak, és a te igazságodat a király fiának."
+            },
+            {
+                "hely": {
+                    "gepi": 12107200200,
+                    "szep": "Zsolt 72,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hadd ítélje népedet igazsággal, és a te szegényeidet méltányossággal."
+            },
+            {
+                "hely": {
+                    "gepi": 12107200300,
+                    "szep": "Zsolt 72,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Teremjenek a hegyek békességet a népnek, és a halmok igazságot."
+            },
+            {
+                "hely": {
+                    "gepi": 12107200400,
+                    "szep": "Zsolt 72,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Legyen birája a nép szegényeinek, segítsen a szűkölködőnek fiain, és törje össze az erőszakoskodót."
+            },
+            {
+                "hely": {
+                    "gepi": 12107200500,
+                    "szep": "Zsolt 72,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Féljenek téged, a míg a nap áll és a meddig a hold fénylik, nemzedékről nemzedékre."
+            },
+            {
+                "hely": {
+                    "gepi": 12107200600,
+                    "szep": "Zsolt 72,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szálljon alá, mint eső a rétre, mint zápor, a mely megöntözi a földet."
+            },
+            {
+                "hely": {
+                    "gepi": 12107200700,
+                    "szep": "Zsolt 72,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Virágozzék az ő idejében az igaz és a béke teljessége, a míg nem lesz a hold."
+            },
+            {
+                "hely": {
+                    "gepi": 12107200800,
+                    "szep": "Zsolt 72,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "És uralkodjék egyik tengertől a másik tengerig, és a nagy folyamtól a föld határáig."
+            },
+            {
+                "hely": {
+                    "gepi": 12107200900,
+                    "szep": "Zsolt 72,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boruljanak le előtte a pusztalakók, és nyalják ellenségei a port."
+            },
+            {
+                "hely": {
+                    "gepi": 12107201000,
+                    "szep": "Zsolt 72,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tarsis és a szigetek királyai hozzanak ajándékot; Seba és Szeba királyai adománynyal járuljanak elé."
+            },
+            {
+                "hely": {
+                    "gepi": 12107201100,
+                    "szep": "Zsolt 72,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hajoljanak meg előtte mind a királyok, és minden nemzet szolgáljon néki."
+            },
+            {
+                "hely": {
+                    "gepi": 12107201200,
+                    "szep": "Zsolt 72,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert megszabadítja a kiáltó szűkölködőt; a nyomorultat, a kinek nincs segítője."
+            },
+            {
+                "hely": {
+                    "gepi": 12107201300,
+                    "szep": "Zsolt 72,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörül a szegényen és szűkölködőn, s a szűkölködők lelkét megszabadítja;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107201400,
+                    "szep": "Zsolt 72,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az elnyomástól és erőszaktól megmenti lelköket, és vérök drága az ő szemében."
+            },
+            {
+                "hely": {
+                    "gepi": 12107201500,
+                    "szep": "Zsolt 72,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "És éljen ő és adjanak néki Seba aranyából; imádkozzanak érte szüntelen, és áldják őt minden napon."
+            },
+            {
+                "hely": {
+                    "gepi": 12107201600,
+                    "szep": "Zsolt 72,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bő gabona legyen az országban a hegyek tetején is; rengjen gyümölcse, mint a Libanon, s viruljon a városok népe, mint a földnek füve."
+            },
+            {
+                "hely": {
+                    "gepi": 12107201700,
+                    "szep": "Zsolt 72,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tartson neve mindörökké; viruljon neve, míg a nap lesz; vele áldják magokat mind a nemzetek, és magasztalják őt."
+            },
+            {
+                "hely": {
+                    "gepi": 12107201800,
+                    "szep": "Zsolt 72,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott az Úr Isten, Izráelnek Istene, a ki csudadolgokat cselekszik egyedül!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107201900,
+                    "szep": "Zsolt 72,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott legyen az ő dicsőséges neve mindörökké, és teljék be dicsőségével az egész föld. Ámen! Ámen!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107202000,
+                    "szep": "Zsolt 72,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Itt végződnek Dávidnak, az Isai fiának könyörgései."
+            }
+        ]
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 90"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109000000,
+                    "szep": "Zsolt 90,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mózesnek, Isten emberének imádsága."
+            },
+            {
+                "hely": {
+                    "gepi": 12109000100,
+                    "szep": "Zsolt 90,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, te voltál hajlékunk nemzedékről nemzedékre."
+            },
+            {
+                "hely": {
+                    "gepi": 12109000200,
+                    "szep": "Zsolt 90,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mielőtt hegyek születtek, mielőtt a föld és a világ létrejött, öröktől fogva mindörökké vagy te, ó, Isten!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109000300,
+                    "szep": "Zsolt 90,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "A halandót visszatéríted a porba, és ezt mondod: Térjetek vissza, emberek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109000400,
+                    "szep": "Zsolt 90,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ezer esztendő előtted annyi, mint a tegnapi nap, amely elmúlt, mint egy őrváltásnyi idő éjjel."
+            },
+            {
+                "hely": {
+                    "gepi": 12109000500,
+                    "szep": "Zsolt 90,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elragadod őket, olyanok lesznek, mint reggelre az álom, mint a növekvő fű:"
+            },
+            {
+                "hely": {
+                    "gepi": 12109000600,
+                    "szep": "Zsolt 90,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "reggel virágzik és növekszik, estére megfonnyad és elszárad."
+            },
+            {
+                "hely": {
+                    "gepi": 12109000700,
+                    "szep": "Zsolt 90,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony, elmúlunk haragod miatt, indulatod miatt megsemmisülünk,"
+            },
+            {
+                "hely": {
+                    "gepi": 12109000800,
+                    "szep": "Zsolt 90,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "ha magad elé állítod bűneinket, titkolt vétkeinket orcád világossága elé."
+            },
+            {
+                "hely": {
+                    "gepi": 12109000900,
+                    "szep": "Zsolt 90,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elmúlik minden napunk haragod miatt, úgy elmúlnak esztendeink, mint egy sóhajtás."
+            },
+            {
+                "hely": {
+                    "gepi": 12109001000,
+                    "szep": "Zsolt 90,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Életünk ideje hetven esztendő, vagy ha több, nyolcvan esztendő, és nagyobb részük hiábavaló fáradság, olyan gyorsan eltűnik, mintha repülnénk."
+            },
+            {
+                "hely": {
+                    "gepi": 12109001100,
+                    "szep": "Zsolt 90,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki tudja, milyen erős haragod, és milyen félelmetes felháborodásod?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109001200,
+                    "szep": "Zsolt 90,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Taníts úgy számlálni napjainkat, hogy bölcs szívhez jussunk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109001300,
+                    "szep": "Zsolt 90,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fordulj hozzánk, URam! Meddig késel? Könyörülj szolgáidon!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109001400,
+                    "szep": "Zsolt 90,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áraszd ránk kegyelmedet reggelenként, hogy vígadjunk és örüljünk egész életünkben!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109001500,
+                    "szep": "Zsolt 90,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örvendeztess meg bennünket annyi napon át, ahányon át megaláztál, annyi éven át, ahányban rossz sorsunk volt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109001600,
+                    "szep": "Zsolt 90,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Legyenek láthatóvá tetteid szolgáidon, és méltóságod fiaikon!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109001700,
+                    "szep": "Zsolt 90,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Legyen velünk Istenünknek, az Úrnak jóindulata! Kezeink munkáját tedd maradandóvá, kezeink munkáját tedd maradandóvá!"
+            }
+        ]
+    }
+}

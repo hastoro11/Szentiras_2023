@@ -1,0 +1,55 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 43"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104300100,
+                    "szep": "Zsolt 43,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szolgáltass igazságot nekem, képviseld ügyemet egy nem szent néppel szemben! Szabadíts meg a gonosz és hazug emberektől!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104300200,
+                    "szep": "Zsolt 43,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, te vagy az én erősségem, miért taszítasz el? Miért kell szomorúan járnom, ellenségtől szorongatva?"
+            },
+            {
+                "hely": {
+                    "gepi": 12104300300,
+                    "szep": "Zsolt 43,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Küldd el világosságodat és hűségedet, hogy vezetőim legyenek, hogy vezessenek szent hegyedre, hajlékodba!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104300400,
+                    "szep": "Zsolt 43,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor odalépek Isten oltárához, örömöm Istenéhez. Ujjongva dicsőítlek citerával, Uram, én Istenem."
+            },
+            {
+                "hely": {
+                    "gepi": 12104300500,
+                    "szep": "Zsolt 43,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Miért vagy szomorú, lelkem és miért háborogsz? Remélj Istenben és majd újra dicsőítem, mint arcom felderítőjét és Istenemet!"
+            }
+        ]
+    }
+}

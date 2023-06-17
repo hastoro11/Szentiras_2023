@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 42"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104200000,
+                    "szep": "Zsolt 42,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek – Korach fiainak tanítókölteménye.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12104200100,
+                    "szep": "Zsolt 42,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ahogy a szarvasünő a forrás vizére kívánkozik, úgy vágyakozik a lelkem utánad, Uram."
+            },
+            {
+                "hely": {
+                    "gepi": 12104200200,
+                    "szep": "Zsolt 42,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkem szomjazik az Isten után, az élő Isten után. Mikor mehetek már, hogy lássam Isten arcát?"
+            },
+            {
+                "hely": {
+                    "gepi": 12104200300,
+                    "szep": "Zsolt 42,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könny a kenyerem nappal és éjjel, ha naponta mondják: „Hol marad Istened?”"
+            },
+            {
+                "hely": {
+                    "gepi": 12104200400,
+                    "szep": "Zsolt 42,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A szívem megdobban, ha arra gondolok, hogyan vonultam be a fönséges sátorba, az Úr házába, ujjongás és énekszó közepette a vidám ünnepi közösséggel."
+            },
+            {
+                "hely": {
+                    "gepi": 12104200500,
+                    "szep": "Zsolt 42,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkem, miért vagy szomorú és miért háborogsz? Remélj az Úrban és majd újra dicsőítem, mint arcom felderítőjét"
+            },
+            {
+                "hely": {
+                    "gepi": 12104200600,
+                    "szep": "Zsolt 42,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "és Istenemet! A lelkem roskadozik, amikor a Jordán földjén a Hermon felől rád gondolok, te kicsi hegy."
+            },
+            {
+                "hely": {
+                    "gepi": 12104200700,
+                    "szep": "Zsolt 42,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örvény hívja az örvényt vizeid zuhogásában, s minden örvényed és hullámod rám zúdul."
+            },
+            {
+                "hely": {
+                    "gepi": 12104200800,
+                    "szep": "Zsolt 42,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nappal az Úr adja kegyelmét és éjjel neki énekelek, áldom éltető Istenemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12104200900,
+                    "szep": "Zsolt 42,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így szólok Istenhez: Sziklám vagy, miért feledkeztél meg rólam? Miért kell szomorúan járnom, ellenségtől szorongatva?"
+            },
+            {
+                "hely": {
+                    "gepi": 12104201000,
+                    "szep": "Zsolt 42,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A velőmbe hatol, ha ellenségeim gúnyolódnak, ha naponta mondják: „Hol maradt Istened?”"
+            },
+            {
+                "hely": {
+                    "gepi": 12104201100,
+                    "szep": "Zsolt 42,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "De miért vagy szomorú, lelkem, és miért háborogsz? Remélj Istenben és majd újra dicsőítem, mint arcom felderítőjét és Istenemet!"
+            }
+        ]
+    }
+}

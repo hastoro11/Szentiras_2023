@@ -1,0 +1,31 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 117"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111700100,
+                    "szep": "Zsolt 117,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek az URat mind, ti, népek, dicsőítsétek mind, ti, nemzetek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111700200,
+                    "szep": "Zsolt 117,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nagy az ő szeretete irántunk, az ÚR hűsége örökké tart. Dicsérjétek az URat!"
+            }
+        ]
+    }
+}

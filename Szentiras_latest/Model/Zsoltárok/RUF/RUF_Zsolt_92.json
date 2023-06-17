@@ -1,0 +1,143 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 92"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109200000,
+                    "szep": "Zsolt 92,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zsoltár. Ének szombatnapra."
+            },
+            {
+                "hely": {
+                    "gepi": 12109200100,
+                    "szep": "Zsolt 92,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Milyen jó hálát adni az ÚRnak, és zengeni neved dicséretét, ó, Felséges,"
+            },
+            {
+                "hely": {
+                    "gepi": 12109200200,
+                    "szep": "Zsolt 92,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "hirdetni reggel szeretetedet, hűségedet minden éjjel"
+            },
+            {
+                "hely": {
+                    "gepi": 12109200300,
+                    "szep": "Zsolt 92,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "tízhúrú hangszeren és lanton, zengő hárfán!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109200400,
+                    "szep": "Zsolt 92,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert megörvendeztettél tetteiddel, URam, kezed alkotásainak ujjongok."
+            },
+            {
+                "hely": {
+                    "gepi": 12109200500,
+                    "szep": "Zsolt 92,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mily nagyok alkotásaid, URam! Igen mélyek gondolataid!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109200600,
+                    "szep": "Zsolt 92,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ostoba ember nem ismeri fel, az esztelen nem érti meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12109200700,
+                    "szep": "Zsolt 92,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha úgy nőnek is a bűnösök, mint a fű, és kivirul minden gonosztevő, végül mégis el kell pusztulniuk."
+            },
+            {
+                "hely": {
+                    "gepi": 12109200800,
+                    "szep": "Zsolt 92,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "De te, URam, magasztos vagy örökké!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109200900,
+                    "szep": "Zsolt 92,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ellenségeid, URam, ellenségeid elenyésznek, szétszóródnak a gonosztevők mind."
+            },
+            {
+                "hely": {
+                    "gepi": 12109201000,
+                    "szep": "Zsolt 92,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "De engem olyan erőssé tettél, mint mikor a bivaly öklel, és friss olajjal kentél meg engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12109201100,
+                    "szep": "Zsolt 92,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szemem nyugodtan nézi azokat, akik leselkednek rám, fülem nyugodtan hallja, hogy rám akarnak támadni a gonoszok."
+            },
+            {
+                "hely": {
+                    "gepi": 12109201200,
+                    "szep": "Zsolt 92,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az igaz virul, mint a pálmafa, magasra nő, mint a libánoni cédrus."
+            },
+            {
+                "hely": {
+                    "gepi": 12109201300,
+                    "szep": "Zsolt 92,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR házában vannak elültetve, ott virulnak Istenünk udvarain."
+            },
+            {
+                "hely": {
+                    "gepi": 12109201400,
+                    "szep": "Zsolt 92,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Öregkorban is sarjat hajtanak, dús lombúak és zöldek maradnak,"
+            },
+            {
+                "hely": {
+                    "gepi": 12109201500,
+                    "szep": "Zsolt 92,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "és hirdetik: Igaz az ÚR, kősziklám ő, akiben nincs álnokság!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 82"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108200000,
+                    "szep": "Zsolt 82,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Aszaf zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12108200100,
+                    "szep": "Zsolt 82,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten fölkel a hatalmasságok tanácsában, az istenek körében tart ítéletet."
+            },
+            {
+                "hely": {
+                    "gepi": 12108200200,
+                    "szep": "Zsolt 82,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "„Meddig ítéltek még igazságtalanul, meddig pártoljátok még a gonosz ügyet?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108200300,
+                    "szep": "Zsolt 82,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fogjátok pártját az elnyomott özvegynek, szerezzetek igazságot a gyengének, szegénynek."
+            },
+            {
+                "hely": {
+                    "gepi": 12108200400,
+                    "szep": "Zsolt 82,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az elnyomottat és a szűkölködőt tegyétek szabaddá, mentsétek ki a gonoszok kezéből!”"
+            },
+            {
+                "hely": {
+                    "gepi": 12108200500,
+                    "szep": "Zsolt 82,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "De ők nem hallják és nem értik ezt, mivel sötétségben járnak; a föld minden erői meginognak."
+            },
+            {
+                "hely": {
+                    "gepi": 12108200600,
+                    "szep": "Zsolt 82,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bár azt mondtam: „Isteneknek mondanak titeket, és a Magasságbeli fiai vagytok mind.”"
+            },
+            {
+                "hely": {
+                    "gepi": 12108200700,
+                    "szep": "Zsolt 82,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mégis meghaltok, mint az emberek, és elhulltok, mint a többi nagyok."
+            },
+            {
+                "hely": {
+                    "gepi": 12108200800,
+                    "szep": "Zsolt 82,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kelj föl, Istenünk, ítéld meg a földet, mert valóban a tied minden nép!"
+            }
+        ]
+    }
+}

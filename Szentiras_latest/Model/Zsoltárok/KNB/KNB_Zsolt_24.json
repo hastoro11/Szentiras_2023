@@ -1,0 +1,149 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 24"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102400000,
+                    "szep": "Zsolt 24,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Körmeneti ének, valószínűleg a királyok korai korszakából származik. A szöveg három részből áll (1-2.3-6.7-10). Hátterét feltehetően a frigyládának Jeruzsálembe való szállítása képezi (vö. 2 Sám 6,12-19)."
+                    },
+                    {
+                        "position": null,
+                        "text": "A Teremtő dicsérete: az egész földkerekség az övé, ő azonban Jeruzsálemet választotta lakóhelyéül."
+                    },
+                    {
+                        "position": null,
+                        "text": "Vö. 1 Kor 10,26"
+                    }
+                ],
+                "szoveg": "<em>Zsoltár Dávidtól.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12102400100,
+                    "szep": "Zsolt 24,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Körmeneti ének, valószínűleg a királyok korai korszakából származik. A szöveg három részből áll (1-2.3-6.7-10). Hátterét feltehetően a frigyládának Jeruzsálembe való szállítása képezi (vö. 2 Sám 6,12-19)."
+                    },
+                    {
+                        "position": null,
+                        "text": "A Teremtő dicsérete: az egész földkerekség az övé, ő azonban Jeruzsálemet választotta lakóhelyéül."
+                    },
+                    {
+                        "position": null,
+                        "text": "Vö. 1 Kor 10,26"
+                    }
+                ],
+                "szoveg": "Az Úré a föld s ami azt betölti,<br>a földkerekség és minden lakója."
+            },
+            {
+                "hely": {
+                    "gepi": 12102400200,
+                    "szep": "Zsolt 24,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ő alapította a tengerekre,<br>s a folyók fölé ő állította."
+            },
+            {
+                "hely": {
+                    "gepi": 12102400300,
+                    "szep": "Zsolt 24,3"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zarándokok kérdésére (»Ki mehet fel az Úr hegyére?«) a választ a papok vagy az előénekesek adják (4-5), a feltételek felsorolásával."
+                    }
+                ],
+                "szoveg": "Ki mehet fel az Úr hegyére?<br>Ki állhat meg az ő szent helyén?"
+            },
+            {
+                "hely": {
+                    "gepi": 12102400400,
+                    "szep": "Zsolt 24,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az, akinek keze ártatlan, akinek szíve tiszta,<br>aki magát hiúságra nem adja,<br>s nem tesz hamis esküt."
+            },
+            {
+                "hely": {
+                    "gepi": 12102400500,
+                    "szep": "Zsolt 24,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ilyen áldást nyer az Úrtól,<br>s irgalmat Istentől, oltalmazójától."
+            },
+            {
+                "hely": {
+                    "gepi": 12102400600,
+                    "szep": "Zsolt 24,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Jákob Istene: a szír szöveg alapján javítva."
+                    }
+                ],
+                "szoveg": "Ez azok nemzedéke, akik őt keresik,<br>akik Jákob Istenének arcát keresik."
+            },
+            {
+                "hely": {
+                    "gepi": 12102400700,
+                    "szep": "Zsolt 24,7"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az egyik kórus kéri, hogy nyissák ki a város (vagy a templom) kapuit; egy másik csoport a király dicsőségét magasztalja."
+                    }
+                ],
+                "szoveg": "Táruljatok fel, hatalmas kapuk,<br>táruljatok fel, örök kapuk,<br>hadd vonuljon be a dicsőség királya!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102400800,
+                    "szep": "Zsolt 24,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki az a dicsőség királya?<br>Az erős és hatalmas Úr,<br>a harcban hatalmas Úr."
+            },
+            {
+                "hely": {
+                    "gepi": 12102400900,
+                    "szep": "Zsolt 24,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Táruljatok fel, hatalmas kapuk,<br>táruljatok fel, örök kapuk,<br>hadd vonuljon be a dicsőség királya!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102401000,
+                    "szep": "Zsolt 24,10"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A Seregek Ura: mint a hadseregek legfőbb vezérét nevezi meg Jahvét."
+                    }
+                ],
+                "szoveg": "Ki az a dicsőség királya?<br>A seregek Ura,<br>ő a dicsőség királya."
+            }
+        ]
+    }
+}

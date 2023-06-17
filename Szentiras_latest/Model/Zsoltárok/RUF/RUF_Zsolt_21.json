@@ -1,0 +1,127 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 21"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102100000,
+                    "szep": "Zsolt 21,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100100,
+                    "szep": "Zsolt 21,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, a te erődnek örül a király. Mennyire ujjong, hogy megsegítetted!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102100200,
+                    "szep": "Zsolt 21,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megadtad neki szíve kívánságát, ajka óhajtását nem tagadtad meg. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12102100300,
+                    "szep": "Zsolt 21,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen gazdag áldással fordulsz feléje, fejére színarany koronát teszel."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100400,
+                    "szep": "Zsolt 21,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Életet kért tőled, és megadtad neki, hosszú életet, örökké tartót."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100500,
+                    "szep": "Zsolt 21,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagy a dicsősége, mert megsegítetted, fenséget és méltóságot adtál neki."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100600,
+                    "szep": "Zsolt 21,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony, áldottá teszed örökre, megvidámítod őt, örülhet előtted."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100700,
+                    "szep": "Zsolt 21,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bízik a király az ÚRban, szereti a Felséges, ezért nem tántorodik meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100800,
+                    "szep": "Zsolt 21,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kezed utoléri minden ellenségedet, jobbod utoléri gyűlölőidet."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100900,
+                    "szep": "Zsolt 21,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Olyanokká teszed őket, mint a tüzes kemence, ha megjelensz, URam. Haragod elnyeli őket, és tűz emészti meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12102101000,
+                    "szep": "Zsolt 21,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magzataikat kipusztítod a földről, utódaikat az emberek közül."
+            },
+            {
+                "hely": {
+                    "gepi": 12102101100,
+                    "szep": "Zsolt 21,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha rosszat forralnak ellened, és cselt szőnek, nem mennek semmire,"
+            },
+            {
+                "hely": {
+                    "gepi": 12102101200,
+                    "szep": "Zsolt 21,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "mert megfutamítod őket, célba veszed íjaddal."
+            },
+            {
+                "hely": {
+                    "gepi": 12102101300,
+                    "szep": "Zsolt 21,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mutasd meg hatalmadat, URam! Mi pedig énekelünk, zsoltárt zengünk hatalmas tetteidről!"
+            }
+        ]
+    }
+}

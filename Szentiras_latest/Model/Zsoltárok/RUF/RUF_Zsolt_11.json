@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 11"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101100000,
+                    "szep": "Zsolt 11,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Dávidé."
+            },
+            {
+                "hely": {
+                    "gepi": 12101100100,
+                    "szep": "Zsolt 11,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úrhoz menekülök. Hogyan mondhatjátok nekem: Menekülj a hegyre, mint a madár?!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101100200,
+                    "szep": "Zsolt 11,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert a bűnösök már feszítik az íjat, rátették a nyilat a húrra, hogy rálőjenek lesből a tiszta szívűekre."
+            },
+            {
+                "hely": {
+                    "gepi": 12101100300,
+                    "szep": "Zsolt 11,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha az alapokat is lerombolják, mit tehet az igaz ember?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101100400,
+                    "szep": "Zsolt 11,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR ott van szent templomában, az ÚR, akinek trónja a mennyben van, lát a szemével, pillantása megvizsgálja az embereket."
+            },
+            {
+                "hely": {
+                    "gepi": 12101100500,
+                    "szep": "Zsolt 11,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR megvizsgálja az igazat és a bűnöst, szívből gyűlöli azt, aki az erőszakot szereti."
+            },
+            {
+                "hely": {
+                    "gepi": 12101100600,
+                    "szep": "Zsolt 11,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hullasson a bűnösökre kénköves, tüzes parazsat, perzselő szél legyen osztályrészük!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101100700,
+                    "szep": "Zsolt 11,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony, igaz az ÚR, igaz tetteket szeret; a becsületes emberek meglátják arcát."
+            }
+        ]
+    }
+}

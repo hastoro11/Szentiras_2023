@@ -1,0 +1,176 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 17"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101700000,
+                    "szep": "Zsolt 17,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Üldözött ember panaszdala a fogság utáni időkből. Egy nagyon szorult helyzetben lévő ember az éjszakát a templomban tölti, és Istenhez, utolsó mentsvárához kiált."
+                    },
+                    {
+                        "position": null,
+                        "text": "Egy bűntelen ember fordul Istenéhez. Isten ismeri őt, hiszen megvizsgálta, és ő kiállta a próbát."
+                    }
+                ],
+                "szoveg": "<em>Dávid imádsága.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12101700100,
+                    "szep": "Zsolt 17,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Üldözött ember panaszdala a fogság utáni időkből. Egy nagyon szorult helyzetben lévő ember az éjszakát a templomban tölti, és Istenhez, utolsó mentsvárához kiált."
+                    },
+                    {
+                        "position": null,
+                        "text": "Egy bűntelen ember fordul Istenéhez. Isten ismeri őt, hiszen megvizsgálta, és ő kiállta a próbát."
+                    }
+                ],
+                "szoveg": "Hallgasd meg, Uram, igaz ügyemet,<br>méltasd figyelemre könyörgésemet.<br>Hallgasd meg könyörgésemet, nem álnok ajakról fakad."
+            },
+            {
+                "hely": {
+                    "gepi": 12101700200,
+                    "szep": "Zsolt 17,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Színed elől jöjjön igazság nekem,<br>szemed lássa meg igazamat."
+            },
+            {
+                "hely": {
+                    "gepi": 12101700300,
+                    "szep": "Zsolt 17,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vizsgáld meg szívemet, és látogasd meg éjjel,<br>tégy tűzpróbára engem, és nem találsz bennem gonoszságot."
+            },
+            {
+                "hely": {
+                    "gepi": 12101700400,
+                    "szep": "Zsolt 17,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szám nem beszélt emberek dolgáról,<br>kerültem ajkad igéi szerint az erőszakos utakat."
+            },
+            {
+                "hely": {
+                    "gepi": 12101700500,
+                    "szep": "Zsolt 17,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tartsd meg léptemet a te ösvényeiden,<br>hogy meg ne inogjon a lábam."
+            },
+            {
+                "hely": {
+                    "gepi": 12101700600,
+                    "szep": "Zsolt 17,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hozzád kiáltok, hisz te meghallgatsz, Istenem!<br>Hajtsd hozzám füledet,<br>hallgasd meg szavaimat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101700700,
+                    "szep": "Zsolt 17,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mutasd meg csodás irgalmadat,<br>hiszen megmented az üldözőktől azokat,<br>akik jobbodban bíznak!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101700800,
+                    "szep": "Zsolt 17,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Óvj, mint szemed fényét,<br>nyújts szárnyad árnyékában menedéket nekem"
+            },
+            {
+                "hely": {
+                    "gepi": 12101700900,
+                    "szep": "Zsolt 17,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "a gonoszok elől, akik nyomorgatnak engem!<br>Ellenségeim dühöngve körülkerítettek,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101701000,
+                    "szep": "Zsolt 17,10"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "»Kövér szív«: szó szerint ‘a kövérség’."
+                    }
+                ],
+                "szoveg": "bezárták kövér szívüket,<br>szájuk ontja a kevélységet."
+            },
+            {
+                "hely": {
+                    "gepi": 12101701100,
+                    "szep": "Zsolt 17,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megleptek, s íme, körülvesznek,<br>rám szegezik szemüket, hogy földre terítsenek."
+            },
+            {
+                "hely": {
+                    "gepi": 12101701200,
+                    "szep": "Zsolt 17,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tekintetük, mint a prédára kész oroszláné,<br>s mint a rejtekhelyén meghúzódó oroszlánkölyöké."
+            },
+            {
+                "hely": {
+                    "gepi": 12101701300,
+                    "szep": "Zsolt 17,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kelj fel, Uram! Előzd meg és terítsd le őt!<br>Ments meg engem kardoddal az istentelentől,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101701400,
+                    "szep": "Zsolt 17,14"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A héber szöveg valószínűleg hibás."
+                    }
+                ],
+                "szoveg": "karoddal a halottaktól, Uram,<br>a holtaktól, akiknek nincs már részük az életből!<br>Töltsd meg hasukat javaiddal,<br>hadd lakjanak jól gyermekeik,<br>s hagyják fiaikra, ami megmarad."
+            },
+            {
+                "hely": {
+                    "gepi": 12101701500,
+                    "szep": "Zsolt 17,15"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az ima azzal a kívánsággal fejeződik be, ami minden hívő vágya: Istent színről színre látni (vö. Jel 22,4)"
+                    }
+                ],
+                "szoveg": "Én azonban igazságban látom meg arcodat,<br>és színed látása tölt el amikor fölébredek."
+            }
+        ]
+    }
+}

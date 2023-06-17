@@ -1,0 +1,139 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 62"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106200000,
+                    "szep": "Zsolt 62,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Bizalom-ének, feltehetően a királyok korának végéről. Egy ember, aki erejét és belső szilárdságát, kiegyensúlyozottságát egyedül Istennek köszönheti, mindenkit bizakodásra hív. Az emberek, legyenek bár mégoly hatalmasok is, nem tudnak megbízható támaszt nyújtani."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Iditun szerint. Dávid zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12106200100,
+                    "szep": "Zsolt 62,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak Istenben nyugszik meg a lelkem,<br>mert tőle jön segítségem."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200200,
+                    "szep": "Zsolt 62,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Javított szöveg (vö. 7. vers)"
+                    }
+                ],
+                "szoveg": "Mert ő az én Istenem és szabadítóm,<br>oltalmazóm, hogy nagyon ne ingadozzam."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200300,
+                    "szep": "Zsolt 62,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meddig támadtok mindnyájan egy emberre<br>és sújtjátok le,<br>mint megrogyott falat, megdőlt kerítést?"
+            },
+            {
+                "hely": {
+                    "gepi": 12106200400,
+                    "szep": "Zsolt 62,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csakugyan úgy akarják ledönteni méltóságából;<br>A hazugságban gyönyörködnek.<br>Szájukkal áldást mondanak,<br>de szívükben átkoznak."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200500,
+                    "szep": "Zsolt 62,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak Istenben nyugszik meg a lelkem,<br>mert tőle jön reménységem."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200600,
+                    "szep": "Zsolt 62,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ő az én Istenem és szabadítóm,<br>oltalmazóm, hogy meg ne tántorodjam."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200700,
+                    "szep": "Zsolt 62,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szabadulásom és dicsőségem Istenben van;<br>Erősségem Istene ő; Istenben van menedékem."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200800,
+                    "szep": "Zsolt 62,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bízzatok benne, népek minden gyülekezete,<br>öntsétek ki előtte szíveteket;<br>Isten a mi menedékünk."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200900,
+                    "szep": "Zsolt 62,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ádám fiai csupa hiábavalóság,<br>az emberek fiai csupa hazugság;<br>Ha mérlegre kerülnek, a füstnél is könnyebbek, ahányan csak vannak."
+            },
+            {
+                "hely": {
+                    "gepi": 12106201000,
+                    "szep": "Zsolt 62,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne bízzatok az igazságtalanságban,<br>ne kívánjátok meg a rablott kincseket;<br>Ha a gazdagságban bővelkedtek,<br>ne kössétek hozzá szíveteket."
+            },
+            {
+                "hely": {
+                    "gepi": 12106201100,
+                    "szep": "Zsolt 62,11"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ún. szám-mondás, vö. Jób 40,5."
+                    }
+                ],
+                "szoveg": "Egyszer szólt Isten,<br>ezt a két dolgot hallottam:<br>Istené a hatalom,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106201200,
+                    "szep": "Zsolt 62,12"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. Mt 25, 31-46. – Az ÚSz gyakran idézi: Mt 16,27; Róm 2,6; 2 Tim 4,14; Jel 2,23; 22,12."
+                    }
+                ],
+                "szoveg": "s tiéd, Uram, az irgalom;<br>És te megfizetsz kinek-kinek<br>cselekedetei szerint."
+            }
+        ]
+    }
+}

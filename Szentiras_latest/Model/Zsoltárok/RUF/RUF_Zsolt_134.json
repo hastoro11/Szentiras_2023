@@ -1,0 +1,47 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 134"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113400000,
+                    "szep": "Zsolt 134,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zarándokének."
+            },
+            {
+                "hely": {
+                    "gepi": 12113400100,
+                    "szep": "Zsolt 134,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjátok az URat mindnyájan ti, akik az ÚR szolgái vagytok, akik az ÚR házában álltok éjjelente!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113400200,
+                    "szep": "Zsolt 134,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emeljétek föl kezeteket a szentély felé, és áldjátok az URat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113400300,
+                    "szep": "Zsolt 134,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjon meg téged a Sionról az ÚR, aki az eget és a földet alkotta!"
+            }
+        ]
+    }
+}

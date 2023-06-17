@@ -1,0 +1,71 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 126"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112600000,
+                    "szep": "Zsolt 126,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zarándokének."
+            },
+            {
+                "hely": {
+                    "gepi": 12112600100,
+                    "szep": "Zsolt 126,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mikor jóra fordította Sion sorsát az ÚR, olyanok voltunk, mint az álmodók."
+            },
+            {
+                "hely": {
+                    "gepi": 12112600200,
+                    "szep": "Zsolt 126,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor megtelt a szánk nevetéssel, és örömkiáltás volt nyelvünkön. Ezt mondták akkor a népek: Hatalmas dolgot tett ezekkel az ÚR!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112600300,
+                    "szep": "Zsolt 126,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hatalmas dolgot tett velünk az ÚR, ezért örvendezünk."
+            },
+            {
+                "hely": {
+                    "gepi": 12112600400,
+                    "szep": "Zsolt 126,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fordítsd jóra sorsunkat, URam, a délvidéki kiszáradt patakmedrekhez hasonlóan!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112600500,
+                    "szep": "Zsolt 126,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akik könnyezve vetettek, ujjongva arassanak!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112600600,
+                    "szep": "Zsolt 126,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki sírva indul, mikor vetőmagját viszi, ujjongva érkezzék, ha kévéit hozza!"
+            }
+        ]
+    }
+}

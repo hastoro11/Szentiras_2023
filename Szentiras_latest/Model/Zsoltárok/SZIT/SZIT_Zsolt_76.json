@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 76"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107600000,
+                    "szep": "Zsolt 76,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek húros hangszerre – Aszaf zsoltára, ének.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12107600100,
+                    "szep": "Zsolt 76,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ismertté vált Júdában Isten, nagy az ő neve Izraelben."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600200,
+                    "szep": "Zsolt 76,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sálemben áll a sátora, Sionban van a lakóhelye."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600300,
+                    "szep": "Zsolt 76,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ott törte meg az íj villámait, a pajzsot, a kardot és a háborút."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600400,
+                    "szep": "Zsolt 76,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jöttél, te Hatalmas, fénybe öltözötten: hegyekre szóló zsákmányt szereztünk."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600500,
+                    "szep": "Zsolt 76,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A büszke szívek is zsákmányul estek, most már álmukat alusszák, a harcosok karja lehanyatlott."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600600,
+                    "szep": "Zsolt 76,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jákob Istene, harsány kiáltásod előtt megtorpantak a lovak és a szekerek."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600700,
+                    "szep": "Zsolt 76,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rettenetes vagy! Ki állhat meg előtted, haragod hatalma előtt?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107600800,
+                    "szep": "Zsolt 76,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az égből kihirdetted az ítélet szavát, a föld megrendült, és csendesség lett,"
+            },
+            {
+                "hely": {
+                    "gepi": 12107600900,
+                    "szep": "Zsolt 76,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "amikor fölkelt az Isten ítéletre, hogy szabadulást hozzon minden tűrőnek a földön."
+            },
+            {
+                "hely": {
+                    "gepi": 12107601000,
+                    "szep": "Zsolt 76,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert az emberek haragja is megdicsőít téged: akik megmenekülnek a haragtól, azokkal felövezed magad."
+            },
+            {
+                "hely": {
+                    "gepi": 12107601100,
+                    "szep": "Zsolt 76,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tegyetek fogadalmat az Úrnak és váltsátok valóra! Mindnyájan, akik körös-körül vagytok, hozzatok ajándékot a Félelmetesnek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107601200,
+                    "szep": "Zsolt 76,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Neki, aki a fejedelmek lelkét összetöri, aki rettenetesnek mutatkozik a föld uralkodói előtt."
+            }
+        ]
+    }
+}

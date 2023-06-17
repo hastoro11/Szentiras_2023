@@ -1,0 +1,47 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 134"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113400000,
+                    "szep": "Zsolt 134,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Zarándokének.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12113400100,
+                    "szep": "Zsolt 134,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rajta, áldjátok az Urat, ti, az Úr szolgái mind, akik az Úr házában álltok, Isten házának csarnokaiban!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113400200,
+                    "szep": "Zsolt 134,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tárjátok kezeteket a szentély felé, s dicsőítsétek az Urat éjjelente!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113400300,
+                    "szep": "Zsolt 134,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjon meg téged Sionból az Úr, aki az eget és a földet teremtette!"
+            }
+        ]
+    }
+}

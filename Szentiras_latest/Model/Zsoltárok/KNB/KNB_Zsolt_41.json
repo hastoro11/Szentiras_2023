@@ -1,0 +1,151 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 41"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104100000,
+                    "szep": "Zsolt 41,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egy beteg imája, amelyben a köszönet és a kérés egymásba fonódik. Az eredeti szöveg a királyok idejében keletkezett. A fogság után az írástudók egy csoportja átdolgozta, akkor nyerte el jelenlegi alakját. A szöveg helyenként megromlott és nehezen értehető."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Dávid zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12104100100,
+                    "szep": "Zsolt 41,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Aki a szükséget szenvedővel törődik, az számíthat Isten segítségére (Mt 5,7)."
+                    }
+                ],
+                "szoveg": "Boldog, aki a szegénynek gondját viseli!<br>A nyomorúság napján megmenti őt az Úr."
+            },
+            {
+                "hely": {
+                    "gepi": 12104100200,
+                    "szep": "Zsolt 41,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr megtartja őt és élteti,<br>boldoggá teszi a földön,<br>és nem adja át ellenségei dühének."
+            },
+            {
+                "hely": {
+                    "gepi": 12104100300,
+                    "szep": "Zsolt 41,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr megsegíti őt fájdalmainak ágyán;<br>Enyhülést adsz neki, valahányszor betegen fekszik."
+            },
+            {
+                "hely": {
+                    "gepi": 12104100400,
+                    "szep": "Zsolt 41,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így szóltam: »Uram, kegyelmezz nekem,<br>gyógyíts meg, bár vétettem ellened!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12104100500,
+                    "szep": "Zsolt 41,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ellenségeim rosszat mondanak rólam:<br>»Mikor hal meg, hogy neve is kivesszen?«,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104100600,
+                    "szep": "Zsolt 41,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "s ha eljön valaki, hogy meglátogasson,<br>hiábavalóságot beszél;<br>Szíve megszedi magát gonoszsággal,<br>kimegy az utcára és kibeszéli."
+            },
+            {
+                "hely": {
+                    "gepi": 12104100700,
+                    "szep": "Zsolt 41,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Suttog ellenem minden ellenségem,<br>rosszat terveznek ellenem."
+            },
+            {
+                "hely": {
+                    "gepi": 12104100800,
+                    "szep": "Zsolt 41,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "»Átok borult rá,<br>ha lefekszik, nem kel föl többé.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12104100900,
+                    "szep": "Zsolt 41,9"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A Jn 13,18 idézi (vö. Mk 14,18 is), és a nem őszinte barátra vonatkozó kijelentést iskarióti Júdásra alkalmazza."
+                    },
+                    {
+                        "position": null,
+                        "text": "Javított szöveg."
+                    }
+                ],
+                "szoveg": "Még jó barátom is, akiben reméltem,<br>aki kenyeremet ette, felemelte sarkát ellenem."
+            },
+            {
+                "hely": {
+                    "gepi": 12104101000,
+                    "szep": "Zsolt 41,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te azonban, Uram, légy hozzám irgalmas,<br>állíts talpra engem,<br>hadd fizessek meg nekik!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104101100,
+                    "szep": "Zsolt 41,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Abból tudom majd meg, hogy bennem kedved leled,<br>hogy ellenségem nem örvendezik fölöttem."
+            },
+            {
+                "hely": {
+                    "gepi": 12104101200,
+                    "szep": "Zsolt 41,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Felkarolsz engem ártatlanságomért,<br>és színed elé állítasz mindörökké."
+            },
+            {
+                "hely": {
+                    "gepi": 12104101300,
+                    "szep": "Zsolt 41,13"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A dicsőítés nem tartozik a zsoltár szövegéhez. A zsoltárkönyv első gyűjteményét zárja le, amely Dávid nevéhez fűződik."
+                    }
+                ],
+                "szoveg": "Áldott legyen az Úr, Izrael Istene,<br>öröktől fogva mindörökké.<br>Ámen! Ámen!"
+            }
+        ]
+    }
+}

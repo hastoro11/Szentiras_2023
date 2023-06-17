@@ -1,0 +1,73 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 15"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101500000,
+                    "szep": "Zsolt 15,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Tanító jellegű, liturgikus ének, a fogság előtti időkből származik. A zarándokok Jeruzsálembe jönnek, a szentélyhez: számukra ez nemcsak vallási előírás, amelyet be kell tartaniuk, hanem erkölcsi kötelességüknek is érzik a szentély meglátogatását. A zsoltárból kiderül, hogy a Tízparancsolat korántsem tartalmaz minden vallási előírást. A szöveg azt is megmutatja, hogy mennyire elválaszthatatlan egymástól az erkölcs és a vallás, hogy a vallási és a szociális kötelességek mennyire összetartoznak, és mennyire függnek egymástól. Már akkoriban is harcolni kellett a puszta vallási formalizmus ellen."
+                    }
+                ],
+                "szoveg": "<em>Dávid zsoltára.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12101500100,
+                    "szep": "Zsolt 15,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Tanító jellegű, liturgikus ének, a fogság előtti időkből származik. A zarándokok Jeruzsálembe jönnek, a szentélyhez: számukra ez nemcsak vallási előírás, amelyet be kell tartaniuk, hanem erkölcsi kötelességüknek is érzik a szentély meglátogatását. A zsoltárból kiderül, hogy a Tízparancsolat korántsem tartalmaz minden vallási előírást. A szöveg azt is megmutatja, hogy mennyire elválaszthatatlan egymástól az erkölcs és a vallás, hogy a vallási és a szociális kötelességek mennyire összetartoznak, és mennyire függnek egymástól. Már akkoriban is harcolni kellett a puszta vallási formalizmus ellen."
+                    }
+                ],
+                "szoveg": "Uram, ki lakhat sátradban?<br>Ki tartózkodhat szent hegyeden?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101500200,
+                    "szep": "Zsolt 15,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az, aki szeplőtelenül jár, és igazságot cselekszik,<br>aki igazat gondol szívében,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101500300,
+                    "szep": "Zsolt 15,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "aki nyelvével nem követ el álnokságot,<br>felebarátjának nem tesz rosszat,<br>nem ad hitelt embertársa gyalázásának."
+            },
+            {
+                "hely": {
+                    "gepi": 12101500400,
+                    "szep": "Zsolt 15,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki előtt a gonosz nem ér semmit,<br>de nagyra tartja azokat, akik az Urat félik.<br>Aki esküjét nem vonja vissza, még ha kárára is van,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101500500,
+                    "szep": "Zsolt 15,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "pénzét nem adja kamatra,<br>s vesztegető ajándékot nem fogad el az ártatlan ellen.<br>Aki így cselekszik, meg nem inog sohasem."
+            }
+        ]
+    }
+}

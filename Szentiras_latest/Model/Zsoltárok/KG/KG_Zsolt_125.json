@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 125"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112500000,
+                    "szep": "Zsolt 125,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Grádicsok éneke."
+            },
+            {
+                "hely": {
+                    "gepi": 12112500100,
+                    "szep": "Zsolt 125,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "A kik bíznak az Úrban, olyanok, mint a Sion hegye, a mely meg nem inog, örökké megáll."
+            },
+            {
+                "hely": {
+                    "gepi": 12112500200,
+                    "szep": "Zsolt 125,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jeruzsálemet hegyek veszik körül, az Úr pedig körülveszi az ő népét mostantól fogva mindörökké."
+            },
+            {
+                "hely": {
+                    "gepi": 12112500300,
+                    "szep": "Zsolt 125,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nem pihen meg a gonoszság pálczája az igazak részén, hogy rosszra ne nyújtsák ki kezeiket az igazak."
+            },
+            {
+                "hely": {
+                    "gepi": 12112500400,
+                    "szep": "Zsolt 125,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tégy jól, Uram, a jókkal, és a szívök szerint igazakkal!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112500500,
+                    "szep": "Zsolt 125,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A görbe utakra tévedezőket pedig ragadtassa el az Úr, együtt a gonosztevőkkel; békesség legyen Izráelen!"
+            }
+        ]
+    }
+}

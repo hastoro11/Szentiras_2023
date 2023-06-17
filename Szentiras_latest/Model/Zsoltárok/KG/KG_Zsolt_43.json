@@ -1,0 +1,55 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 43"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104300100,
+                    "szep": "Zsolt 43,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ítélj meg engem oh Isten! és oltalmazd meg ügyemet az irgalmatlan nemzetség ellen; az álnok és hamis embertől szabadíts meg engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12104300200,
+                    "szep": "Zsolt 43,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen te vagy oltalmam Istene, miért vetettél hát meg engemet? Miért kell gyászban járnom ellenség háborgatása miatt?"
+            },
+            {
+                "hely": {
+                    "gepi": 12104300300,
+                    "szep": "Zsolt 43,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Küldd el világosságodat és igazságodat, azok vezessenek engem; vigyenek el a te szent hegyedre és hajlékaidba."
+            },
+            {
+                "hely": {
+                    "gepi": 12104300400,
+                    "szep": "Zsolt 43,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hadd menjek be Isten oltárához, vígasságos örömömnek Istenéhez, és hadd dicsérjelek téged cziterával, Isten, én Istenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104300500,
+                    "szep": "Zsolt 43,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Miért csüggedsz el lelkem, miért nyughatatlankodol bennem? Bízzál Istenben, mert még hálát adok én néki, az én szabadítómnak és Istenemnek."
+            }
+        ]
+    }
+}

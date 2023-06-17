@@ -1,0 +1,183 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 66"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106600000,
+                    "szep": "Zsolt 66,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek – ének, zsoltár.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12106600100,
+                    "szep": "Zsolt 66,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ujjongjatok Istenemnek, földek mind,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106600200,
+                    "szep": "Zsolt 66,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "zengjétek nevének dicséretét! Járuljatok eléje dicsőítő énekkel!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106600300,
+                    "szep": "Zsolt 66,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mondjátok Istennek: Mily csodálatosak a te műveid! Az ellenség meghajol hatalmas erőd előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12106600400,
+                    "szep": "Zsolt 66,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Imádjon téged az egész föld, és zengje dicséretedet, magasztalja nevedet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106600500,
+                    "szep": "Zsolt 66,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gyertek és lássátok Isten nagy tetteit: csodálatosat művelt az emberek között!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106600600,
+                    "szep": "Zsolt 66,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "A tengert szárazfölddé változtatta, lábukkal lépkedtek át az áron, benne leljük hát örömünk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106600700,
+                    "szep": "Zsolt 66,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hatalmával kormányoz örökké, szeme vigyázza a nemzeteket, nehogy a lázadók elbízzák magukat."
+            },
+            {
+                "hely": {
+                    "gepi": 12106600800,
+                    "szep": "Zsolt 66,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsőítsétek Istenünket, ti pogány népek, harsogjátok dicséretét!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106600900,
+                    "szep": "Zsolt 66,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő ad életet lelkünkbe, s nem hagyja, hogy meginogjon lábunk."
+            },
+            {
+                "hely": {
+                    "gepi": 12106601000,
+                    "szep": "Zsolt 66,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igaz, megpróbáltál bennünket, Istenünk, ahogy az ezüstöt szokták, tűzben megvizsgáltál."
+            },
+            {
+                "hely": {
+                    "gepi": 12106601100,
+                    "szep": "Zsolt 66,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "A vadász hálójába tereltél, s nyomasztó terhet raktál a csípőnkre."
+            },
+            {
+                "hely": {
+                    "gepi": 12106601200,
+                    "szep": "Zsolt 66,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elnézted, hogy az emberek fejünket tapossák, tűzön és vízen kellett áthaladnunk, de végül mégis könnyebbülést adtál."
+            },
+            {
+                "hely": {
+                    "gepi": 12106601300,
+                    "szep": "Zsolt 66,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Égőáldozattal lépek hajlékodba, teljesítem, amit megfogadtam:"
+            },
+            {
+                "hely": {
+                    "gepi": 12106601400,
+                    "szep": "Zsolt 66,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "ahogy ajkamra jött s ahogy szám ígérte a szorongatottságban."
+            },
+            {
+                "hely": {
+                    "gepi": 12106601500,
+                    "szep": "Zsolt 66,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kövér juhok és kosok hájából áldozok fel, üszőket, bakokat ajánlok neked."
+            },
+            {
+                "hely": {
+                    "gepi": 12106601600,
+                    "szep": "Zsolt 66,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kik félitek Istent, gyertek ide mind, halljátok s elmondom, mily nagy dolgot tett velem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106601700,
+                    "szep": "Zsolt 66,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Még hozzá kiáltottam számmal, amikor nyelvem már zenghette dicséretét."
+            },
+            {
+                "hely": {
+                    "gepi": 12106601800,
+                    "szep": "Zsolt 66,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha szívemben gonoszság lett volna, nem hallgatott volna meg az Úr."
+            },
+            {
+                "hely": {
+                    "gepi": 12106601900,
+                    "szep": "Zsolt 66,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ámde Isten meghallgatott, felfigyelt könyörgő szavamra."
+            },
+            {
+                "hely": {
+                    "gepi": 12106602000,
+                    "szep": "Zsolt 66,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott legyen az Úr, mert kérésem nem vetette el, irgalmasságát nem vonta meg tőlem."
+            }
+        ]
+    }
+}

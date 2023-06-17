@@ -1,0 +1,149 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 32"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103200000,
+                    "szep": "Zsolt 32,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni hálaének. Bonyolult szerkezete miatt a fogság utáni időkre helyezik. Az Egyház a hét bűnbánati zsoltár egyikének tekinti és így használja (sorrendben a második)."
+                    },
+                    {
+                        "position": null,
+                        "text": "A megtisztult ember örömteli kiáltása. Pál is idézi (Róm 4,7-8)."
+                    }
+                ],
+                "szoveg": "<em>Maszkíl Dávidtól.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12103200100,
+                    "szep": "Zsolt 32,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni hálaének. Bonyolult szerkezete miatt a fogság utáni időkre helyezik. Az Egyház a hét bűnbánati zsoltár egyikének tekinti és így használja (sorrendben a második)."
+                    },
+                    {
+                        "position": null,
+                        "text": "A megtisztult ember örömteli kiáltása. Pál is idézi (Róm 4,7-8)."
+                    }
+                ],
+                "szoveg": "Boldog, akinek gonoszsága bocsánatot nyert,<br>és akiknek bűne el van takarva."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200200,
+                    "szep": "Zsolt 32,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog az, akinek az Úr nem tudja be vétkét,<br>s akinek lelkében nincsen csalárdság."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200300,
+                    "szep": "Zsolt 32,3"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az ember a test és a lélek egysége, ezért a bűn az egész embert érinti."
+                    }
+                ],
+                "szoveg": "Amíg hallgattam, csontjaim megöregedtek,<br>s egész nap jajgattam."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200400,
+                    "szep": "Zsolt 32,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Javított szöveg."
+                    }
+                ],
+                "szoveg": "Mert éjjel-nappal rám nehezedett kezed,<br>ellankadt erőm, mint a nyár hevében."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200500,
+                    "szep": "Zsolt 32,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megvallottam előtted bűnömet,<br>gonoszságomat el nem rejtettem.<br>Elhatároztam: »Megvallom magam ellen hűtlenségemet az Úrnak.«<br>És te vétkem gonoszságát megbocsátottad."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200600,
+                    "szep": "Zsolt 32,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Áradó vizek: Isten haragjának jelképe (javított szöveg)."
+                    }
+                ],
+                "szoveg": "Hozzád fohászkodjon tehát minden szent alkalmas időben,<br>akkor áradjanak bár a vizek, el nem érik őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200700,
+                    "szep": "Zsolt 32,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te vagy menedékem, megőrzöl a veszedelemtől;<br>Körülveszel a szabadulás örömével."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200800,
+                    "szep": "Zsolt 32,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Értelmet adok neked és megtanítlak<br>az útra, amelyen járnod kell;<br>Rajtad tartom szemem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200900,
+                    "szep": "Zsolt 32,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne legyetek értelmetlenek,<br>mint a ló és az öszvér:<br>amelyeknek fékkel és zablával kell szorítani az állát,<br>másként nem közelednek hozzád."
+            },
+            {
+                "hely": {
+                    "gepi": 12103201000,
+                    "szep": "Zsolt 32,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sok csapás éri a bűnöst,<br>ám az Úrban remélőt irgalom övezi."
+            },
+            {
+                "hely": {
+                    "gepi": 12103201100,
+                    "szep": "Zsolt 32,11"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Liturgikus felszólítás."
+                    }
+                ],
+                "szoveg": "Örvendjetek az Úrban és vigadjatok, igazak,<br>ujjongjatok mindnyájan egyenes szívűek!"
+            }
+        ]
+    }
+}

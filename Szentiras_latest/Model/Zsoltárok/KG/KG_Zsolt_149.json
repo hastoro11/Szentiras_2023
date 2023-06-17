@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 149"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114900100,
+                    "szep": "Zsolt 149,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek az Urat! Énekeljetek az Úrnak új éneket; dicsérje őt a kegyesek gyülekezete!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114900200,
+                    "szep": "Zsolt 149,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örvendezzen Izráel az ő teremtőjében: Sionnak fiai örüljenek az ő királyukban!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114900300,
+                    "szep": "Zsolt 149,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjék az ő nevét tánczczal; dobbal és hárfával zengjenek néki."
+            },
+            {
+                "hely": {
+                    "gepi": 12114900400,
+                    "szep": "Zsolt 149,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert kedveli az Úr az ő népét, a szenvedőket szabadulással dicsőíti meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12114900500,
+                    "szep": "Zsolt 149,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vígadozzanak a kegyesek tisztességben; ujjongjanak nyugvó helyökön."
+            },
+            {
+                "hely": {
+                    "gepi": 12114900600,
+                    "szep": "Zsolt 149,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten-dicsőítés legyen torkukban, kétélű fegyver kezeikben;"
+            },
+            {
+                "hely": {
+                    "gepi": 12114900700,
+                    "szep": "Zsolt 149,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy bosszút álljanak a pogányokon, és megfenyítsék a nemzeteket!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114900800,
+                    "szep": "Zsolt 149,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy lánczra fűzzék királyaikat, főembereiket pedig vas-bilincsekbe."
+            },
+            {
+                "hely": {
+                    "gepi": 12114900900,
+                    "szep": "Zsolt 149,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy végrehajtsák rajtok a megírott ítéletet. Dicsőség ez az ő minden kegyeltjére! Dicsérjétek az Urat!"
+            }
+        ]
+    }
+}

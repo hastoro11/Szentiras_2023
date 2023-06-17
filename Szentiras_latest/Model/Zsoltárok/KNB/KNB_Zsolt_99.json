@@ -1,0 +1,101 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 99"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109900100,
+                    "szep": "Zsolt 99,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Királyhimnusz, melyben Izrael a szövetség Istenét ünnepli. A szöveget a fogság utáni szertartás (sátoros ünnep) formálta (vö. 96,1-99,9). Végigvonul benne Isten szentségének megvallása (3.5.9.)"
+                    },
+                    {
+                        "position": null,
+                        "text": "A közösség hódol a Király előtt, aki a kerubok fölött trónol. A kép nem a frigyládára utal (vö. 2 Sám 6,2), hanem Isten mennyei dicsőségét ábrázolja. Isten neve azzal szentelődik meg (vö. Mt 6,9), ha minden nép dicsőíti őt."
+                    }
+                ],
+                "szoveg": "Király az Úr!<br>Reszkessenek a népek;<br>A kerubok fölött trónol,<br>rettegjen a föld!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109900200,
+                    "szep": "Zsolt 99,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagy az Úr a Sionon,<br>fölséges minden nép felett."
+            },
+            {
+                "hely": {
+                    "gepi": 12109900300,
+                    "szep": "Zsolt 99,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztalják nagy és félelmetes nevedet,<br>mert szentséges."
+            },
+            {
+                "hely": {
+                    "gepi": 12109900400,
+                    "szep": "Zsolt 99,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A nagy király az igazságot szereti:<br>te rendeltél egyenességet,<br>te szereztél Jákobban törvényt és igazságot."
+            },
+            {
+                "hely": {
+                    "gepi": 12109900500,
+                    "szep": "Zsolt 99,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljátok az Urat, a mi Istenünket,<br>boruljatok le lábának zsámolya előtt,<br>mert szentséges ő!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109900600,
+                    "szep": "Zsolt 99,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A kiválasztottak Isten fenségének tanúi. Mózes (akit az ÓSz csak itt sorol a próféták közé) és Áron: ők a közvetítők Isten és ember között, velük beszélt Isten (vö. Kiv 33,9; Szám 12,5). Mint Sámuel (vö. 1 Sám 7,15-17), ők is az isteni igazságokat képviselik."
+                    }
+                ],
+                "szoveg": "Papjai közt volt Mózes és Áron,<br>és Sámuel azok között, akik segítségül hívták a nevét.<br>Segítségül hívták az Urat, és meghallgatta őket,"
+            },
+            {
+                "hely": {
+                    "gepi": 12109900700,
+                    "szep": "Zsolt 99,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "a felhőoszlopból szólt hozzájuk.<br>Ők megtartották rendeleteit,<br>s a törvényt, amelyet adott nekik."
+            },
+            {
+                "hely": {
+                    "gepi": 12109900800,
+                    "szep": "Zsolt 99,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Urunk, Istenünk, te meghallgattad őket;<br>Kegyes voltál hozzájuk, Isten,<br>bár megbüntetted minden vétküket."
+            },
+            {
+                "hely": {
+                    "gepi": 12109900900,
+                    "szep": "Zsolt 99,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljátok az Urat, a mi Istenünket,<br>boruljatok le szent hegyén,<br>mert szent az Úr, a mi Istenünk!"
+            }
+        ]
+    }
+}

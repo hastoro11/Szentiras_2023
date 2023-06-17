@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 1"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100100100,
+                    "szep": "Zsolt 1,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog ember az, aki nem jár a bűnösök tanácsa szerint, nem áll a vétkesek útjára, és nem ül a csúfolódók székére,"
+            },
+            {
+                "hely": {
+                    "gepi": 12100100200,
+                    "szep": "Zsolt 1,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "hanem az ÚR törvényében gyönyörködik, és az ő törvényéről elmélkedik éjjel-nappal."
+            },
+            {
+                "hely": {
+                    "gepi": 12100100300,
+                    "szep": "Zsolt 1,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Olyan lesz, mint a folyóvíz mellé ültetett fa, amely idejében megtermi gyümölcsét, és nem hervad el a lombja. Minden sikerül, amit tesz."
+            },
+            {
+                "hely": {
+                    "gepi": 12100100400,
+                    "szep": "Zsolt 1,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem így járnak a bűnösök, hanem úgy, mint a pelyva, amelyet szétszór a szél."
+            },
+            {
+                "hely": {
+                    "gepi": 12100100500,
+                    "szep": "Zsolt 1,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezért nem állhatnak meg a bűnösök az ítélet idején és a vétkesek az igazak közösségében."
+            },
+            {
+                "hely": {
+                    "gepi": 12100100600,
+                    "szep": "Zsolt 1,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ismeri az ÚR az igazak útját, a bűnösök útja pedig semmibe vész."
+            }
+        ]
+    }
+}

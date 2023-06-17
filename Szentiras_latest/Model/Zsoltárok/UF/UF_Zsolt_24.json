@@ -1,0 +1,103 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 24"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102400000,
+                    "szep": "Zsolt 24,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12102400100,
+                    "szep": "Zsolt 24,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚRé a föld és ami betölti, a földkerekség és a rajta lakók."
+            },
+            {
+                "hely": {
+                    "gepi": 12102400200,
+                    "szep": "Zsolt 24,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ő vetette meg alapját a tengereken, ő rögzítette a folyókon."
+            },
+            {
+                "hely": {
+                    "gepi": 12102400300,
+                    "szep": "Zsolt 24,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki mehet föl az ÚR hegyére, és ki állhat meg szent helyén?"
+            },
+            {
+                "hely": {
+                    "gepi": 12102400400,
+                    "szep": "Zsolt 24,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ártatlan kezű, a tiszta szívű, aki nem sóvárog hiábavalóság után, és nem esküszik hamisan."
+            },
+            {
+                "hely": {
+                    "gepi": 12102400500,
+                    "szep": "Zsolt 24,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldást nyer az ilyen az ÚRtól, igazságot a szabadító Istentől."
+            },
+            {
+                "hely": {
+                    "gepi": 12102400600,
+                    "szep": "Zsolt 24,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ilyen az a nemzedék, amely hozzá folyamodik, akik Jákób Istenének orcáját keresik. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12102400700,
+                    "szep": "Zsolt 24,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emeljétek föl fejeteket, ti kapuk, emelkedjetek föl, ti ősi ajtók, hogy bemehessen a dicső király!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102400800,
+                    "szep": "Zsolt 24,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki az a dicső király? Az erős és hatalmas ÚR, az ÚR, aki hatalmas a harcban."
+            },
+            {
+                "hely": {
+                    "gepi": 12102400900,
+                    "szep": "Zsolt 24,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emeljétek föl fejeteket, ti kapuk, emeljétek föl, ti ősi ajtók, hogy bemehessen a dicső király!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102401000,
+                    "szep": "Zsolt 24,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki az a dicső király? A Seregek URa, ő a dicső király! (Szela.)"
+            }
+        ]
+    }
+}

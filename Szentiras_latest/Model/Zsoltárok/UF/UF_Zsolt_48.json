@@ -1,0 +1,135 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 48"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104800000,
+                    "szep": "Zsolt 48,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ének. Kórah fiainak zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12104800100,
+                    "szep": "Zsolt 48,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagy az ÚR, méltó, hogy dicsérjék Istenünk városában, szent hegyén."
+            },
+            {
+                "hely": {
+                    "gepi": 12104800200,
+                    "szep": "Zsolt 48,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szépen emelkedik a Sion hegye az egész ország örömére az északi oldalon; a nagy király városa,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104800300,
+                    "szep": "Zsolt 48,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "melynek palotáiban úgy ismerik Istent, mint erős várat."
+            },
+            {
+                "hely": {
+                    "gepi": 12104800400,
+                    "szep": "Zsolt 48,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert a királyok szövetkeztek, együttesen fölvonultak ellene,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104800500,
+                    "szep": "Zsolt 48,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "de amint meglátták, megdöbbentek, megriadtak és megfutamodtak."
+            },
+            {
+                "hely": {
+                    "gepi": 12104800600,
+                    "szep": "Zsolt 48,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Reszketés fogta el őket, mint a vajúdó asszonyt,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104800700,
+                    "szep": "Zsolt 48,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "mint mikor a keleti szél összezúzza a tengerjáró hajókat."
+            },
+            {
+                "hely": {
+                    "gepi": 12104800800,
+                    "szep": "Zsolt 48,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Amiről hallottunk, azt láttuk is a Seregek URának városában, Istenünk városában: megtartja Isten örökre. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12104800900,
+                    "szep": "Zsolt 48,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jóságodról elmélkedünk templomodban, ó Isten."
+            },
+            {
+                "hely": {
+                    "gepi": 12104801000,
+                    "szep": "Zsolt 48,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nevedhez méltóan dicsérnek a föld kerekségén, Istenünk, jobbod csupa igazság."
+            },
+            {
+                "hely": {
+                    "gepi": 12104801100,
+                    "szep": "Zsolt 48,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örül Sion hegye, vigadoznak Júda leányai, mert igazságot osztasz."
+            },
+            {
+                "hely": {
+                    "gepi": 12104801200,
+                    "szep": "Zsolt 48,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Járjátok körül Siont, kerüljétek meg, számláljátok meg tornyait!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104801300,
+                    "szep": "Zsolt 48,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jól nézzétek meg bástyáit, járjátok be palotáit, hogy beszélhessetek róla a jövő nemzedéknek."
+            },
+            {
+                "hely": {
+                    "gepi": 12104801400,
+                    "szep": "Zsolt 48,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony, itt van Isten, a mi Istenünk örökkön örökké, ő vezet minket mindhalálig."
+            }
+        ]
+    }
+}

@@ -1,0 +1,399 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 106"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12110600100,
+                    "szep": "Zsolt 106,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek az Urat. <br>Magasztaljátok az Urat, mert jó; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12110600200,
+                    "szep": "Zsolt 106,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki beszélhetné el az Úr nagy tetteit? és jelenthetné ki minden dicsőségét?"
+            },
+            {
+                "hely": {
+                    "gepi": 12110600300,
+                    "szep": "Zsolt 106,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog, a ki megtartja a törvényt, és igazán cselekszik minden időben."
+            },
+            {
+                "hely": {
+                    "gepi": 12110600400,
+                    "szep": "Zsolt 106,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emlékezzél reám, Uram, népedhez való jóságodért; jőjj el hozzám szabadításoddal,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110600500,
+                    "szep": "Zsolt 106,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy láthassam választottaidhoz való jóvoltodat, és örvendezhessek néped örömében; hogy dicsekedjem a te örökségeddel!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110600600,
+                    "szep": "Zsolt 106,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vétkeztünk atyáinkkal együtt; bűnösök, gonoszok valánk."
+            },
+            {
+                "hely": {
+                    "gepi": 12110600700,
+                    "szep": "Zsolt 106,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Atyáink nem értették meg Égyiptomban csodáidat, nem emlegették meg kegyelmed nagyságát, hanem daczoskodtak a tengernél, a veres tengernél."
+            },
+            {
+                "hely": {
+                    "gepi": 12110600800,
+                    "szep": "Zsolt 106,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "De ő megsegíté őket az ő nevéért, hogy megismertesse a maga erejét."
+            },
+            {
+                "hely": {
+                    "gepi": 12110600900,
+                    "szep": "Zsolt 106,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rákiálta a veres tengerre és kiszáradt, s úgy vivé őket a mélységeken, mint egy síkon."
+            },
+            {
+                "hely": {
+                    "gepi": 12110601000,
+                    "szep": "Zsolt 106,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "És kisegíté őket a gyűlölő kezéből; kimentette őket ellenség kezéből."
+            },
+            {
+                "hely": {
+                    "gepi": 12110601100,
+                    "szep": "Zsolt 106,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szorongatóikat víz borította el, egy sem maradt meg belőlük."
+            },
+            {
+                "hely": {
+                    "gepi": 12110601200,
+                    "szep": "Zsolt 106,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "És hittek az ő beszédeinek, és énekelték az ő dicséretét."
+            },
+            {
+                "hely": {
+                    "gepi": 12110601300,
+                    "szep": "Zsolt 106,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hirtelen elfeledék cselekedeteit; nem várák az ő tanácsát!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110601400,
+                    "szep": "Zsolt 106,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Epekedés epeszté őket a pusztában, és próbára tevék Istent a sivatagon."
+            },
+            {
+                "hely": {
+                    "gepi": 12110601500,
+                    "szep": "Zsolt 106,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "És megadá nékik, a mit kivántak; és ösztövérséget bocsáta lelkökbe."
+            },
+            {
+                "hely": {
+                    "gepi": 12110601600,
+                    "szep": "Zsolt 106,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "És irigységre indulának Mózes ellen a táborban, az Úr szentje, Áron ellen."
+            },
+            {
+                "hely": {
+                    "gepi": 12110601700,
+                    "szep": "Zsolt 106,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megnyilt a föld és elnyelé Dátánt, és beborítá Abirám seregét."
+            },
+            {
+                "hely": {
+                    "gepi": 12110601800,
+                    "szep": "Zsolt 106,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "És tűz gyulladt fel azok seregében, láng égeté el a gonoszokat."
+            },
+            {
+                "hely": {
+                    "gepi": 12110601900,
+                    "szep": "Zsolt 106,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Borjút csináltak a Hóreb alatt, és hajlongtak az öntött bálvány előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12110602000,
+                    "szep": "Zsolt 106,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Felcserélték az ő dicsőségöket: ökörnek képével, a mely füvet eszik."
+            },
+            {
+                "hely": {
+                    "gepi": 12110602100,
+                    "szep": "Zsolt 106,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elfeledkezének Istenről, szabadítójokról, a ki nagy dolgokat művelt Égyiptomban,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110602200,
+                    "szep": "Zsolt 106,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csodákat a Khám országában, félelmetes dolgokat a veres tenger mellett."
+            },
+            {
+                "hely": {
+                    "gepi": 12110602300,
+                    "szep": "Zsolt 106,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gondolta, hogy kipusztítja őket; de Mózes, az ő választottja, elébe állott a résre, hogy elfordítsa haragját, hogy el ne veszítse őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12110602400,
+                    "szep": "Zsolt 106,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "És becsmérelték a kivánatos földet, nem hittek az ő igéretének."
+            },
+            {
+                "hely": {
+                    "gepi": 12110602500,
+                    "szep": "Zsolt 106,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "És morgolódtak sátraikban, és nem hallgattak az Úr szavára."
+            },
+            {
+                "hely": {
+                    "gepi": 12110602600,
+                    "szep": "Zsolt 106,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "De ő felemelé kezét reájok, hogy lesújtsa őket a pusztában;"
+            },
+            {
+                "hely": {
+                    "gepi": 12110602700,
+                    "szep": "Zsolt 106,27"
+                },
+                "jegyzetek": [],
+                "szoveg": "S hogy a pogányok közé dobja magvaikat, és szétszórja őket a tartományokban."
+            },
+            {
+                "hely": {
+                    "gepi": 12110602800,
+                    "szep": "Zsolt 106,28"
+                },
+                "jegyzetek": [],
+                "szoveg": "Majd hozzácsapódtak a Baál-Peorhoz, és ették a holtak áldozatait."
+            },
+            {
+                "hely": {
+                    "gepi": 12110602900,
+                    "szep": "Zsolt 106,29"
+                },
+                "jegyzetek": [],
+                "szoveg": "És felingerelték cselekedeteikkel, és zúdult reájok a csapás."
+            },
+            {
+                "hely": {
+                    "gepi": 12110603000,
+                    "szep": "Zsolt 106,30"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ekkor felállott Fineás és ítélt; és a csapásnak vége lőn."
+            },
+            {
+                "hely": {
+                    "gepi": 12110603100,
+                    "szep": "Zsolt 106,31"
+                },
+                "jegyzetek": [],
+                "szoveg": "És igazságul tulajdoníttaték néki firól-fira mindörökké."
+            },
+            {
+                "hely": {
+                    "gepi": 12110603200,
+                    "szep": "Zsolt 106,32"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megharagíták a Meribáh vizeinél is, és baja támadt Mózesnek miattok,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110603300,
+                    "szep": "Zsolt 106,33"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert megkeseríték az ő szívét, és gondatlanul szólt ajkaival."
+            },
+            {
+                "hely": {
+                    "gepi": 12110603400,
+                    "szep": "Zsolt 106,34"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem irtották ki a népeket sem, a mint utasította őket az Úr."
+            },
+            {
+                "hely": {
+                    "gepi": 12110603500,
+                    "szep": "Zsolt 106,35"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sőt összeelegyedtek a pogányokkal, és eltanulták cselekedeteiket."
+            },
+            {
+                "hely": {
+                    "gepi": 12110603600,
+                    "szep": "Zsolt 106,36"
+                },
+                "jegyzetek": [],
+                "szoveg": "És tisztelték azoknak bálványait, és tőrré levének azok reájok."
+            },
+            {
+                "hely": {
+                    "gepi": 12110603700,
+                    "szep": "Zsolt 106,37"
+                },
+                "jegyzetek": [],
+                "szoveg": "És feláldozák fiaikat és leányaikat az ördögöknek,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110603800,
+                    "szep": "Zsolt 106,38"
+                },
+                "jegyzetek": [],
+                "szoveg": "És ártatlan vért ontának: fiaik és leányaik vérét, a kiket Kanaán bálványainak áldoztak, és megfertőzteték a föld öldökléssel."
+            },
+            {
+                "hely": {
+                    "gepi": 12110603900,
+                    "szep": "Zsolt 106,39"
+                },
+                "jegyzetek": [],
+                "szoveg": "És tisztátalanokká lőnek cselekedeteikben, és paráznákká tetteikben."
+            },
+            {
+                "hely": {
+                    "gepi": 12110604000,
+                    "szep": "Zsolt 106,40"
+                },
+                "jegyzetek": [],
+                "szoveg": "De felgyúlt az Úr haragja népe ellen, és megútálta az ő örökségét."
+            },
+            {
+                "hely": {
+                    "gepi": 12110604100,
+                    "szep": "Zsolt 106,41"
+                },
+                "jegyzetek": [],
+                "szoveg": "És odaadá őket pogányok kezébe, és gyűlölőik uralkodtak rajtok."
+            },
+            {
+                "hely": {
+                    "gepi": 12110604200,
+                    "szep": "Zsolt 106,42"
+                },
+                "jegyzetek": [],
+                "szoveg": "És sanyargatták őket ellenségeik, és görnyedtek azoknak hatalma alatt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110604300,
+                    "szep": "Zsolt 106,43"
+                },
+                "jegyzetek": [],
+                "szoveg": "Számtalanszor megmentette őket, de ők felháboríták szándékaikkal, és mélyebben merültek bűneikbe."
+            },
+            {
+                "hely": {
+                    "gepi": 12110604400,
+                    "szep": "Zsolt 106,44"
+                },
+                "jegyzetek": [],
+                "szoveg": "De reájok tekintett a nyomorúság napján, mikor meghallgatá rimánkodásukat;"
+            },
+            {
+                "hely": {
+                    "gepi": 12110604500,
+                    "szep": "Zsolt 106,45"
+                },
+                "jegyzetek": [],
+                "szoveg": "És megemlékezett velök kötött szövetségéről, és nagy kegyelmessége szerint megengesztelődék."
+            },
+            {
+                "hely": {
+                    "gepi": 12110604600,
+                    "szep": "Zsolt 106,46"
+                },
+                "jegyzetek": [],
+                "szoveg": "És könyörületességre indítá irántok mindazokat, a kik őket fogva elvivék."
+            },
+            {
+                "hely": {
+                    "gepi": 12110604700,
+                    "szep": "Zsolt 106,47"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segíts meg minket, Urunk Istenünk, és gyűjts össze minket a pogányok közül, hogy dicsőítsük a te szent nevedet, és dicsekedjünk a te dicséreteddel."
+            },
+            {
+                "hely": {
+                    "gepi": 12110604800,
+                    "szep": "Zsolt 106,48"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott legyen az Úr, Izráel Istene örökkön örökké, és minden nép mondja: Ámen. Dicsérjétek az Urat."
+            }
+        ]
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 79"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107900000,
+                    "szep": "Zsolt 79,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ászáf zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12107900100,
+                    "szep": "Zsolt 79,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ó, Isten! Pogányok törtek örökségedre, meggyalázták szent templomodat, romhalmazzá tették Jeruzsálemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12107900200,
+                    "szep": "Zsolt 79,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szolgáid holttestét az ég madarainak adták eledelül, híveid testét a föld vadjainak."
+            },
+            {
+                "hely": {
+                    "gepi": 12107900300,
+                    "szep": "Zsolt 79,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Úgy ontották vérüket Jeruzsálem körül, mint a vizet, és nem temette el őket senki."
+            },
+            {
+                "hely": {
+                    "gepi": 12107900400,
+                    "szep": "Zsolt 79,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csúffá lettünk szomszédaink előtt, környezetünk gúnyol és kinevet."
+            },
+            {
+                "hely": {
+                    "gepi": 12107900500,
+                    "szep": "Zsolt 79,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, meddig tart még haragod? Meddig lobog tűzként indulatod?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107900600,
+                    "szep": "Zsolt 79,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Töltsd ki lángoló haragodat a pogányokon, akik nem ismernek téged, az országokon, ahol nevedet nem hívják segítségül!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107900700,
+                    "szep": "Zsolt 79,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert megemésztették Jákóbot, és lakóhelyét elpusztították."
+            },
+            {
+                "hely": {
+                    "gepi": 12107900800,
+                    "szep": "Zsolt 79,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne ródd fel nekünk az elődök bűneit, siess felénk irgalmasan, mert igen elesettek vagyunk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107900900,
+                    "szep": "Zsolt 79,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segíts meg bennünket, szabadító Istenünk, a te neved dicsőségéért! Ments meg minket, és nevedért bocsásd meg vétkeinket!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107901000,
+                    "szep": "Zsolt 79,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne mondhassák a pogányok: Hol van az ő Istenük? Legyen nyilvánvalóvá előttünk, hogy bosszút állsz a pogányokon szolgáid kiontott véréért!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107901100,
+                    "szep": "Zsolt 79,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jusson eléd a foglyok sóhajtása, tartsd meg a halálraítélteket, mert hatalmas a te karod!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107901200,
+                    "szep": "Zsolt 79,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hétszeresen fizesd vissza szomszédainknak a gyalázatot, amellyel téged illettek, Uram!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107901300,
+                    "szep": "Zsolt 79,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mi pedig, a te néped, legelődnek nyája, örökké magasztalunk téged. Nemzedékről nemzedékre mondunk dicséretet neked."
+            }
+        ]
+    }
+}

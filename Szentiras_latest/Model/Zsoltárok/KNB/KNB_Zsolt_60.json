@@ -1,0 +1,138 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 60"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106000000,
+                    "szep": "Zsolt 60,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A közösségi panaszdal a királyok korának végéről."
+                    },
+                    {
+                        "position": null,
+                        "text": "Itt jól látható, hogy a feliratokat később illesztették a zsoltárok elé, és azok nem mindig illeszkednek a zsoltár témájához. A kérdéses dávidi hadjáratok inkább örömre és ünneplésre adnának okot, mint panaszra, vö. 2 Sám 8,3.13."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. A »Liliomok« szerint.<br>Miktám Dávidtól. Tanító ének.<br>Amikor kivonult Arám Naharaim és Arám Szóba ellen, és amikor Joáb visszatért és legyőzte Edomot a Sóaknás völgyben: tizenkétezret.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12106000100,
+                    "szep": "Zsolt 60,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten, elvetettél és szerteszórtál minket,<br>haragra gerjedtél, de térj vissza hozzánk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106000200,
+                    "szep": "Zsolt 60,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Valószínűleg földrengésre céloz."
+                    }
+                ],
+                "szoveg": "Megrendítetted az országot és összetörted,<br>gyógyítsd meg sebeit, mert egyre remeg."
+            },
+            {
+                "hely": {
+                    "gepi": 12106000300,
+                    "szep": "Zsolt 60,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kemény dolgokat mutattál népednek,<br>kábító borral itattál minket."
+            },
+            {
+                "hely": {
+                    "gepi": 12106000400,
+                    "szep": "Zsolt 60,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jelt adtál a téged félőknek,<br>hogy az íjak elől megmeneküljenek."
+            },
+            {
+                "hely": {
+                    "gepi": 12106000500,
+                    "szep": "Zsolt 60,5"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. Zsolt 108,7-14."
+                    }
+                ],
+                "szoveg": "Hogy szeretteid megszabaduljanak,<br>szabadíts meg jobboddal és hallgass meg minket!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106000600,
+                    "szep": "Zsolt 60,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szent helyén így szól Isten:<br>»Örvendezve kiosztom Szíchemet,<br>kimérem Szukkót völgyét nektek."
+            },
+            {
+                "hely": {
+                    "gepi": 12106000700,
+                    "szep": "Zsolt 60,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Enyém Gileád és enyém Manassze,<br>és Efraim fejem sisakja.<br>Júda az én jogaram,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106000800,
+                    "szep": "Zsolt 60,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Moáb a tál, amelyben mosakszom.<br>Edomra vetem sarumat,<br>a filiszteusok hódolnak nekem.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12106000900,
+                    "szep": "Zsolt 60,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki visz el engem az erős városba?<br>Ki vezet el engem Edomba?"
+            },
+            {
+                "hely": {
+                    "gepi": 12106001000,
+                    "szep": "Zsolt 60,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nemde te, Isten, bár elvetettél minket,<br>te, Isten, bár nem vonultál ki seregeinkkel?"
+            },
+            {
+                "hely": {
+                    "gepi": 12106001100,
+                    "szep": "Zsolt 60,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segíts ki minket a szorongatásból,<br>mert hiábavaló az emberi segítség,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106001200,
+                    "szep": "Zsolt 60,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "de Istennel győzelmet aratunk,<br>s ő eltapossa ellenségeinket."
+            }
+        ]
+    }
+}

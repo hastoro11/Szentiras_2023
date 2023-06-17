@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 130"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113000000,
+                    "szep": "Zsolt 130,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Grádicsok éneke."
+            },
+            {
+                "hely": {
+                    "gepi": 12113000100,
+                    "szep": "Zsolt 130,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "A mélységből kiáltok hozzád, Uram!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113000200,
+                    "szep": "Zsolt 130,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, hallgasd meg az én szómat; legyenek füleid figyelmetesek könyörgő szavamra!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113000300,
+                    "szep": "Zsolt 130,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha a bűnöket számon tartod, Uram: Uram, kicsoda maradhat meg?!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113000400,
+                    "szep": "Zsolt 130,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen te nálad van a bocsánat, hogy féljenek téged!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113000500,
+                    "szep": "Zsolt 130,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Várom az Urat, várja az én lelkem, és bízom az ő igéretében."
+            },
+            {
+                "hely": {
+                    "gepi": 12113000600,
+                    "szep": "Zsolt 130,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Várja lelkem az Urat, jobban, mint az őrök a reggelt, az őrök a reggelt."
+            },
+            {
+                "hely": {
+                    "gepi": 12113000700,
+                    "szep": "Zsolt 130,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bízzál Izráel az Úrban, mert az Úrnál van a kegyelem, és bőséges nála a szabadítás!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113000800,
+                    "szep": "Zsolt 130,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meg is szabadítja ő Izráelt minden ő bűnéből."
+            }
+        ]
+    }
+}

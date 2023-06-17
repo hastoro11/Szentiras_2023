@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 100"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12110000000,
+                    "szep": "Zsolt 100,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hálaadó zsoltár."
+            },
+            {
+                "hely": {
+                    "gepi": 12110000100,
+                    "szep": "Zsolt 100,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vígan énekelj az Úrnak te egész föld!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110000200,
+                    "szep": "Zsolt 100,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szolgáljatok az Úrnak örvendezéssel; menjetek eléje vígassággal."
+            },
+            {
+                "hely": {
+                    "gepi": 12110000300,
+                    "szep": "Zsolt 100,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tudjátok meg, hogy az Úr az Isten; ő alkotott minket és nem magunk; az ő népe és az ő legelőinek juhai vagyunk."
+            },
+            {
+                "hely": {
+                    "gepi": 12110000400,
+                    "szep": "Zsolt 100,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Menjetek be az ő kapuin hálaadással, tornáczaiba dicséretekkel; adjatok hálákat néki, áldjátok az ő nevét!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110000500,
+                    "szep": "Zsolt 100,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert jó az Úr, örökkévaló az ő kegyelme, és nemzedékről nemzedékre való az ő hűsége!"
+            }
+        ]
+    }
+}

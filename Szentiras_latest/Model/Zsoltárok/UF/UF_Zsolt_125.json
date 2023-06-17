@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 125"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112500000,
+                    "szep": "Zsolt 125,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zarándokének."
+            },
+            {
+                "hely": {
+                    "gepi": 12112500100,
+                    "szep": "Zsolt 125,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akik az ÚRban bíznak, olyanok, mint a Sion hegye, amely nem inog, hanem örökre megáll."
+            },
+            {
+                "hely": {
+                    "gepi": 12112500200,
+                    "szep": "Zsolt 125,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jeruzsálemet hegyek fogják körül, népét pedig az ÚR karolja át most és mindörökké."
+            },
+            {
+                "hely": {
+                    "gepi": 12112500300,
+                    "szep": "Zsolt 125,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nem maradhat a bűnösök uralma az igazak örökségén, nehogy az igazak is álnokságra vetemedjenek."
+            },
+            {
+                "hely": {
+                    "gepi": 12112500400,
+                    "szep": "Zsolt 125,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tégy jót, URam, a jókkal, az igaz szívűekkel!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112500500,
+                    "szep": "Zsolt 125,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A görbe útra térőket pedig juttassa az ÚR a gonosztevők sorsára! Békesség legyen Izráelben!"
+            }
+        ]
+    }
+}

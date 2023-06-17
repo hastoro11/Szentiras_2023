@@ -1,0 +1,107 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 87"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108700000,
+                    "szep": "Zsolt 87,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Fogság utáni zarándok ének, amelyben a közösség a Siont magasztalja (vö. 76,2-4)."
+                    },
+                    {
+                        "position": null,
+                        "text": "Isten kedveli Siont, jobban mint bármi más szentélyt (»jobban, mint Jákob többi hajlékát«: utalás a szamaritánusokkal való vitára)."
+                    }
+                ],
+                "szoveg": "<em>Kóré fiainak zsoltára. Ének.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12108700100,
+                    "szep": "Zsolt 87,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Fogság utáni zarándok ének, amelyben a közösség a Siont magasztalja (vö. 76,2-4)."
+                    },
+                    {
+                        "position": null,
+                        "text": "Isten kedveli Siont, jobban mint bármi más szentélyt (»jobban, mint Jákob többi hajlékát«: utalás a szamaritánusokkal való vitára)."
+                    }
+                ],
+                "szoveg": "Szent hegyeken vetette meg alapjait,"
+            },
+            {
+                "hely": {
+                    "gepi": 12108700200,
+                    "szep": "Zsolt 87,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "jobban szereti Sion kapuit az Úr,<br>mint Jákob többi hajlékát."
+            },
+            {
+                "hely": {
+                    "gepi": 12108700300,
+                    "szep": "Zsolt 87,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsőséges dolgokat mond rólad, Isten városa!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108700400,
+                    "szep": "Zsolt 87,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Prófétai szó hirdeti majd Sion szerepét a népek végidei békéjében (vö. Iz 19,24-25). Mindnyájan meg fogják ismerni Izrael Istenét."
+                    }
+                ],
+                "szoveg": "Ráhábot és Babilont azok között említem,<br>akik ismernek engem;<br>Íme Filisztea, Tírusz és Etiópia népe:<br>mind ott született."
+            },
+            {
+                "hely": {
+                    "gepi": 12108700500,
+                    "szep": "Zsolt 87,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sionról mondják majd:<br>»Ez is, az is ott született,<br>és maga a Fölséges erősíti meg.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12108700600,
+                    "szep": "Zsolt 87,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A próféta látja: Isten összeírja a népeket, Sionhoz rendeli őket, így ad nekik polgárjogot népe körében."
+                    }
+                ],
+                "szoveg": "Bejegyzi majd az Úr, a népek könyvébe:<br>»Ezek itt születtek.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12108700700,
+                    "szep": "Zsolt 87,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Körtáncban fogják majd énekelni:<br>»Minden forrásom tebenned fakad.«"
+            }
+        ]
+    }
+}

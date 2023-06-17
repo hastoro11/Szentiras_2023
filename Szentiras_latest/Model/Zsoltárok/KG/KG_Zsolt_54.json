@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 54"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105400000,
+                    "szep": "Zsolt 54,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek, hangszerekkel; Dávid tanítása; Mikor a Zifeusok eljöttek, és azt mondák Saulnak: Nem mi nálunk lappang-é Dávid?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105400100,
+                    "szep": "Zsolt 54,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten, a te neveddel szabadíts meg engemet, és a te hatalmasságoddal állj bosszút értem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105400200,
+                    "szep": "Zsolt 54,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten, hallgasd meg az én imádságomat, figyelmezz az én szájam beszédeire."
+            },
+            {
+                "hely": {
+                    "gepi": 12105400300,
+                    "szep": "Zsolt 54,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert idegenek támadtak ellenem, és kegyetlenek keresik lelkemet, a kik nem is gondolnak Istenre. Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12105400400,
+                    "szep": "Zsolt 54,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ímé, Isten segítőm nékem, az Úr az én lelkemnek támogatója."
+            },
+            {
+                "hely": {
+                    "gepi": 12105400500,
+                    "szep": "Zsolt 54,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bosszút áll az utánam leselkedőkön; a te igazságod által rontsd meg őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12105400600,
+                    "szep": "Zsolt 54,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kész szívvel áldozom néked: áldom a te nevedet, Uram, mert jó."
+            },
+            {
+                "hely": {
+                    "gepi": 12105400700,
+                    "szep": "Zsolt 54,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert minden nyomorúságból megszabadított engem, s megpihentette szemeimet ellenségeimen."
+            }
+        ]
+    }
+}

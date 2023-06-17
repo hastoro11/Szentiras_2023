@@ -1,0 +1,47 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 134"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113400000,
+                    "szep": "Zsolt 134,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Grádicsok éneke."
+            },
+            {
+                "hely": {
+                    "gepi": 12113400100,
+                    "szep": "Zsolt 134,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nosza, áldjátok az Urat mind, ti szolgái az Úrnak, a kik az Úr házában álltok éjjelente!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113400200,
+                    "szep": "Zsolt 134,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emeljétek fel kezeiteket a szenthelyen, és áldjátok az Urat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113400300,
+                    "szep": "Zsolt 134,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjon meg téged az Úr a Sionról, a ki teremtette az eget és a földet!"
+            }
+        ]
+    }
+}

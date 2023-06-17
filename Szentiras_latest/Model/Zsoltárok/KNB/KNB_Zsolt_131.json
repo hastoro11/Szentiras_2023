@@ -1,0 +1,57 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 131"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113100000,
+                    "szep": "Zsolt 131,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni ima, a zsoltáros valószínűleg a fogság után él. Elmondja magáról, hogy hogyan látja önmagát Isten előtt. A megalázottak közé sorolja magát, azokhoz, akik semmit nem tudnak felmutatni, csak hallgatnak, és mindent várnak."
+                    }
+                ],
+                "szoveg": "<em>Zarándok-ének. Dávidtól.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12113100100,
+                    "szep": "Zsolt 131,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni ima, a zsoltáros valószínűleg a fogság után él. Elmondja magáról, hogy hogyan látja önmagát Isten előtt. A megalázottak közé sorolja magát, azokhoz, akik semmit nem tudnak felmutatni, csak hallgatnak, és mindent várnak."
+                    }
+                ],
+                "szoveg": "Uram, nem fuvalkodik fel szívem,<br>és nem néz magasra szemem,<br>nem járok nagy dolgok után,<br>erőmet meghaladó csodák után,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113100200,
+                    "szep": "Zsolt 131,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "hanem megnyugtattam<br>és elcsöndesítettem lelkemet.<br>Mint a gyermek anyja ölén,<br>mint a kisgyermek, olyan most a lelkem."
+            },
+            {
+                "hely": {
+                    "gepi": 12113100300,
+                    "szep": "Zsolt 131,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bízzon Izrael az Úrban,<br>most és mindörökké."
+            }
+        ]
+    }
+}

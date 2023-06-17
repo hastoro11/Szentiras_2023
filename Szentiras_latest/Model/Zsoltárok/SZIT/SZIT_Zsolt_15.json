@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 15"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101500000,
+                    "szep": "Zsolt 15,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Dávid zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12101500100,
+                    "szep": "Zsolt 15,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki időzhet sátradban, Uram, ki lakhat szent hegyeden?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101500200,
+                    "szep": "Zsolt 15,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki bűn nélkül él, a jót teszi, szívében az igazságot forgatja,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101500300,
+                    "szep": "Zsolt 15,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "és a nyelve nem szór rágalmakat. Aki barátjának nem okoz szenvedést, embertársát nem gyalázza,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101500400,
+                    "szep": "Zsolt 15,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "a gonoszt nem veszi sokba, azt tiszteli, ki az Urat féli. Aki nem szegi esküjét, még ha veszt is rajta,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101500500,
+                    "szep": "Zsolt 15,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "pénzét nem adja uzsorakamatra, s nem hagyja magát ártatlanok kárára megvesztegetni. Aki így cselekszik, soha meg nem rendül."
+            }
+        ]
+    }
+}

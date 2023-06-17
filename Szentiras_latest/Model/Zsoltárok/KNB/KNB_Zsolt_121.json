@@ -1,0 +1,115 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 121"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112100000,
+                    "szep": "Zsolt 121,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zsoltár válaszos zarándok-ének, vagy a liturgia része (a papok és a zarándokok párbeszéde, amint a templomtól búcsúznak). Jelenlegi formáját a fogság után nyerte el."
+                    },
+                    {
+                        "position": null,
+                        "text": "Aki a templomhoz zarándokol vagy onnan hazatér, annak át kell kelnie a veszélyes júdeai hegyeken."
+                    }
+                ],
+                "szoveg": "<em>Zarándok-ének.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12112100100,
+                    "szep": "Zsolt 121,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zsoltár válaszos zarándok-ének, vagy a liturgia része (a papok és a zarándokok párbeszéde, amint a templomtól búcsúznak). Jelenlegi formáját a fogság után nyerte el."
+                    },
+                    {
+                        "position": null,
+                        "text": "Aki a templomhoz zarándokol vagy onnan hazatér, annak át kell kelnie a veszélyes júdeai hegyeken."
+                    }
+                ],
+                "szoveg": "Szememet a hegyekre emelem:<br>honnan jön segítségem?"
+            },
+            {
+                "hely": {
+                    "gepi": 12112100200,
+                    "szep": "Zsolt 121,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A felelet (a papé ?) hitvallás: az ég és föld Teremtője minden embert megsegít."
+                    }
+                ],
+                "szoveg": "Az Úr ad nekem segítséget,<br>aki az eget és a földet alkotta."
+            },
+            {
+                "hely": {
+                    "gepi": 12112100300,
+                    "szep": "Zsolt 121,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne engedje meginogni lábadat,<br>és ne szunnyadjon, aki téged őriz!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112100400,
+                    "szep": "Zsolt 121,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony nem szunnyad és nem alszik,<br>aki Izraelt őrzi."
+            },
+            {
+                "hely": {
+                    "gepi": 12112100500,
+                    "szep": "Zsolt 121,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr a te őrződ, az Úr oltalmaz téged,<br>ő áll jobbod felől."
+            },
+            {
+                "hely": {
+                    "gepi": 12112100600,
+                    "szep": "Zsolt 121,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem árt neked nappal a nap,<br>sem éjszaka a hold."
+            },
+            {
+                "hely": {
+                    "gepi": 12112100700,
+                    "szep": "Zsolt 121,7"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Papi áldás."
+                    }
+                ],
+                "szoveg": "Megőriz téged az Úr minden bajtól,<br>megőrzi az Úr lelkedet,"
+            },
+            {
+                "hely": {
+                    "gepi": 12112100800,
+                    "szep": "Zsolt 121,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megőrzi az Úr jártadat-keltedet<br>most és mindörökké."
+            }
+        ]
+    }
+}

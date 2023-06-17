@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 20"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102000000,
+                    "szep": "Zsolt 20,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek; Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12102000100,
+                    "szep": "Zsolt 20,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgasson meg téged az Úr a szükség idején; oltalmazzon meg téged a Jákób Istenének neve."
+            },
+            {
+                "hely": {
+                    "gepi": 12102000200,
+                    "szep": "Zsolt 20,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Küldjön néked segítséget a szent helyről; és a Sionból támogasson téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12102000300,
+                    "szep": "Zsolt 20,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emlékezzék meg minden ételáldozatodról, és égőáldozataidat találja kövéreknek. Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12102000400,
+                    "szep": "Zsolt 20,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Cselekedjék veled szíved szerint, és teljesítse minden szándékodat."
+            },
+            {
+                "hely": {
+                    "gepi": 12102000500,
+                    "szep": "Zsolt 20,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy örvendhessünk a te szabadulásodban, és a mi Istenünk nevében zászlót lobogtassunk: teljesítse az Úr minden kérésedet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102000600,
+                    "szep": "Zsolt 20,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Most tudom, hogy az Úr megsegíti felkentjét; meghallgatja őt szent egeiből jobbjának segítő erejével."
+            },
+            {
+                "hely": {
+                    "gepi": 12102000700,
+                    "szep": "Zsolt 20,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezek szekerekben, amazok lovakban bíznak; mi pedig az Úrnak, a mi Istenünknek nevéről emlékezünk meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12102000800,
+                    "szep": "Zsolt 20,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azok meghanyatlanak és elesnek; mi pedig felkelünk és megállunk."
+            },
+            {
+                "hely": {
+                    "gepi": 12102000900,
+                    "szep": "Zsolt 20,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, segítsd meg a királyt! Hallgasson meg minket, mikor kiáltunk hozzá."
+            }
+        ]
+    }
+}

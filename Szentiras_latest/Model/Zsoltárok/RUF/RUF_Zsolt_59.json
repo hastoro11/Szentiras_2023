@@ -1,0 +1,159 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 59"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105900000,
+                    "szep": "Zsolt 59,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: A „Ne veszíts el” kezdetű ének dallamára. Dávid bizonyságtétele abból az időből, amikor Saul embereket küldött, hogy tartsák szemmel a házát, és öljék meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12105900100,
+                    "szep": "Zsolt 59,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ments meg ellenségeimtől, Istenem, védj meg támadóimtól!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105900200,
+                    "szep": "Zsolt 59,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ments meg a gonosztevőktől, szabadíts meg a vérszomjas emberektől!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105900300,
+                    "szep": "Zsolt 59,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ólálkodnak körülöttem, életemre törnek a hatalmasok, pedig se bűnöm, se vétkem, ó, URam!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105900400,
+                    "szep": "Zsolt 59,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bár nincs semmi bűnöm, sietnek, hogy rám rontsanak. Serkenj föl, jöjj ide, láss meg!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105900500,
+                    "szep": "Zsolt 59,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen te vagy, URam, a Seregek Istene, Izráel Istene! Ébredj föl, büntesd meg e népeket, ne kegyelmezz az alávaló gonoszoknak! (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12105900600,
+                    "szep": "Zsolt 59,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Esténként visszatérnek, morognak, mint a kutyák, csatangolnak a városban."
+            },
+            {
+                "hely": {
+                    "gepi": 12105900700,
+                    "szep": "Zsolt 59,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szájuk tajtékzik, ajkuk között mintha kardok volnának. Azt gondolják, nem hallja őket senki."
+            },
+            {
+                "hely": {
+                    "gepi": 12105900800,
+                    "szep": "Zsolt 59,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "De te, URam, nevetsz rajtuk, csúffá teszed e népeket."
+            },
+            {
+                "hely": {
+                    "gepi": 12105900900,
+                    "szep": "Zsolt 59,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te vagy az én erőm, rád figyelek, Isten az én erős váram."
+            },
+            {
+                "hely": {
+                    "gepi": 12105901000,
+                    "szep": "Zsolt 59,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szeretetével jön felém Istenem. Még megengedi Isten, hogy lássam ellenségeim vesztét."
+            },
+            {
+                "hely": {
+                    "gepi": 12105901100,
+                    "szep": "Zsolt 59,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne öld meg őket, hogy népem ne felejtsen! Tedd őket bujdosókká hatalmaddal, taszítsd el őket, Uram, mi pajzsunk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105901200,
+                    "szep": "Zsolt 59,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ejtse őket csapdába gőgjük, vétkes szájuk és ajkuk beszéde, hiszen csupa átok és hazugság, amit beszélnek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105901300,
+                    "szep": "Zsolt 59,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Végezz velük haragodban! Végezz velük, hogy ne legyenek! Hadd tudják meg az egész földön, hogy Isten uralkodik Jákóbon! (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12105901400,
+                    "szep": "Zsolt 59,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Esténként visszatérnek, morognak, mint a kutyák, csatangolnak a városban."
+            },
+            {
+                "hely": {
+                    "gepi": 12105901500,
+                    "szep": "Zsolt 59,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ennivaló után kóborolnak, és ha nem laknak jól, vonítanak."
+            },
+            {
+                "hely": {
+                    "gepi": 12105901600,
+                    "szep": "Zsolt 59,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én pedig hatalmadról énekelek, magasztalom minden reggel hűségedet. Mert erős váram vagy, menedékem, mikor bajba jutok."
+            },
+            {
+                "hely": {
+                    "gepi": 12105901700,
+                    "szep": "Zsolt 59,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te vagy az én erőm, rólad zeng énekem. Erős váram az Isten, az én hűséges Istenem!"
+            }
+        ]
+    }
+}

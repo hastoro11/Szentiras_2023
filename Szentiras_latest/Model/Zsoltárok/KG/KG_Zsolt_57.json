@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 57"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105700000,
+                    "szep": "Zsolt 57,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek az altashétre; Dávid miktámja; mikor Saul elől a barlangba menekült."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700100,
+                    "szep": "Zsolt 57,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörülj rajtam, oh Isten könyörülj rajtam, mert benned bízik az én lelkem; és szárnyaid árnyékába menekülök, a míg elvonulnak a veszedelmek."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700200,
+                    "szep": "Zsolt 57,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "A magasságos Istenhez kiáltok; Istenhez, a ki jót végez felőlem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700300,
+                    "szep": "Zsolt 57,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elküld a mennyből és megtart engem: meggyalázza az engem elnyelőt. Szela. Elküldi Isten az ő kegyelmét és hűségét."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700400,
+                    "szep": "Zsolt 57,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az én lelkem oroszlánok között van, tűzokádók között fekszem; emberek között, a kiknek foguk dárda és nyilak, nyelvök pedig éles szablya."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700500,
+                    "szep": "Zsolt 57,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaltassál fel az egek felett, oh Isten! Mind az egész földön legyen a te dicsőséged!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105700600,
+                    "szep": "Zsolt 57,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hálót készítettek lábaimnak, lelkem meggörnyedett; vermet ástak én előttem, de ők estek abba. Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700700,
+                    "szep": "Zsolt 57,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kész az én szívem, oh Isten, kész az én szívem; hadd énekeljek és zengedezzek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105700800,
+                    "szep": "Zsolt 57,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Serkenj fel én dicsőségem, serkenj fel te lant és hárfa, hadd költsem fel a hajnalt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105700900,
+                    "szep": "Zsolt 57,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hálát adok néked, én Uram, a népek között, és zengedezek néked a nemzetek között."
+            },
+            {
+                "hely": {
+                    "gepi": 12105701000,
+                    "szep": "Zsolt 57,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nagy az egekig a te kegyelmed, és a felhőkig a te hűséged."
+            },
+            {
+                "hely": {
+                    "gepi": 12105701100,
+                    "szep": "Zsolt 57,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaltassál fel az egek felett, oh Isten! Mind az egész földön legyen a te dicsőséged!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,199 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 34"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103400000,
+                    "szep": "Zsolt 34,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Dávidtól, amikor Abimelech előtt őrültséget színlelt, s ez szabadon engedte, ő pedig eltávozott.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12103400100,
+                    "szep": "Zsolt 34,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsőítem az Urat minden időben, dicsérete ajkamon marad mindig."
+            },
+            {
+                "hely": {
+                    "gepi": 12103400200,
+                    "szep": "Zsolt 34,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkem dicsekedjék az Úrban, hadd hallják meg a szegények és örüljenek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103400300,
+                    "szep": "Zsolt 34,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Velem együtt magasztaljátok az Urat, áldjuk a nevét mindannyian!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103400400,
+                    "szep": "Zsolt 34,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kerestem az Urat és ő meghallgatott, kimentett engem minden bajból."
+            },
+            {
+                "hely": {
+                    "gepi": 12103400500,
+                    "szep": "Zsolt 34,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nézzetek rá és öröm tölti el lelketek, s arcotok nem fog elpirulni."
+            },
+            {
+                "hely": {
+                    "gepi": 12103400600,
+                    "szep": "Zsolt 34,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lám, egy szegény kiáltott s az Úr meghallgatta, minden szorongatásból kiszabadította."
+            },
+            {
+                "hely": {
+                    "gepi": 12103400700,
+                    "szep": "Zsolt 34,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr angyala védőfalat emel, s körülveszi az igazat, hogy oltalmazza."
+            },
+            {
+                "hely": {
+                    "gepi": 12103400800,
+                    "szep": "Zsolt 34,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ízleljétek és lássátok, mily jóságos az Úr! Boldog az ember, ki hozzá menekül."
+            },
+            {
+                "hely": {
+                    "gepi": 12103400900,
+                    "szep": "Zsolt 34,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Féljétek az Urat, ti szentjei, akik őt félik, nem szenvednek hiányt."
+            },
+            {
+                "hely": {
+                    "gepi": 12103401000,
+                    "szep": "Zsolt 34,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A fiatal oroszlán nyomorog és koplal, de akik az Urat keresik, nem szűkölködnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12103401100,
+                    "szep": "Zsolt 34,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gyertek, fiaim, és hallgassatok rám, az Úr félelmére tanítalak titeket."
+            },
+            {
+                "hely": {
+                    "gepi": 12103401200,
+                    "szep": "Zsolt 34,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki az, aki élni akar? Ki kíván sok évet, hogy élvezze a boldogságot?"
+            },
+            {
+                "hely": {
+                    "gepi": 12103401300,
+                    "szep": "Zsolt 34,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Őrizd nyelvedet a gonoszságtól, s ajkadat az álnok beszédtől!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103401400,
+                    "szep": "Zsolt 34,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hagyd el a rosszat és válaszd a jót, keresd a békét és járj a nyomában!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103401500,
+                    "szep": "Zsolt 34,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr szeme az igazakra tekint, füle meghallja kiáltásukat."
+            },
+            {
+                "hely": {
+                    "gepi": 12103401600,
+                    "szep": "Zsolt 34,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "De a gonoszoktól elfordítja arcát, s eltörli emléküket a földön."
+            },
+            {
+                "hely": {
+                    "gepi": 12103401700,
+                    "szep": "Zsolt 34,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az igazak kiáltottak, s az Úr meghallotta, megmentette őket minden bajtól."
+            },
+            {
+                "hely": {
+                    "gepi": 12103401800,
+                    "szep": "Zsolt 34,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "A megtört szívűekhez közel van az Úr, a bánatos lelkűt meggyógyítja."
+            },
+            {
+                "hely": {
+                    "gepi": 12103401900,
+                    "szep": "Zsolt 34,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sokféle szenvedést ismer meg az igaz, de az Úr mindből kiszabadítja."
+            },
+            {
+                "hely": {
+                    "gepi": 12103402000,
+                    "szep": "Zsolt 34,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr megőrzi minden tagját, hogy egy se zúzódjék szét."
+            },
+            {
+                "hely": {
+                    "gepi": 12103402100,
+                    "szep": "Zsolt 34,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gonoszság halálba sodorja a bűnösöket s akik gyűlölik az igazat, megbűnhődnek érte."
+            },
+            {
+                "hely": {
+                    "gepi": 12103402200,
+                    "szep": "Zsolt 34,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "A hűségeseknek az Úr megmenti lelkét, aki hozzá menekül, azt nem érheti kár."
+            }
+        ]
+    }
+}

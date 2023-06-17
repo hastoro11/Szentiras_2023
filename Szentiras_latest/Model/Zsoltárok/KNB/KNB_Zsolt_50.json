@@ -1,0 +1,240 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 50"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105000000,
+                    "szep": "Zsolt 50,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Prófétai intő beszéd, a királyok korának vége felé keletkezett, és a liturgikus használat ágyazta be a hagyományba. Izrael összegyülekezik az istentiszteletre: a hívők készek arra, hogy a törvény szerint áldozatot mutassanak be Istennek, szó szerint teljesítve az előírásokat. Álszent viselkedésük miatt azonban veszélybe kerülnek: áldozatokat mutatnak be, a szövetségről beszélnek, de közben a tetteik nincsenek összhangban mindezzel, így magukra vonják Isten haragját. Ászáf (1) egy énekes céh megalapítója, az egyetlen, amely megmaradt a fogság után is (Ezdr 2,41). Ők írták le a 73-83. zsoltárokat."
+                    },
+                    {
+                        "position": null,
+                        "text": "A közösség összegyűlt az ünnepi istentiszteletre a templomban. Dicsőítő énekeket énekelnek, áldozatokat mutatnak be, hogy bizonyítsák a szövetséghez való hűségüket. Ekkor Isten megmutatkozik nekik viharban és villámban. Meghatározza, hogyan kell Izraelnek megtartania a szövetséget."
+                    }
+                ],
+                "szoveg": "<em>Ászáf zsoltára.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12105000100,
+                    "szep": "Zsolt 50,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Prófétai intő beszéd, a királyok korának vége felé keletkezett, és a liturgikus használat ágyazta be a hagyományba. Izrael összegyülekezik az istentiszteletre: a hívők készek arra, hogy a törvény szerint áldozatot mutassanak be Istennek, szó szerint teljesítve az előírásokat. Álszent viselkedésük miatt azonban veszélybe kerülnek: áldozatokat mutatnak be, a szövetségről beszélnek, de közben a tetteik nincsenek összhangban mindezzel, így magukra vonják Isten haragját. Ászáf (1) egy énekes céh megalapítója, az egyetlen, amely megmaradt a fogság után is (Ezdr 2,41). Ők írták le a 73-83. zsoltárokat."
+                    },
+                    {
+                        "position": null,
+                        "text": "A közösség összegyűlt az ünnepi istentiszteletre a templomban. Dicsőítő énekeket énekelnek, áldozatokat mutatnak be, hogy bizonyítsák a szövetséghez való hűségüket. Ekkor Isten megmutatkozik nekik viharban és villámban. Meghatározza, hogyan kell Izraelnek megtartania a szövetséget."
+                    }
+                ],
+                "szoveg": "Szól az Úr, az istenek Istene,<br>és szólítja a földet<br>napkelettől napnyugatig."
+            },
+            {
+                "hely": {
+                    "gepi": 12105000200,
+                    "szep": "Zsolt 50,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Felragyog Sionból ékes szépséggel az Isten."
+            },
+            {
+                "hely": {
+                    "gepi": 12105000300,
+                    "szep": "Zsolt 50,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jön íme, Isten,<br>íme, jön a mi Istenünk és nem hallgat:<br>színe előtt emésztő tűz,<br>körülötte hatalmas förgeteg."
+            },
+            {
+                "hely": {
+                    "gepi": 12105000400,
+                    "szep": "Zsolt 50,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szólítja onnan felülről az eget<br>s a földet, hogy népe fölött ítélkezzék:"
+            },
+            {
+                "hely": {
+                    "gepi": 12105000500,
+                    "szep": "Zsolt 50,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "»Gyűjtsétek elém szentjeimet,<br>akik az áldozatban szövetségre léptek velem.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12105000600,
+                    "szep": "Zsolt 50,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igazságát hirdetik az egek,<br>mert Isten tart ítéletet."
+            },
+            {
+                "hely": {
+                    "gepi": 12105000700,
+                    "szep": "Zsolt 50,7"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Isten vádbeszéde, vö. Óz 6,6; Mt 9,13; 12,7. A beszédben nem konkrét szemrehányások hangzanak el, inkább a feltételeket tisztázza."
+                    }
+                ],
+                "szoveg": "»Halljad én népem, hadd beszéljek,<br>Izrael, hadd tegyek bizonyságot ellened:<br>Én Isten, a te Istened vagyok."
+            },
+            {
+                "hely": {
+                    "gepi": 12105000800,
+                    "szep": "Zsolt 50,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem áldozataidért perelek veled,<br>hisz égő áldozataid folyton előttem vannak."
+            },
+            {
+                "hely": {
+                    "gepi": 12105000900,
+                    "szep": "Zsolt 50,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem veszek el házadból fiatal bikákat,<br>sem nyájaidból kecskebakokat."
+            },
+            {
+                "hely": {
+                    "gepi": 12105001000,
+                    "szep": "Zsolt 50,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert enyém az erdő minden vadja,<br>az állatok ezrei a hegyekben."
+            },
+            {
+                "hely": {
+                    "gepi": 12105001100,
+                    "szep": "Zsolt 50,11"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A görög szöveg alapján javítva (a héber szövegben: a hegy madarai)."
+                    }
+                ],
+                "szoveg": "Ismerem az ég minden madarát,<br>és ami csak mozog a mezőn, az enyém."
+            },
+            {
+                "hely": {
+                    "gepi": 12105001200,
+                    "szep": "Zsolt 50,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha éheznék, nem kellene neked szólnom,<br>mert enyém a földkerekség, s mindaz, ami betölti."
+            },
+            {
+                "hely": {
+                    "gepi": 12105001300,
+                    "szep": "Zsolt 50,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Eszem-e én a bikák húsát,<br>iszom-e én a kecskebakok vérét?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105001400,
+                    "szep": "Zsolt 50,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicséretet mutass be áldozatul Istennek,<br>és teljesítsd fogadalmaidat a Fölségesnek;"
+            },
+            {
+                "hely": {
+                    "gepi": 12105001500,
+                    "szep": "Zsolt 50,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hívj segítségül a szorongatás napján:<br>megmentelek, és te dicsérni fogsz engem.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12105001600,
+                    "szep": "Zsolt 50,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "A bűnöshöz azonban így szól az Isten:<br>»Miért beszélsz te parancsolataimról,<br>s miért veszed szádra szövetségemet?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105001700,
+                    "szep": "Zsolt 50,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen te gyűlölöd a fegyelmet,<br>és hátad mögé veted szavaimat."
+            },
+            {
+                "hely": {
+                    "gepi": 12105001800,
+                    "szep": "Zsolt 50,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha tolvajt láttál, vele tartottál,<br>házasságtörőkkel közösködtél."
+            },
+            {
+                "hely": {
+                    "gepi": 12105001900,
+                    "szep": "Zsolt 50,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szád gonoszságot árasztott,<br>és nyelved csalárdságot szőtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12105002000,
+                    "szep": "Zsolt 50,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Leültél és testvéred ellen beszéltél,<br>és gáncsot vetettél anyád fia elé."
+            },
+            {
+                "hely": {
+                    "gepi": 12105002100,
+                    "szep": "Zsolt 50,21"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Összefoglalás: a bűnösök a harag szavait, a becsületesek a szent Isten szabadításának ígéretét kapják."
+                    }
+                ],
+                "szoveg": "Így cselekedtél, s mivel én hallgattam,<br>azt hitted, hogy olyan vagyok, mint te.<br>Pedig perbeszállok veled és mindezt felhozom ellened."
+            },
+            {
+                "hely": {
+                    "gepi": 12105002200,
+                    "szep": "Zsolt 50,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Értsétek meg ezt ti, akik megfeledkeztek Istenről,<br>nehogy védtelenek legyetek, amikor elragadlak titeket!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105002300,
+                    "szep": "Zsolt 50,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki a dicséret áldozatát mutatja be, az tisztel engem,<br>és aki bűntelenül jár az úton, annak mutatom meg Isten üdvösségét.«"
+            }
+        ]
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 75"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107500000,
+                    "szep": "Zsolt 75,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek a „Ne töröld el” szerint – Aszaf zsoltára, ének.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12107500100,
+                    "szep": "Zsolt 75,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldunk téged, Isten, áldunk téged, dicsérjük neved és hirdetjük csodatetteid!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107500200,
+                    "szep": "Zsolt 75,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Amikor majd az időt jónak látom, akkor ítélkezem, az igazság szerint."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500300,
+                    "szep": "Zsolt 75,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha inog is a föld, minden lakójával, erősen tartom oszlopait."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500400,
+                    "szep": "Zsolt 75,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A dicsekvőnek azt mondom: „Hagyd a dicsekvést!” Az istentelennek: „Ne emeld föl a fejed!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107500500,
+                    "szep": "Zsolt 75,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne hordjátok fenn a fejeteket, ne beszéljetek büszkén kinyújtott nyakkal!”"
+            },
+            {
+                "hely": {
+                    "gepi": 12107500600,
+                    "szep": "Zsolt 75,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nem keletről és nem nyugatról, nem a pusztából és nem a hegyek közül:"
+            },
+            {
+                "hely": {
+                    "gepi": 12107500700,
+                    "szep": "Zsolt 75,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem, Istentől jön az ítélet! Az egyiket megalázza, a másikat fölemeli."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500800,
+                    "szep": "Zsolt 75,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert serleg van az Úr kezében, tele van habzó borral, mámorító borral. Kiönti, s még a seprőt is föl kell szürcsölniük, meg kell inniuk azoknak, akik gonoszok a földön."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500900,
+                    "szep": "Zsolt 75,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én azonban mindörökre ujjonghatok, énekelhetek Jákob Istenének."
+            },
+            {
+                "hely": {
+                    "gepi": 12107501000,
+                    "szep": "Zsolt 75,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A bűnösök szarvát letördelem, ám az igazak feje fölemelkedik."
+            }
+        ]
+    }
+}

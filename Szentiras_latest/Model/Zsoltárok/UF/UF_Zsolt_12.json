@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 12"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101200000,
+                    "szep": "Zsolt 12,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Mély hangra. Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12101200100,
+                    "szep": "Zsolt 12,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segíts, URam, mert elfogytak a kegyesek, eltűntek a hívek az emberek közül."
+            },
+            {
+                "hely": {
+                    "gepi": 12101200200,
+                    "szep": "Zsolt 12,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hazug módon beszélnek egymással, sima szájjal, kétszínűen beszélnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12101200300,
+                    "szep": "Zsolt 12,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Irtson ki az ÚR minden sima szájat és nagyokat mondó nyelvet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101200400,
+                    "szep": "Zsolt 12,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ezt mondják: Győzzük nyelvvel, segít rajtunk a szánk, ki lehetne úrrá rajtunk?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101200500,
+                    "szep": "Zsolt 12,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Most már fölkelek - mondja az ÚR - a nyomorultak elnyomása, a szegények sóhajtása miatt, és szabadulást adok az arra vágyódónak."
+            },
+            {
+                "hely": {
+                    "gepi": 12101200600,
+                    "szep": "Zsolt 12,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR ígéretei tiszták, olyanok, mint a hétszer tisztított ezüst, melyet földbe vájt formába öntöttek."
+            },
+            {
+                "hely": {
+                    "gepi": 12101200700,
+                    "szep": "Zsolt 12,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, te megtartod ígéreteidet, minket pedig megoltalmazol ettől a nemzedéktől mindenkor,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101200800,
+                    "szep": "Zsolt 12,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "még ha bűnösök járkálnak is körülöttünk, és az alávalóságot magasztalják is az emberek."
+            }
+        ]
+    }
+}

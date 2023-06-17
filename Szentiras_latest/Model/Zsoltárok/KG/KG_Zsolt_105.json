@@ -1,0 +1,375 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 105"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12110500100,
+                    "szep": "Zsolt 105,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljátok az Urat, hívjátok segítségül az ő nevét, hirdessétek a népek között az ő cselekedeteit!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110500200,
+                    "szep": "Zsolt 105,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Énekeljetek néki, zengedezzetek néki, beszéljétek el minden ő csodatételét."
+            },
+            {
+                "hely": {
+                    "gepi": 12110500300,
+                    "szep": "Zsolt 105,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsekedjetek az ő szent nevével; örvendezzen azoknak a szívök, a kik keresik az Urat."
+            },
+            {
+                "hely": {
+                    "gepi": 12110500400,
+                    "szep": "Zsolt 105,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kivánjátok az Urat és az ő erejét; keressétek az ő orczáját szüntelen."
+            },
+            {
+                "hely": {
+                    "gepi": 12110500500,
+                    "szep": "Zsolt 105,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emlékezzetek meg az ő csodáiról, a melyeket cselekedett; jeleiről és az ő szájának ítéleteiről."
+            },
+            {
+                "hely": {
+                    "gepi": 12110500600,
+                    "szep": "Zsolt 105,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Oh Ábrahámnak, az ő szolgájának magva; oh Jákóbnak, az ő választottának fiai!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110500700,
+                    "szep": "Zsolt 105,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő, az Úr a mi Istenünk, az egész földre kihat az ő ítélete."
+            },
+            {
+                "hely": {
+                    "gepi": 12110500800,
+                    "szep": "Zsolt 105,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megemlékezik az ő szövetségéről mindörökké; az ő rendeletéről, a melyet megszabott ezer nemzetségiglen;"
+            },
+            {
+                "hely": {
+                    "gepi": 12110500900,
+                    "szep": "Zsolt 105,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "A melyet kötött Ábrahámmal, és az ő Izsáknak tett esküvéséről."
+            },
+            {
+                "hely": {
+                    "gepi": 12110501000,
+                    "szep": "Zsolt 105,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "És odaállatta azt Jákóbnak szabályul, Izráelnek örök szövetségül,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110501100,
+                    "szep": "Zsolt 105,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mondván: Néked adom Kanaán földét, sors szerint való örökségetekül."
+            },
+            {
+                "hely": {
+                    "gepi": 12110501200,
+                    "szep": "Zsolt 105,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mikor még csekély számmal valának, igen kevesen és mintegy zsellérek abban,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110501300,
+                    "szep": "Zsolt 105,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "És egyik nemzettől a másikhoz bujdosának, egyik országból a másik néphez:"
+            },
+            {
+                "hely": {
+                    "gepi": 12110501400,
+                    "szep": "Zsolt 105,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem engedé, hogy valaki nyomorgassa őket, sőt királyokat is megfenyített miattok, mondván:"
+            },
+            {
+                "hely": {
+                    "gepi": 12110501500,
+                    "szep": "Zsolt 105,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meg ne illessétek az én felkentjeimet, és az én prófétáimnak ne ártsatok!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110501600,
+                    "szep": "Zsolt 105,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mikor éhséget idéze elő a földön; és a kenyérnek minden botját eltöré,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110501700,
+                    "szep": "Zsolt 105,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elküldött előttük egy férfiút, Józsefet, a ki rabul adatott vala el;"
+            },
+            {
+                "hely": {
+                    "gepi": 12110501800,
+                    "szep": "Zsolt 105,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "A lábait békóba szorították, ő maga vasban járt vala,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110501900,
+                    "szep": "Zsolt 105,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mindazideig, a míg szava beteljesedett. Az Úr beszéde megpróbálta őt."
+            },
+            {
+                "hely": {
+                    "gepi": 12110502000,
+                    "szep": "Zsolt 105,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elküldött a király és feloldotta őt, a népeken uralkodó, és szabaddá tette őt;"
+            },
+            {
+                "hely": {
+                    "gepi": 12110502100,
+                    "szep": "Zsolt 105,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Úrrá tevé őt az ő házán, és uralkodóvá minden jószágán;"
+            },
+            {
+                "hely": {
+                    "gepi": 12110502200,
+                    "szep": "Zsolt 105,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy főembereit tetszése szerint kötöztetheté, és véneit is bölcsességre taníthatá."
+            },
+            {
+                "hely": {
+                    "gepi": 12110502300,
+                    "szep": "Zsolt 105,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "És beméne Izráel Égyiptomba, s Jákób a Khám földén zsellérkedék."
+            },
+            {
+                "hely": {
+                    "gepi": 12110502400,
+                    "szep": "Zsolt 105,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "És igen megszaporítá az ő népét, és erősebbé tevé elnyomóinál."
+            },
+            {
+                "hely": {
+                    "gepi": 12110502500,
+                    "szep": "Zsolt 105,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elváltoztatá azoknak szívét, hogy gyűlöljék az ő népét, és álnokul cselekedjenek az ő szolgáival."
+            },
+            {
+                "hely": {
+                    "gepi": 12110502600,
+                    "szep": "Zsolt 105,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elküldte Mózest, az ő szolgáját, és Áront, a kit választott vala."
+            },
+            {
+                "hely": {
+                    "gepi": 12110502700,
+                    "szep": "Zsolt 105,27"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elvégezék azok között az ő jeleit, és a csodákat a Khám földén."
+            },
+            {
+                "hely": {
+                    "gepi": 12110502800,
+                    "szep": "Zsolt 105,28"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sötétséget bocsátott és elsötétítette azt, és azok nem engedetlenkedtek az ő rendeleteinek."
+            },
+            {
+                "hely": {
+                    "gepi": 12110502900,
+                    "szep": "Zsolt 105,29"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vizeiket vérré változtatá, és megölé az ő halaikat."
+            },
+            {
+                "hely": {
+                    "gepi": 12110503000,
+                    "szep": "Zsolt 105,30"
+                },
+                "jegyzetek": [],
+                "szoveg": "Földjük békáktól hemzsege, még a királyuk termeiben is."
+            },
+            {
+                "hely": {
+                    "gepi": 12110503100,
+                    "szep": "Zsolt 105,31"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szólt, és támadának legyek és szúnyogok minden ő határukon."
+            },
+            {
+                "hely": {
+                    "gepi": 12110503200,
+                    "szep": "Zsolt 105,32"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adott nékik eső gyanánt jégesőt, és lángoló tüzet a földjökre."
+            },
+            {
+                "hely": {
+                    "gepi": 12110503300,
+                    "szep": "Zsolt 105,33"
+                },
+                "jegyzetek": [],
+                "szoveg": "És elvevé szőlőjüket és fügefájokat, és széttördelé határuknak élő fáit."
+            },
+            {
+                "hely": {
+                    "gepi": 12110503400,
+                    "szep": "Zsolt 105,34"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szólt és támada sáska, és megszámlálhatatlan cserebogár."
+            },
+            {
+                "hely": {
+                    "gepi": 12110503500,
+                    "szep": "Zsolt 105,35"
+                },
+                "jegyzetek": [],
+                "szoveg": "És megemészte minden növényt az ő földjökön, és az ő szántóföldjöknek gyümölcsét megemészté."
+            },
+            {
+                "hely": {
+                    "gepi": 12110503600,
+                    "szep": "Zsolt 105,36"
+                },
+                "jegyzetek": [],
+                "szoveg": "És megöle minden elsőszülöttet földjökön, minden erejöknek zsengéjét."
+            },
+            {
+                "hely": {
+                    "gepi": 12110503700,
+                    "szep": "Zsolt 105,37"
+                },
+                "jegyzetek": [],
+                "szoveg": "És kihozá őket ezüsttel és arannyal, és nemzetségeikben nem volt beteges."
+            },
+            {
+                "hely": {
+                    "gepi": 12110503800,
+                    "szep": "Zsolt 105,38"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örült Égyiptom, mikor kijövének, mert a tőlök való félelem megszállta őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12110503900,
+                    "szep": "Zsolt 105,39"
+                },
+                "jegyzetek": [],
+                "szoveg": "Felhőt terjeszte ki, hogy befedezze őket, és tüzet, hogy világítson éjjel."
+            },
+            {
+                "hely": {
+                    "gepi": 12110504000,
+                    "szep": "Zsolt 105,40"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörgött és fürjeket hoza, és mennyei kenyérrel elégítette meg őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12110504100,
+                    "szep": "Zsolt 105,41"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megnyitotta a kősziklát és víz zúdula ki, folyóként futott a sivatagon."
+            },
+            {
+                "hely": {
+                    "gepi": 12110504200,
+                    "szep": "Zsolt 105,42"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert megemlékezett az ő szentséges igéretéről, a melyet tőn Ábrahámnak, az ő szolgájának."
+            },
+            {
+                "hely": {
+                    "gepi": 12110504300,
+                    "szep": "Zsolt 105,43"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kihozá azért az ő népét örömmel, és az ő választottait vígassággal."
+            },
+            {
+                "hely": {
+                    "gepi": 12110504400,
+                    "szep": "Zsolt 105,44"
+                },
+                "jegyzetek": [],
+                "szoveg": "És nékik adá a pogányok földét, és öröklék a népek fáradságos szerzeményét."
+            },
+            {
+                "hely": {
+                    "gepi": 12110504500,
+                    "szep": "Zsolt 105,45"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azért, hogy megtartsák az ő rendeleteit, és törvényeit megőrizzék. Dicsérjétek az Urat!"
+            }
+        ]
+    }
+}

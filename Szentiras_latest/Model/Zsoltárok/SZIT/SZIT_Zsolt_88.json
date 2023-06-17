@@ -1,0 +1,167 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 88"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108800000,
+                    "szep": "Zsolt 88,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Ének, Korach fiainak zsoltára. A karvezetőnek a „Machalat” szerint énekelni – az eszrachita Heman tanítókölteménye.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12108800100,
+                    "szep": "Zsolt 88,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, Istenem, nappal hozzád fohászkodom, éjjel színed előtt panaszkodom."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800200,
+                    "szep": "Zsolt 88,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Imám hatoljon fel hozzád, hallgasd meg könyörgésem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108800300,
+                    "szep": "Zsolt 88,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert a lelkem tele gyötrelemmel, s életem közel van a holtak országához."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800400,
+                    "szep": "Zsolt 88,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azok közé sorolnak, akik sírba szállnak, olyan ember vagyok, ki a végét járja."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800500,
+                    "szep": "Zsolt 88,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A halottak közt hagytak, mint kiket legyőztek, s már a sírban vannak: többé nem emlékezel és már gondot sem viselsz rájuk."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800600,
+                    "szep": "Zsolt 88,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "A sír mélyére vetettél, a sötétségbe, a szakadékba."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800700,
+                    "szep": "Zsolt 88,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Súlyosan rám nehezedik haragod, minden hullámod összecsap fölöttem."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800800,
+                    "szep": "Zsolt 88,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Barátaimat távol tartod tőlem, borzalommá tettél a szemükben. Fogoly vagyok, nem szabadulhatok."
+            },
+            {
+                "hely": {
+                    "gepi": 12108800900,
+                    "szep": "Zsolt 88,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szemem elhomályosult a nyomortól. Uram, mindennap téged hívlak, kitárom feléd a kezem."
+            },
+            {
+                "hely": {
+                    "gepi": 12108801000,
+                    "szep": "Zsolt 88,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tán a holtakon akarsz csodát tenni? Fölkelnek még az árnyak, hogy dicsérjenek?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108801100,
+                    "szep": "Zsolt 88,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "A sírban emlegetik még jóságodat, és hűségedet a holtak országában?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108801200,
+                    "szep": "Zsolt 88,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Felfogják-e csodáidat a sötétségben, és a feledés földjén kegyelmedet?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108801300,
+                    "szep": "Zsolt 88,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ám én, Uram, tehozzád kiáltok, már hajnalban eléd száll imám."
+            },
+            {
+                "hely": {
+                    "gepi": 12108801400,
+                    "szep": "Zsolt 88,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Miért veted el a lelkemet, Uram, miért rejted el arcodat előlem?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108801500,
+                    "szep": "Zsolt 88,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ifjúkorom óta gyenge vagyok, s fenyeget a halál. Viseltem borzalmaidat és betegeskedtem."
+            },
+            {
+                "hely": {
+                    "gepi": 12108801600,
+                    "szep": "Zsolt 88,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Haragod tüze átjárt, a fájdalmak semmivé tettek."
+            },
+            {
+                "hely": {
+                    "gepi": 12108801700,
+                    "szep": "Zsolt 88,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Folyvást körülvesznek, mint az áradó víz, mind együtt szorongatnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12108801800,
+                    "szep": "Zsolt 88,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Barátom, bizalmasom elidegenítetted; már csak a sötétség ölel körül."
+            }
+        ]
+    }
+}

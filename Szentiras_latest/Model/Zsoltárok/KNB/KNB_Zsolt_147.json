@@ -1,0 +1,190 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 147"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114700100,
+                    "szep": "Zsolt 147,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Himnusz a fogság utáni közösség istentiszteletéből. Motívumait és fordulatait főleg a prófétai könyvekből meríti. A görög és a latin szövegben két zsoltár (146,1-11; 147,1-9)"
+                    }
+                ],
+                "szoveg": "ALLELUJA.<br>Dicsérjétek az Urat, mert jó neki zengeni,<br>gyönyörűség hirdetni Istenünk dicséretét."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700200,
+                    "szep": "Zsolt 147,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Közvetlenül összekapcsolja Isten működését Izrael történetében Isten teremtő erejével."
+                    }
+                ],
+                "szoveg": "Felépíti az Úr Jeruzsálemet,<br>egybegyűjti Izrael szétszórtjait."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700300,
+                    "szep": "Zsolt 147,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meggyógyítja a megtört szívűeket,<br>sebeiket bekötözi."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700400,
+                    "szep": "Zsolt 147,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A csillagoknak sokaságát megszámlálja,<br>és nevén szólítja valamennyit."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700500,
+                    "szep": "Zsolt 147,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagy a mi Urunk, nagy az ő hatalma,<br>nincs határa bölcsességének."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700600,
+                    "szep": "Zsolt 147,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. Lk 1,52"
+                    }
+                ],
+                "szoveg": "Fölkarolja az Úr a szelídeket,<br>de a bűnösöket porig alázza."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700700,
+                    "szep": "Zsolt 147,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Énekeljetek az Úrnak hálaadással,<br>Istenünknek lanttal zengjetek."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700800,
+                    "szep": "Zsolt 147,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő borítja el felhőkkel az eget,<br>és készít esőt a földnek.<br>Ő sarjaszt füvet a hegyeken,<br>és növényeket az emberek hasznára."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700900,
+                    "szep": "Zsolt 147,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő ad enni az állatoknak,<br>a hozzá kiáltó hollófiókáknak."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701000,
+                    "szep": "Zsolt 147,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem a ló erejében telik kedve,<br>sem a férfi lábszárában öröme."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701100,
+                    "szep": "Zsolt 147,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azokban leli örömét az Úr, akik félik őt,<br>azokban akik irgalmában bíznak."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701200,
+                    "szep": "Zsolt 147,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérd az Urat, Jeruzsálem,<br>Dicsérd Sion, Istenedet,"
+            },
+            {
+                "hely": {
+                    "gepi": 12114701300,
+                    "szep": "Zsolt 147,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ő erőssé teszi kapuid zárait,<br>megáldja benned fiaidat."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701400,
+                    "szep": "Zsolt 147,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Békességet ad határaidnak,<br>és a búza javával lakat jól téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701500,
+                    "szep": "Zsolt 147,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elküldi szavát a földre,<br>igéi gyorsan futnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701600,
+                    "szep": "Zsolt 147,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Olyan havat ad, mint a gyapjú,<br>és mint a hamut, szórja a zúzmarát."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701700,
+                    "szep": "Zsolt 147,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mint a morzsát, úgy hullatja jegét,<br>ki tudja hidegét elviselni?"
+            },
+            {
+                "hely": {
+                    "gepi": 12114701800,
+                    "szep": "Zsolt 147,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "De ha elküldi igéjét, felolvasztja azokat,<br>a szele fúj, és folynak a vizek."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701900,
+                    "szep": "Zsolt 147,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kihirdeti igéjét Jákobnak,<br>törvényeit és rendeleteit Izraelnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12114702000,
+                    "szep": "Zsolt 147,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem tett így egyetlen nemzettel sem,<br>nem ismertette meg őket rendeleteivel.<br>ALLELUJA!"
+            }
+        ]
+    }
+}

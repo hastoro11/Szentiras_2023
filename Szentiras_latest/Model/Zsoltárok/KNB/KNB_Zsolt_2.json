@@ -1,0 +1,121 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 2"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100200100,
+                    "szep": "Zsolt 2,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ez az ének az első királyok idejében keletkezett. Később átdolgozták, és ebben a formájában került bele a jeruzsálemi királyi ünnepségek szertartásába."
+                    }
+                ],
+                "szoveg": "Miért dühöngenek a nemzetek,<br>terveznek hiúságokat a népek?"
+            },
+            {
+                "hely": {
+                    "gepi": 12100200200,
+                    "szep": "Zsolt 2,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fölkelnek a föld királyai,<br>egybegyűlnek mind a fejedelmek<br>az Úr ellen, s az ő Fölkentje ellen:"
+            },
+            {
+                "hely": {
+                    "gepi": 12100200300,
+                    "szep": "Zsolt 2,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "»Szakítsuk széjjel láncukat,<br>igájukat rázzuk le magunkról!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12100200400,
+                    "szep": "Zsolt 2,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A mennyekben lakó kineveti őket,<br>az Úr kigúnyolja őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12100200500,
+                    "szep": "Zsolt 2,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Haragjában így szól majd hozzájuk,<br>bosszúságában szétzavarja őket:"
+            },
+            {
+                "hely": {
+                    "gepi": 12100200600,
+                    "szep": "Zsolt 2,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "»Fölkentem királyomat a Sionon,<br>az én szent hegyemen!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12100200700,
+                    "szep": "Zsolt 2,7"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A »fiam vagy te« kifejezést abból az okiratból idézi, amelyet beiktatáskor adtak át a királynak. Ekkor jelentik ki róla, hogy ő Jahvénak, az Úrnak fia (vö. 2 Sám 7,14). Ez az örökbefogadás érthetővé teszi a király sajátos kiválasztottságát: a fölkenés pillanatától a fölkent Istennek fogadott fia. Az ÚSz ezt a fiúságot szó szerint értelmezi és Krisztusra vonatkoztatja: vö. Mt 3,17; Csel 13,33; Zsid 1,5."
+                    }
+                ],
+                "szoveg": "Hirdetem az Úr rendeletét.<br>  Mert így szólt hozzám az Úr: »Fiam vagy te,<br>a mai napon nemzettelek téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12100200800,
+                    "szep": "Zsolt 2,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kérd tőlem, és odaadom neked<br>a nemzeteket örökségedül,<br>s osztályrészedül a föld határait."
+            },
+            {
+                "hely": {
+                    "gepi": 12100200900,
+                    "szep": "Zsolt 2,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kormányozd őket vasvesszővel,<br>cserépedényként törd össze őket.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12100201000,
+                    "szep": "Zsolt 2,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nos hát, királyok, okuljatok,<br>tanuljatok, ti földi bírák!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100201100,
+                    "szep": "Zsolt 2,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szolgáljátok az Urat félelemmel,<br>ujjongjatok előtte remegve."
+            },
+            {
+                "hely": {
+                    "gepi": 12100201200,
+                    "szep": "Zsolt 2,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tanuljatok fegyelmet,<br>hogy fel ne gerjedjen az Úr haragja,<br>s az igaz útról el ne vesszetek,<br>amikor haragja hirtelen fellobban.<br>Boldogok mindazok, akik benne bíznak!"
+            }
+        ]
+    }
+}

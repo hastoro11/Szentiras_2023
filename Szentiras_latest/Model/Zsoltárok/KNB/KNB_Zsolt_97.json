@@ -1,0 +1,125 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 97"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109700100,
+                    "szep": "Zsolt 97,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Himnusz a fogság utáni időkből, talán a sátoros ünnep szertartásából, amelyben Izrael Isten végső eljövetelét ünnepli (vö. 96,1-99,9)"
+                    },
+                    {
+                        "position": null,
+                        "text": "A hódoló felkiáltás nemcsak kívánság, hanem már a megvalósulásra utal. A szigetek (=idegen országok) is örvendeznek."
+                    }
+                ],
+                "szoveg": "Király az Úr! Ujjongjon a föld,<br>örvendezzék a temérdek sziget!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109700200,
+                    "szep": "Zsolt 97,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Senki sem tudja megmondani, milyen Isten érkezése."
+                    }
+                ],
+                "szoveg": "Felhő és homály van körülötte,<br>igazság és jog trónjának alapja."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700300,
+                    "szep": "Zsolt 97,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tűz halad előtte,<br>s körös-körül felperzseli ellenségeit."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700400,
+                    "szep": "Zsolt 97,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Villámai beragyogják a föld kerekségét,<br>láttára megrendül a föld."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700500,
+                    "szep": "Zsolt 97,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Viaszként olvadoznak a hegyek az Úr előtt,<br>az egész föld Ura előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700600,
+                    "szep": "Zsolt 97,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az egek hirdetik igazságát,<br>minden nemzet látja dicsőségét."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700700,
+                    "szep": "Zsolt 97,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jussanak szégyenbe mindazok, akik faragott képeket imádnak,<br>és bálványaikkal kérkednek.<br>Imádjátok őt, angyalai mind!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109700800,
+                    "szep": "Zsolt 97,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallja ezt Sion és örvendezik,<br>és ujjonganak Júda leányai<br>ítéleteiden, Uram."
+            },
+            {
+                "hely": {
+                    "gepi": 12109700900,
+                    "szep": "Zsolt 97,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert te vagy, Uram, a legfölségesebb az egész földön,<br>messze magasan állsz minden isten fölött."
+            },
+            {
+                "hely": {
+                    "gepi": 12109701000,
+                    "szep": "Zsolt 97,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akik szeretitek az Urat, gyűlöljétek a rosszat;<br>szentjeinek lelkét megőrzi,<br>a gonoszok kezéből megszabadítja őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12109701100,
+                    "szep": "Zsolt 97,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Világosság támad az igaznak,<br>s öröm az igazszívűeknek."
+            },
+            {
+                "hely": {
+                    "gepi": 12109701200,
+                    "szep": "Zsolt 97,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örvendezzetek, igazak, az Úrban,<br>és dicsérjétek szent emlékezetét!"
+            }
+        ]
+    }
+}

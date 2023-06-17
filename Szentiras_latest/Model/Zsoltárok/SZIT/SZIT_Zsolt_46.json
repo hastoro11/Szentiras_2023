@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 46"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104600000,
+                    "szep": "Zsolt 46,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek – Korach fiainak éneke oboára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12104600100,
+                    "szep": "Zsolt 46,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten a menedékünk és az erőnk, nagyszerű támaszunk a szorongattatásban."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600200,
+                    "szep": "Zsolt 46,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezért nem aggódunk, ha remeg is a föld, ha a hegyek a tengerbe omlanak,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104600300,
+                    "szep": "Zsolt 46,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "ha vizei zúgnak, tajtékoznak is, és viharától megrendülnek a hegyek. [Velünk a Seregek Ura, Jákob Istene a mentsvárunk!]"
+            },
+            {
+                "hely": {
+                    "gepi": 12104600400,
+                    "szep": "Zsolt 46,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A folyam ágai felüdítik Isten városát, ő megszenteli a Fölséges hajlékát."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600500,
+                    "szep": "Zsolt 46,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem inog meg, Isten lakik benne, Isten már hajnalban is védelmezi."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600600,
+                    "szep": "Zsolt 46,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "A népek lázadoztak, birodalmak megrendültek, de mennydörgő szózatától rettegés fogta el a földet."
+            },
+            {
+                "hely": {
+                    "gepi": 12104600700,
+                    "szep": "Zsolt 46,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Velünk a Seregek Ura, Jákob Istene a mentsvárunk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104600800,
+                    "szep": "Zsolt 46,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gyertek, lássátok, mit művel az Úr! Rettegésbe taszítja a földet,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104600900,
+                    "szep": "Zsolt 46,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "megálljt parancsol a hadaknak a föld határáig, szétzúzza az íjakat, összetöri a lándzsákat, s a pajzsokat tűzben elégeti."
+            },
+            {
+                "hely": {
+                    "gepi": 12104601000,
+                    "szep": "Zsolt 46,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Álljatok meg és ismerjétek el: Én vagyok az Isten! Fönséges a népek fölött, fönséges a föld felett."
+            },
+            {
+                "hely": {
+                    "gepi": 12104601100,
+                    "szep": "Zsolt 46,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Velünk a Seregek Ura, Jákob Istene a mentsvárunk!"
+            }
+        ]
+    }
+}

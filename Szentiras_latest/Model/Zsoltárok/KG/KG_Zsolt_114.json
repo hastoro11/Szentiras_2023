@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 114"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111400100,
+                    "szep": "Zsolt 114,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mikor Izráel népe kijöve Égyiptomból, Jákóbnak házanépe az idegen nép közül:"
+            },
+            {
+                "hely": {
+                    "gepi": 12111400200,
+                    "szep": "Zsolt 114,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Júda lőn az ő szentséges népe és Izráel az ő királysága."
+            },
+            {
+                "hely": {
+                    "gepi": 12111400300,
+                    "szep": "Zsolt 114,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "A tenger látá őt és elfutamodék; a Jordán hátrafordula."
+            },
+            {
+                "hely": {
+                    "gepi": 12111400400,
+                    "szep": "Zsolt 114,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A hegyek szöknek vala, mint a kosok, s a halmok, mint a juhoknak bárányai."
+            },
+            {
+                "hely": {
+                    "gepi": 12111400500,
+                    "szep": "Zsolt 114,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mi a bajod, te tenger, hogy megfutamodál, és te Jordán, hogy hátrafordulál?"
+            },
+            {
+                "hely": {
+                    "gepi": 12111400600,
+                    "szep": "Zsolt 114,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hegyek, hogy szöktök vala, mint a kosok? Ti halmok, mint a juhoknak bárányai?"
+            },
+            {
+                "hely": {
+                    "gepi": 12111400700,
+                    "szep": "Zsolt 114,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Indulj meg te föld az Úr orczája előtt, a Jákób Istene előtt,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111400800,
+                    "szep": "Zsolt 114,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki átváltoztatja a kősziklát álló tóvá, és a szirtet vizek forrásává."
+            }
+        ]
+    }
+}

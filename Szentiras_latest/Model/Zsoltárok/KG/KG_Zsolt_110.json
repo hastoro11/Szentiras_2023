@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 110"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111000000,
+                    "szep": "Zsolt 110,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávidé; zsoltár."
+            },
+            {
+                "hely": {
+                    "gepi": 12111000100,
+                    "szep": "Zsolt 110,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Monda az Úr az én uramnak: Ülj az én jobbomon, a míg ellenségeidet zsámolyul vetem a te lábaid alá."
+            },
+            {
+                "hely": {
+                    "gepi": 12111000200,
+                    "szep": "Zsolt 110,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "A te hatalmad pálczáját kinyújtja az Úr Sionból, mondván: Uralkodjál ellenségeid között!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111000300,
+                    "szep": "Zsolt 110,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "A te néped készséggel siet a te sereggyűjtésed napján, szentséges öltözetekben; hajnalpir méhéből leszen ifjaidnak harmatja."
+            },
+            {
+                "hely": {
+                    "gepi": 12111000400,
+                    "szep": "Zsolt 110,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megesküdt az Úr és meg nem másítja: Pap vagy te örökké Melkhisedek rendje szerint."
+            },
+            {
+                "hely": {
+                    "gepi": 12111000500,
+                    "szep": "Zsolt 110,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr a te jobbod felől; megrontja az ő haragja napján a királyokat;"
+            },
+            {
+                "hely": {
+                    "gepi": 12111000600,
+                    "szep": "Zsolt 110,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ítéletet tart a nemzetek között; telve lesz holttestekkel; összezúz messze földön minden főt."
+            },
+            {
+                "hely": {
+                    "gepi": 12111000700,
+                    "szep": "Zsolt 110,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az út mellett való patakból iszik; ezért emeli fel az ő fejét."
+            }
+        ]
+    }
+}

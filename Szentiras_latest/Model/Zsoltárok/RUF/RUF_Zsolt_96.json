@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 96"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109600100,
+                    "szep": "Zsolt 96,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Énekeljetek új éneket az ÚRnak, énekelj az ÚRnak, te egész föld!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109600200,
+                    "szep": "Zsolt 96,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Énekeljetek az ÚRnak, áldjátok nevét, hirdessétek szabadítását mindennap!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109600300,
+                    "szep": "Zsolt 96,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Beszéljétek el dicsőségét a nemzeteknek, csodáit minden népnek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109600400,
+                    "szep": "Zsolt 96,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nagy az ÚR, méltó, hogy dicsérjék, félelmetesebb minden más istennél."
+            },
+            {
+                "hely": {
+                    "gepi": 12109600500,
+                    "szep": "Zsolt 96,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen a népek istenei csak bálványok, az ÚR pedig az ég alkotója."
+            },
+            {
+                "hely": {
+                    "gepi": 12109600600,
+                    "szep": "Zsolt 96,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fenség és méltóság jár előtte, erő és ékesség van szentélyében."
+            },
+            {
+                "hely": {
+                    "gepi": 12109600700,
+                    "szep": "Zsolt 96,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Népek törzsei! Magasztaljátok az URat! Magasztaljátok az ÚR dicsőségét és hatalmát!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109600800,
+                    "szep": "Zsolt 96,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljátok az ÚR dicső nevét, ajándékot hozva jöjjetek udvaraiba!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109600900,
+                    "szep": "Zsolt 96,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boruljatok le az ÚR előtt szent öltözetben, reszkess tőle, te egész föld!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109601000,
+                    "szep": "Zsolt 96,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mondjátok el a népeknek, hogy uralkodik az ÚR! Bizony szilárdan áll a világ, nem inog. Igazságosan ítéli a népeket."
+            },
+            {
+                "hely": {
+                    "gepi": 12109601100,
+                    "szep": "Zsolt 96,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örüljön az ég, örvendezzen a föld, zúgjon a tenger a benne levőkkel!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109601200,
+                    "szep": "Zsolt 96,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ujjongjon a mező és minden, ami rajta van! Ujjongnak majd az erdő fái mind"
+            },
+            {
+                "hely": {
+                    "gepi": 12109601300,
+                    "szep": "Zsolt 96,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "az ÚR előtt, amikor eljön, mert eljön, hogy ítélkezzék a földön. Igazságosan ítéli a világot, pártatlanul a népeket."
+            }
+        ]
+    }
+}

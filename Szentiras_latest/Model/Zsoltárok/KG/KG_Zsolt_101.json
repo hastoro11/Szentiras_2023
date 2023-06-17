@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 101"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12110100000,
+                    "szep": "Zsolt 101,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100100,
+                    "szep": "Zsolt 101,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kegyelmet és igazságot énekelek; te néked zengek éneket, Uram!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110100200,
+                    "szep": "Zsolt 101,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gondom van a tökéletes útra: mikor jössz el hozzám? Szívemnek tökéletessége szerint járok én az én házamban."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100300,
+                    "szep": "Zsolt 101,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem vetem a szemem hiábavaló dologra; a pártoskodók cselekedetét gyűlölöm: nincs köze hozzám."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100400,
+                    "szep": "Zsolt 101,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A csalárd szív távol van én tőlem, gonoszt nem ismerek."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100500,
+                    "szep": "Zsolt 101,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki titkon rágalmazza az ő felebarátját, elvesztem azt; a nagyralátót és a kevélyszívűt, azt el nem szenvedem."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100600,
+                    "szep": "Zsolt 101,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szemmel tartom a föld hűségeseit, hogy mellettem lakozzanak; a tökéletesség útjában járó, az szolgál engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100700,
+                    "szep": "Zsolt 101,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem lakozik az én házamban, a ki csalárdságot mível; a ki hazugságot szól, nem állhat meg szemeim előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100800,
+                    "szep": "Zsolt 101,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Reggelenként elvesztem e földnek latrait, hogy kigyomláljak az Úrnak városából minden gonosztevőt."
+            }
+        ]
+    }
+}

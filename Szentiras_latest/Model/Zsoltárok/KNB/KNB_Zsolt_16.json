@@ -1,0 +1,131 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 16"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101600000,
+                    "szep": "Zsolt 16,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Bizalom-ének, amelyet egy fogság utáni hívő közösség énekelt. Megvallja Istent, aki földi életének »örökrésze« és irányítója, és akitől a síron túli életben való részesedést reméli. Az igaz határozottan Isten mellett döntött (1-4), ennek köszönheti élete boldogságát (5-8)."
+                    }
+                ],
+                "szoveg": "<em>Miktám, Dávidtól.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12101600100,
+                    "szep": "Zsolt 16,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Bizalom-ének, amelyet egy fogság utáni hívő közösség énekelt. Megvallja Istent, aki földi életének »örökrésze« és irányítója, és akitől a síron túli életben való részesedést reméli. Az igaz határozottan Isten mellett döntött (1-4), ennek köszönheti élete boldogságát (5-8)."
+                    }
+                ],
+                "szoveg": "Óvj meg engem, Uram, mert tebenned van reményem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101600200,
+                    "szep": "Zsolt 16,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A héber szöveg nem egészen érthető, valószínűleg hibás."
+                    }
+                ],
+                "szoveg": "Mondom az Úrnak: »Te vagy az én Istenem,<br>nagyobb javam nincsen nálad.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12101600300,
+                    "szep": "Zsolt 16,3"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A »szenteken« a hívőket kell érteni."
+                    }
+                ],
+                "szoveg": "A szentekben, a jeles férfiakban, akik a földön vannak,<br>bennük van minden gyönyörűségem."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600400,
+                    "szep": "Zsolt 16,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sok gyötrődése van azoknak,<br>akik más istenek után futkosnak.<br>Nem veszek részt véres áldozataikban,<br>nevüket sem veszem ajkamra."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600500,
+                    "szep": "Zsolt 16,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr az én örökségem és kelyhem osztályrésze:<br>te adod vissza örökségemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600600,
+                    "szep": "Zsolt 16,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "A mérőzsinór pompás részt juttatott nekem,<br>valóban pompás nekem az én örökségem."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600700,
+                    "szep": "Zsolt 16,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldom az Urat, aki értelmet adott nekem,<br>veséim még éjjel is figyelmeztetnek engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600800,
+                    "szep": "Zsolt 16,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szüntelenül az Úr van szemem előtt,<br>meg nem ingok, hisz ő áll jobbomon."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600900,
+                    "szep": "Zsolt 16,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezért örvend a szívem és ujjong a nyelvem,<br>sőt testem is reménységben pihen:"
+            },
+            {
+                "hely": {
+                    "gepi": 12101601000,
+                    "szep": "Zsolt 16,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nem hagyod az alvilágban lelkemet,<br>s nem engeded, hogy szented romlást lásson."
+            },
+            {
+                "hely": {
+                    "gepi": 12101601100,
+                    "szep": "Zsolt 16,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megmutatod nekem az élet útját,<br>az öröm teljességét színed előtt,<br>és a gyönyörűséget jobbodon mindörökké."
+            }
+        ]
+    }
+}

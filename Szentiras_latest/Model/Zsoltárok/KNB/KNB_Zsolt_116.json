@@ -1,0 +1,182 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 116"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111600100,
+                    "szep": "Zsolt 116,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni hálaéneke a fogság utáni idők késői korszakából. Az áthagyományozás során két részre osztották (talán egy redaktor). A görög és a latin szöveg a két részt (1-9.10-19.v.) külön zsoltárnak tekinti."
+                    }
+                ],
+                "szoveg": "ALLELUJA!<br>Szeretem az Urat, mert meghallgatta<br>könyörgésem szavát."
+            },
+            {
+                "hely": {
+                    "gepi": 12111600200,
+                    "szep": "Zsolt 116,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert felém fordította fülét<br>azon a napon amelyen segítségül hívtam."
+            },
+            {
+                "hely": {
+                    "gepi": 12111600300,
+                    "szep": "Zsolt 116,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Körülvettek engem a halál gyötrelmei,<br>rám találtak az alvilág veszedelmei.<br>Szorongatásba és nyomorúságba jutottam,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111600400,
+                    "szep": "Zsolt 116,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "de segítségül hívtam az Úr nevét:<br>»Uram, szabadíts meg engem!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12111600500,
+                    "szep": "Zsolt 116,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Irgalmas az Úr és igaz,<br>megkönyörül a mi Istenünk."
+            },
+            {
+                "hely": {
+                    "gepi": 12111600600,
+                    "szep": "Zsolt 116,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megoltalmazza az Úr a kicsinyeket,<br>megaláztatásomban megszabadított engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111600700,
+                    "szep": "Zsolt 116,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Térj vissza, lelkem, nyugalmadba,<br>mert az Úr jót tett veled."
+            },
+            {
+                "hely": {
+                    "gepi": 12111600800,
+                    "szep": "Zsolt 116,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megmentett engem a haláltól,<br>szememet a könnyhullatástól,<br>lábamat az elbukástól."
+            },
+            {
+                "hely": {
+                    "gepi": 12111600900,
+                    "szep": "Zsolt 116,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr kedvében járok<br>az élők földjén."
+            },
+            {
+                "hely": {
+                    "gepi": 12111601000,
+                    "szep": "Zsolt 116,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hittem, még ha így is szóltam:<br>»Nagyon nagy megalázás ért!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12111601100,
+                    "szep": "Zsolt 116,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elkeseredésemben azt mondtam:<br>»Hazug minden ember!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12111601200,
+                    "szep": "Zsolt 116,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mivel viszonozzam az Úrnak<br>mindazt, amit velem cselekedett?"
+            },
+            {
+                "hely": {
+                    "gepi": 12111601300,
+                    "szep": "Zsolt 116,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fölemelem a szabadulás kelyhét,<br>és segítségül hívom az Úr nevét."
+            },
+            {
+                "hely": {
+                    "gepi": 12111601400,
+                    "szep": "Zsolt 116,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Teljesítem az Úrnak tett fogadalmaimat<br>egész népe előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12111601500,
+                    "szep": "Zsolt 116,15"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. 16,9-11."
+                    }
+                ],
+                "szoveg": "Az Úr szemében drága dolog,<br>szentjeinek halála."
+            },
+            {
+                "hely": {
+                    "gepi": 12111601600,
+                    "szep": "Zsolt 116,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én is, Uram, a te szolgád vagyok,<br>szolgád vagyok és szolgálód fia.<br>Széttörted bilincseimet:"
+            },
+            {
+                "hely": {
+                    "gepi": 12111601700,
+                    "szep": "Zsolt 116,17"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. Lev 7,11-21."
+                    }
+                ],
+                "szoveg": "a hála áldozatát mutatom be neked,<br>és segítségül hívom az Úr nevét."
+            },
+            {
+                "hely": {
+                    "gepi": 12111601800,
+                    "szep": "Zsolt 116,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Teljesítem az Úrnak tett fogadalmaimat<br>egész népe előtt"
+            },
+            {
+                "hely": {
+                    "gepi": 12111601900,
+                    "szep": "Zsolt 116,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "az Úr házának udvaraiban,<br>tebenned, Jeruzsálem."
+            }
+        ]
+    }
+}

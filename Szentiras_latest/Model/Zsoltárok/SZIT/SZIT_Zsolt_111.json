@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 111"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111100100,
+                    "szep": "Zsolt 111,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Alleluja!) Szívem mélyéből dicsőítem az Urat a szentek tanácsában és a nagy közösségben!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111100200,
+                    "szep": "Zsolt 111,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr művei nagyszerűek, emlékezetesek mindazoknak, akik örülnek rajtuk."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100300,
+                    "szep": "Zsolt 111,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tevékenysége fönség és erő, s igazságossága örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100400,
+                    "szep": "Zsolt 111,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csodáit örökre emlékezetbe véste, az Úr kegyes és irgalmas."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100500,
+                    "szep": "Zsolt 111,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ételt adott az őt félőknek, szövetségéről mindvégig megemlékezik."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100600,
+                    "szep": "Zsolt 111,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Népének megmutatta hatalmas műveit, neki adta a pogányok örökségét."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100700,
+                    "szep": "Zsolt 111,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kezének műve hűség és igazság, parancsai változatlanok,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111100800,
+                    "szep": "Zsolt 111,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "érvényesek mindig és örökké; erőben és igazságosságban születtek."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100900,
+                    "szep": "Zsolt 111,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Népének megváltást küldött, szövetségét minden időkre kötötte, szent és magasztos a neve."
+            },
+            {
+                "hely": {
+                    "gepi": 12111101000,
+                    "szep": "Zsolt 111,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr félelme a bölcsesség kezdete, okosak, akik kitartanak benne. Dicsősége megmarad örökké."
+            }
+        ]
+    }
+}

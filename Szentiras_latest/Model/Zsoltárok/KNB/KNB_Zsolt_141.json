@@ -1,0 +1,126 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 141"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114100000,
+                    "szep": "Zsolt 141,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni könyörgő imája, késő fogság utáni."
+                    },
+                    {
+                        "position": null,
+                        "text": "A zsoltáros Istent hívja, esti imáját, mint áldozatot ajánlja fel."
+                    }
+                ],
+                "szoveg": "<em>Dávid zsoltára.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12114100100,
+                    "szep": "Zsolt 141,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni könyörgő imája, késő fogság utáni."
+                    },
+                    {
+                        "position": null,
+                        "text": "A zsoltáros Istent hívja, esti imáját, mint áldozatot ajánlja fel."
+                    }
+                ],
+                "szoveg": "Uram, hozzád kiáltok, siess hozzám,<br>figyelj szavamra, amikor hozzád kiáltok!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114100200,
+                    "szep": "Zsolt 141,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szálljon illatáldozatként színed elé imádságom,<br>és kezem fölemelése legyen olyan, mint az esti áldozat."
+            },
+            {
+                "hely": {
+                    "gepi": 12114100300,
+                    "szep": "Zsolt 141,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tégy Uram lakatot a számra,<br>ajkam ajtajára reteszt."
+            },
+            {
+                "hely": {
+                    "gepi": 12114100400,
+                    "szep": "Zsolt 141,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne engedd, hogy szívem gonosz szavakra hajoljon,<br>bűnös mesterkedésekre,<br>a gonoszat cselekvőkkel együtt;<br>Részem se legyen abban, amit ők szeretnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12114100500,
+                    "szep": "Zsolt 141,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ám feddjen meg irgalomból az igaz és korholjon engem;<br>De a bűnös olaja ne kenje meg a fejem,<br>mert gonoszságuk ellen imádkozom."
+            },
+            {
+                "hely": {
+                    "gepi": 12114100600,
+                    "szep": "Zsolt 141,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A szövege értelme nem világos. Lehetséges, hogy a bizonyosságot fejezi ki: a bűnösök (a másvilágon) isteni ítélet alá kerülnek."
+                    }
+                ],
+                "szoveg": "Ha majd bíráik kemény kézbe kerülnek,<br>meghallják szavaimat, mert azok hathatósak."
+            },
+            {
+                "hely": {
+                    "gepi": 12114100700,
+                    "szep": "Zsolt 141,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mint a földből kiszántott és széthasított rögök,<br>úgy hullanak csontjaik az alvilág torkába."
+            },
+            {
+                "hely": {
+                    "gepi": 12114100800,
+                    "szep": "Zsolt 141,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, Uram, a szemem rád tekint,<br>tebenned remélek, ne vedd el életem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114100900,
+                    "szep": "Zsolt 141,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Őrizz meg engem a tőrtől, amit nekem vetettek,<br>a gonosztevők kelepcéitől!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114101000,
+                    "szep": "Zsolt 141,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A bűnösök a saját hálójukba esnek,<br>de én átmegyek rajta!"
+            }
+        ]
+    }
+}

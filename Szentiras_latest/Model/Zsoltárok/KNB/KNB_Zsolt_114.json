@@ -1,0 +1,89 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 114"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111400100,
+                    "szep": "Zsolt 114,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ezt a himnuszt a »honfoglalás ünnepén« énekelték (vö. Józs 3,1-6,27), a Vörös-tengeren való átkelés (a pusztai vándorlás kezdete) és a Jordánon való átkelés (bevonulás az ígéret földjére) emlékünnepén. A szöveget később átdolgozták."
+                    }
+                ],
+                "szoveg": "ALLELUJA!<br>Amikor Izrael kivonult Egyiptomból,<br>Jákob házanépe az idegen nép közül,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111400200,
+                    "szep": "Zsolt 114,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Júda lett az ő szentélye,<br>Izrael a birodalma."
+            },
+            {
+                "hely": {
+                    "gepi": 12111400300,
+                    "szep": "Zsolt 114,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Látta a tenger és elfutott,<br>a Jordán visszafelé tartott."
+            },
+            {
+                "hely": {
+                    "gepi": 12111400400,
+                    "szep": "Zsolt 114,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ugrándoztak a hegyek, mint a kosok,<br>és a halmok mint juhok bárányai."
+            },
+            {
+                "hely": {
+                    "gepi": 12111400500,
+                    "szep": "Zsolt 114,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mi lelt téged, tenger, hogy elfutottál,<br>és téged, Jordán, hogy visszafordultál?"
+            },
+            {
+                "hely": {
+                    "gepi": 12111400600,
+                    "szep": "Zsolt 114,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hegyek, miért ugrándoztatok, mint a kosok,<br>és mint a juhok bárányai, ti halmok?"
+            },
+            {
+                "hely": {
+                    "gepi": 12111400700,
+                    "szep": "Zsolt 114,7"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. Kiv 17,6."
+                    }
+                ],
+                "szoveg": "Rendülj meg föld az Úr színe előtt,<br>Jákob Istenének arca előtt,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111400800,
+                    "szep": "Zsolt 114,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "aki a kősziklát vizek tavává változtatta,<br>s a szirtet vizek forrásává."
+            }
+        ]
+    }
+}

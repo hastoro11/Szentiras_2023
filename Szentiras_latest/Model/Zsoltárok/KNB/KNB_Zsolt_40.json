@@ -1,0 +1,188 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 40"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104000000,
+                    "szep": "Zsolt 40,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zsoltár egy hálaénekből (2-12) és egy egyéni panaszdalból áll (13-18). (A panaszdal majdnem egyezik a 70. zsoltárral). Valószínűleg a fogság előtti időkben keletkezett mindkét rész, s csak jóval később fűzték egybe őket."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Dávid zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12104000100,
+                    "szep": "Zsolt 40,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Várva-vártam az Urat,<br>s ő lehajolt hozzám."
+            },
+            {
+                "hely": {
+                    "gepi": 12104000200,
+                    "szep": "Zsolt 40,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Sár, fertő, verem: képek, amelyekkel a veszélyt teszi érzékletessé."
+                    }
+                ],
+                "szoveg": "Meghallgatta könyörgésemet,<br>kihúzott a nyomorúság verméből,<br>a sár fertőjéből;<br>Lábamat kősziklára helyezte,<br>lépésemet biztossá tette."
+            },
+            {
+                "hely": {
+                    "gepi": 12104000300,
+                    "szep": "Zsolt 40,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Új éneket adott számba,<br>Istenünket dicsérő szózatot.<br>Sokan látják és félelem fogja el őket,<br>s az Úrba vetik reményüket."
+            },
+            {
+                "hely": {
+                    "gepi": 12104000400,
+                    "szep": "Zsolt 40,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog az az ember, aki az Úrba vetette reményét,<br>s aki nem tart a gőgösöktől, a hazugságra vetemedőktől."
+            },
+            {
+                "hely": {
+                    "gepi": 12104000500,
+                    "szep": "Zsolt 40,5"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ez a 4. versben ígért »új ének«."
+                    },
+                    {
+                        "position": null,
+                        "text": "A csodák: Isten működése a teremtésben és az Egyiptomból való kivonulás."
+                    }
+                ],
+                "szoveg": "Sokat tettél értünk, Uram, én Istenem,<br>csodáiddal és terveiddel: nincs hozzád hasonló senki sem!<br>Hirdetni akarom őket és beszélni róluk,<br>de túl sok ahhoz, hogy számba vehetném."
+            },
+            {
+                "hely": {
+                    "gepi": 12104000600,
+                    "szep": "Zsolt 40,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ezt a szöveget (a Hetvenes ford. szerint, vö. B, S, A kódexek) a Zsid 10,5-7 Jézus Krisztusra vonatkoztatja. Vö. 1 Sám 15,22 is."
+                    }
+                ],
+                "szoveg": "Vágóáldozatot és ételáldozatot nem kívántál,<br>hanem testet készítettél nekem.<br>Égő- s bűnért való áldozatot nem követeltél,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104000700,
+                    "szep": "Zsolt 40,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "ezért így szóltam: »Íme, eljövök!<br>A könyvtekercsben meg van írva rólam,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104000800,
+                    "szep": "Zsolt 40,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy teljesítsem akaratodat.<br>Ezt akarom, én Istenem,<br>törvényed a szívemben van.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12104000900,
+                    "szep": "Zsolt 40,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagy gyülekezet előtt hirdetem igazságodat;<br>Íme nem tartom vissza ajkamat,<br>Uram, te tudod!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104001000,
+                    "szep": "Zsolt 40,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igazságodat nem rejtem el szívemben,<br>hűségedet és segítségedet hirdetem.<br>Nem titkolom irgalmadat és hűségedet<br>a nagy gyülekezetben."
+            },
+            {
+                "hely": {
+                    "gepi": 12104001100,
+                    "szep": "Zsolt 40,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te, Uram, ne vond meg irgalmadat tőlem;<br>Kegyelmed és hűséged tartson fenn mindenkor engem,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104001200,
+                    "szep": "Zsolt 40,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "mert számtalan veszély környékez;<br>utolértek gonoszságaim, fel sem tudok tekinteni,<br>számosabbak, mint a hajszál fejemen,<br>és a szívem is elhagyott engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12104001300,
+                    "szep": "Zsolt 40,13"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. Zsolt 70,2-6."
+                    }
+                ],
+                "szoveg": "Teljék kedved, Uram, megmentésemben,<br>Uram, siess segítségemre."
+            },
+            {
+                "hely": {
+                    "gepi": 12104001400,
+                    "szep": "Zsolt 40,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jöjjenek zavarba mind és szégyenüljenek meg,<br>akik életemre törnek, hogy elvegyék.<br>Hátráljanak meg és piruljanak,<br>akik rosszat akarnak nekem."
+            },
+            {
+                "hely": {
+                    "gepi": 12104001500,
+                    "szep": "Zsolt 40,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dermedjenek meg zavarukban,<br>akik azt mondják: »Úgy kell neked!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12104001600,
+                    "szep": "Zsolt 40,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ujjongjanak s örvendezzenek benned<br>mindazok, akik téged keresnek;<br>»Magasztaltassék az Úr!« – mondják mindenkor,<br>akik örvendeznek szabadításodon."
+            },
+            {
+                "hely": {
+                    "gepi": 12104001700,
+                    "szep": "Zsolt 40,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bár én koldus vagyok és szegény,<br>az Úr majd gondoskodik rólam.<br>Segítőm és szabadítóm te vagy,<br>Istenem, ne késlekedj!"
+            }
+        ]
+    }
+}

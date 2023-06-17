@@ -1,0 +1,159 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 10"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101000100,
+                    "szep": "Zsolt 10,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, miért állasz távol? Miért rejtőzöl el a szükség idején?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101000200,
+                    "szep": "Zsolt 10,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gonosznak kevélysége miatt sanyarog a szegény. Essenek foglyul a cseleknek, a miket koholtak."
+            },
+            {
+                "hely": {
+                    "gepi": 12101000300,
+                    "szep": "Zsolt 10,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert dicsekszik a gonosz az ő lelkének kivánságával, és a fösvény megveti és szidja az Urat."
+            },
+            {
+                "hely": {
+                    "gepi": 12101000400,
+                    "szep": "Zsolt 10,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gonosz az ő haragos kevélységében senkit sem tudakoz; nincs Isten, ez minden gondolatja."
+            },
+            {
+                "hely": {
+                    "gepi": 12101000500,
+                    "szep": "Zsolt 10,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szerencsések az ő útai minden időben; messze vannak tőle ítéleteid, elfújja minden ellenségét."
+            },
+            {
+                "hely": {
+                    "gepi": 12101000600,
+                    "szep": "Zsolt 10,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azt mondja szívében: Nem rendülök meg soha örökké, mert nem esem bajba."
+            },
+            {
+                "hely": {
+                    "gepi": 12101000700,
+                    "szep": "Zsolt 10,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szája telve átkozódással, csalárdsággal és erőszakossággal; nyelve alatt hamisság és álnokság."
+            },
+            {
+                "hely": {
+                    "gepi": 12101000800,
+                    "szep": "Zsolt 10,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az utczák zugaiban lappang, a rejtekhelyeken megöli az ártatlant, szemei lesnek az ügyefogyottra."
+            },
+            {
+                "hely": {
+                    "gepi": 12101000900,
+                    "szep": "Zsolt 10,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Leselkedik a rejtekhelyen, leselkedik, mint az oroszlán az ő barlangjában, hogy elragadja a szegényt; elragadja a szegényt, mihelyt hálójába foghatja azt."
+            },
+            {
+                "hely": {
+                    "gepi": 12101001000,
+                    "szep": "Zsolt 10,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lenyomja, tiporja, és erejétől elesnek az ügyefogyottak."
+            },
+            {
+                "hely": {
+                    "gepi": 12101001100,
+                    "szep": "Zsolt 10,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azt mondja szívében: Elfelejtkezett Isten, elrejtette arczát: nem is látott soha!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101001200,
+                    "szep": "Zsolt 10,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kelj fel Úr-Isten, emeld fel kezedet; ne feledkezzél el a szegényekről!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101001300,
+                    "szep": "Zsolt 10,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Miért szidja Istent a gonosz? Miért mondja szívében: Nem keresed rajta."
+            },
+            {
+                "hely": {
+                    "gepi": 12101001400,
+                    "szep": "Zsolt 10,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te látod ezt, mert te megnézed a hamisságot és a fájdalmat, hogy rávessed kezed. Te reád hagyja magát az ügyefogyott, az árvának is te vagy segedelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12101001500,
+                    "szep": "Zsolt 10,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Törd össze a gonosznak karját; és keressed a rosszon az ő gonoszságát, míg már nem találsz."
+            },
+            {
+                "hely": {
+                    "gepi": 12101001600,
+                    "szep": "Zsolt 10,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr király mindenha és mindörökké; a pogányok kivesznek az ő földjéről."
+            },
+            {
+                "hely": {
+                    "gepi": 12101001700,
+                    "szep": "Zsolt 10,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "A szegények kivánságát meghallgatod, oh Uram! Megerősíted szívöket, füleiddel figyelmezel,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101001800,
+                    "szep": "Zsolt 10,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy ítéletet tégy az árvának és nyomorodottnak, hogy többé már ne rettentsen a földből való ember."
+            }
+        ]
+    }
+}

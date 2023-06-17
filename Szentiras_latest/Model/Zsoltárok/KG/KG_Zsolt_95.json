@@ -1,0 +1,103 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 95"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109500100,
+                    "szep": "Zsolt 95,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jőjjetek el, örvendezzünk az Úrnak; vígadozzunk a mi szabadításunk kősziklájának!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109500200,
+                    "szep": "Zsolt 95,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Menjünk elébe hálaadással; vígadozzunk néki zengedezésekkel."
+            },
+            {
+                "hely": {
+                    "gepi": 12109500300,
+                    "szep": "Zsolt 95,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nagy Isten az Úr, és nagy király minden istenen felül."
+            },
+            {
+                "hely": {
+                    "gepi": 12109500400,
+                    "szep": "Zsolt 95,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A kinek kezében vannak a földnek mélységei, és a hegyeknek magasságai is az övéi."
+            },
+            {
+                "hely": {
+                    "gepi": 12109500500,
+                    "szep": "Zsolt 95,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A kié a tenger, és ő alkotta is azt, és a szárazföldet is az ő kezei formálták."
+            },
+            {
+                "hely": {
+                    "gepi": 12109500600,
+                    "szep": "Zsolt 95,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jőjjetek, hajoljunk meg, boruljunk le; essünk térdre az Úr előtt, a mi alkotónk előtt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109500700,
+                    "szep": "Zsolt 95,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ő a mi Istenünk, mi pedig az ő legelőjének népei és az ő kezének juhai vagyunk; vajha ma hallanátok az ő szavát."
+            },
+            {
+                "hely": {
+                    "gepi": 12109500800,
+                    "szep": "Zsolt 95,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne keményítsétek meg a ti szíveteket, mint Meribáhnál, mint Maszszáh napján a pusztában:"
+            },
+            {
+                "hely": {
+                    "gepi": 12109500900,
+                    "szep": "Zsolt 95,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "A hol megkisértettek engem a ti atyáitok; próbára tettek engem, jóllehet látták az én cselekedetemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12109501000,
+                    "szep": "Zsolt 95,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Negyven esztendeig bosszankodtam e nemzetségen, és mondám: Tévelygő szívű nép ők, és nem tudják ők az én útamat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109501100,
+                    "szep": "Zsolt 95,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "A kiknek megesküdtem haragomban: Nem mennek be az én nyugalmam helyére."
+            }
+        ]
+    }
+}

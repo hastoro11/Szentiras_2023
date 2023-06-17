@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 100"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12110000000,
+                    "szep": "Zsolt 100,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hálaadó zsoltár."
+            },
+            {
+                "hely": {
+                    "gepi": 12110000100,
+                    "szep": "Zsolt 100,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ujjongjatok az ÚR előtt az egész földön!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110000200,
+                    "szep": "Zsolt 100,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szolgáljatok az ÚRnak örömmel, vigadozva járuljatok színe elé!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110000300,
+                    "szep": "Zsolt 100,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tudjátok meg, hogy az ÚR az Isten! Ő alkotott minket, az övéi vagyunk: az ő népe és legelőjének nyája."
+            },
+            {
+                "hely": {
+                    "gepi": 12110000400,
+                    "szep": "Zsolt 100,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Menjetek be kapuin hálaénekkel, udvaraiba dicsérettel! Adjatok hálát neki, áldjátok nevét!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110000500,
+                    "szep": "Zsolt 100,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert jó az ÚR, örökké tart szeretete, és hűsége nemzedékről nemzedékre."
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 15"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101500000,
+                    "szep": "Zsolt 15,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12101500100,
+                    "szep": "Zsolt 15,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, ki lehet sátradnak vendége, ki tartózkodhat szent hegyeden?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101500200,
+                    "szep": "Zsolt 15,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az, aki feddhetetlenül él, törekszik az igazságra, és szíve szerint igazat szól;"
+            },
+            {
+                "hely": {
+                    "gepi": 12101500300,
+                    "szep": "Zsolt 15,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "nyelvével nem rágalmaz, nem tesz rosszat felebarátjával, és nem hoz gyalázatot rokonára."
+            },
+            {
+                "hely": {
+                    "gepi": 12101500400,
+                    "szep": "Zsolt 15,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megvetéssel néz az alávalókra, de tiszteli azokat, akik az URat félik. Esküjét nem vonja vissza, ha kárt vall is."
+            },
+            {
+                "hely": {
+                    "gepi": 12101500500,
+                    "szep": "Zsolt 15,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem adja pénzét uzsorára, és nem hagyja magát megvesztegetni az ártatlan rovására. Aki ezeket teszi, nem tántorodik meg soha."
+            }
+        ]
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 51"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105100000,
+                    "szep": "Zsolt 51,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek; Dávid zsoltára; Mikor ő hozzá ment Nátán, a próféta, minekutána Bethsabéval vétkezett."
+            },
+            {
+                "hely": {
+                    "gepi": 12105100100,
+                    "szep": "Zsolt 51,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörülj rajtam én Istenem a te kegyelmességed szerint; irgalmasságodnak sokasága szerint töröld el az én bűneimet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105100200,
+                    "szep": "Zsolt 51,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egészen moss ki engemet az én álnokságomból, és az én vétkeimből tisztíts ki engemet;"
+            },
+            {
+                "hely": {
+                    "gepi": 12105100300,
+                    "szep": "Zsolt 51,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ismerem az én bűneimet, és az én vétkem szüntelen előttem forog."
+            },
+            {
+                "hely": {
+                    "gepi": 12105100400,
+                    "szep": "Zsolt 51,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egyedül te ellened vétkeztem, és cselekedtem azt, a mi gonosz a te szemeid előtt; hogy igaz légy beszédedben, és tiszta ítéletedben."
+            },
+            {
+                "hely": {
+                    "gepi": 12105100500,
+                    "szep": "Zsolt 51,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ímé én vétekben fogantattam, és bűnben melengetett engem az anyám."
+            },
+            {
+                "hely": {
+                    "gepi": 12105100600,
+                    "szep": "Zsolt 51,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ímé te az igazságban gyönyörködöl, a mely a vesékben van, és bensőmben bölcseségre tanítasz engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105100700,
+                    "szep": "Zsolt 51,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tisztíts meg engem izsóppal, és tiszta leszek; moss meg engemet, és fehérebb leszek a hónál."
+            },
+            {
+                "hely": {
+                    "gepi": 12105100800,
+                    "szep": "Zsolt 51,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallass örömet és vígasságot velem, hogy örvendezzenek csontjaim, a melyeket összetörtél."
+            },
+            {
+                "hely": {
+                    "gepi": 12105100900,
+                    "szep": "Zsolt 51,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rejtsd el orczádat az én vétkeimtől, és töröld el minden álnokságomat."
+            },
+            {
+                "hely": {
+                    "gepi": 12105101000,
+                    "szep": "Zsolt 51,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tiszta szívet teremts bennem, oh Isten, és az erős lelket újítsd meg bennem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105101100,
+                    "szep": "Zsolt 51,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne vess el engem a te orczád elől, és a te szent lelkedet ne vedd el tőlem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105101200,
+                    "szep": "Zsolt 51,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Add vissza nékem a te szabadításodnak örömét, és engedelmesség lelkével támogass engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105101300,
+                    "szep": "Zsolt 51,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hadd tanítsam a bűnösöket a te útaidra, hogy a vétkezők megtérjenek hozzád."
+            },
+            {
+                "hely": {
+                    "gepi": 12105101400,
+                    "szep": "Zsolt 51,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szabadíts meg engemet a vérontástól, oh Isten, szabadításomnak Istene! hogy harsogja nyelvem a te igazságodat."
+            },
+            {
+                "hely": {
+                    "gepi": 12105101500,
+                    "szep": "Zsolt 51,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, nyisd meg az én ajakimat, hogy hirdesse szájam a te dicséretedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12105101600,
+                    "szep": "Zsolt 51,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nem kivánsz te véresáldozatot, hogy adnék azt, égőáldozatban sem gyönyörködöl."
+            },
+            {
+                "hely": {
+                    "gepi": 12105101700,
+                    "szep": "Zsolt 51,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten előtt kedves áldozatok: a töredelmes lélek; a töredelmes és bűnbánó szívet oh Isten nem veted te meg!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105101800,
+                    "szep": "Zsolt 51,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tégy jól a te kegyelmedből a Sionnal; és építsd meg Jeruzsálem kőfalait."
+            },
+            {
+                "hely": {
+                    "gepi": 12105101900,
+                    "szep": "Zsolt 51,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor kedvesek lesznek előtted az igazságnak áldozatai; az égő és egész áldozat: akkor a te oltárodon áldoznak néked tulkokkal."
+            }
+        ]
+    }
+}

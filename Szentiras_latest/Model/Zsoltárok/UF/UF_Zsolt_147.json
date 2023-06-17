@@ -1,0 +1,175 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 147"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114700100,
+                    "szep": "Zsolt 147,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek az URat! Milyen jó Istenünkről énekelni, milyen gyönyörű a szép dicséret!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114700200,
+                    "szep": "Zsolt 147,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Felépíti Jeruzsálemet az ÚR, összegyűjti a szétszóródott Izráelt."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700300,
+                    "szep": "Zsolt 147,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meggyógyítja a megtört szívűeket, és bekötözi sebeiket."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700400,
+                    "szep": "Zsolt 147,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megszabja a csillagok számát, nevet ad mindegyiknek."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700500,
+                    "szep": "Zsolt 147,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagy a mi Urunk és igen erős, bölcsessége határtalan."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700600,
+                    "szep": "Zsolt 147,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Támogatja az ÚR az alázatosokat, de porig alázza a bűnösöket."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700700,
+                    "szep": "Zsolt 147,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zengjetek hálaéneket az ÚRnak, énekeljetek hárfakísérettel Istenünknek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114700800,
+                    "szep": "Zsolt 147,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő az, aki beborítja felhőkkel az eget, esőt bocsát a földre, füvet sarjaszt a hegyeken."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700900,
+                    "szep": "Zsolt 147,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Eledelt ad az állatoknak, a károgó hollóknak is."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701000,
+                    "szep": "Zsolt 147,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem a lovak erejében leli kedvét, nem a férfi izmaiban gyönyörködik."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701100,
+                    "szep": "Zsolt 147,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az istenfélőkben gyönyörködik az ÚR, azokban, akik az ő szeretetében bíznak."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701200,
+                    "szep": "Zsolt 147,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jeruzsálem, dicsőítsd az URat, Sion, dicsérd Istenedet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114701300,
+                    "szep": "Zsolt 147,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ő erős zárakat tett kapuidra, megáldotta benned lakó fiaidat."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701400,
+                    "szep": "Zsolt 147,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Békét szerzett határaidon, a búza legjavával tart jól téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701500,
+                    "szep": "Zsolt 147,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elküldi parancsát a földre, beszéde gyorsan terjed."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701600,
+                    "szep": "Zsolt 147,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Olyan havat ad, mint a fehér gyapjú, olyan deret szór szét, amilyen a hamu."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701700,
+                    "szep": "Zsolt 147,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Darabokban dobálja a jeget, ki állhatja ki hidegét?"
+            },
+            {
+                "hely": {
+                    "gepi": 12114701800,
+                    "szep": "Zsolt 147,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "De ha kibocsátja szavát, elolvasztja azokat, és ha szelet támaszt, már víz csörgedezik."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701900,
+                    "szep": "Zsolt 147,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kijelentette igéjét Jákóbnak, rendelkezését és törvényeit Izráelnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12114702000,
+                    "szep": "Zsolt 147,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egyetlen néppel sem bánt így, a többiek nem ismerik törvényeit. Dicsérjétek az URat!"
+            }
+        ]
+    }
+}

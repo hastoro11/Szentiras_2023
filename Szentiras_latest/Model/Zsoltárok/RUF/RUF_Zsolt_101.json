@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 101"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12110100000,
+                    "szep": "Zsolt 101,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100100,
+                    "szep": "Zsolt 101,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szeretetedről, törvényedről énekelek, zsoltárt zengek neked, URam!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110100200,
+                    "szep": "Zsolt 101,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ügyelni akarok a tökéletes útra. Mikor jössz hozzám? Tökéletes szívvel akarok élni házamon belül."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100300,
+                    "szep": "Zsolt 101,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem vetem a tekintetemet haszontalan dolgokra. Gyűlölöm a széthúzókat, semmi közöm hozzájuk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110100400,
+                    "szep": "Zsolt 101,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A csalárd szív távol áll tőlem, tudni sem akarok a gonoszságról."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100500,
+                    "szep": "Zsolt 101,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki titokban rágalmazza felebarátját, azt elnémítom. A fennhéjázót és a kevély szívűt nem tűröm meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100600,
+                    "szep": "Zsolt 101,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jól látom a hűségeseket az országban, ők velem maradhatnak. Aki tökéletes úton jár, az szolgálhat engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100700,
+                    "szep": "Zsolt 101,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem maradhat házamban, aki álnokságot művel. Aki hazugságot beszél, nem állhat meg színem előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12110100800,
+                    "szep": "Zsolt 101,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Reggelenként elnémítok minden bűnös embert az országban. Így irtok ki az ÚR városából minden gonosztevőt."
+            }
+        ]
+    }
+}

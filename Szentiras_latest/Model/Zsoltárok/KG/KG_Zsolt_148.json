@@ -1,0 +1,127 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 148"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114800100,
+                    "szep": "Zsolt 148,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek az Urat! <br>Dicsérjétek az Urat az égből; dicsérjétek őt a magas helyeken!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114800200,
+                    "szep": "Zsolt 148,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek őt angyalai mind; dicsérjétek őt minden ő serege!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114800300,
+                    "szep": "Zsolt 148,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek őt: nap és hold; dicsérjétek őt mind: fényes csillagai!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114800400,
+                    "szep": "Zsolt 148,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek őt egeknek egei, és ti vizek, a melyek az ég felett vagytok!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114800500,
+                    "szep": "Zsolt 148,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjék ők az Úrnak nevét, mert parancsolt és előállottak ők."
+            },
+            {
+                "hely": {
+                    "gepi": 12114800600,
+                    "szep": "Zsolt 148,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örök időre állította fel őket; törvényt szabott és nem tér el attól."
+            },
+            {
+                "hely": {
+                    "gepi": 12114800700,
+                    "szep": "Zsolt 148,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek az Urat a földről: viziszörnyek és mély vizek ti mind!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114800800,
+                    "szep": "Zsolt 148,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tűz és jégeső, hó és köd, szélvihar, a melyek az ő rendelését cselekszik;"
+            },
+            {
+                "hely": {
+                    "gepi": 12114800900,
+                    "szep": "Zsolt 148,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ti hegyek és halmok mindnyájan, minden gyümölcsfa s mind ti czédrusok;"
+            },
+            {
+                "hely": {
+                    "gepi": 12114801000,
+                    "szep": "Zsolt 148,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vadak és minden barmok, férgek és szárnyas állatok;"
+            },
+            {
+                "hely": {
+                    "gepi": 12114801100,
+                    "szep": "Zsolt 148,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Földi királyok és minden nemzet, fejedelmek és mind ti földi bírák!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114801200,
+                    "szep": "Zsolt 148,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ifjak és szűzek, vének gyermekekkel:"
+            },
+            {
+                "hely": {
+                    "gepi": 12114801300,
+                    "szep": "Zsolt 148,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjék az Úrnak nevét, mert az ő neve dicső egyedül; az ő dicsősége égre-földre kihat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114801400,
+                    "szep": "Zsolt 148,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "És felemelte az ő népének szarvát. Dicsőítse minden ő kegyeltje: Izráel fiai, a hozzá közel való nép. Dicsérjétek az Urat!"
+            }
+        ]
+    }
+}

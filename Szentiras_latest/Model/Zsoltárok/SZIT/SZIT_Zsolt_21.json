@@ -1,0 +1,127 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 21"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102100000,
+                    "szep": "Zsolt 21,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek – Dávid zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12102100100,
+                    "szep": "Zsolt 21,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hatalmadnak örül, Uram, a király, és segítséged láttán hangosan ujjong."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100200,
+                    "szep": "Zsolt 21,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Teljesítetted szívének kívánságát, nem tagadtad meg tőle ajkának kérését."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100300,
+                    "szep": "Zsolt 21,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Eléje siettél üdvözítő áldással, s fejére színarany koronát helyeztél."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100400,
+                    "szep": "Zsolt 21,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Életet kért tőled, s te megadtad neki a napok teljességét mindörökre."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100500,
+                    "szep": "Zsolt 21,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segítségeddel nagy lett a hírneve, fönséggel és dicsőséggel övezted."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100600,
+                    "szep": "Zsolt 21,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldássá tetted őt minden időkre, s színed előtt örömmel töltötted el."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100700,
+                    "szep": "Zsolt 21,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen a király az Úrban bizakodik, a Magasságbeli kegyelmének erejéből nem fog meginogni."
+            },
+            {
+                "hely": {
+                    "gepi": 12102100800,
+                    "szep": "Zsolt 21,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emeld föl a kezed elleneid ellen, s akik gyűlölnek, azokra sújtson le jobbod!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102100900,
+                    "szep": "Zsolt 21,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Égjenek, mint a kemence tüzében azon a napon, amelyen arcod megjelenik! Semmisítse meg őket az Úr haragjában, eméssze meg őket a tűz!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102101000,
+                    "szep": "Zsolt 21,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Töröld el nemzetségüket a földről, s ivadékukat az emberek fiai közül!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102101100,
+                    "szep": "Zsolt 21,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bár rosszat forralnak és cselt szőnek ellened, győzni sohasem fognak."
+            },
+            {
+                "hely": {
+                    "gepi": 12102101200,
+                    "szep": "Zsolt 21,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen te mind megfutamítod őket, s nyilaikat arcukba vezényled."
+            },
+            {
+                "hely": {
+                    "gepi": 12102101300,
+                    "szep": "Zsolt 21,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kelj fel, uram, erőddel, s mi majd ünnepi éneket zengünk hatalmadról!"
+            }
+        ]
+    }
+}

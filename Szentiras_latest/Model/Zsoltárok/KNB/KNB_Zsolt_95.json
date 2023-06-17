@@ -1,0 +1,127 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 95"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109500100,
+                    "szep": "Zsolt 95,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Liturgikus zsoltár, valamelyik ünnep szertartása tükröződik benne (talán a sátoros ünnepé). Az ünneplő közösség a szentélybe vonulva himnuszt énekel (1-7). Ott egy pap prófétai intelmeket intéz hozzájuk (8-11). A szöveg a fogság utáni időkben keletkezett."
+                    },
+                    {
+                        "position": null,
+                        "text": "Felhívás a dicsőítésre."
+                    }
+                ],
+                "szoveg": "Jöjjetek, örvendezzünk az Úrnak,<br>ujjongjunk szabadító Istenünknek."
+            },
+            {
+                "hely": {
+                    "gepi": 12109500200,
+                    "szep": "Zsolt 95,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Járuljunk eléje magasztalással,<br>vigadjunk előtte zsoltárokkal."
+            },
+            {
+                "hely": {
+                    "gepi": 12109500300,
+                    "szep": "Zsolt 95,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nagy Isten az Úr,<br>hatalmas király ő minden istenen."
+            },
+            {
+                "hely": {
+                    "gepi": 12109500400,
+                    "szep": "Zsolt 95,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kezében vannak a föld mélységei,<br>s övé a hegyek csúcsa."
+            },
+            {
+                "hely": {
+                    "gepi": 12109500500,
+                    "szep": "Zsolt 95,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Övé a tenger, ő alkotta meg,<br>s az ő keze formálta a szárazföldet."
+            },
+            {
+                "hely": {
+                    "gepi": 12109500600,
+                    "szep": "Zsolt 95,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Felhívás a hódolatra."
+                    }
+                ],
+                "szoveg": "Jöjjetek, imádjuk, hajoljunk meg,<br>boruljunk térdre az Úr, a mi alkotónk előtt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109500700,
+                    "szep": "Zsolt 95,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ő az Úr, a mi Istenünk,<br>mi pedig az ő legelőjének népe,<br>s kezének juhai vagyunk."
+            },
+            {
+                "hely": {
+                    "gepi": 12109500800,
+                    "szep": "Zsolt 95,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ma, ha szavát meghalljátok:<br>»Ne keményítsétek meg szíveteket,"
+            },
+            {
+                "hely": {
+                    "gepi": 12109500900,
+                    "szep": "Zsolt 95,9"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Meriba: vö. Kiv 17,1-7."
+                    }
+                ],
+                "szoveg": "Mint Meribánál s Massza napján a pusztában,<br>hol atyáitok megkísértettek engem:<br>próbára tettek, bár látták műveimet."
+            },
+            {
+                "hely": {
+                    "gepi": 12109501000,
+                    "szep": "Zsolt 95,10"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. Szám 14."
+                    }
+                ],
+                "szoveg": "Negyven esztendeig undorodtam e nemzedéktől,<br>s azt mondtam: Tévelygő szívű nép ez."
+            },
+            {
+                "hely": {
+                    "gepi": 12109501100,
+                    "szep": "Zsolt 95,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem ismerték útjaimat,<br>ezért haragomban megesküdtem:<br>Nem mennek be nyugalmamba!«"
+            }
+        ]
+    }
+}

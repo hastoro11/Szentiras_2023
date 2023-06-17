@@ -1,0 +1,224 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 34"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103400000,
+                    "szep": "Zsolt 34,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Alfabetikus tanító költemény a fogság utáni időkből. Azokkal a nehéz próbákkal foglalkozik, amelyeken az igazaknak is át kell esniük. Az első rész (2-11) egy szegény ember élményét mondja el, a második rész (12-22) azt tanítja, hogy Isten mindig őrködik az igazak fölött. Abimelek nevének említése téves (Dávid Ákis előtt színlelt őrültséget, vö. 1 Sám 21,11-16)."
+                    }
+                ],
+                "szoveg": "<em>Dávidtól, amikor őrültséget színlelt<br>Abimelek előtt, és az továbbengedte őt.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12103400100,
+                    "szep": "Zsolt 34,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldom az Urat minden időben,<br>ajkamon van dicsérete szüntelen."
+            },
+            {
+                "hely": {
+                    "gepi": 12103400200,
+                    "szep": "Zsolt 34,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úrban dicsekszik lelkem,<br>hallják meg a szelídek s örvendezzenek."
+            },
+            {
+                "hely": {
+                    "gepi": 12103400300,
+                    "szep": "Zsolt 34,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljátok az Urat velem,<br>dicsérjük együtt az ő nevét."
+            },
+            {
+                "hely": {
+                    "gepi": 12103400400,
+                    "szep": "Zsolt 34,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kerestem az Urat és meghallgatott,<br>minden rettegésből kiragadott engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103400500,
+                    "szep": "Zsolt 34,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nézzetek rá és megvilágosultok,<br>és arcotok meg nem szégyenül."
+            },
+            {
+                "hely": {
+                    "gepi": 12103400600,
+                    "szep": "Zsolt 34,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Íme ez a szegény kiáltott, az Úr meghallgatta,<br>és kiszabadította minden szorongatásából."
+            },
+            {
+                "hely": {
+                    "gepi": 12103400700,
+                    "szep": "Zsolt 34,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr angyala az őt félőket körülsáncolja,<br>és kiragadja őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12103400800,
+                    "szep": "Zsolt 34,8"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. 1 Pét 2,3"
+                    }
+                ],
+                "szoveg": "Ízleljétek meg és lássátok, milyen édes az Úr,<br>boldog az az ember, aki őbenne bízik!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103400900,
+                    "szep": "Zsolt 34,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Féljétek az Urat, szentjei mind,<br>mert nem szenvednek szükséget, akik őt félik!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103401000,
+                    "szep": "Zsolt 34,10"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Gazdagok: javítva a görög és a szír szöveg alapján (a héber szövegben: fiatal oroszlán)."
+                    }
+                ],
+                "szoveg": "Gazdagok nyomorba juthatnak s éhezhetnek,<br>de akik az Urat keresik, semmi jót sem nélkülöznek."
+            },
+            {
+                "hely": {
+                    "gepi": 12103401100,
+                    "szep": "Zsolt 34,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jöjjetek, fiaim, hallgassatok rám,<br>az Úr félelmére tanítlak titeket."
+            },
+            {
+                "hely": {
+                    "gepi": 12103401200,
+                    "szep": "Zsolt 34,12"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. 1 Pét 3,10-12"
+                    }
+                ],
+                "szoveg": "Ki az, aki élni akar,<br>s jó napokat kíván látni?"
+            },
+            {
+                "hely": {
+                    "gepi": 12103401300,
+                    "szep": "Zsolt 34,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Őrizd meg nyelvedet a gonosztól,<br>s ajkad ne beszéljen csalárdságot!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103401400,
+                    "szep": "Zsolt 34,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fordulj el a rossztól és tégy jót,<br>keresd a békét és azt kövesd!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103401500,
+                    "szep": "Zsolt 34,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr szemmel tartja az igazakat,<br>és imádságukat meghallgatja."
+            },
+            {
+                "hely": {
+                    "gepi": 12103401600,
+                    "szep": "Zsolt 34,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "De az Úr tekintete ott a gonosztevőkön is,<br>hogy eltörölje emléküket a földön."
+            },
+            {
+                "hely": {
+                    "gepi": 12103401700,
+                    "szep": "Zsolt 34,17"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az igazak: kiegészítés a görög, a szír és az arám fordítás alapján."
+                    }
+                ],
+                "szoveg": "Kiáltottak az igazak és az Úr meghallgatta,<br>és minden szorongatásukból kiszabadította őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12103401800,
+                    "szep": "Zsolt 34,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Közel van az Úr a megtört szívűekhez,<br>és megmenti az alázatos lelkűeket."
+            },
+            {
+                "hely": {
+                    "gepi": 12103401900,
+                    "szep": "Zsolt 34,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sok nyomorúság éri az igazakat,<br>de az Úr valamennyiből kimenti őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12103402000,
+                    "szep": "Zsolt 34,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megőrzi minden csontjukat,<br>egy sem törik el belőlük."
+            },
+            {
+                "hely": {
+                    "gepi": 12103402100,
+                    "szep": "Zsolt 34,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gonoszságuk öli meg a bűnösöket,<br>s megbűnhődnek akik gyűlölik az igazat."
+            },
+            {
+                "hely": {
+                    "gepi": 12103402200,
+                    "szep": "Zsolt 34,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "De szolgáit az Úr megszabadítja,<br>és senki sem bűnhődik, aki benne bízik."
+            }
+        ]
+    }
+}

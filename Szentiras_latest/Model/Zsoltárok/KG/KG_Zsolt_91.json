@@ -1,0 +1,143 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 91"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109100100,
+                    "szep": "Zsolt 91,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki a Felségesnek rejtekében lakozik, a Mindenhatónak árnyékában nyugoszik az."
+            },
+            {
+                "hely": {
+                    "gepi": 12109100200,
+                    "szep": "Zsolt 91,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azt mondom az Úrnak: Én oltalmam, váram, Istenem ő benne bízom!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109100300,
+                    "szep": "Zsolt 91,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ő szabadít meg téged a madarásznak tőréből, a veszedelmes dögvésztől."
+            },
+            {
+                "hely": {
+                    "gepi": 12109100400,
+                    "szep": "Zsolt 91,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tollaival fedez be téged, és szárnyai alatt lészen oltalmad; paizs és pánczél az ő hűsége."
+            },
+            {
+                "hely": {
+                    "gepi": 12109100500,
+                    "szep": "Zsolt 91,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem félhetsz az éjszakai ijesztéstől, a repülő nyíltól nappal;"
+            },
+            {
+                "hely": {
+                    "gepi": 12109100600,
+                    "szep": "Zsolt 91,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "A dögvésztől, a mely a homályban jár; a döghaláltól, a mely délben pusztít."
+            },
+            {
+                "hely": {
+                    "gepi": 12109100700,
+                    "szep": "Zsolt 91,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elesnek mellőled ezeren, és jobb kezed felől tízezeren; és hozzád nem is közelít."
+            },
+            {
+                "hely": {
+                    "gepi": 12109100800,
+                    "szep": "Zsolt 91,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony szemeiddel nézed és meglátod a gonoszoknak megbüntetését!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109100900,
+                    "szep": "Zsolt 91,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert azt mondtad te: Az Úr az én oltalmam; a Felségest választottad a te hajlékoddá:"
+            },
+            {
+                "hely": {
+                    "gepi": 12109101000,
+                    "szep": "Zsolt 91,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem illet téged a veszedelem, és csapás nem közelget a sátorodhoz;"
+            },
+            {
+                "hely": {
+                    "gepi": 12109101100,
+                    "szep": "Zsolt 91,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert az ő angyalainak parancsolt felőled, hogy őrizzenek téged minden útadban."
+            },
+            {
+                "hely": {
+                    "gepi": 12109101200,
+                    "szep": "Zsolt 91,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kézen hordoznak téged, hogy meg ne üssed lábadat a kőbe."
+            },
+            {
+                "hely": {
+                    "gepi": 12109101300,
+                    "szep": "Zsolt 91,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Oroszlánon és áspiskígyón jársz, megtaposod az oroszlánkölyköt és a sárkányt."
+            },
+            {
+                "hely": {
+                    "gepi": 12109101400,
+                    "szep": "Zsolt 91,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mivelhogy ragaszkodik hozzám, megszabadítom őt, felmagasztalom őt, mert ismeri az én nevemet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109101500,
+                    "szep": "Zsolt 91,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segítségül hív engem, ezért meghallgatom őt; vele vagyok háborúságában: megmentem és megdicsőítem őt."
+            },
+            {
+                "hely": {
+                    "gepi": 12109101600,
+                    "szep": "Zsolt 91,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hosszú élettel elégítem meg őt, és megmutatom néki az én szabadításomat."
+            }
+        ]
+    }
+}

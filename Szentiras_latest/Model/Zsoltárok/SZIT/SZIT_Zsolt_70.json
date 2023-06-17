@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 70"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107000000,
+                    "szep": "Zsolt 70,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek – Dávidtól, emlékezetül.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12107000100,
+                    "szep": "Zsolt 70,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, irgalmadban ments meg, siess, Uram, segítségemre!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107000200,
+                    "szep": "Zsolt 70,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Valljanak szégyent és piruljanak gyalázatukban, akik életemre törnek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107000300,
+                    "szep": "Zsolt 70,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szégyenkezve hátráljanak, akik örülnek bajomon! Hátráljanak megszégyenülve, akik így gúnyolnak: „Úgy kell neki!”"
+            },
+            {
+                "hely": {
+                    "gepi": 12107000400,
+                    "szep": "Zsolt 70,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "De ujjongjanak és örüljenek benned mind, akik hűségesen keresnek téged! Hirdessék mindig, hogy nagy az Isten, mindnyájan, kik várják az üdvösségedet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107000500,
+                    "szep": "Zsolt 70,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "De én nyomorult és szegény vagyok. Istenem, siess hozzám! Te vagy segítőm és szabadítóm, ne késsél tovább, Uram!"
+            }
+        ]
+    }
+}

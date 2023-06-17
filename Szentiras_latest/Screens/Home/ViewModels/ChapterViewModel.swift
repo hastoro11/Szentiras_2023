@@ -28,8 +28,11 @@ class ChapterViewModel: ObservableObject {
         var response = SZIResponse.default
         do {
             if case Translation.KG = translation, book.number == "124" {
-                response = try Util.getSZIResponse(filename: "Énekek\(chapter)")                
+                response = try Util.getSZIResponse(filename: "Énekek\(chapter)")
                 response.chapter.book = book
+                self.chapter = response.chapter
+            } else if book.number == "121" {
+                response = try fetchPsalms(for: translation, and: chapter)
                 self.chapter = response.chapter
             } else {
                 response = try await service.fetchChapter(translation: translation, book: book, chapter: chapter)
@@ -43,6 +46,12 @@ class ChapterViewModel: ObservableObject {
             }
             isError = true
         }
+    }
+    
+    private func fetchPsalms(for translation: Translation, and chapter: Int) throws -> SZIResponse {
+        let filename = "\(translation.rawValue)_Zsolt_\(chapter)"
+        let response = try Util.getSZIResponse(filename: filename)
+        return response
     }
     
     @MainActor

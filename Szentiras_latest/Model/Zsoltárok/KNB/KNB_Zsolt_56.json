@@ -1,0 +1,151 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 56"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105600000,
+                    "szep": "Zsolt 56,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Bizalom-ének, amely talán még a királyok korában keletkezett. Az imádkozót legyőzték, mindenfelől szorongatják, megrágalmazzák és megfigyelik, egyetlen biztos pontja az Istenbe vetett reménye."
+                    },
+                    {
+                        "position": null,
+                        "text": "Vö. 1 Sám 21,11-16."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. A »Jónat élem rehókím« szerint. Miktám Dávidtól. Amikor Gátban a filiszteusok elfogták.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12105600100,
+                    "szep": "Zsolt 56,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörülj rajtam, Isten,<br>mert taposnak rajtam az emberek,<br>egész nap hadakozva legyűrnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12105600200,
+                    "szep": "Zsolt 56,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ellenségeim egész nap taposnak,<br>bizony hadakoznak ellenem, ó, Fölséges."
+            },
+            {
+                "hely": {
+                    "gepi": 12105600300,
+                    "szep": "Zsolt 56,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bármikor fog is el a félelem,<br>én tebenned remélek."
+            },
+            {
+                "hely": {
+                    "gepi": 12105600400,
+                    "szep": "Zsolt 56,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenben, akinek dicsőítem szavát,<br>az Istenben remélek, nem félek,<br>ember mit árthatna nekem?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105600500,
+                    "szep": "Zsolt 56,5"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Szó szerint: bántják, sértik szavamat."
+                    }
+                ],
+                "szoveg": "Egész nap felforgatják dolgaimat,<br>vesztemre tör minden gondolatuk."
+            },
+            {
+                "hely": {
+                    "gepi": 12105600600,
+                    "szep": "Zsolt 56,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Viszályt szítanak és köröttem ólálkodnak,<br>sarkam után leselkednek.<br>Ahogyan ők életemre törnek,"
+            },
+            {
+                "hely": {
+                    "gepi": 12105600700,
+                    "szep": "Zsolt 56,7"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Fizess vissza gonoszságukért: javított szöveg (a héber szövegben: a gonosztett ellenére megmenekülnek)."
+                    }
+                ],
+                "szoveg": "úgy fizess vissza gonoszságukért,<br>törd össze haragodban e népeket, Isten!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105600800,
+                    "szep": "Zsolt 56,8"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Isten tud a szenvedőkről, könnyeiket egy korsóban őrzi, szenvedésüket pedig felírja egy könyvbe (vö. Jel 3,5; 20,12)."
+                    }
+                ],
+                "szoveg": "Te számon tartod bujdosásomat,<br>gyűjtsd tömlődbe könnyeimet:<br>Ugye számon kéred őket?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105600900,
+                    "szep": "Zsolt 56,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor majd meghátrálnak ellenségeim,<br>bármely napon hívlak segítségül:<br>íme megismertem, hogy te vagy Istenem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105601000,
+                    "szep": "Zsolt 56,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Istenben, akinek dicsőítem szavát,<br>az Úrban, akinek dicsőítem szavát,"
+            },
+            {
+                "hely": {
+                    "gepi": 12105601100,
+                    "szep": "Zsolt 56,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "az Istenben remélek, nem félek;<br>Ember mit árthatna nekem?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105601200,
+                    "szep": "Zsolt 56,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tartozom neked, Istenem, azzal, amit megfogadtam,<br>megadom neked a hálaáldozatokat,"
+            },
+            {
+                "hely": {
+                    "gepi": 12105601300,
+                    "szep": "Zsolt 56,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "mert megmentetted életem a haláltól,<br>lábamat az elbukástól,<br>hogy Isten előtt járjak<br>az élők világosságában."
+            }
+        ]
+    }
+}

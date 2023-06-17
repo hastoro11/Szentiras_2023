@@ -1,0 +1,150 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 27"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102700000,
+                    "szep": "Zsolt 27,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zsoltár egy bizaloménekből (1-6 v.) és egy panaszdalból áll (7-12) Az első rész a fogság előtti, a második rész a fogság utáni időkben jött létre. Távol Jeruzsálemtől egy izraelita beismeri, hogy csak az remélhet segítséget, aki hisz az Úrban (= Jahve, a Jeruzsálemben lakó igaz Isten). A második részben ennek ellentétéről, a gondokról, fájdalomról, szenvedésről és a veszélyről beszél. Ezek réme csak az Istenhez való fordulás által múlik el."
+                    }
+                ],
+                "szoveg": "<em>Dávidtól.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12102700100,
+                    "szep": "Zsolt 27,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zsoltár egy bizaloménekből (1-6 v.) és egy panaszdalból áll (7-12) Az első rész a fogság előtti, a második rész a fogság utáni időkben jött létre. Távol Jeruzsálemtől egy izraelita beismeri, hogy csak az remélhet segítséget, aki hisz az Úrban (= Jahve, a Jeruzsálemben lakó igaz Isten). A második részben ennek ellentétéről, a gondokról, fájdalomról, szenvedésről és a veszélyről beszél. Ezek réme csak az Istenhez való fordulás által múlik el."
+                    }
+                ],
+                "szoveg": "Az Úr az én világosságom és üdvösségem:<br>kitől kellene félnem?<br>Az Úr oltalmazza életemet:<br>kitől kellene remegnem?"
+            },
+            {
+                "hely": {
+                    "gepi": 12102700200,
+                    "szep": "Zsolt 27,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha közelednek felém a gonoszok,<br>hogy egyék húsomat,<br>ellenségeim, akik szorongatnak,<br>maguk botlanak meg és elesnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12102700300,
+                    "szep": "Zsolt 27,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha táborok kelnek is ellenem,<br>nem ijed meg szívem;<br>Ha harc támad is ellenem,<br>akkor is reménykedem."
+            },
+            {
+                "hely": {
+                    "gepi": 12102700400,
+                    "szep": "Zsolt 27,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egyet kérek az Úrtól,<br>azért esedezem:<br>hadd lakjam az Úr házában<br>életemnek minden napján,<br>hadd lássam az Úr pompáját,<br>hadd látogassam templomát."
+            },
+            {
+                "hely": {
+                    "gepi": 12102700500,
+                    "szep": "Zsolt 27,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ő elrejt hajlékában a veszedelem idején,<br>elbújtat sátra rejtekében, kősziklára emel fel engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12102700600,
+                    "szep": "Zsolt 27,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így fölemeli fejemet<br>ellenségeim fölé, akik körülvesznek.<br>Én pedig diadalkiáltással áldozatot mutatok be hajlékában,<br>éneklek és zsoltárt zengek az Úrnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12102700700,
+                    "szep": "Zsolt 27,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Halld meg, Uram, szózatomat, amellyel hozzád kiáltok,<br>könyörülj rajtam és hallgass meg engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102700800,
+                    "szep": "Zsolt 27,8"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Isten arcát keresni: az ő kegyelmét, jóakaratát és védelmét kérni."
+                    }
+                ],
+                "szoveg": "Rólad mondja a szívem:<br>»Téged keres tekintetem!«<br>A te arcodat keresem, Uram!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102700900,
+                    "szep": "Zsolt 27,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne fordítsd el tőlem arcodat,<br>ne fordulj el haragodban szolgádtól,<br>te vagy segítőm!<br>Ne hagyj el és ne vess meg engem,<br>üdvözítő Istenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102701000,
+                    "szep": "Zsolt 27,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hisz atyám és anyám is elhagyott,<br>de az Úr fölkarolt engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12102701100,
+                    "szep": "Zsolt 27,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mutasd meg nekem, Uram, utadat,<br>és vezess engem a helyes ösvényre ellenségeim miatt."
+            },
+            {
+                "hely": {
+                    "gepi": 12102701200,
+                    "szep": "Zsolt 27,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne adj át ellenségeim akaratának,<br>mert hamis tanúk támadnak ellenem,<br>akik erőszakot lihegnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12102701300,
+                    "szep": "Zsolt 27,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszem, hogy meglátom az Úr javait az élők földjén."
+            },
+            {
+                "hely": {
+                    "gepi": 12102701400,
+                    "szep": "Zsolt 27,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Remélj az Úrban, légy férfias,<br>bátor legyen szíved, és bízzál az Úrban!"
+            }
+        ]
+    }
+}

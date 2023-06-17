@@ -1,0 +1,107 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 130"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113000000,
+                    "szep": "Zsolt 130,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni panaszdal, a hatodik bűnbánati zsoltár (fogság utáni)."
+                    }
+                ],
+                "szoveg": "<em>Zarándok-ének.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12113000100,
+                    "szep": "Zsolt 130,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni panaszdal, a hatodik bűnbánati zsoltár (fogság utáni)."
+                    }
+                ],
+                "szoveg": "A mélységből kiáltok hozzád, Uram!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113000200,
+                    "szep": "Zsolt 130,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egy hívő kéri Istent, hogy hallgassa meg könyörgését. Tisztában van azzal, hogy másokhoz hasonlóan ő is bűnös."
+                    }
+                ],
+                "szoveg": "Uram, hallgasd meg szavamat!<br>Legyen füled figyelmes<br>hangos esedezésemre."
+            },
+            {
+                "hely": {
+                    "gepi": 12113000300,
+                    "szep": "Zsolt 130,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, ha a vétkeket számon tartod,<br>Uram, ki állhat meg előtted?"
+            },
+            {
+                "hely": {
+                    "gepi": 12113000400,
+                    "szep": "Zsolt 130,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen tenálad a bocsánat,<br>hogy féljünk téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12113000500,
+                    "szep": "Zsolt 130,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Benned bízom, Uram.<br>Lelkem bízik az ő szavában;<br>várja"
+            },
+            {
+                "hely": {
+                    "gepi": 12113000600,
+                    "szep": "Zsolt 130,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "lelkem az Urat,<br>jobban, mint az őr a hajnalt.<br>Jobban, mint az őr a hajnalt,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113000700,
+                    "szep": "Zsolt 130,7"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A pap az egyéni kérést kiterjeszti az egész közösségre: Isten fogja a megváltás árát népéért kifizetni, meg fogja váltani."
+                    }
+                ],
+                "szoveg": "várja Izrael az Urat,<br>mert az Úrnál van az irgalom,<br>és bőséges nála a szabadítás."
+            },
+            {
+                "hely": {
+                    "gepi": 12113000800,
+                    "szep": "Zsolt 130,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő megszabadítja Izraelt<br>minden gonoszságától."
+            }
+        ]
+    }
+}

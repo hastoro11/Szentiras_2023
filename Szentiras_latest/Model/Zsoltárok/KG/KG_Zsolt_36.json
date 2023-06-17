@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 36"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103600000,
+                    "szep": "Zsolt 36,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek; az Úr szolgájáé, Dávidé."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600100,
+                    "szep": "Zsolt 36,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gonosznak hamissága felől így gondolkozom szívemben: nincs ő előtte isten-félelem;"
+            },
+            {
+                "hely": {
+                    "gepi": 12103600200,
+                    "szep": "Zsolt 36,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert hízeleg néki önmagának, ha bűnét elkövetheti, ha gyűlölködhetik."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600300,
+                    "szep": "Zsolt 36,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szájának beszéde hiábavalóság és hamisság; megszünt bölcs lenni és jót cselekedni."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600400,
+                    "szep": "Zsolt 36,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiábavalóságot gondol ágyában; nem a jó útra áll, és nem veti meg a rosszat."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600500,
+                    "szep": "Zsolt 36,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, az égig ér a te kegyelmességed; a te hűséged a felhőkig!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103600600,
+                    "szep": "Zsolt 36,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igazságod, mint Isten hegyei; ítéleteid, mint a nagy mélységek; az embert és barmot te tartod meg, Uram!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103600700,
+                    "szep": "Zsolt 36,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Oh Isten, milyen drága a te kegyelmességed; az embernek fiai a te szárnyaidnak árnyékába menekülnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600800,
+                    "szep": "Zsolt 36,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dúslakodnak házadnak bőséges javaiban; megitatod őket gyönyörűségeid folyóvizéből."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600900,
+                    "szep": "Zsolt 36,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nálad van az életnek forrása; a te világosságod által látunk világosságot."
+            },
+            {
+                "hely": {
+                    "gepi": 12103601000,
+                    "szep": "Zsolt 36,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Terjeszd ki kegyelmességedet a te ismerőidre, és igazságodat az igaz szívűekre."
+            },
+            {
+                "hely": {
+                    "gepi": 12103601100,
+                    "szep": "Zsolt 36,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne támadjon engem a kevélynek lába, és ne üldözzön engem a gonosznak keze."
+            },
+            {
+                "hely": {
+                    "gepi": 12103601200,
+                    "szep": "Zsolt 36,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hullnak már a gonosztevők; eltaszíttatnak és nem állhatnak fel!"
+            }
+        ]
+    }
+}

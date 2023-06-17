@@ -1,0 +1,47 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 133"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113300000,
+                    "szep": "Zsolt 133,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zarándokének. Dávidé."
+            },
+            {
+                "hely": {
+                    "gepi": 12113300100,
+                    "szep": "Zsolt 133,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ó, mily szép és mily gyönyörűséges, ha a testvérek egyetértésben élnek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113300200,
+                    "szep": "Zsolt 133,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Olyan ez, mint mikor a drága olaj a fejről lecsordul a szakállra, Áron szakállára, amely leér köntöse gallérjára."
+            },
+            {
+                "hely": {
+                    "gepi": 12113300300,
+                    "szep": "Zsolt 133,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Olyan, mint a Hermón harmatja, amely leszáll a Sion hegyére. Csak oda küld az ÚR áldást és életet mindenkor."
+            }
+        ]
+    }
+}

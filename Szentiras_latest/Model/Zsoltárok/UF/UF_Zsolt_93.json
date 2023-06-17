@@ -1,0 +1,55 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 93"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109300100,
+                    "szep": "Zsolt 93,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uralkodik az ÚR! Fenségbe öltözött, felöltözött az ÚR, erőt övezett magára. Szilárdan áll a világ, nem inog."
+            },
+            {
+                "hely": {
+                    "gepi": 12109300200,
+                    "szep": "Zsolt 93,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szilárdan áll trónod ősidők óta, öröktől fogva vagy te."
+            },
+            {
+                "hely": {
+                    "gepi": 12109300300,
+                    "szep": "Zsolt 93,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zúgnak a folyamok, URam, hangosan zúgnak a folyamok, zúgva morajlanak a folyamok."
+            },
+            {
+                "hely": {
+                    "gepi": 12109300400,
+                    "szep": "Zsolt 93,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A hatalmas vizek hangjánál, a tenger fenséges morajlásánál fenségesebb az ÚR a magasságban."
+            },
+            {
+                "hely": {
+                    "gepi": 12109300500,
+                    "szep": "Zsolt 93,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Amit megmondasz, igen megbízható. Templomodat szentség ékesíti, ó, URam, időtlen időkig!"
+            }
+        ]
+    }
+}

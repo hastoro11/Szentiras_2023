@@ -1,0 +1,143 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 36"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103600000,
+                    "szep": "Zsolt 36,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Könyörgő ének a fogság utáni időkből. Három össze nem függő részből áll. Az első a gonoszok bemutatása (2-5), a második ennek ellentéteként az igazságos Isten dicsőítése (6-10), a harmadik rész könyörgés Istenhez (11-13)."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Az Úr szolgájától, Dávidtól.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12103600100,
+                    "szep": "Zsolt 36,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A gonosz velejéig való rosszasága."
+                    },
+                    {
+                        "position": null,
+                        "text": "Javítva a görög szöveg alapján. Vö. Róm 3,18."
+                    }
+                ],
+                "szoveg": "Elhatározza magában a gonosz, hogy vétkezik,<br>szeme előtt nincs Isten félelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600200,
+                    "szep": "Zsolt 36,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Színe előtt álnokul cselekszik,<br>hadd tapasztalják gyűlöletes gonoszságát."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600300,
+                    "szep": "Zsolt 36,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gonoszság és csalárdság szájának beszéde,<br>tudni sem akar arról, hogy a jót cselekedje."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600400,
+                    "szep": "Zsolt 36,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fekvőhelyén gonoszságon jár az esze,<br>minden utat, amely nem jó, kipróbál,<br>s nem gyűlöli a rosszat."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600500,
+                    "szep": "Zsolt 36,5"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Szónoki módon magasztalja Isten jóságát, igazságosságát, hűségét."
+                    }
+                ],
+                "szoveg": "Uram, az égig ér kegyességed,<br>a fellegekig hűséged."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600600,
+                    "szep": "Zsolt 36,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igazságosságod olyan, mint az Isten hegyei,<br>ítéleteid hatalmas mélységek;<br>Fenntartasz, Uram, embert és állatot."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600700,
+                    "szep": "Zsolt 36,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, milyen gazdag a te irgalmasságod!<br>Az emberek fiai szárnyad oltalmába menekülnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600800,
+                    "szep": "Zsolt 36,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megrészegülnek házad dús javaitól,<br>gyönyörűséged patakjával itatod őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600900,
+                    "szep": "Zsolt 36,9"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Csak az Istennel való kapcsolat által érti meg az ember az életet."
+                    }
+                ],
+                "szoveg": "Mert nálad van az élet forrása,<br>és világosságod által látunk világosságot."
+            },
+            {
+                "hely": {
+                    "gepi": 12103601000,
+                    "szep": "Zsolt 36,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Terjeszd ki irgalmadat ismerőidre,<br>igazságodat az igaz szívűekre."
+            },
+            {
+                "hely": {
+                    "gepi": 12103601100,
+                    "szep": "Zsolt 36,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "A kevélység lába ne taposson,<br>s meg ne ingasson a bűnös keze engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103601200,
+                    "szep": "Zsolt 36,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Íme elhullanak a gonosztevők,<br>úgy megkergeted őket, hogy meg sem állhatnak."
+            }
+        ]
+    }
+}

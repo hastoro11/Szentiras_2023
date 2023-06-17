@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 4"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100400000,
+                    "szep": "Zsolt 4,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek, húros hangszerre – Dávid zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12100400100,
+                    "szep": "Zsolt 4,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha hozzád kiáltok, meghallgatsz, Istenem, te, aki igazságot szolgáltatsz nekem. Megsegítettél szorongattatásomban, könyörülj rajtam és hallgasd meg imám!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100400200,
+                    "szep": "Zsolt 4,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ti emberek, meddig marad kemény a szívetek? Miért szeretitek, ami haszontalan, miért törekedtek álnokságra?"
+            },
+            {
+                "hely": {
+                    "gepi": 12100400300,
+                    "szep": "Zsolt 4,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tudjátok meg, a hűségessel csodát tesz az Úr. Az Úr meghallgat, ha hozzá kiáltok."
+            },
+            {
+                "hely": {
+                    "gepi": 12100400400,
+                    "szep": "Zsolt 4,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rettegjetek hát és kerüljétek a bűnt! Vegyétek ezt jól fontolóra szívetekben! Nyugovóra térvén teremtsetek csendet és elmélkedjetek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100400500,
+                    "szep": "Zsolt 4,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hozzatok méltó áldozatot, és bízzatok az Úrban!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100400600,
+                    "szep": "Zsolt 4,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sokan mondják: Ki fordul még jóval felénk? Ragyogtasd ránk arcodat, Uram,"
+            },
+            {
+                "hely": {
+                    "gepi": 12100400700,
+                    "szep": "Zsolt 4,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "te örömmel töltöd el szívemet, sokkal inkább, mintha bor és búza bőségben volna."
+            },
+            {
+                "hely": {
+                    "gepi": 12100400800,
+                    "szep": "Zsolt 4,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lefekszem hát és békében alszom, hiszen te biztonságot adsz nekem, Uram!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 53"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105300000,
+                    "szep": "Zsolt 53,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek a mahalathra, Dávid tanítása."
+            },
+            {
+                "hely": {
+                    "gepi": 12105300100,
+                    "szep": "Zsolt 53,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezt mondta a balgatag az ő szívében: Nincs Isten. Megromlottak és útálatos hamisságot cselekedtek, nincs a ki jót cselekedjék."
+            },
+            {
+                "hely": {
+                    "gepi": 12105300200,
+                    "szep": "Zsolt 53,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten letekint a mennyből az emberek fiaira, hogy meglássa, ha van-é értelmes, Istent kereső?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105300300,
+                    "szep": "Zsolt 53,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mindnyájan elhajlottak, és valamennyien megromlottak, nincsen a ki jót cselekedjék, nincsen csak egy is."
+            },
+            {
+                "hely": {
+                    "gepi": 12105300400,
+                    "szep": "Zsolt 53,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Avagy nincs értelem a hamisságnak cselekvőiben, a kik az én népemet megeszik, mintha kenyeret ennének, a kik az Istent segítségül nem hívják?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105300500,
+                    "szep": "Zsolt 53,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ott félnek nagy félelemmel, a hol nincsen félelem; mert az Isten elszéleszti azoknak tetemeit, a kik tábort járnak ellened; megszégyeníted azokat, mert az Isten megveti őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12105300600,
+                    "szep": "Zsolt 53,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Oh, vajha eljönne Sionból Izráelnek a szabadítás! Mikor az Úr visszahozza az ő népének foglyait, örül majd Jákób és vigad Izráel!"
+            }
+        ]
+    }
+}

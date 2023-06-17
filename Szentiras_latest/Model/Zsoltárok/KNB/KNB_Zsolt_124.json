@@ -1,0 +1,107 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 124"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112400000,
+                    "szep": "Zsolt 124,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Hálaének tanító hangsúllyal, fogság utáni."
+                    }
+                ],
+                "szoveg": "<em>Zarándok-ének. Dávidtól.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12112400100,
+                    "szep": "Zsolt 124,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Hálaének tanító hangsúllyal, fogság utáni."
+                    }
+                ],
+                "szoveg": "Ha nem az Úr lett volna velünk,<br>– vallja meg most Izrael, –"
+            },
+            {
+                "hely": {
+                    "gepi": 12112400200,
+                    "szep": "Zsolt 124,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "ha nem az Úr lett volna velünk,<br>amikor az emberek fölkeltek ellenünk,"
+            },
+            {
+                "hely": {
+                    "gepi": 12112400300,
+                    "szep": "Zsolt 124,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "talán elevenen nyeltek volna el minket,<br>amikor haragjuk felgerjedt ellenünk."
+            },
+            {
+                "hely": {
+                    "gepi": 12112400400,
+                    "szep": "Zsolt 124,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Talán elnyeltek volna minket a vizek,<br>rohanó patak árasztott volna el minket,"
+            },
+            {
+                "hely": {
+                    "gepi": 12112400500,
+                    "szep": "Zsolt 124,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "talán elborítottak volna a felbőszült vizek."
+            },
+            {
+                "hely": {
+                    "gepi": 12112400600,
+                    "szep": "Zsolt 124,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Két képpel fejezi ki a köszönetet: Isten megőrzött bennünket, szabadok vagyunk."
+                    }
+                ],
+                "szoveg": "Áldott az Úr, aki nem engedte meg,<br>hogy fogaik martaléka legyünk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112400700,
+                    "szep": "Zsolt 124,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megszabadultunk, mint a madár,<br>a vadászok csapdájától.<br>A csapda összetört<br>és mi megszabadultunk."
+            },
+            {
+                "hely": {
+                    "gepi": 12112400800,
+                    "szep": "Zsolt 124,8"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Hitvallás. – Gyakori a katolikus liturgiában: Az Úr neve a mi segítségünk."
+                    }
+                ],
+                "szoveg": "Az Úr nevében van a mi segítségünk,<br>aki az eget és a földet alkotta."
+            }
+        ]
+    }
+}

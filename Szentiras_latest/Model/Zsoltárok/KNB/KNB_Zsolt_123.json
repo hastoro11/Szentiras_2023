@@ -1,0 +1,65 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 123"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112300000,
+                    "szep": "Zsolt 123,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Közösségi panaszdal a fogság utáni időkből. Valaki megszólítja a csoportot, amely úton van Jeruzsálem felé. A templom ott van, de tudják, hogy Isten az égben trónol. Ezért hozzá emelik tekintetüket, és megvallják, hogy mint szolgák és szolgálók tartoznak Uruk családjához."
+                    }
+                ],
+                "szoveg": "<em>Zarándok-ének.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12112300100,
+                    "szep": "Zsolt 123,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Közösségi panaszdal a fogság utáni időkből. Valaki megszólítja a csoportot, amely úton van Jeruzsálem felé. A templom ott van, de tudják, hogy Isten az égben trónol. Ezért hozzá emelik tekintetüket, és megvallják, hogy mint szolgák és szolgálók tartoznak Uruk családjához."
+                    }
+                ],
+                "szoveg": "Hozzád emelem szememet,<br>aki az égben laksz."
+            },
+            {
+                "hely": {
+                    "gepi": 12112300200,
+                    "szep": "Zsolt 123,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Íme, mint a szolgák szeme<br>uruk kezére,<br>mint a szolgáló szeme<br>úrnőjének kezére,<br>úgy tekint az Úrra, Istenünkre a mi szemünk,<br>amíg rajtunk meg nem könyörül."
+            },
+            {
+                "hely": {
+                    "gepi": 12112300300,
+                    "szep": "Zsolt 123,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörülj rajtunk, Uram, könyörülj rajtunk,<br>mert túlontúl jóllaktunk a megvetéssel!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112300400,
+                    "szep": "Zsolt 123,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Túlontúl jóllakott a lelkünk a gazdagok csúfolkodásával,<br>a kevélyek gyalázkodásával."
+            }
+        ]
+    }
+}

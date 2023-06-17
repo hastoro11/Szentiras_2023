@@ -1,0 +1,191 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 145"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114500000,
+                    "szep": "Zsolt 145,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid dicsérő éneke."
+            },
+            {
+                "hely": {
+                    "gepi": 12114500100,
+                    "szep": "Zsolt 145,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztallak téged, Istenem, királyom, és áldom nevedet örökkön örökké!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114500200,
+                    "szep": "Zsolt 145,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Minden napon áldalak téged, és dicsérem neved örökkön örökké!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114500300,
+                    "szep": "Zsolt 145,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagy az Úr és igen dicséretes, és az ő nagysága megfoghatatlan."
+            },
+            {
+                "hely": {
+                    "gepi": 12114500400,
+                    "szep": "Zsolt 145,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nemzedék nemzedéknek dícséri műveidet, s jelentgeti a te hatalmasságodat."
+            },
+            {
+                "hely": {
+                    "gepi": 12114500500,
+                    "szep": "Zsolt 145,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A te méltóságod dicső fényéről, és csodálatos dolgaidról elmélkedem."
+            },
+            {
+                "hely": {
+                    "gepi": 12114500600,
+                    "szep": "Zsolt 145,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rettenetes voltod hatalmát beszélik, és én a te nagyságos dolgaidat hirdetem."
+            },
+            {
+                "hely": {
+                    "gepi": 12114500700,
+                    "szep": "Zsolt 145,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "A te nagy jóságod emlékeiről áradoznak, és a te igazságodnak örvendeznek."
+            },
+            {
+                "hely": {
+                    "gepi": 12114500800,
+                    "szep": "Zsolt 145,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Irgalmas és könyörületes az Úr, késedelmes a haragra és nagy kegyelmű."
+            },
+            {
+                "hely": {
+                    "gepi": 12114500900,
+                    "szep": "Zsolt 145,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jó az Úr mindenki iránt, és könyörületes minden teremtményéhez."
+            },
+            {
+                "hely": {
+                    "gepi": 12114501000,
+                    "szep": "Zsolt 145,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsér téged, Uram minden teremtményed és áldanak téged a te kegyeltjeid."
+            },
+            {
+                "hely": {
+                    "gepi": 12114501100,
+                    "szep": "Zsolt 145,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Országodnak dicsőségéről szólnak, és a te hatalmadat beszélik."
+            },
+            {
+                "hely": {
+                    "gepi": 12114501200,
+                    "szep": "Zsolt 145,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy tudtul adják az ember fiainak az ő hatalmát, és az ő országának fényes dicsőségét."
+            },
+            {
+                "hely": {
+                    "gepi": 12114501300,
+                    "szep": "Zsolt 145,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "A te országod örökre fennálló ország, és a te uralkodásod nemzedékről nemzedékre."
+            },
+            {
+                "hely": {
+                    "gepi": 12114501400,
+                    "szep": "Zsolt 145,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr megtámogat minden elesendőt, és felegyenesít minden meggörnyedtet."
+            },
+            {
+                "hely": {
+                    "gepi": 12114501500,
+                    "szep": "Zsolt 145,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mindenki szemei te reád vigyáznak, és te idejében megadod eledelöket."
+            },
+            {
+                "hely": {
+                    "gepi": 12114501600,
+                    "szep": "Zsolt 145,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megnyitod a te kezedet, és megelégítesz minden élőt ingyen."
+            },
+            {
+                "hely": {
+                    "gepi": 12114501700,
+                    "szep": "Zsolt 145,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igaz az Úr minden ő útában, és minden dolgában kegyelmes."
+            },
+            {
+                "hely": {
+                    "gepi": 12114501800,
+                    "szep": "Zsolt 145,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Közel van az Úr minden őt hívóhoz; mindenkihez, a ki hűséggel hívja őt."
+            },
+            {
+                "hely": {
+                    "gepi": 12114501900,
+                    "szep": "Zsolt 145,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Beteljesíti az őt félőknek kivánságát; kiáltásukat meghallgatja és megsegíti őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12114502000,
+                    "szep": "Zsolt 145,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megőrzi az Úr mindazokat, a kik őt szeretik; de a gonoszokat mind megsemmisíti."
+            },
+            {
+                "hely": {
+                    "gepi": 12114502100,
+                    "szep": "Zsolt 145,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr dicséretét beszélje ajkam, és az ő szent nevét áldja minden test örökkön örökké!"
+            }
+        ]
+    }
+}

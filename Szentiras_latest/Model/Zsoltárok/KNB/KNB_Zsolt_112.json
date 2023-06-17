@@ -1,0 +1,100 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 112"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111200100,
+                    "szep": "Zsolt 112,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Alfabétikus tanító költemény a késő fogság utáni időkből (vö. 111,1-10). Feltehetően ugyanaz a szerzője, mint a Zsolt 111-nek. A zsoltáros a hívő embert jellemzi: olyan, aki jelen van mind Isten, mind a felebarát számára. Ez az egyetlen zsoltárhely, ahol ez a két követelmény ilyen közvetlenül, egyetlen parancsban fogalmazódik meg (vö. Mt 22,36-39)."
+                    }
+                ],
+                "szoveg": "ALLELUJA!<br>Boldog az az ember, aki az Urat féli,<br>és nagy tetszését leli parancsaiban!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111200200,
+                    "szep": "Zsolt 112,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Utóda hatalmas lesz a földön,<br>áldott lesz az igazak nemzedéke."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200300,
+                    "szep": "Zsolt 112,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsőség és gazdagság lesz házában,<br>és igazsága mindörökre megmarad."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200400,
+                    "szep": "Zsolt 112,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Világosságként ragyog fel a sötétségben az igazaknak<br>az irgalmas, a kegyes, az igaz."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200500,
+                    "szep": "Zsolt 112,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jó annak az embernek, aki könyörül és kölcsönt ad,<br>aki a törvény szerint intézi dolgait,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111200600,
+                    "szep": "Zsolt 112,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "mert az soha meg nem inog.<br>Örökké emlékezetben marad az igaz,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111200700,
+                    "szep": "Zsolt 112,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "rossz hírtől nem kell félnie.<br>Erős a szíve, bízik az Úrban,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111200800,
+                    "szep": "Zsolt 112,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "rendületlen a szíve, nem fél,<br>amíg le nem nézheti ellenségeit."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200900,
+                    "szep": "Zsolt 112,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Osztogat, adakozik a szegényeknek;<br>igazsága örökre megmarad,<br>hatalma dicsőségesen emelkedik."
+            },
+            {
+                "hely": {
+                    "gepi": 12111201000,
+                    "szep": "Zsolt 112,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Látja a bűnös és bosszankodik,<br>fogát csikorgatja és emészti magát.<br>A bűnösök kívánsága meghiúsul."
+            }
+        ]
+    }
+}

@@ -1,0 +1,375 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 37"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103700000,
+                    "szep": "Zsolt 37,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Dávidtól.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12103700100,
+                    "szep": "Zsolt 37,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne haragudj azokra, akik rosszat tesznek, ne irigyeld a gonosztevőket,"
+            },
+            {
+                "hely": {
+                    "gepi": 12103700200,
+                    "szep": "Zsolt 37,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "mert mint a fű, hamar elhervadnak, és elszáradnak, mint a zöldellő növény."
+            },
+            {
+                "hely": {
+                    "gepi": 12103700300,
+                    "szep": "Zsolt 37,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Remélj az Úrban és tedd a jót, akkor megmaradsz földeden és biztonságban élsz."
+            },
+            {
+                "hely": {
+                    "gepi": 12103700400,
+                    "szep": "Zsolt 37,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úrban leld örömed, s ő betölti szíved vágyait."
+            },
+            {
+                "hely": {
+                    "gepi": 12103700500,
+                    "szep": "Zsolt 37,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ajánld utadat az Úrnak, remélj benne, s ő irányít majd."
+            },
+            {
+                "hely": {
+                    "gepi": 12103700600,
+                    "szep": "Zsolt 37,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Becsületed felragyogtatja, mint a napot, igazságodat, mint a fényes nappalt."
+            },
+            {
+                "hely": {
+                    "gepi": 12103700701,
+                    "szep": "Zsolt 37,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyugodj meg az Úrban és remélj benne! Ne haragudj arra, kinek siker kíséri útját, az emberre, aki gonoszságot művel,"
+            },
+            {
+                "hely": {
+                    "gepi": 12103700702,
+                    "szep": "Zsolt 37,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy elpusztítsa a szegényt és a gyengét."
+            },
+            {
+                "hely": {
+                    "gepi": 12103700800,
+                    "szep": "Zsolt 37,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hagyd el a haragot és ne méltatlankodj, föl ne gerjedj, nehogy te vétkezzél!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103700900,
+                    "szep": "Zsolt 37,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nézd, a gonoszok eltűnnek, de akik az Úrban bíznak, birtokolják a földet."
+            },
+            {
+                "hely": {
+                    "gepi": 12103701000,
+                    "szep": "Zsolt 37,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egy kis idő még, s a gonosz nincs többé, keresed helyét, és sehol sem találod."
+            },
+            {
+                "hely": {
+                    "gepi": 12103701100,
+                    "szep": "Zsolt 37,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "A szelídek ellenben uralják a földet, és élvezik a béke teljességét."
+            },
+            {
+                "hely": {
+                    "gepi": 12103701200,
+                    "szep": "Zsolt 37,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az istentelen ártó tervet sző az igaz ellen, csikorgatja ellene a fogát."
+            },
+            {
+                "hely": {
+                    "gepi": 12103701300,
+                    "szep": "Zsolt 37,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr azonban kineveti őt, mert látja már, amint napja kél."
+            },
+            {
+                "hely": {
+                    "gepi": 12103701401,
+                    "szep": "Zsolt 37,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "A bűnösök kardot rántanak s íjat feszítenek, hogy elpusztítsák azt, aki egyenes úton jár."
+            },
+            {
+                "hely": {
+                    "gepi": 12103701403,
+                    "szep": "Zsolt 37,14"
+                },
+                "jegyzetek": [],
+                "szoveg": null
+            },
+            {
+                "hely": {
+                    "gepi": 12103701500,
+                    "szep": "Zsolt 37,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "De kardjuk saját szívükbe hatol, s nyilaikat széttördelik."
+            },
+            {
+                "hely": {
+                    "gepi": 12103701600,
+                    "szep": "Zsolt 37,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jobb a kevés, amit az igaz bír, mint a bűnös nagy gazdagsága."
+            },
+            {
+                "hely": {
+                    "gepi": 12103701700,
+                    "szep": "Zsolt 37,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert a bűnös karja eltörik, ám az igazat az Úr támogatja."
+            },
+            {
+                "hely": {
+                    "gepi": 12103701800,
+                    "szep": "Zsolt 37,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az igazak életére gondja van az Úrnak, örökségük megmarad örökre."
+            },
+            {
+                "hely": {
+                    "gepi": 12103701900,
+                    "szep": "Zsolt 37,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "A csapás napjaiban nem vallanak szégyent, éhínségben táplálékhoz jutnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12103702000,
+                    "szep": "Zsolt 37,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ám a gonoszoknak el kell pusztulniuk, az Úr ellenségei, mint a mezők virága, elhervadnak, s eltűnnek, akár a füst."
+            },
+            {
+                "hely": {
+                    "gepi": 12103702100,
+                    "szep": "Zsolt 37,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az istentelen kölcsönkér s nem adja meg, a jó megértéssel telve ajándékoz."
+            },
+            {
+                "hely": {
+                    "gepi": 12103702200,
+                    "szep": "Zsolt 37,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akiket megáld az Úr, birtokolják a földet, s akiket megátkoz, azok megsemmisülnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12103702300,
+                    "szep": "Zsolt 37,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr biztosítja az ember lépteit, akinek útjában tetszését leli."
+            },
+            {
+                "hely": {
+                    "gepi": 12103702400,
+                    "szep": "Zsolt 37,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha megbotlik is, de nem esik el, mert az Úr megfogja kezét."
+            },
+            {
+                "hely": {
+                    "gepi": 12103702500,
+                    "szep": "Zsolt 37,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fiatal voltam, most öreg vagyok, de sohase láttam, hogy elhagyott lett az igaz vagy hogy gyermekei kenyeret koldultak."
+            },
+            {
+                "hely": {
+                    "gepi": 12103702600,
+                    "szep": "Zsolt 37,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő mindig megértő és kész kölcsönadni, ezért gyermekei áldásban részesülnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12103702700,
+                    "szep": "Zsolt 37,27"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hagyd el a rosszat és tedd a jót, akkor megmaradsz mindörökre."
+            },
+            {
+                "hely": {
+                    "gepi": 12103702800,
+                    "szep": "Zsolt 37,28"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert az Úr az igazságosságot szereti és nem hagyja el soha szentjeit. Az álnokok örökre megsemmisülnek, a gonoszok nemzetsége elpusztul."
+            },
+            {
+                "hely": {
+                    "gepi": 12103702900,
+                    "szep": "Zsolt 37,29"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ám az igazak birtokolják a földet, és ott laknak mindörökre."
+            },
+            {
+                "hely": {
+                    "gepi": 12103703000,
+                    "szep": "Zsolt 37,30"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az igaznak szája bölcsességet szól, nyelve azt hirdeti, ami helyes."
+            },
+            {
+                "hely": {
+                    "gepi": 12103703100,
+                    "szep": "Zsolt 37,31"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istennek törvényét a szívében hordozza, ezért lépései nem ingadozók."
+            },
+            {
+                "hely": {
+                    "gepi": 12103703200,
+                    "szep": "Zsolt 37,32"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gonosz leselkedik az igazra, s annak elvesztésén fáradozik."
+            },
+            {
+                "hely": {
+                    "gepi": 12103703300,
+                    "szep": "Zsolt 37,33"
+                },
+                "jegyzetek": [],
+                "szoveg": "De az Úr nem adja kezére, s nem találja bűnösnek, ha majd ítélőszéke elé áll."
+            },
+            {
+                "hely": {
+                    "gepi": 12103703401,
+                    "szep": "Zsolt 37,34"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bízzál az Úrban és kövesd az útját,"
+            },
+            {
+                "hely": {
+                    "gepi": 12103703402,
+                    "szep": "Zsolt 37,34"
+                },
+                "jegyzetek": [],
+                "szoveg": "ő megőriz a gonosztól s ő felemel, hogy tiéd legyen a föld, és elégtétellel lásd a gonosz pusztulását."
+            },
+            {
+                "hely": {
+                    "gepi": 12103703500,
+                    "szep": "Zsolt 37,35"
+                },
+                "jegyzetek": [],
+                "szoveg": "Láttam a bűnöst: büszkén fennhéjázott, mint a Libanon cédrusa, fenn hordta a fejét."
+            },
+            {
+                "hely": {
+                    "gepi": 12103703600,
+                    "szep": "Zsolt 37,36"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ám, amikor újra arra jártam, nem volt többé, kerestem, de sehol sem találtam."
+            },
+            {
+                "hely": {
+                    "gepi": 12103703700,
+                    "szep": "Zsolt 37,37"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nézd az ártatlant, tekints az igazra, a békesség emberének új nemzedéke támad!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103703800,
+                    "szep": "Zsolt 37,38"
+                },
+                "jegyzetek": [],
+                "szoveg": "A bűnösök ellenben elpusztulnak, a gonoszok hada elenyészik."
+            },
+            {
+                "hely": {
+                    "gepi": 12103703900,
+                    "szep": "Zsolt 37,39"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az igazaknak az Úr ad szabadulást, ő a védelmük a szükség idején."
+            },
+            {
+                "hely": {
+                    "gepi": 12103704001,
+                    "szep": "Zsolt 37,40"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segítőjük az Úr és szabadítójuk, és fenntartja éltüket, mivel nála keresnek menedéket."
+            },
+            {
+                "hely": {
+                    "gepi": 12103704002,
+                    "szep": "Zsolt 37,40"
+                },
+                "jegyzetek": [],
+                "szoveg": null
+            }
+        ]
+    }
+}

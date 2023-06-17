@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 36"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103600000,
+                    "szep": "Zsolt 36,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Az ÚR szolgájáé, Dávidé."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600100,
+                    "szep": "Zsolt 36,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "A bűnös ember szíve mélyén ott suttog a bűn. Nem számít neki az istenfélelem,"
+            },
+            {
+                "hely": {
+                    "gepi": 12103600200,
+                    "szep": "Zsolt 36,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "sőt azzal hízeleg magának, hogy bűnével gyűlöletet tud szítani."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600300,
+                    "szep": "Zsolt 36,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szája rontást és csalárdságot beszél, nem akar okos és jó lenni."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600400,
+                    "szep": "Zsolt 36,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rontást eszel ki ágyában, nem a jó úton jár, nem veti meg a rosszat."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600500,
+                    "szep": "Zsolt 36,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, szereteted az égig ér, hűséged a fellegekig."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600600,
+                    "szep": "Zsolt 36,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igazságod olyan, mint a hatalmas hegyek, ítéleteid, mint a nagy mélység, embert és állatot megtartasz, URam."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600700,
+                    "szep": "Zsolt 36,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mily drága a te szereteted, Istenem! Szárnyad árnyékába menekülnek az emberek."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600800,
+                    "szep": "Zsolt 36,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dúslakodnak házad bőségében, örömöt árasztasz rájuk, mint patakot."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600900,
+                    "szep": "Zsolt 36,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nálad van az élet forrása, a te világosságod által látunk világosságot."
+            },
+            {
+                "hely": {
+                    "gepi": 12103601000,
+                    "szep": "Zsolt 36,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Maradj hűséges a téged szeretőkhöz, igazságos a tiszta szívűekhez."
+            },
+            {
+                "hely": {
+                    "gepi": 12103601100,
+                    "szep": "Zsolt 36,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne taposson rám a gőgösök lába, ne tegyen bujdosóvá a bűnösök keze!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103601200,
+                    "szep": "Zsolt 36,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Majd elbuknak a gonosztevők, elterülnek, nem tudnak fölkelni."
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 110"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111000000,
+                    "szep": "Zsolt 110,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12111000100,
+                    "szep": "Zsolt 110,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így szól az ÚR az én uramhoz: Ülj a jobb kezem felől, míg ellenségeidet lábad zsámolyává nem teszem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111000200,
+                    "szep": "Zsolt 110,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hatalmad pálcáját kinyújtja az ÚR a Sionról: Uralkodj ellenségeid között!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111000300,
+                    "szep": "Zsolt 110,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Néped önként követ szent öltözetben, ha sereget gyűjtesz. Mint hajnal méhéből jött harmat, olyan a te ifjúságod."
+            },
+            {
+                "hely": {
+                    "gepi": 12111000400,
+                    "szep": "Zsolt 110,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megesküdött az ÚR, nem bánja meg: Pap vagy te örökké, Melkisédek módján."
+            },
+            {
+                "hely": {
+                    "gepi": 12111000500,
+                    "szep": "Zsolt 110,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr van jobbodon: királyokat zúz össze haragja napján."
+            },
+            {
+                "hely": {
+                    "gepi": 12111000600,
+                    "szep": "Zsolt 110,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ítéletet tart a népek fölött, mindenfelé holttestek lesznek, összezúzza sok ország fejét."
+            },
+            {
+                "hely": {
+                    "gepi": 12111000700,
+                    "szep": "Zsolt 110,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "A patakból iszik útközben, azért emeli föl a fejét."
+            }
+        ]
+    }
+}

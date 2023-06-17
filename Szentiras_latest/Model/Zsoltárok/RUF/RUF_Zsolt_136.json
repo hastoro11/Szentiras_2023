@@ -1,0 +1,223 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 136"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113600100,
+                    "szep": "Zsolt 136,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adjatok hálát az ÚRnak, mert jó, mert örökké tart szeretete!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113600200,
+                    "szep": "Zsolt 136,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adjatok hálát az istenek Istenének, mert örökké tart szeretete!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113600300,
+                    "szep": "Zsolt 136,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adjatok hálát az urak Urának, mert örökké tart szeretete!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113600400,
+                    "szep": "Zsolt 136,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagy csodákat művel egymaga, mert örökké tart szeretete."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600500,
+                    "szep": "Zsolt 136,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bölcsen alkotta meg az eget, mert örökké tart szeretete."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600600,
+                    "szep": "Zsolt 136,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "A földet a víz fölé terítette, mert örökké tart szeretete."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600700,
+                    "szep": "Zsolt 136,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megalkotta a nagy égitesteket, mert örökké tart szeretete,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113600800,
+                    "szep": "Zsolt 136,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "a napot, hogy uralkodjék nappal, mert örökké tart szeretete,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113600900,
+                    "szep": "Zsolt 136,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "a holdat és a csillagokat, hogy uralkodjanak éjjel, mert örökké tart szeretete."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601000,
+                    "szep": "Zsolt 136,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lesújtott Egyiptom elsőszülötteire, mert örökké tart szeretete."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601100,
+                    "szep": "Zsolt 136,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kihozta onnan Izráelt, mert örökké tart szeretete,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113601200,
+                    "szep": "Zsolt 136,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "erős kézzel és kinyújtott karral, mert örökké tart szeretete."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601300,
+                    "szep": "Zsolt 136,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kettéhasította a Vörös-tengert, mert örökké tart szeretete,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113601400,
+                    "szep": "Zsolt 136,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "átvezette rajta Izráelt, mert örökké tart szeretete."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601500,
+                    "szep": "Zsolt 136,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "De a fáraót és seregét a Vörös-tengerbe szorította, mert örökké tart szeretete."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601600,
+                    "szep": "Zsolt 136,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vezette népét a pusztában, mert örökké tart szeretete."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601700,
+                    "szep": "Zsolt 136,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagy királyokat vert meg, mert örökké tart szeretete,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113601800,
+                    "szep": "Zsolt 136,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "dicső királyokat ölt meg, mert örökké tart szeretete:"
+            },
+            {
+                "hely": {
+                    "gepi": 12113601900,
+                    "szep": "Zsolt 136,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szíhón emóri királyt, mert örökké tart szeretete,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113602000,
+                    "szep": "Zsolt 136,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "és Ógot, Básán királyát, mert örökké tart szeretete."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602100,
+                    "szep": "Zsolt 136,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Odaadta országukat örökségül, mert örökké tart szeretete,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113602200,
+                    "szep": "Zsolt 136,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "örökségül szolgájának, Izráelnek, mert örökké tart szeretete."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602300,
+                    "szep": "Zsolt 136,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gondolt ránk megaláztatásunkban, mert örökké tart szeretete."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602400,
+                    "szep": "Zsolt 136,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megszabadított ellenségeinktől, mert örökké tart szeretete."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602500,
+                    "szep": "Zsolt 136,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő ad eledelt minden élőlénynek, mert örökké tart szeretete."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602600,
+                    "szep": "Zsolt 136,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adjatok hálát a menny Istenének, mert örökké tart szeretete!"
+            }
+        ]
+    }
+}

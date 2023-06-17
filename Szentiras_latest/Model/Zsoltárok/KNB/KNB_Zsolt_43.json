@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 43"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104300100,
+                    "szep": "Zsolt 43,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. a 42,1 jegyz."
+                    },
+                    {
+                        "position": null,
+                        "text": "Egy szorult helyzetben lévő ember könyörög, hogy Isten támogassa őt az ellenségeivel folytatott vitában, és így megtapasztalhassa, hogy Isten elfogadja őt, és hozzá tartozik."
+                    }
+                ],
+                "szoveg": "Szolgáltass nekem igazságot, Istenem,<br>kelj ügyem védelmére az istentelen nemzetséggel szemben;<br>A gonosz és álnok embertől szabadíts meg engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104300200,
+                    "szep": "Zsolt 43,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hisz te vagy, Isten, az én menedékem,<br>miért vetsz el engem?<br>Miért kell szomorúan járnom-kelnem,<br>miközben sanyargat engem ellenségem?"
+            },
+            {
+                "hely": {
+                    "gepi": 12104300300,
+                    "szep": "Zsolt 43,3"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A »világosság« kép, amely a biblikus nyelvben jelenthet »örömöt«, vagy Isten vezetését az emberi utak zűrzavarában. Az isteni valóság, Isten hűsége az ember iránt a megtapasztalható állandóság. Az imádkozó a hófödte Hermonról (42,7) néz az egyetlen szent hegy felé, a kicsiny Sion-domb felé, Jeruzsálemre, amelyen a templom áll."
+                    }
+                ],
+                "szoveg": "Küldd el világosságodat és igazságodat,<br>hadd vezessenek és vigyenek el engem<br>szent hegyedre s hajlékodba."
+            },
+            {
+                "hely": {
+                    "gepi": 12104300400,
+                    "szep": "Zsolt 43,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Javítva (a héber szöveg szerint: örömujjongásom Istenéhez)."
+                    }
+                ],
+                "szoveg": "És bemegyek Isten oltárához,<br>ujjongásom örömének Istenéhez,<br>és lantszóval dicsérlek téged, Isten, én Istenem."
+            },
+            {
+                "hely": {
+                    "gepi": 12104300500,
+                    "szep": "Zsolt 43,5"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A vers javított, mint a 42,6.12."
+                    }
+                ],
+                "szoveg": "Miért vagy szomorú, lelkem,<br>miért háborogsz bennem?<br>Bízzál Istenben, mert fogom még áldani őt,<br>arcom üdvösségét, az én Istenemet!"
+            }
+        ]
+    }
+}

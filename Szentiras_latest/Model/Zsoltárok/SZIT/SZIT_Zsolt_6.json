@@ -1,0 +1,103 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 6"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100600000,
+                    "szep": "Zsolt 6,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek, húros hangszerre [8 hangon?] – Dávid zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12100600100,
+                    "szep": "Zsolt 6,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne fenyíts haragodban, Uram, ne büntess neheztelésedben!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100600200,
+                    "szep": "Zsolt 6,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörülj rajtam, Uram, mert gyönge vagyok, gyógyíts meg, hisz reszket minden tagom!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100600300,
+                    "szep": "Zsolt 6,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "A lelkem mélyen megrendült. Uram, meddig késlekedel?"
+            },
+            {
+                "hely": {
+                    "gepi": 12100600400,
+                    "szep": "Zsolt 6,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fordulj felém, Uram, s mentsd meg életemet, irgalmasságodban szabadíts meg!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100600500,
+                    "szep": "Zsolt 6,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen a holtak közül ki gondol még rád, a holtak országában ki dicsőít téged?"
+            },
+            {
+                "hely": {
+                    "gepi": 12100600600,
+                    "szep": "Zsolt 6,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elfáradtam a sóhajtozásban, éjjelente sírástól nyirkos az ágyam, fekvőhelyem könnyel áztatom."
+            },
+            {
+                "hely": {
+                    "gepi": 12100600700,
+                    "szep": "Zsolt 6,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szememet a gond homályosítja, s sok ellenségem miatt őszülök."
+            },
+            {
+                "hely": {
+                    "gepi": 12100600800,
+                    "szep": "Zsolt 6,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Távozzatok mind, ti ámítók, mert az Úr meghallotta hangos sírásomat,"
+            },
+            {
+                "hely": {
+                    "gepi": 12100600900,
+                    "szep": "Zsolt 6,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "az Úr meghallgatta kérésemet, az Úr elfogadta imádságomat."
+            },
+            {
+                "hely": {
+                    "gepi": 12100601000,
+                    "szep": "Zsolt 6,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Félelem szállja meg minden ellenségem, szégyenüljenek meg és meneküljenek, tüstént érje őket megszégyenülés!"
+            }
+        ]
+    }
+}

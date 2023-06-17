@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 20"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102000000,
+                    "szep": "Zsolt 20,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12102000100,
+                    "szep": "Zsolt 20,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgasson meg téged az ÚR a veszedelem napján, legyen oltalmad Jákób Istenének neve!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102000200,
+                    "szep": "Zsolt 20,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Küldjön neked segítséget szentélyéből, erősítsen a Sionról!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102000300,
+                    "szep": "Zsolt 20,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gondoljon sok ételáldozatodra, égőáldozatodat fogadja szívesen. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12102000400,
+                    "szep": "Zsolt 20,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adja meg szíved vágyát, teljesítse minden tervedet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102000500,
+                    "szep": "Zsolt 20,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor örvendezünk győzelmednek, és zászlót emelünk Istenünk nevében. Teljesítse az ÚR minden kérésedet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102000600,
+                    "szep": "Zsolt 20,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jól tudom, hogy az ÚR győzelmet ad felkentjének, felel neki szent egéből győzelmes jobbjának hőstetteivel."
+            },
+            {
+                "hely": {
+                    "gepi": 12102000700,
+                    "szep": "Zsolt 20,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezek a harci kocsikat, amazok a lovakat emlegetik dicsekedve, mi pedig Istenünknek, az ÚRnak a nevét."
+            },
+            {
+                "hely": {
+                    "gepi": 12102000800,
+                    "szep": "Zsolt 20,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ők térdre rogynak és elesnek, mi pedig felkelünk és talpon maradunk."
+            },
+            {
+                "hely": {
+                    "gepi": 12102000900,
+                    "szep": "Zsolt 20,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, segítsd meg a királyt! Hallgass meg minket, ha hozzád kiáltunk!"
+            }
+        ]
+    }
+}

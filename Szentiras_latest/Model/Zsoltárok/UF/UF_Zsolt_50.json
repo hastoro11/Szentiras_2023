@@ -1,0 +1,207 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 50"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105000000,
+                    "szep": "Zsolt 50,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ászáf zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12105000100,
+                    "szep": "Zsolt 50,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "A hatalmas Isten, az ÚR szól, és hívja a földet napkelettől napnyugatig."
+            },
+            {
+                "hely": {
+                    "gepi": 12105000200,
+                    "szep": "Zsolt 50,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "A tökéletes szépségű Sionon ragyogva jelenik meg Isten."
+            },
+            {
+                "hely": {
+                    "gepi": 12105000300,
+                    "szep": "Zsolt 50,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jön a mi Istenünk, nem hallgat. Előtte emésztő tűz, körülötte hatalmas szélvihar."
+            },
+            {
+                "hely": {
+                    "gepi": 12105000400,
+                    "szep": "Zsolt 50,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hívja az eget odafent, és a földet, mert ítélni akarja népét."
+            },
+            {
+                "hely": {
+                    "gepi": 12105000500,
+                    "szep": "Zsolt 50,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gyűljetek hozzám, híveim, akik áldozattal kötöttetek szövetséget velem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105000600,
+                    "szep": "Zsolt 50,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igazságát hirdesse az ég, mert ítéletet tart az Isten. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12105000700,
+                    "szep": "Zsolt 50,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgass, népem, most én beszélek! Izráel, most téged intelek! Isten, a te Istened vagyok én!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105000800,
+                    "szep": "Zsolt 50,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem feddelek meg véresáldozataidért, sem állandóan előttem levő égőáldozataidért,"
+            },
+            {
+                "hely": {
+                    "gepi": 12105000900,
+                    "szep": "Zsolt 50,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "de nem fogadok el házadból bikát, sem aklaidból bakokat."
+            },
+            {
+                "hely": {
+                    "gepi": 12105001000,
+                    "szep": "Zsolt 50,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen enyém az erdő minden vadja, és ezernyi hegynek minden állata."
+            },
+            {
+                "hely": {
+                    "gepi": 12105001100,
+                    "szep": "Zsolt 50,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ismerem a hegyek minden madarát, enyém a mező vadja is."
+            },
+            {
+                "hely": {
+                    "gepi": 12105001200,
+                    "szep": "Zsolt 50,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha éhezném, nem szólnék neked, mert enyém a világ és ami betölti."
+            },
+            {
+                "hely": {
+                    "gepi": 12105001300,
+                    "szep": "Zsolt 50,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Eszem-e a bikák húsát, iszom-e a bakok vérét?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105001400,
+                    "szep": "Zsolt 50,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hálaadással áldozz Istennek, és teljesítsd a Felségesnek tett fogadalmaidat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105001500,
+                    "szep": "Zsolt 50,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hívj segítségül engem a nyomorúság idején! Én megszabadítlak, és te dicsőítesz engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105001600,
+                    "szep": "Zsolt 50,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "A bűnösnek pedig ezt mondja Isten: Hogy mered emlegetni rendelkezéseimet, és szádra venni szövetségemet?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105001700,
+                    "szep": "Zsolt 50,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen te gyűlölöd a feddést, és elveted igéimet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105001800,
+                    "szep": "Zsolt 50,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha tolvajt látsz, vele cimborálsz, és a paráznákkal tartasz."
+            },
+            {
+                "hely": {
+                    "gepi": 12105001900,
+                    "szep": "Zsolt 50,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szádból gonosz beszéd jön ki, nyelved csalárdságot sző."
+            },
+            {
+                "hely": {
+                    "gepi": 12105002000,
+                    "szep": "Zsolt 50,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ahol csak vagy, testvéred ellen beszélsz, anyád fiát is bemocskolod."
+            },
+            {
+                "hely": {
+                    "gepi": 12105002100,
+                    "szep": "Zsolt 50,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ilyeneket csinálsz, és én hallgassak? Azt hiszed, én is olyan vagyok, mint te? Megfeddelek, és mindezt szemedre vetem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105002200,
+                    "szep": "Zsolt 50,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Értsétek meg ezt ti, akik elfeledkeztek Istenről, különben elragad menthetetlenül!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105002300,
+                    "szep": "Zsolt 50,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki hálaadással áldozik, az dicsőít engem, és aki ilyen úton jár, annak mutatom meg Isten szabadítását."
+            }
+        ]
+    }
+}

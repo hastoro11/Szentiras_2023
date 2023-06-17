@@ -1,0 +1,153 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 91"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109100100,
+                    "szep": "Zsolt 91,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Bölcsességi tanító költemény a fogság utáni időkből, amely a gyógyultak hálaimája volt a templomban. A bizakodó ember reményét fejezi ki. Egy pap vagy egy bölcs felszólít az Isten iránti bizalom megvallására. A »Fölséges oltalmában lakik«: eredetileg a templom területére vonatkozik, ahol az üldözöttek menedéket és oltalmat találtak."
+                    }
+                ],
+                "szoveg": "Aki a Fölségesnek oltalmában lakik,<br>a Mindenható árnyékában nyugszik,"
+            },
+            {
+                "hely": {
+                    "gepi": 12109100200,
+                    "szep": "Zsolt 91,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "azt mondja az Úrnak: »Te vagy az én oltalmazóm<br>és erősségem, Istenem, akiben bizakodom.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12109100300,
+                    "szep": "Zsolt 91,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ő megment engem a vadászok tőrétől,<br>a súlyos veszélytől."
+            },
+            {
+                "hely": {
+                    "gepi": 12109100400,
+                    "szep": "Zsolt 91,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szárnyával árnyékot borít rád,<br>és tollai alatt menedékre találsz;<br>Pajzs és páncél az ő hűsége,"
+            },
+            {
+                "hely": {
+                    "gepi": 12109100500,
+                    "szep": "Zsolt 91,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "nem kell félned az éjszaka rémeitől,<br>a nappal repülő nyíltól,"
+            },
+            {
+                "hely": {
+                    "gepi": 12109100600,
+                    "szep": "Zsolt 91,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "a sötétben látogató járványtól,<br>a délben pusztító ragálytól."
+            },
+            {
+                "hely": {
+                    "gepi": 12109100700,
+                    "szep": "Zsolt 91,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezren essenek el bár oldalad mellől<br>és tízezren jobbod felől,<br>hozzád semmi sem közeledik."
+            },
+            {
+                "hely": {
+                    "gepi": 12109100800,
+                    "szep": "Zsolt 91,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sőt saját szemeddel fogod nézni,<br>meglátod a gonoszok bűnhődését."
+            },
+            {
+                "hely": {
+                    "gepi": 12109100900,
+                    "szep": "Zsolt 91,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert te vagy, Uram, menedékem!<br>Ha a Fölségest választottad oltalmadnak,"
+            },
+            {
+                "hely": {
+                    "gepi": 12109101000,
+                    "szep": "Zsolt 91,10"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Isten megóvja övéit, megőrzi életüket (vö. Mt 4,6), felvértezi őket a veszélyekkel szemben (vö. Lk 10,19). Mindazok aki rábízzák életüket, tanúskodhatnak erről a védelemről."
+                    }
+                ],
+                "szoveg": "balszerencse nem ér téged,<br>csapás nem jut sátrad közelébe."
+            },
+            {
+                "hely": {
+                    "gepi": 12109101100,
+                    "szep": "Zsolt 91,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert angyalainak parancsol felőled,<br>hogy minden utadon őrizzenek."
+            },
+            {
+                "hely": {
+                    "gepi": 12109101200,
+                    "szep": "Zsolt 91,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kezükön hordoznak téged,<br>hogy kőbe ne üssed lábadat."
+            },
+            {
+                "hely": {
+                    "gepi": 12109101300,
+                    "szep": "Zsolt 91,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áspiskígyón és viperán fogsz járni,<br>eltiprod az oroszlánt és a sárkányt."
+            },
+            {
+                "hely": {
+                    "gepi": 12109101400,
+                    "szep": "Zsolt 91,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mivel bennem bízik, megszabadítom,<br>oltalma leszek, mert ismeri nevemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12109101500,
+                    "szep": "Zsolt 91,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha kiált hozzám, meghallgatom,<br>a szorongatás idején vele leszek,<br>megmentem és megdicsőítem."
+            },
+            {
+                "hely": {
+                    "gepi": 12109101600,
+                    "szep": "Zsolt 91,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Betöltöm őt hosszú élettel,<br>és megmutatom neki üdvösségemet."
+            }
+        ]
+    }
+}

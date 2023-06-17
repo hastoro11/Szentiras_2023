@@ -1,0 +1,335 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 69"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106900000,
+                    "szep": "Zsolt 69,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek a „Liliomok” szerint – Dávidtól.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12106900100,
+                    "szep": "Zsolt 69,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ments meg, Istenem, a víz már torkomig ér,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106900200,
+                    "szep": "Zsolt 69,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "belesüllyedtem a mély iszapba, lábam nem talál talajt. A vizek mélyére kerültem, hullámok csapnak át felettem."
+            },
+            {
+                "hely": {
+                    "gepi": 12106900300,
+                    "szep": "Zsolt 69,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elfáradtam a kiáltozásban, a torkom berekedt. Szemem elhomályosul, amíg Istenemre várakozom."
+            },
+            {
+                "hely": {
+                    "gepi": 12106900400,
+                    "szep": "Zsolt 69,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Többen vannak, mint fejemen a hajszál, akik ok nélkül gyűlölnek. Akik jogtalanul bántalmaznak, erősebbek, mint tagjaim. Amit el sem vettem, azt kell visszaadnom."
+            },
+            {
+                "hely": {
+                    "gepi": 12106900500,
+                    "szep": "Zsolt 69,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, ismered balgaságomat, vétségeim nincsenek rejtve előtted."
+            },
+            {
+                "hely": {
+                    "gepi": 12106900600,
+                    "szep": "Zsolt 69,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "De ne miattam valljanak szégyent azok, akik benned remélnek, Seregek Ura! Ne miattam piruljanak, akik téged keresnek, Izrael Istene!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106900700,
+                    "szep": "Zsolt 69,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen miattad viseltem az átkot, szégyenpír födte arcomat."
+            },
+            {
+                "hely": {
+                    "gepi": 12106900800,
+                    "szep": "Zsolt 69,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elidegenedtem testvéreimtől, anyám fiai szemében idegen lettem."
+            },
+            {
+                "hely": {
+                    "gepi": 12106900900,
+                    "szep": "Zsolt 69,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert a buzgóság emésztett házadért, s ha téged gyaláztak, rám hullt a gyalázat."
+            },
+            {
+                "hely": {
+                    "gepi": 12106901000,
+                    "szep": "Zsolt 69,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Böjtöléssel aláztam meg lelkem, s az is gyalázatommá változott."
+            },
+            {
+                "hely": {
+                    "gepi": 12106901100,
+                    "szep": "Zsolt 69,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vezeklőruhát öltöttem magamra, s gúny tárgya lettem úgy is nekik."
+            },
+            {
+                "hely": {
+                    "gepi": 12106901200,
+                    "szep": "Zsolt 69,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "A kapunál ülők ellenem beszélnek, a bor mellett is rólam énekelnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12106901300,
+                    "szep": "Zsolt 69,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "De én hozzád küldöm fohászomat, Uram, kegyelmed idején, Istenem. Nagy jóságodban hallgass meg, segíts rajtam hűséged szerint!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106901400,
+                    "szep": "Zsolt 69,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Húzz ki az iszapból, ne hagyj elsüllyedni, ments meg azoktól, kik ártani akarnak! Ments ki a vizek mélyéről engemet,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106901500,
+                    "szep": "Zsolt 69,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "nehogy átcsapjon fölöttem az ár, s a mélység magába temessen, a szakadék szája zárjon be örökre!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106901600,
+                    "szep": "Zsolt 69,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgass meg, Uram, hisz kegyelmed jóságos, irgalmad bőségében tekints reám!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106901700,
+                    "szep": "Zsolt 69,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne rejtsd el szolgád elől arcodat, bajban vagyok, hallgass meg mihamar!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106901800,
+                    "szep": "Zsolt 69,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Közeledj lelkemhez és szabadíts meg, ellenségeim miatt ments meg!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106901900,
+                    "szep": "Zsolt 69,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ismered gyalázatomat,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106902000,
+                    "szep": "Zsolt 69,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "szemed előtt vannak mind, akik szorongatnak. Szívem megtört a gyalázattól."
+            },
+            {
+                "hely": {
+                    "gepi": 12106902100,
+                    "szep": "Zsolt 69,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zavarom, szégyenem orvosolhatatlan."
+            },
+            {
+                "hely": {
+                    "gepi": 12106902200,
+                    "szep": "Zsolt 69,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vártam, hogy valaki megszán, de nem akadt senki, nem volt, aki megvigasztalt volna."
+            },
+            {
+                "hely": {
+                    "gepi": 12106902300,
+                    "szep": "Zsolt 69,23"
+                },
+                "jegyzetek": [],
+                "szoveg": null
+            },
+            {
+                "hely": {
+                    "gepi": 12106902400,
+                    "szep": "Zsolt 69,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ételembe epét kevertek, szomjúságomban ecettel itattak."
+            },
+            {
+                "hely": {
+                    "gepi": 12106902500,
+                    "szep": "Zsolt 69,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Asztaluk ezért váljék számukra csapdává, barátaiknak pedig szorító hurokká!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106902600,
+                    "szep": "Zsolt 69,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "Homályosodjék el a szemük, ne lássanak, derekuk örökre veszítse erejét!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106902700,
+                    "szep": "Zsolt 69,27"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áraszd ki rájuk méltatlankodásod, s haragodnak tüze eméssze meg őket!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106902800,
+                    "szep": "Zsolt 69,28"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lakóhelyük váljék pusztasággá, senki ne tanyázzék többé sátraikban!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106902900,
+                    "szep": "Zsolt 69,29"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen azt üldözték, akit te vertél meg, akit megsebeztél, annak fokozták fájdalmát."
+            },
+            {
+                "hely": {
+                    "gepi": 12106903000,
+                    "szep": "Zsolt 69,30"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tetézd meg bűnökkel eddigi vétküket, hogy ne számítsanak igaznak előtted!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106903100,
+                    "szep": "Zsolt 69,31"
+                },
+                "jegyzetek": [],
+                "szoveg": "Töröljék ki őket az élők könyvéből, ne legyenek beírva az igazakkal együtt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106903200,
+                    "szep": "Zsolt 69,32"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyomorult vagyok, fájdalommal telve, segítséged oltalmazzon, Istenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106903300,
+                    "szep": "Zsolt 69,33"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsőítem Isten nevét énekemben, ünnepi hálával magasztalom."
+            },
+            {
+                "hely": {
+                    "gepi": 12106903400,
+                    "szep": "Zsolt 69,34"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ez jobban tetszik Istennek, mint az áldozati állat, jobban, mint az üsző, amelynek szarva és körme van."
+            },
+            {
+                "hely": {
+                    "gepi": 12106903500,
+                    "szep": "Zsolt 69,35"
+                },
+                "jegyzetek": [],
+                "szoveg": "A megalázottak látják és örülnek, nektek, kik keresitek az Istent, éledjen szívetek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106903600,
+                    "szep": "Zsolt 69,36"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert az Úr meghallgatja a szegényeket, és foglyait nem nézi le."
+            },
+            {
+                "hely": {
+                    "gepi": 12106903700,
+                    "szep": "Zsolt 69,37"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsőítse őt az ég és a föld, a tenger és minden, mi benne mozog!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106903800,
+                    "szep": "Zsolt 69,38"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert Isten lesz szabadítója Sionnak, újra fölépíti Júda városait. Ott laknak majd és bírják a földet,"
+            },
+            {
+                "hely": {
+                    "gepi": 12106903900,
+                    "szep": "Zsolt 69,39"
+                },
+                "jegyzetek": [],
+                "szoveg": "szolgáinak fiai örökségül kapják. S azok laknak rajta, akik szeretik nevét."
+            }
+        ]
+    }
+}

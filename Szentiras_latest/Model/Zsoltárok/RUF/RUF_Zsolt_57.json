@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 57"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105700000,
+                    "szep": "Zsolt 57,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: A „Ne veszíts el” kezdetű ének dallamára. Dávid bizonyságtétele abból az időből, amikor Saul elől a barlangba menekült."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700100,
+                    "szep": "Zsolt 57,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörülj, Istenem, könyörülj rajtam, mert nálad keres oltalmat a lelkem! Szárnyaid árnyékában keresek oltalmat, míg elvonul a veszedelem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700200,
+                    "szep": "Zsolt 57,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "A felséges Istenhez kiáltok, Istenhez, aki mellém áll."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700300,
+                    "szep": "Zsolt 57,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segítséget küld nekem a mennyből, csúffá teszi üldözőimet. (Szela.) Isten elküldi szeretetét és hűségét."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700400,
+                    "szep": "Zsolt 57,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Oroszlánok között fekszem, amelyek felfalják az embereket. Foguk lándzsa és nyíl, nyelvük éles kard."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700500,
+                    "szep": "Zsolt 57,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljanak téged a mennyben, Istenem, dicsőítsenek az egész földön!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105700600,
+                    "szep": "Zsolt 57,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hálót vetettek lábaim elé, megalázták lelkemet. Vermet ástak nekem, de maguk estek bele. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12105700700,
+                    "szep": "Zsolt 57,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kész a szívem, Istenem, kész a szívem arra, hogy énekeljek és zengedezzek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105700800,
+                    "szep": "Zsolt 57,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ébredj, lelkem, ébredj, lant és hárfa, hadd ébresszem a hajnalt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105700900,
+                    "szep": "Zsolt 57,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztallak, Uram, a népek közt, zsoltárt zengek rólad a nemzetek közt,"
+            },
+            {
+                "hely": {
+                    "gepi": 12105701000,
+                    "szep": "Zsolt 57,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "mert szereteted az égig ér, hűséged a magas fellegekig."
+            },
+            {
+                "hely": {
+                    "gepi": 12105701100,
+                    "szep": "Zsolt 57,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljanak téged a mennyben, Istenem, dicsőítsenek az egész földön!"
+            }
+        ]
+    }
+}

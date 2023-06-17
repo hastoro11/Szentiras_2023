@@ -1,0 +1,68 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 1"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100100100,
+                    "szep": "Zsolt 1,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az első zsoltár sajátos alkotás, egyfajta bevezetés és összefoglalás ahhoz, amit a zsoltáros egészében elgondolt. A fogság utáni időkben meg akarja erősíteni Isten népét, és a lelkére akarja kötni, hogy a boldogságot, a boldogulást kereső ember számára csak két út létezik (vö. Mt 22,16; Zsid 10,20): az igazaké vagy a bűnösöké."
+                    }
+                ],
+                "szoveg": "Boldog az az ember,<br>aki nem követi a gonoszok tanácsát,<br>nem áll a vétkesek útján,<br>és nem ül le a gúnyolódók gyülekezetében,"
+            },
+            {
+                "hely": {
+                    "gepi": 12100100200,
+                    "szep": "Zsolt 1,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "hanem az Úr törvényében leli kedvét,<br>s törvényét éjjel-nappal eszében forgatja!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100100300,
+                    "szep": "Zsolt 1,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Olyan, mint a folyóvíz mellé ültetett fa,<br>amely idejében meghozza gyümölcsét,<br>és amelynek nem hull le a lombja.<br>Boldogul minden dolgában."
+            },
+            {
+                "hely": {
+                    "gepi": 12100100400,
+                    "szep": "Zsolt 1,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem így járnak a gonoszok, nem így,<br>hanem úgy, miként a szálló por,<br>amelyet elsodor a szél."
+            },
+            {
+                "hely": {
+                    "gepi": 12100100500,
+                    "szep": "Zsolt 1,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezért a gonoszok meg nem állnak ítéletkor,<br>sem a vétkesek az igazak gyülekezetében."
+            },
+            {
+                "hely": {
+                    "gepi": 12100100600,
+                    "szep": "Zsolt 1,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ismeri az Úr az igazak útját,<br>de elvész az istentelenek ösvénye."
+            }
+        ]
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 111"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111100100,
+                    "szep": "Zsolt 111,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dícsérjétek az Urat. <br>Dicsérem az Urat teljes szívből: az igazak környezetében és a gyülekezetben."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100200,
+                    "szep": "Zsolt 111,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagyok az Úrnak cselekedetei; kivánatosak mindazoknak, a kik gyönyörködnek azokban."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100300,
+                    "szep": "Zsolt 111,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsőség és méltóság az ő cselekedete, és igazsága megmarad mindvégig."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100400,
+                    "szep": "Zsolt 111,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emlékezetet szerzett az ő csudálatos dolgainak; kegyelmes és irgalmas az Úr."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100500,
+                    "szep": "Zsolt 111,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Eledelt ad az őt félőknek; megemlékezik az ő szövetségéről örökké."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100600,
+                    "szep": "Zsolt 111,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Cselekedeteinek erejét tudtul adta az ő népének, nékik adván a pogányok örökségét."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100700,
+                    "szep": "Zsolt 111,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kezeinek cselekedetei hűség és igazság; minden ő végzése tökéletes."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100800,
+                    "szep": "Zsolt 111,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megingathatlanok örökké és mindvégig; hívségből és egyenességből származottak."
+            },
+            {
+                "hely": {
+                    "gepi": 12111100900,
+                    "szep": "Zsolt 111,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Váltságot küldött az ő népének, elrendelte szövetségét örökre; szent és rettenetes az ő neve."
+            },
+            {
+                "hely": {
+                    "gepi": 12111101000,
+                    "szep": "Zsolt 111,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A bölcseség kezdete az Úrnak félelme; jó belátása van mindenkinek, a ki ezt gyakorolja; annak dicsérete megmarad mindvégig."
+            }
+        ]
+    }
+}

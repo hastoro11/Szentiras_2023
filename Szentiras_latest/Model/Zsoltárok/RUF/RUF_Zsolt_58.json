@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 58"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105800000,
+                    "szep": "Zsolt 58,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: A „Ne veszíts el” kezdetű ének dallamára. Dávid bizonyságtétele."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800100,
+                    "szep": "Zsolt 58,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Valóban igazat beszéltek, ti, hatalmasok, és pártatlanul ítélkeztek az emberek fölött?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105800200,
+                    "szep": "Zsolt 58,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen álnokságon jár az eszetek, arra törekedtek, hogy az országban erőszakkal érvényesüljetek."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800300,
+                    "szep": "Zsolt 58,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Pártütők a bűnösök, már amikor a világra jönnek, tévelygők a hazugok, amint megszületnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800400,
+                    "szep": "Zsolt 58,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mérgük olyan, mint a kígyóméreg, olyanok, mint a süket vipera, amelynek oly tompa a füle,"
+            },
+            {
+                "hely": {
+                    "gepi": 12105800500,
+                    "szep": "Zsolt 58,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy nem hallja a kígyóbűvölőt, a varázslásban jártas igézőt."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800600,
+                    "szep": "Zsolt 58,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, törd össze szájukban a fogakat! Zúzd össze, URam, az oroszlánok állkapcsát!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105800700,
+                    "szep": "Zsolt 58,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tűnjenek el, mint a szétfolyó víz! Ha lőni akarnak, nyilaik legyenek tompák!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105800800,
+                    "szep": "Zsolt 58,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Járjanak úgy, mint a csiga, amely széjjelmállik, vagy mint az elvetélt magzat, amely nem látott napvilágot."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800900,
+                    "szep": "Zsolt 58,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mielőtt tüske nőne cserjéteken, ragadja el a forgószél, akár élő, akár elszáradt."
+            },
+            {
+                "hely": {
+                    "gepi": 12105801000,
+                    "szep": "Zsolt 58,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örül az igaz, ha látja a megtorlást, lába a bűnösök vérében fürdik."
+            },
+            {
+                "hely": {
+                    "gepi": 12105801100,
+                    "szep": "Zsolt 58,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az emberek pedig ezt mondják: Mégis van az igaznak jutalma! Mégis van Isten, aki igazságot tesz a földön!"
+            }
+        ]
+    }
+}

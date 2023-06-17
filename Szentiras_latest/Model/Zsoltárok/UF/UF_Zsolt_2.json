@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 2"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100200100,
+                    "szep": "Zsolt 2,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Miért tombolnak a népek, milyen hiábavalóságot terveznek a nemzetek?"
+            },
+            {
+                "hely": {
+                    "gepi": 12100200200,
+                    "szep": "Zsolt 2,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Összegyűlnek a föld királyai, a fejedelmek együtt tanácskoznak az ÚR ellen és felkentje ellen:"
+            },
+            {
+                "hely": {
+                    "gepi": 12100200300,
+                    "szep": "Zsolt 2,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dobjuk le magunkról bilincseiket, tépjük le köteleiket!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100200400,
+                    "szep": "Zsolt 2,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A mennyben lakozó kineveti, az ÚR kigúnyolja őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12100200500,
+                    "szep": "Zsolt 2,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Majd így szól hozzájuk haragjában, izzó haragjában így rémíti meg őket:"
+            },
+            {
+                "hely": {
+                    "gepi": 12100200600,
+                    "szep": "Zsolt 2,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én kentem föl királyomat szent hegyemen, a Sionon!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100200700,
+                    "szep": "Zsolt 2,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kihirdetem az ÚR végzését. Ezt mondta nekem: Az én fiam vagy! Fiammá fogadtalak ma téged!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100200800,
+                    "szep": "Zsolt 2,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kérd tőlem, és neked adom örökségül a népeket, birtokul a földkerekséget."
+            },
+            {
+                "hely": {
+                    "gepi": 12100200900,
+                    "szep": "Zsolt 2,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Összetöröd őket vasvesszővel, szétzúzod, mint a cserépedényt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100201000,
+                    "szep": "Zsolt 2,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azért ti, királyok, térjetek észhez, okuljatok, ti bírái a földnek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100201100,
+                    "szep": "Zsolt 2,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Félelemmel szolgáljátok az URat, reszketve vígadjatok!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100201200,
+                    "szep": "Zsolt 2,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csókoljátok a fiút, hogy meg ne haragudjék, és el ne pusztuljatok az úton. Mert hamar föllángol haragja, de mind boldog, aki hozzá menekül!"
+            }
+        ]
+    }
+}

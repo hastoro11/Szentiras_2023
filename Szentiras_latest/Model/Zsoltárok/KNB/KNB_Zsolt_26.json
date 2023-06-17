@@ -1,0 +1,142 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 26"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102600000,
+                    "szep": "Zsolt 26,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Bizalom-ének, amely feltehetően a perzsa időkben keletkezett. Egy ártatlanul megvádolt ember keres menedéket vádlói elől a templomban. A helyzet megegyezik a 1Kir 8,31-32-ben leírtakkal. A megigazulási szertartáson keresztül a gyanúsított igazolja ártatlanságát."
+                    },
+                    {
+                        "position": null,
+                        "text": "A kérelmező nem tudja önmagát felmenteni a bűnösség vádja alól, csak Isten tudja ügyét megvizsgálni. – A szemita felfogás szerint a szív a gondolkodás, a döntés és az akarat székhelye, a vesék viszont az érzékelés és az érzelem székhelyei."
+                    }
+                ],
+                "szoveg": "<em>Dávidtól.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12102600100,
+                    "szep": "Zsolt 26,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Bizalom-ének, amely feltehetően a perzsa időkben keletkezett. Egy ártatlanul megvádolt ember keres menedéket vádlói elől a templomban. A helyzet megegyezik a 1Kir 8,31-32-ben leírtakkal. A megigazulási szertartáson keresztül a gyanúsított igazolja ártatlanságát."
+                    },
+                    {
+                        "position": null,
+                        "text": "A kérelmező nem tudja önmagát felmenteni a bűnösség vádja alól, csak Isten tudja ügyét megvizsgálni. – A szemita felfogás szerint a szív a gondolkodás, a döntés és az akarat székhelye, a vesék viszont az érzékelés és az érzelem székhelyei."
+                    }
+                ],
+                "szoveg": "Szolgáltass, Uram, igazságot nekem,<br>mert ártatlanságban járok,<br>s az Úrba vetett bizalmam nem inog meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12102600200,
+                    "szep": "Zsolt 26,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tégy próbára, Uram, és vizsgálj meg engem,<br>próbáld meg tűzzel vesémet és szívemet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102600300,
+                    "szep": "Zsolt 26,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert szemem előtt van irgalmasságod,<br>s a te igazságodban járok."
+            },
+            {
+                "hely": {
+                    "gepi": 12102600400,
+                    "szep": "Zsolt 26,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem ültem együtt a hivalkodókkal,<br>és nem jártam az alattomosokkal."
+            },
+            {
+                "hely": {
+                    "gepi": 12102600500,
+                    "szep": "Zsolt 26,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gyűlölöm a gonoszok társaságát,<br>nem ülök le az istentelenekkel."
+            },
+            {
+                "hely": {
+                    "gepi": 12102600600,
+                    "szep": "Zsolt 26,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. Mt 27,24. A beszélő a bizonyítási eljárás során a kultikus parancsokat is teljesíti (kézmosás, az oltár körüljárása és tömjénezés)."
+                    }
+                ],
+                "szoveg": "Ártatlanságban mosom kezemet,<br>és körülveszem oltárodat, Uram,"
+            },
+            {
+                "hely": {
+                    "gepi": 12102600700,
+                    "szep": "Zsolt 26,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy halljam a dicséret szavát,<br>és hirdessem minden csodatettedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12102600800,
+                    "szep": "Zsolt 26,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, szeretem házad rejtekét,<br>és dicsőséged lakóhelyét."
+            },
+            {
+                "hely": {
+                    "gepi": 12102600900,
+                    "szep": "Zsolt 26,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, ne pusztítsd el a gonoszokkal együtt lelkemet,<br>s éltemet a vér embereivel,"
+            },
+            {
+                "hely": {
+                    "gepi": 12102601000,
+                    "szep": "Zsolt 26,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "akiknek kezéhez gonoszság tapad,<br>és jobbjuk telve van megvesztegetéssel."
+            },
+            {
+                "hely": {
+                    "gepi": 12102601100,
+                    "szep": "Zsolt 26,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én azonban ártatlanságomban járok,<br>ments meg engem, irgalmazz nekem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102601200,
+                    "szep": "Zsolt 26,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lábam egyenes úton áll,<br>a gyülekezetekben áldom az Urat."
+            }
+        ]
+    }
+}

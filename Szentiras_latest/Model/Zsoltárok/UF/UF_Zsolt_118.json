@@ -1,0 +1,247 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 118"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111800100,
+                    "szep": "Zsolt 118,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adjatok hálát az ÚRnak, mert jó, mert örökké tart szeretete!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111800200,
+                    "szep": "Zsolt 118,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mondja hát Izráel, hogy örökké tart szeretete!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111800300,
+                    "szep": "Zsolt 118,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mondja hát Áron háza, hogy örökké tart szeretete!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111800400,
+                    "szep": "Zsolt 118,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mondják hát, akik félik az URat, hogy örökké tart szeretete!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111800500,
+                    "szep": "Zsolt 118,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyomorúságomban az URat hívtam segítségül. Az ÚR meghallgatott, tágas térre vitt engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111800600,
+                    "szep": "Zsolt 118,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Velem van az ÚR, nem félek, ember mit árthat nekem?"
+            },
+            {
+                "hely": {
+                    "gepi": 12111800700,
+                    "szep": "Zsolt 118,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Velem van az ÚR, segít engem, és én megvetéssel nézek gyűlölőimre."
+            },
+            {
+                "hely": {
+                    "gepi": 12111800800,
+                    "szep": "Zsolt 118,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jobb az ÚRnál keresni oltalmat, mint emberben bízni."
+            },
+            {
+                "hely": {
+                    "gepi": 12111800900,
+                    "szep": "Zsolt 118,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jobb az ÚRnál keresni oltalmat, mint előkelő emberekben bízni."
+            },
+            {
+                "hely": {
+                    "gepi": 12111801000,
+                    "szep": "Zsolt 118,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sok nép vett körül engem, de az ÚR nevében szembeszállok velük!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111801100,
+                    "szep": "Zsolt 118,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Körülvettek, be is kerítettek, de az ÚR nevében szembeszállok velük!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111801200,
+                    "szep": "Zsolt 118,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Körülvettek, mint a méhek, de kialszanak, mint az égő bozót. Az ÚR nevében szembeszállok velük!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111801300,
+                    "szep": "Zsolt 118,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Durván eltaszítottak, hogy elessem, de az ÚR megsegített engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111801400,
+                    "szep": "Zsolt 118,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Erőm és énekem az ÚR, megszabadított engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111801500,
+                    "szep": "Zsolt 118,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ujjongás és győzelem hangja zeng az igazak sátraiban: az ÚR jobbja hatalmasan munkálkodik!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111801600,
+                    "szep": "Zsolt 118,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fölemelte jobbját az ÚR, az ÚR jobbja hatalmasan munkálkodik!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111801700,
+                    "szep": "Zsolt 118,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem halok meg, hanem élek, és hirdetem az ÚR tetteit!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111801800,
+                    "szep": "Zsolt 118,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Keményen megfeddett engem az ÚR, de nem adott át a halálnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12111801900,
+                    "szep": "Zsolt 118,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyissátok ki előttem az igazság kapuit! Bemegyek, és hálát adok az ÚRnak!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111802000,
+                    "szep": "Zsolt 118,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ez az ÚR kapuja: igazak mehetnek be rajta."
+            },
+            {
+                "hely": {
+                    "gepi": 12111802100,
+                    "szep": "Zsolt 118,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hálát adok neked, hogy meghallgattál, és megszabadítottál."
+            },
+            {
+                "hely": {
+                    "gepi": 12111802200,
+                    "szep": "Zsolt 118,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az a kő, amelyet az építők megvetettek, az lett a sarokkő."
+            },
+            {
+                "hely": {
+                    "gepi": 12111802300,
+                    "szep": "Zsolt 118,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚRtól lett ez, csodálatos a mi szemünkben."
+            },
+            {
+                "hely": {
+                    "gepi": 12111802400,
+                    "szep": "Zsolt 118,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ez az a nap, amelyet az ÚR elrendelt, vigadozzunk és örüljünk ezen!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111802500,
+                    "szep": "Zsolt 118,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ó, URam, segíts meg! Ó URam, adj szerencsét!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111802600,
+                    "szep": "Zsolt 118,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott, aki az ÚR nevében jön! Megáldunk titeket az ÚR házából."
+            },
+            {
+                "hely": {
+                    "gepi": 12111802700,
+                    "szep": "Zsolt 118,27"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR az Isten, ő adott nekünk világosságot. Kötelekkel kössétek az ünnepi áldozatot az oltár szarvaihoz!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111802800,
+                    "szep": "Zsolt 118,28"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem vagy, hálát adok neked, Istenem, magasztallak téged!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111802900,
+                    "szep": "Zsolt 118,29"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adjatok hálát az ÚRnak, mert jó, mert örökké tart szeretete!"
+            }
+        ]
+    }
+}

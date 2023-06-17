@@ -1,0 +1,247 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 35"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103500000,
+                    "szep": "Zsolt 35,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávidé."
+            },
+            {
+                "hely": {
+                    "gepi": 12103500100,
+                    "szep": "Zsolt 35,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Perelj, URam, a velem perlőkkel, harcolj az ellenem harcolókkal!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103500200,
+                    "szep": "Zsolt 35,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ragadj pajzsot, vértet, és siess segítségemre!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103500300,
+                    "szep": "Zsolt 35,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Végy elő lándzsát és csatabárdot üldözőim ellen! Szólj így hozzám: Én megsegítelek téged!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103500400,
+                    "szep": "Zsolt 35,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Érje szégyen és gyalázat azokat, akik életemre törnek! Hátráljanak meg, és piruljanak, akik rosszat terveznek ellenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103500500,
+                    "szep": "Zsolt 35,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Legyenek olyanok, mint a szélhordta pelyva. Az ÚR angyala szórja szét őket!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103500600,
+                    "szep": "Zsolt 35,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Legyen útjuk sötét és síkos, az ÚR angyala üldözze őket!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103500700,
+                    "szep": "Zsolt 35,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ok nélkül vetették ki rám hálójukat, ok nélkül ástak vermet nekem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103500800,
+                    "szep": "Zsolt 35,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Érje őket váratlan veszedelem, fogja meg őket a háló, amelyet kivetettek, ők maguk essenek gödörbe!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103500900,
+                    "szep": "Zsolt 35,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én pedig ujjongok az ÚRnak, és örvendezek szabadításának."
+            },
+            {
+                "hely": {
+                    "gepi": 12103501000,
+                    "szep": "Zsolt 35,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Minden porcikám ezt mondja: Ki volna hozzád fogható, URam? Mert megmented az elesettet az erőszakostól, az elesettet és szegényt a fosztogatótól."
+            },
+            {
+                "hely": {
+                    "gepi": 12103501100,
+                    "szep": "Zsolt 35,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hamis tanúk állnak elő, olyanról faggatnak, amiről nem tudok."
+            },
+            {
+                "hely": {
+                    "gepi": 12103501200,
+                    "szep": "Zsolt 35,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rosszal fizetnek a jóért, életemre törnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12103501300,
+                    "szep": "Zsolt 35,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Pedig ha ők betegek voltak, én zsákruhát öltöttem, böjttel gyötörtem magamat, újra meg újra szívből imádkoztam."
+            },
+            {
+                "hely": {
+                    "gepi": 12103501400,
+                    "szep": "Zsolt 35,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Úgy jártam-keltem, mintha barátomról, testvéremről lett volna szó, mély bánatba merültem, mint aki anyját gyászolja."
+            },
+            {
+                "hely": {
+                    "gepi": 12103501500,
+                    "szep": "Zsolt 35,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "De mikor én meginogtam, örömükben összegyűltek. Összegyűltek körülöttem mint idegenek és ismeretlenek, szitkozódnak szünet nélkül."
+            },
+            {
+                "hely": {
+                    "gepi": 12103501600,
+                    "szep": "Zsolt 35,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elvetemülten gúnyolódnak, acsarkodnak ellenem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103501700,
+                    "szep": "Zsolt 35,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, meddig tűröd ezt? Ments meg engem az ordítozóktól, életemet az oroszlánoktól!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103501800,
+                    "szep": "Zsolt 35,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztallak a nagy gyülekezetben, hatalmas nép között dicsérlek."
+            },
+            {
+                "hely": {
+                    "gepi": 12103501900,
+                    "szep": "Zsolt 35,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne engedd, hogy kinevessenek hazug ellenségeim, és összekacsinthassanak, akik ok nélkül gyűlölnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12103502000,
+                    "szep": "Zsolt 35,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nem jó szándékkal beszélnek, csalárd dolgokat terveznek azok ellen, akik szelíden élnek a földön."
+            },
+            {
+                "hely": {
+                    "gepi": 12103502100,
+                    "szep": "Zsolt 35,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Feltátották rám szájukat, hahotázva mondják rólam: Saját szemünkkel láttunk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103502200,
+                    "szep": "Zsolt 35,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Láttad mindezt, URam! Ne hallgass, Uram, ne légy távol tőlem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103502300,
+                    "szep": "Zsolt 35,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Serkenj fel, ébredj, tégy igazságot peremben, Uram, Istenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103502400,
+                    "szep": "Zsolt 35,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ítélj meg igazságod szerint, URam, Istenem, ne engedd, hogy kinevessenek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103502500,
+                    "szep": "Zsolt 35,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne mondhassák magukban: Ez az, ezt akartuk! Ne mondhassák: Végeztünk vele!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103502600,
+                    "szep": "Zsolt 35,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szégyenkezve piruljon mindenki, aki örül bajomnak! Szégyen és gyalázat borítsa azokat, akik dölyfösek velem szemben!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103502700,
+                    "szep": "Zsolt 35,27"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ujjongjanak, örüljenek, akik igazamat kívánják! Beszéljék mindenkor, hogy nagy az ÚR, aki szolgája javát akarja!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103502800,
+                    "szep": "Zsolt 35,28"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyelvem hirdeti igazságodat és dicséretedet mindennap."
+            }
+        ]
+    }
+}

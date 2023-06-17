@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 120"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112000000,
+                    "szep": "Zsolt 120,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Grádicsok éneke."
+            },
+            {
+                "hely": {
+                    "gepi": 12112000100,
+                    "szep": "Zsolt 120,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyomorúságomban az Úrhoz kiálték, és meghallgata engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12112000200,
+                    "szep": "Zsolt 120,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mentsd meg, Uram, lelkemet a hazug ajaktól és a csalárd nyelvtől!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112000300,
+                    "szep": "Zsolt 120,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mit adjanak néked, vagy mit nyujtsanak néked, te csalárd nyelv?!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112000400,
+                    "szep": "Zsolt 120,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vitéznek hegyes nyilait fenyőfa parázsával."
+            },
+            {
+                "hely": {
+                    "gepi": 12112000500,
+                    "szep": "Zsolt 120,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jaj nékem, hogy Mésekben bujdosom és a Kédár sátrai közt lakom!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112000600,
+                    "szep": "Zsolt 120,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sok ideje lakozik az én lelkem a békességnek gyűlölőivel!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112000700,
+                    "szep": "Zsolt 120,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magam vagyok a békesség, de mihelyt megszólalok, ők viadalra készek."
+            }
+        ]
+    }
+}

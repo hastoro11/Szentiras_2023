@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 76"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107600000,
+                    "szep": "Zsolt 76,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek hangszerekkel; Aszáf zsoltára, ének."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600100,
+                    "szep": "Zsolt 76,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ismeretes az Isten Júdában, nagy az ő neve Izráelben."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600200,
+                    "szep": "Zsolt 76,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert hajléka van Sálemben, és lakhelye Sionban."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600300,
+                    "szep": "Zsolt 76,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ott törte össze a kézív villámait, paizst, szablyát és a hadat. Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600400,
+                    "szep": "Zsolt 76,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ragyogó vagy te, felségesebb, mint a zsákmányadó hegyek."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600500,
+                    "szep": "Zsolt 76,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kifosztattak a bátor szívűek, álmukat aluszszák, és minden hős kezének ereje veszett."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600600,
+                    "szep": "Zsolt 76,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "A te dorgálásodtól, oh Jákób Istene, megzsibbadt mind szekér, mind ló."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600700,
+                    "szep": "Zsolt 76,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te, te rettenetes vagy, és ki állhat meg orczád előtt, mikor haragszol?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107600800,
+                    "szep": "Zsolt 76,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az egekből jelentetted ki ítéletedet; a föld megrettent és elcsendesedett,"
+            },
+            {
+                "hely": {
+                    "gepi": 12107600900,
+                    "szep": "Zsolt 76,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mikor felkelt Isten az ítéletre, hogy megszabadítsa a föld minden nyomorultját! Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12107601000,
+                    "szep": "Zsolt 76,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert az emberek haragja megdicsőít téged, miután felövezed végső haragodat."
+            },
+            {
+                "hely": {
+                    "gepi": 12107601100,
+                    "szep": "Zsolt 76,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tegyetek fogadást és adjátok meg azokat az Úrnak, a ti Isteneteknek; mindnyájan, a kik ő körülte laknak, hozzanak ajándékot a Rettenetesnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12107601200,
+                    "szep": "Zsolt 76,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert a fejedelmek gőgjét megtöri, rettenetes a föld királyaihoz."
+            }
+        ]
+    }
+}

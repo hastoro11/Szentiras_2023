@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 138"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113800000,
+                    "szep": "Zsolt 138,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávidé."
+            },
+            {
+                "hely": {
+                    "gepi": 12113800100,
+                    "szep": "Zsolt 138,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztallak, URam, teljes szívemből, istenekkel szemben is csak rólad énekelek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113800200,
+                    "szep": "Zsolt 138,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Leborulok szent templomodban, és magasztalom nevedet hűséges szeretetedért, mert mindennél magasztosabbá tetted nevedet és beszédedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12113800300,
+                    "szep": "Zsolt 138,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Amikor kiáltottam, meghallgattál engem, bátorítottál, lelkembe erőt öntöttél."
+            },
+            {
+                "hely": {
+                    "gepi": 12113800400,
+                    "szep": "Zsolt 138,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Téged magasztal, URam, a föld minden királya, amikor meghallják szád mondásait."
+            },
+            {
+                "hely": {
+                    "gepi": 12113800500,
+                    "szep": "Zsolt 138,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Énekelni fogok az ÚR útjairól, mert nagy az ÚR dicsősége."
+            },
+            {
+                "hely": {
+                    "gepi": 12113800600,
+                    "szep": "Zsolt 138,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bár fenséges az ÚR, meglátja a megalázottat, és messziről megismeri a fennhéjázót."
+            },
+            {
+                "hely": {
+                    "gepi": 12113800700,
+                    "szep": "Zsolt 138,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha szorult helyzetben vagyok is, megtartod életemet. Haragos ellenségeim ellen kinyújtod kezedet, jobbod megsegít engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12113800800,
+                    "szep": "Zsolt 138,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR javamra dönti el ügyemet. URam, örökké tart szereteted, ne hagyd el kezed alkotásait!"
+            }
+        ]
+    }
+}

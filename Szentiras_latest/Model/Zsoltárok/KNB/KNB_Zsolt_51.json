@@ -1,0 +1,205 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 51"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105100000,
+                    "szep": "Zsolt 51,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Könyörgő ének, valószínűleg a fogság idejéből; a negyedik bűnbánati zsoltár. A felirat (vö. 2 Sám 12,1-25) jelzi, hogy a magyarázók hogyan értelmezték ezt a zsoltárt: egy megtérő bűnös imája, aki rábízza magát az irgalmas Istenre."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Dávid zsoltára,<br> amikor Nátán próféta eléje járult,<br>miután ő Batsebával vétkezett.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12105100100,
+                    "szep": "Zsolt 51,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Isten irgalmas és kegyes, ha az ember beismeri és megbánja vétkét."
+                    }
+                ],
+                "szoveg": "Könyörülj rajtam, Isten, irgalmad szerint,<br>könyörületességed szerint töröld el gonoszságomat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105100200,
+                    "szep": "Zsolt 51,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Moss egészen tisztára vétkemtől,<br>bűnömtől tisztíts meg engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105100300,
+                    "szep": "Zsolt 51,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert elismerem gonoszságomat,<br>és bűnöm előttem van szüntelen."
+            },
+            {
+                "hely": {
+                    "gepi": 12105100400,
+                    "szep": "Zsolt 51,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. Róm 3,4"
+                    }
+                ],
+                "szoveg": "Ellened vétkeztem, egyedül ellened,<br>s azt cselekedtem, ami előtted gonosz,<br>hogy igaznak bizonyulj beszédedben,<br>és igazságosnak a te ítéletedben."
+            },
+            {
+                "hely": {
+                    "gepi": 12105100500,
+                    "szep": "Zsolt 51,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Íme, gonoszságban fogantattam,<br>és bűnökben fogant engem az én anyám."
+            },
+            {
+                "hely": {
+                    "gepi": 12105100600,
+                    "szep": "Zsolt 51,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Íme, te a szív igazságát szereted,<br>bölcsességedet titokban kinyilatkoztattad nekem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105100700,
+                    "szep": "Zsolt 51,7"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az izsóp bokorszerű kis növény, az ágait meghintésre használják. Az istentiszteleten az izsópot főként a tisztulási áldozatoknál használták, vö. Szám 19,18; Jn 19,29."
+                    }
+                ],
+                "szoveg": "Hints meg engem izsóppal és megtisztulok,<br>moss meg engem és a hónál fehérebb leszek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105100800,
+                    "szep": "Zsolt 51,8"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Javított szöveg."
+                    }
+                ],
+                "szoveg": "Add, hogy örömet és vidámságot halljak,<br>hadd ujjongjanak csontjaim, amelyeket összetörtél!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105100900,
+                    "szep": "Zsolt 51,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fordítsd el bűneimtől arcodat,<br>töröld el minden gonoszságomat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105101000,
+                    "szep": "Zsolt 51,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tiszta szívet teremts bennem, Isten,<br>s az erős lelket újítsd meg bensőmben!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105101100,
+                    "szep": "Zsolt 51,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Színed elől ne vess el engem,<br>szent lelkedet ne vond meg tőlem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105101200,
+                    "szep": "Zsolt 51,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Add vissza nekem üdvösséged örömét,<br>és készséges lélekkel erősíts meg engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105101300,
+                    "szep": "Zsolt 51,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hadd tanítsam útjaidra a bűnösöket,<br>hogy hozzád térjenek az istentelenek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105101400,
+                    "szep": "Zsolt 51,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szabadíts meg a vértől, Isten, szabadító Istenem,<br>hogy nyelvem ujjongva hirdesse igazságodat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105101500,
+                    "szep": "Zsolt 51,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, nyisd meg ajkamat,<br>hadd hirdesse szám dicséretedet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105101600,
+                    "szep": "Zsolt 51,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen nem kedveled a véres áldozatot,<br>ha égő áldozatot hozok, nem tetszik neked."
+            },
+            {
+                "hely": {
+                    "gepi": 12105101700,
+                    "szep": "Zsolt 51,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "A töredelmes lélek áldozat Istennek,<br>a töredelmes, alázatos szívet, Isten, nem veted meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12105101800,
+                    "szep": "Zsolt 51,18"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Liturgikus függelék a templom újjáépítésnek idejéből (az építés Kr. e. 515-ben fejeződött be). Az imádkozó reméli, hogy az új templomban csak igaz áldozatokat mutatnak majd be."
+                    }
+                ],
+                "szoveg": "Tégy jót, Uram, jóságodban Sionnal,<br>hogy felépüljenek Jeruzsálem falai."
+            },
+            {
+                "hely": {
+                    "gepi": 12105101900,
+                    "szep": "Zsolt 51,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor majd kedvedet leled az igaz áldozatban,<br>ajándékokban, egészen elégő áldozatokban;<br>Akkor majd fiatal bikákat tesznek oltárodra."
+            }
+        ]
+    }
+}

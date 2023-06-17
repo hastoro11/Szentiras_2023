@@ -1,0 +1,271 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 22"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102200000,
+                    "szep": "Zsolt 22,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: „A hajnali szarvas” kezdetű ének dallamára. Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12102200100,
+                    "szep": "Zsolt 22,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én Istenem, én Istenem, miért hagytál el engem? Távol van tőlem a segítség, pedig jajgatva kiáltok!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102200200,
+                    "szep": "Zsolt 22,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem! Hívlak nappal, de nem válaszolsz, éjszaka is, de nem tudok elcsendesedni."
+            },
+            {
+                "hely": {
+                    "gepi": 12102200300,
+                    "szep": "Zsolt 22,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Pedig te szent vagy, trónodon ülsz, rólad szólnak Izráel dicséretei."
+            },
+            {
+                "hely": {
+                    "gepi": 12102200400,
+                    "szep": "Zsolt 22,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Benned bíztak őseink, bíztak, és megmentetted őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12102200500,
+                    "szep": "Zsolt 22,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hozzád kiáltottak segítségért, és megmenekültek, benned bíztak, és nem szégyenültek meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12102200600,
+                    "szep": "Zsolt 22,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "De én féreg vagyok, nem ember, gyaláznak az emberek, és megvet a nép."
+            },
+            {
+                "hely": {
+                    "gepi": 12102200700,
+                    "szep": "Zsolt 22,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gúnyolódnak rajtam mind, akik látnak, ajkukat biggyesztik, fejüket csóválják:"
+            },
+            {
+                "hely": {
+                    "gepi": 12102200800,
+                    "szep": "Zsolt 22,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚRra bízta magát, mentse hát meg őt, szabadítsa meg, hiszen kedvelte!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102200900,
+                    "szep": "Zsolt 22,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te hoztál ki engem anyám méhéből, biztonságba helyeztél anyám emlőin."
+            },
+            {
+                "hely": {
+                    "gepi": 12102201000,
+                    "szep": "Zsolt 22,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Már anyám ölében is rád voltam utalva, anyám méhében is te voltál Istenem."
+            },
+            {
+                "hely": {
+                    "gepi": 12102201100,
+                    "szep": "Zsolt 22,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne légy tőlem távol, mert közel van a baj, és nincs, aki segítsen!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102201200,
+                    "szep": "Zsolt 22,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hatalmas bikák vettek körül, bekerítettek a básáni bivalyok."
+            },
+            {
+                "hely": {
+                    "gepi": 12102201300,
+                    "szep": "Zsolt 22,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Föltátották rám szájukat, mint a marcangoló, ordító oroszlán."
+            },
+            {
+                "hely": {
+                    "gepi": 12102201400,
+                    "szep": "Zsolt 22,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szétfolytam, mint a víz, kificamodtak a csontjaim. Szívem, mint a viasz, megolvadt bensőmben."
+            },
+            {
+                "hely": {
+                    "gepi": 12102201500,
+                    "szep": "Zsolt 22,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Torkom kiszáradt, mint a cserép, nyelvem az ínyemhez tapadt, a halál porába fektettél."
+            },
+            {
+                "hely": {
+                    "gepi": 12102201600,
+                    "szep": "Zsolt 22,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert kutyák vettek körül engem, gonoszok bandája kerített be, átlyukasztották kezemet, lábamat."
+            },
+            {
+                "hely": {
+                    "gepi": 12102201700,
+                    "szep": "Zsolt 22,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megszámlálhatnám minden csontomat, ők pedig csak bámulnak, néznek rám."
+            },
+            {
+                "hely": {
+                    "gepi": 12102201800,
+                    "szep": "Zsolt 22,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megosztoznak ruháimon, köntösömre sorsot vetnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12102201900,
+                    "szep": "Zsolt 22,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ó, URam, ne légy távol, erősségem, siess segítségemre!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102202000,
+                    "szep": "Zsolt 22,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ments meg engem a fegyvertől, életemet a kutyák hatalmából!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102202100,
+                    "szep": "Zsolt 22,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szabadíts meg az oroszlán szájából és a bivalyok szarvai közül engem, nyomorultat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102202200,
+                    "szep": "Zsolt 22,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hirdetem nevedet testvéreimnek, dicsérlek a gyülekezetben."
+            },
+            {
+                "hely": {
+                    "gepi": 12102202300,
+                    "szep": "Zsolt 22,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kik az URat félitek, dicsérjétek őt, Jákób utódai, mind dicsőítsétek őt! Rettegjetek tőle, Izráel utódai, mind!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102202400,
+                    "szep": "Zsolt 22,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nem veti meg és nem utálja az elesettek nyomorúságát, nem rejti el orcáját előlük, segélykiáltásukat meghallgatja."
+            },
+            {
+                "hely": {
+                    "gepi": 12102202500,
+                    "szep": "Zsolt 22,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rólad szól dicséretem a nagy gyülekezetben, teljesítem fogadalmaimat az istenfélők előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12102202600,
+                    "szep": "Zsolt 22,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "Esznek az alázatosak, és jóllaknak, dicsérik az URat, akik őt keresik. Szívetek legyen vidám mindenkor!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102202700,
+                    "szep": "Zsolt 22,27"
+                },
+                "jegyzetek": [],
+                "szoveg": "A föld legvégéig mindenkinek eszébe jut az ÚR, és megtérnek hozzá, őelőtte borul le a népek minden nemzetsége."
+            },
+            {
+                "hely": {
+                    "gepi": 12102202800,
+                    "szep": "Zsolt 22,28"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert az ÚRé a királyi hatalom, ő uralkodik a népeken."
+            },
+            {
+                "hely": {
+                    "gepi": 12102202900,
+                    "szep": "Zsolt 22,29"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak előtte borulnak le a földi hatalmasságok, térdet hajt előtte minden halandó, aki nem tudja életét megtartani."
+            },
+            {
+                "hely": {
+                    "gepi": 12102203000,
+                    "szep": "Zsolt 22,30"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az utódok szolgálják őt, beszélnek az Úrról a jövő nemzedéknek."
+            },
+            {
+                "hely": {
+                    "gepi": 12102203100,
+                    "szep": "Zsolt 22,31"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jönnek, és a születendő népnek hirdetik majd, hogy igaz, amit ő tesz."
+            }
+        ]
+    }
+}

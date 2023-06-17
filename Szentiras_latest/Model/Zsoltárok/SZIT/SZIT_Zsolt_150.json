@@ -1,0 +1,55 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 150"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12115000100,
+                    "szep": "Zsolt 150,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Alleluja!) Dicsérjétek az Urat szentélyében, dicsérjétek égi erődítményében!"
+            },
+            {
+                "hely": {
+                    "gepi": 12115000200,
+                    "szep": "Zsolt 150,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek hatalmas tetteiért, dicsérjétek nagyságának teljességéért!"
+            },
+            {
+                "hely": {
+                    "gepi": 12115000300,
+                    "szep": "Zsolt 150,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek trombitaszóval, dicsérjétek citerával és hárfával!"
+            },
+            {
+                "hely": {
+                    "gepi": 12115000400,
+                    "szep": "Zsolt 150,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek dobbal és tánccal, dicsérjétek fuvolával és gitárral!"
+            },
+            {
+                "hely": {
+                    "gepi": 12115000500,
+                    "szep": "Zsolt 150,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek zengő cimbalommal, dicsérjétek búgó cimbalom hangjával! Minden élő dicsérje az Urat! Alleluja!"
+            }
+        ]
+    }
+}

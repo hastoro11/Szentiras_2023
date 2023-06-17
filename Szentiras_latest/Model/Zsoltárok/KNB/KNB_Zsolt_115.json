@@ -1,0 +1,174 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 115"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111500100,
+                    "szep": "Zsolt 115,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az éneket két kórus énekli, a fogság utáni idők istentiszteletéből származik."
+                    }
+                ],
+                "szoveg": "Ne nekünk, Uram, ne nekünk,<br>hanem a te nevednek adj dicsőséget,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111500200,
+                    "szep": "Zsolt 115,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "irgalmad és hűséged szerint.<br>Hogy azt ne mondják a nemzetek:<br>»Hol van az ő Istenük?«"
+            },
+            {
+                "hely": {
+                    "gepi": 12111500300,
+                    "szep": "Zsolt 115,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hisz a mi Istenünk az égben van,<br>mindent megtesz, amit akar."
+            },
+            {
+                "hely": {
+                    "gepi": 12111500400,
+                    "szep": "Zsolt 115,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. 135,15-18."
+                    }
+                ],
+                "szoveg": "De a nemzetek bálványai ezüstből és aranyból vannak,<br>s emberi kéz alkotásai."
+            },
+            {
+                "hely": {
+                    "gepi": 12111500500,
+                    "szep": "Zsolt 115,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Van szájuk, de nem szólnak,<br>van szemük, de nem látnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12111500600,
+                    "szep": "Zsolt 115,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Van fülük, de nem hallanak,<br>van orruk, de nem szagolnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12111500700,
+                    "szep": "Zsolt 115,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Van kezük, de nem tapintanak,<br>van lábuk, de nem járnak,<br>torkukkal nem kiáltanak."
+            },
+            {
+                "hely": {
+                    "gepi": 12111500800,
+                    "szep": "Zsolt 115,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Legyenek hozzájuk hasonlók a készítőik,<br>és mindazok, akik bíznak bennük!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111500900,
+                    "szep": "Zsolt 115,9"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az emberek három csoportját bizakodásra szólítja fel: Izraelt (közösség) Áron házát (papság) és az istenfélőket (az igaz Isten összes híve, prozeliták)."
+                    }
+                ],
+                "szoveg": "Izrael háza az Úrban bízik,<br>ő a segítőjük és oltalmazójuk."
+            },
+            {
+                "hely": {
+                    "gepi": 12111501000,
+                    "szep": "Zsolt 115,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áron háza az Úrban bízik,<br>ő a segítőjük és oltalmazójuk."
+            },
+            {
+                "hely": {
+                    "gepi": 12111501100,
+                    "szep": "Zsolt 115,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akik félik az Urat, az Úrban bíznak,<br>ő a segítőjük és oltalmazójuk."
+            },
+            {
+                "hely": {
+                    "gepi": 12111501200,
+                    "szep": "Zsolt 115,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megemlékezik rólunk az Úr,<br>s áldását adja ránk.<br>Áldását adja Izrael házára,<br>áldását adja Áron házára."
+            },
+            {
+                "hely": {
+                    "gepi": 12111501300,
+                    "szep": "Zsolt 115,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldását adja mindazokra, akik az Urat félik,<br>kicsinyekre és nagyokra egyaránt."
+            },
+            {
+                "hely": {
+                    "gepi": 12111501400,
+                    "szep": "Zsolt 115,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sokasítson meg titeket az Úr,<br>titeket és fiaitokat."
+            },
+            {
+                "hely": {
+                    "gepi": 12111501500,
+                    "szep": "Zsolt 115,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjon meg az Úr titeket,<br>aki az eget és a földet alkotta."
+            },
+            {
+                "hely": {
+                    "gepi": 12111501600,
+                    "szep": "Zsolt 115,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ég az Úr ege,<br>de a földet az emberek fiainak adta."
+            },
+            {
+                "hely": {
+                    "gepi": 12111501700,
+                    "szep": "Zsolt 115,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem a holtak dicsérnek téged, Uram,<br>és egy sem azok közül, akik leszálltak a némaság honába,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111501800,
+                    "szep": "Zsolt 115,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "hanem mi, akik élünk, dicsérjük az Urat,<br>most és mindörökké."
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 137"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113700100,
+                    "szep": "Zsolt 137,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bábel folyói mentén ültünk és sírtunk: a Sionra emlékeztünk."
+            },
+            {
+                "hely": {
+                    "gepi": 12113700200,
+                    "szep": "Zsolt 137,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azon a földön a fűzfákra akasztottuk hárfáinkat."
+            },
+            {
+                "hely": {
+                    "gepi": 12113700300,
+                    "szep": "Zsolt 137,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert dalt akartak hallani, akik elhurcoltak minket. Elnyomóink öröméneket követeltek: „Zengjetek nekünk dalt a Sionról!”"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700400,
+                    "szep": "Zsolt 137,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "De hogyan énekeljünk éneket az Úrról az idegenek földjén?"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700500,
+                    "szep": "Zsolt 137,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jeruzsálem, ha elfeledkezem rólad, száradjon le a jobbom!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700600,
+                    "szep": "Zsolt 137,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyelvem tapadjon ínyemhez, ha nem emlékezem meg rólad: ha Jeruzsálemet nem helyezem minden örömem fölé!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700700,
+                    "szep": "Zsolt 137,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne felejtsd el, Uram, Edom fiainak Jeruzsálem napját! Amikor így kiáltoztak: „Romboljátok le, romboljátok le, hadd pusztuljon el a földig!”"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700800,
+                    "szep": "Zsolt 137,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bábel leánya, te pusztító, áldott, aki megfizeti neked, ami gonoszságot velünk tettél!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700900,
+                    "szep": "Zsolt 137,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott, aki megragadja gyermekeidet és szétzúzza őket a sziklán!"
+            }
+        ]
+    }
+}

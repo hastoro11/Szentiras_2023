@@ -1,0 +1,133 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 76"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107600000,
+                    "szep": "Zsolt 76,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ének Sionról a fogság előtti időkből. Dicsőíti Isten páratlan és végleges győzelmét Izraelben. Ősi (a mitológiában is fellelhető) képekben beszél Sion hegyéről és Istenről, akit ott tisztelnek. Isten Sionon fog ítélkezni, diadalmaskodik a »föld királyai« fölött, és lerakja békéjének alapjait."
+                    },
+                    {
+                        "position": null,
+                        "text": "Ászáf: vö. 50,1."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Hárfára. Ászáf zsoltára. Ének.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12107600100,
+                    "szep": "Zsolt 76,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Júdában (a déli királyság, Dávid háza) Isten kinyilatkoztatta magát; őt tisztelik Izraelben is (északi királyság, Szamaria). Isten sátrát (ahol a pusztai vándorlás óta találkoztak vele) az egykori jebuzita Sálemben (vö. Ter 14,18) állították fel. A Sion hegyén, ahol egykor jebuziták városa feküdt (vö. 2 Sám 5,6-7) a Templom hegyévé lett. Isten ott törte össze a háborús fegyvereket, Jeruzsálemből (vö. héber »salóm«) árad ki békéje az egész világra."
+                    }
+                ],
+                "szoveg": "Ismeretes Júdában Isten,<br>nagy a neve Izraelben."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600200,
+                    "szep": "Zsolt 76,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sálemben van sátra,<br>és a Sionon van lakása."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600300,
+                    "szep": "Zsolt 76,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ott törte össze a villogó nyilakat,<br>a pajzsot, kardot és a harci eszközöket."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600400,
+                    "szep": "Zsolt 76,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ragyogsz, te Fölséges,<br>a pusztító hegyekről."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600500,
+                    "szep": "Zsolt 76,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kifosztották a büszke szívűeket,<br>álomba merültek,<br>kezüket sem találták az erős férfiak."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600600,
+                    "szep": "Zsolt 76,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Feddésedtől, Jákob Istene,<br>megdermedt a ló és a szekér."
+            },
+            {
+                "hely": {
+                    "gepi": 12107600700,
+                    "szep": "Zsolt 76,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rettenetes vagy te, ki állhat ellened,<br>ha felgerjed haragod?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107600800,
+                    "szep": "Zsolt 76,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "A mennyből hallattad ítéletedet;<br>Megrendült és elcsöndesedett a föld,"
+            },
+            {
+                "hely": {
+                    "gepi": 12107600900,
+                    "szep": "Zsolt 76,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "amikor Isten ítéletre kelt,<br>hogy megszabadítson minden szelídet a földön."
+            },
+            {
+                "hely": {
+                    "gepi": 12107601000,
+                    "szep": "Zsolt 76,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert még az ember haragja is téged dicsőít,<br>s ünnepnapot ülnek neked, akik megmenekültek haragodtól."
+            },
+            {
+                "hely": {
+                    "gepi": 12107601100,
+                    "szep": "Zsolt 76,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tegyetek fogadalmat és rójátok le az Úr Istennek;<br>Mind, aki körülötte van, ajándékot vigyen a Rettenetesnek,"
+            },
+            {
+                "hely": {
+                    "gepi": 12107601200,
+                    "szep": "Zsolt 76,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "aki megtöri a fejedelmek gőgjét,<br>aki rettenetes a föld királyai számára!"
+            }
+        ]
+    }
+}

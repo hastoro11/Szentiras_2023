@@ -1,0 +1,113 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 122"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112200000,
+                    "szep": "Zsolt 122,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Sion-ének, amelyet a zarándokok a szent városba való érkezéskor énekeltek, fogság utáni."
+                    },
+                    {
+                        "position": null,
+                        "text": "Kifejezi, mit jelent a hívőknek Jeruzsálem: az a város, amelyre minden izraelita büszke, Dávid és Isten városa, ahol a királyok Isten törvénye szerint uralkodnak; ott fog állni az eljövendő Bíró trónja."
+                    }
+                ],
+                "szoveg": "<em>Zarándok-ének. Dávidtól.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12112200100,
+                    "szep": "Zsolt 122,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Sion-ének, amelyet a zarándokok a szent városba való érkezéskor énekeltek, fogság utáni."
+                    },
+                    {
+                        "position": null,
+                        "text": "Kifejezi, mit jelent a hívőknek Jeruzsálem: az a város, amelyre minden izraelita büszke, Dávid és Isten városa, ahol a királyok Isten törvénye szerint uralkodnak; ott fog állni az eljövendő Bíró trónja."
+                    }
+                ],
+                "szoveg": "Örvendeztem, amikor azt mondták nekem:<br>»Az Úr házába megyünk.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12112200200,
+                    "szep": "Zsolt 122,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "És lábunk már itt áll<br>udvaraidban, Jeruzsálem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112200300,
+                    "szep": "Zsolt 122,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jeruzsálem városnak épült,<br>részei pompásan egybeillenek."
+            },
+            {
+                "hely": {
+                    "gepi": 12112200400,
+                    "szep": "Zsolt 122,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Oda járnak fel a törzsek, az Úr törzsei,<br>hogy Izrael törvénye szerint hálát adjanak az Úr nevének."
+            },
+            {
+                "hely": {
+                    "gepi": 12112200500,
+                    "szep": "Zsolt 122,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ott állnak a bírói székek,<br>Dávid házának székei."
+            },
+            {
+                "hely": {
+                    "gepi": 12112200600,
+                    "szep": "Zsolt 122,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kívánjatok békességet Jeruzsálemnek:<br>»Bőségben éljenek, akik szeretnek téged!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112200700,
+                    "szep": "Zsolt 122,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Békesség legyen falaid között<br>és bőség tornyaidban!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12112200800,
+                    "szep": "Zsolt 122,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Testvéreimért és a hozzám közelállókért mondom:<br>»Béke legyen veled!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12112200900,
+                    "szep": "Zsolt 122,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úrnak, a mi Istenünknek házáért<br>jót kívánok neked."
+            }
+        ]
+    }
+}

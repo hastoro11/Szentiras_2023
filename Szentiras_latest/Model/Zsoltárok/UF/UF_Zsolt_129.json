@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 129"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112900000,
+                    "szep": "Zsolt 129,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zarándokének."
+            },
+            {
+                "hely": {
+                    "gepi": 12112900100,
+                    "szep": "Zsolt 129,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sokat gyötörtek ifjúságom óta - vallja meg ezt Izráel! -"
+            },
+            {
+                "hely": {
+                    "gepi": 12112900200,
+                    "szep": "Zsolt 129,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "sokat gyötörtek ifjúságom óta, mégsem bírtak velem."
+            },
+            {
+                "hely": {
+                    "gepi": 12112900300,
+                    "szep": "Zsolt 129,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hátamon szántók szántottak, hosszú barázdákat hasítottak."
+            },
+            {
+                "hely": {
+                    "gepi": 12112900400,
+                    "szep": "Zsolt 129,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "De igazságos az ÚR: elvágta a bűnösök kötelét."
+            },
+            {
+                "hely": {
+                    "gepi": 12112900500,
+                    "szep": "Zsolt 129,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megszégyenülnek, meghátrálnak majd Sion gyűlölői mind."
+            },
+            {
+                "hely": {
+                    "gepi": 12112900600,
+                    "szep": "Zsolt 129,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Olyanok lesznek, mint háztetőn a fű, amely elszárad, mielőtt kitépnék."
+            },
+            {
+                "hely": {
+                    "gepi": 12112900700,
+                    "szep": "Zsolt 129,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem szedi marokra az arató, sem ölébe a kévekötő."
+            },
+            {
+                "hely": {
+                    "gepi": 12112900800,
+                    "szep": "Zsolt 129,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem mondják az arra járók: Legyen rajtatok az ÚR áldása, áldunk benneteket az ÚR nevében!"
+            }
+        ]
+    }
+}

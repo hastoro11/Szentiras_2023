@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 122"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112200000,
+                    "szep": "Zsolt 122,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Zarándokének – Dávidtól.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12112200100,
+                    "szep": "Zsolt 122,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Öröm töltött el, amikor jelezték: Indulunk az Úr házába!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112200200,
+                    "szep": "Zsolt 122,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lábunk már átlépi kapuidat, Jeruzsálem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112200300,
+                    "szep": "Zsolt 122,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jeruzsálem, te nagyszerűen épült, megerősített és (fallal) körülzárt város!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112200400,
+                    "szep": "Zsolt 122,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Odavonulnak a törzsek, az Úr törzsei, Izrael törvénye szerint, hogy dicsőítsék az Úr nevét."
+            },
+            {
+                "hely": {
+                    "gepi": 12112200500,
+                    "szep": "Zsolt 122,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ott állnak a bírói székek, Dávid házának trónjai."
+            },
+            {
+                "hely": {
+                    "gepi": 12112200600,
+                    "szep": "Zsolt 122,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kérjétek Jeruzsálem számára, ami békességére szolgál! Legyen jó soruk mindazoknak, akik szeretnek téged!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112200700,
+                    "szep": "Zsolt 122,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Béke lakozzék falaid között és biztonság házaidban!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112200800,
+                    "szep": "Zsolt 122,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Testvéreim és barátaim miatt könyörgök: jöjjön el neked a béke!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112200900,
+                    "szep": "Zsolt 122,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörgök az Úr, a mi Istenünk háza miatt: áldás legyen az osztályrészed!"
+            }
+        ]
+    }
+}

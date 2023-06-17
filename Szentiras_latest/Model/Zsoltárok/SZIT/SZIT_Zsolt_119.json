@@ -1,0 +1,1423 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 119"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111900100,
+                    "szep": "Zsolt 119,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog, akinek útja szeplőtelen, aki az Úr törvénye szerint él."
+            },
+            {
+                "hely": {
+                    "gepi": 12111900200,
+                    "szep": "Zsolt 119,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog, aki követi útmutatásait, s aki egész szívével keresi őt."
+            },
+            {
+                "hely": {
+                    "gepi": 12111900300,
+                    "szep": "Zsolt 119,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az nem követ el gonoszságot, hiszen az ő útján halad."
+            },
+            {
+                "hely": {
+                    "gepi": 12111900400,
+                    "szep": "Zsolt 119,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magad hirdetted ki törvényedet, hogy tartsuk meg hűségesen."
+            },
+            {
+                "hely": {
+                    "gepi": 12111900500,
+                    "szep": "Zsolt 119,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bárcsak szilárdak volnának útjaim, és megtartanám, amit parancsoltál!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111900600,
+                    "szep": "Zsolt 119,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sohasem vallok szégyent, ha ügyelek minden végzésedre."
+            },
+            {
+                "hely": {
+                    "gepi": 12111900700,
+                    "szep": "Zsolt 119,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tiszta szívből áldani foglak, ha igazságos döntéseidet megismerem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111900800,
+                    "szep": "Zsolt 119,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megteszem, amit elrendeltél, te pedig ne hagyj el engem soha!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111900900,
+                    "szep": "Zsolt 119,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogyan tartja tisztán az ifjú útjait? Ha követi tanításodat."
+            },
+            {
+                "hely": {
+                    "gepi": 12111901000,
+                    "szep": "Zsolt 119,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egész szívemből kereslek téged, ne hagyj parancsaidtól eltávolodnom!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111901100,
+                    "szep": "Zsolt 119,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szívembe rejtem szavaidat, nehogy vétkezzem ellened."
+            },
+            {
+                "hely": {
+                    "gepi": 12111901200,
+                    "szep": "Zsolt 119,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Légy áldott, Uram, s taníts meg törvényeidre!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111901300,
+                    "szep": "Zsolt 119,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ajkammal hirdetni fogom szádnak minden szavát."
+            },
+            {
+                "hely": {
+                    "gepi": 12111901400,
+                    "szep": "Zsolt 119,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "A tőled megszabott úton találom örömöm, inkább, mint ha bőségben volna részem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111901500,
+                    "szep": "Zsolt 119,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fontolóra veszem törvényeid, és elmélkedem útjaidon."
+            },
+            {
+                "hely": {
+                    "gepi": 12111901600,
+                    "szep": "Zsolt 119,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Útmutatásaid örömömre vannak, szavaidról soha el nem feledkezem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111901700,
+                    "szep": "Zsolt 119,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gyakorolj kegyet szolgáddal s élni fogok, és követem tanításodat."
+            },
+            {
+                "hely": {
+                    "gepi": 12111901800,
+                    "szep": "Zsolt 119,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyisd meg a szememet, hogy meglássam törvényeid csodálatosságát."
+            },
+            {
+                "hely": {
+                    "gepi": 12111901900,
+                    "szep": "Zsolt 119,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Idegen vagyok a földön, ne rejtsd el előlem parancsaidat."
+            },
+            {
+                "hely": {
+                    "gepi": 12111902000,
+                    "szep": "Zsolt 119,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkem eleped a vágytól, mert folyvást törvényed után vágyakozik."
+            },
+            {
+                "hely": {
+                    "gepi": 12111902100,
+                    "szep": "Zsolt 119,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te megfenyegetted a kevélyt; akik eltérnek parancsaidtól, azokat mind átok terheli."
+            },
+            {
+                "hely": {
+                    "gepi": 12111902200,
+                    "szep": "Zsolt 119,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vedd le rólam a megvetést és a gyalázatot, hiszen követem utasításodat."
+            },
+            {
+                "hely": {
+                    "gepi": 12111902300,
+                    "szep": "Zsolt 119,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hatalmaskodók ülnek össze és elmarasztalnak, de szolgád törvényedről elmélkedik."
+            },
+            {
+                "hely": {
+                    "gepi": 12111902400,
+                    "szep": "Zsolt 119,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizonyságaid örömömre vannak, útmutatásod a tanácsadóm."
+            },
+            {
+                "hely": {
+                    "gepi": 12111902500,
+                    "szep": "Zsolt 119,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkem a porban hever, szavadhoz híven önts belém életet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111902600,
+                    "szep": "Zsolt 119,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "Feltártam előtted útjaimat, s te meghallgattál, taníts meg törvényeidre!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111902700,
+                    "szep": "Zsolt 119,27"
+                },
+                "jegyzetek": [],
+                "szoveg": "Értesd meg velem döntéseid útját, s én odaadón fürkészem csodáidat."
+            },
+            {
+                "hely": {
+                    "gepi": 12111902800,
+                    "szep": "Zsolt 119,28"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gond könnyeket fakaszt lelkemből, szavaddal emelj föl engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111902900,
+                    "szep": "Zsolt 119,29"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tarts távol a hazugság útjától, add meg nekem törvényed kegyelmét!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111903000,
+                    "szep": "Zsolt 119,30"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igazságod útját választottam, útmutatásod után kívánkozom."
+            },
+            {
+                "hely": {
+                    "gepi": 12111903100,
+                    "szep": "Zsolt 119,31"
+                },
+                "jegyzetek": [],
+                "szoveg": "Alkalmazkodom parancsodhoz, Uram, ne engedd, hogy szégyent valljak!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111903200,
+                    "szep": "Zsolt 119,32"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rendelkezéseid útján akarok haladni, hiszen szívemet kitágítottad."
+            },
+            {
+                "hely": {
+                    "gepi": 12111903300,
+                    "szep": "Zsolt 119,33"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mutasd meg, Uram, parancsaid útját, annak követésében legyen a jutalmam."
+            },
+            {
+                "hely": {
+                    "gepi": 12111903400,
+                    "szep": "Zsolt 119,34"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adj értelmet, hogy megtartsam törvényedet, s kövessem egész szívemből!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111903500,
+                    "szep": "Zsolt 119,35"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vezess az úton, amelyet te szabtál, mert tetszik nekem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111903600,
+                    "szep": "Zsolt 119,36"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szívem a te bizonyságaidhoz vonzódjék, ne a hitvány nyereséghez!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111903700,
+                    "szep": "Zsolt 119,37"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fordítsd el a szemem, ne lássa a hiábavalót; szavad által adj nekem életet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111903800,
+                    "szep": "Zsolt 119,38"
+                },
+                "jegyzetek": [],
+                "szoveg": "Váltsd valóra, amit szolgádnak ígértél, amit azoknak mondtál, akik félnek téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12111903900,
+                    "szep": "Zsolt 119,39"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gyalázatot, amitől félek, tartsd távol tőlem, és végzéseid tegyenek vidámmá!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111904000,
+                    "szep": "Zsolt 119,40"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lám, törvényed után vágyakozom, s mivel igaz vagy, adj nekem életet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111904100,
+                    "szep": "Zsolt 119,41"
+                },
+                "jegyzetek": [],
+                "szoveg": "Irgalmad lebegjen fölöttem, Uram, segítséged, amit megígértél."
+            },
+            {
+                "hely": {
+                    "gepi": 12111904200,
+                    "szep": "Zsolt 119,42"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szembeszállok gúnyolóimmal, mert bízom a szavadban."
+            },
+            {
+                "hely": {
+                    "gepi": 12111904300,
+                    "szep": "Zsolt 119,43"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne vond meg számtól az igazság szavát, mert útmutatásodra hagyatkozom."
+            },
+            {
+                "hely": {
+                    "gepi": 12111904400,
+                    "szep": "Zsolt 119,44"
+                },
+                "jegyzetek": [],
+                "szoveg": "Törvényedet akarom mindig követni, mindenkor és mindörökre."
+            },
+            {
+                "hely": {
+                    "gepi": 12111904500,
+                    "szep": "Zsolt 119,45"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor széles úton járhatok, hiszen parancsaid megtartásán fáradozom."
+            },
+            {
+                "hely": {
+                    "gepi": 12111904600,
+                    "szep": "Zsolt 119,46"
+                },
+                "jegyzetek": [],
+                "szoveg": "Királyok előtt hirdetem végzéseid, és nem vallok szégyent soha."
+            },
+            {
+                "hely": {
+                    "gepi": 12111904700,
+                    "szep": "Zsolt 119,47"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igen, intézkedéseidben örömöm telik, és szívből szeretem őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12111904800,
+                    "szep": "Zsolt 119,48"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kezemet kitárom törvényed felé, és parancsaidról elmélkedem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111904900,
+                    "szep": "Zsolt 119,49"
+                },
+                "jegyzetek": [],
+                "szoveg": "Juttasd eszébe szolgádnak szavadat, amellyel reményt adtál nekem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111905000,
+                    "szep": "Zsolt 119,50"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az vigasztal a szomorúságban, hogy szavad életet önt belém."
+            },
+            {
+                "hely": {
+                    "gepi": 12111905100,
+                    "szep": "Zsolt 119,51"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gőgösek hevesen támadnak, de én nem tágítok törvényedtől."
+            },
+            {
+                "hely": {
+                    "gepi": 12111905200,
+                    "szep": "Zsolt 119,52"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha az ősi napokban hozott végzésedre gondolok, akkor megvigasztalódom, Uram!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111905300,
+                    "szep": "Zsolt 119,53"
+                },
+                "jegyzetek": [],
+                "szoveg": "Haragra gerjedek a bűnösök miatt, akik áthágják parancsaidat."
+            },
+            {
+                "hely": {
+                    "gepi": 12111905400,
+                    "szep": "Zsolt 119,54"
+                },
+                "jegyzetek": [],
+                "szoveg": "Utasításod olyan nekem, mint az ének, zarándokságom házában."
+            },
+            {
+                "hely": {
+                    "gepi": 12111905500,
+                    "szep": "Zsolt 119,55"
+                },
+                "jegyzetek": [],
+                "szoveg": "Éjjel megemlékezem nevedről, Uram, és megtartom törvényedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12111905600,
+                    "szep": "Zsolt 119,56"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az a feladatom, hogy kövessem, amit parancsoltál."
+            },
+            {
+                "hely": {
+                    "gepi": 12111905700,
+                    "szep": "Zsolt 119,57"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kijelentem, Uram: az az osztályrészem, hogy engedelmeskedjem szavadnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12111905800,
+                    "szep": "Zsolt 119,58"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szívből fohászkodom színed előtt, könyörülj rajtam, ahogy megígérted."
+            },
+            {
+                "hely": {
+                    "gepi": 12111905900,
+                    "szep": "Zsolt 119,59"
+                },
+                "jegyzetek": [],
+                "szoveg": "Átgondoltam útjaimat, lábam parancsaid szerint irányítottam."
+            },
+            {
+                "hely": {
+                    "gepi": 12111906000,
+                    "szep": "Zsolt 119,60"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sietek, nem késlekedem, hogy utasításodnak eleget tegyek."
+            },
+            {
+                "hely": {
+                    "gepi": 12111906100,
+                    "szep": "Zsolt 119,61"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gonoszok csapdája meg akart fogni, törvényedet mégsem felejtem el."
+            },
+            {
+                "hely": {
+                    "gepi": 12111906200,
+                    "szep": "Zsolt 119,62"
+                },
+                "jegyzetek": [],
+                "szoveg": "Még éjszaka is fölkelek, hogy áldjalak igaz végzésedért."
+            },
+            {
+                "hely": {
+                    "gepi": 12111906300,
+                    "szep": "Zsolt 119,63"
+                },
+                "jegyzetek": [],
+                "szoveg": "Barátja vagyok mindazoknak, akik félnek téged, mindazoknak, akik követik parancsaidat."
+            },
+            {
+                "hely": {
+                    "gepi": 12111906400,
+                    "szep": "Zsolt 119,64"
+                },
+                "jegyzetek": [],
+                "szoveg": "A föld tele van jóságoddal, taníts meg, Uram, törvényedre!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111906500,
+                    "szep": "Zsolt 119,65"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jót tettél szolgáddal szavad szerint, Uram!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111906600,
+                    "szep": "Zsolt 119,66"
+                },
+                "jegyzetek": [],
+                "szoveg": "Taníts okosságra és józan belátásra, hiszen törvényeidre építek."
+            },
+            {
+                "hely": {
+                    "gepi": 12111906700,
+                    "szep": "Zsolt 119,67"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mielőtt csapás ért, tévelyegtem, de most már követem irányításodat."
+            },
+            {
+                "hely": {
+                    "gepi": 12111906800,
+                    "szep": "Zsolt 119,68"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te jó vagy és jót osztogatsz. Taníts meg az általad szabott rendre!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111906900,
+                    "szep": "Zsolt 119,69"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gőgösek hazugságot agyalnak ki ellenem, de én szívből megtartom parancsodat."
+            },
+            {
+                "hely": {
+                    "gepi": 12111907000,
+                    "szep": "Zsolt 119,70"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szívük érzéketlenné vált a jóléttől, ám én törvényedben találom örömöm."
+            },
+            {
+                "hely": {
+                    "gepi": 12111907100,
+                    "szep": "Zsolt 119,71"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jó nekem, hogy szorongattatás ért, mert így megtanultam végzéseidet."
+            },
+            {
+                "hely": {
+                    "gepi": 12111907200,
+                    "szep": "Zsolt 119,72"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kedvesebb nekem szádnak törvénye, mint ezüstnek, aranynak minden gazdagsága."
+            },
+            {
+                "hely": {
+                    "gepi": 12111907300,
+                    "szep": "Zsolt 119,73"
+                },
+                "jegyzetek": [],
+                "szoveg": "A te kezed teremtett és alkotott, adj nekem értelmet, hogy megértsem parancsaid."
+            },
+            {
+                "hely": {
+                    "gepi": 12111907400,
+                    "szep": "Zsolt 119,74"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örömmel néznek rám, akik félnek téged, mivel szavadra hagyatkozom."
+            },
+            {
+                "hely": {
+                    "gepi": 12111907500,
+                    "szep": "Zsolt 119,75"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megismertem, Uram, hogy végzésed igaz, s engem is jogosan aláztál meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12111907600,
+                    "szep": "Zsolt 119,76"
+                },
+                "jegyzetek": [],
+                "szoveg": "Éreztesd irgalmad vigasztalásomra, így ígérted ezt meg szolgádnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12111907700,
+                    "szep": "Zsolt 119,77"
+                },
+                "jegyzetek": [],
+                "szoveg": "Irgalmad lebegjen fölöttem, hogy éljek, hiszen törvényed gyönyörűség nekem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111907800,
+                    "szep": "Zsolt 119,78"
+                },
+                "jegyzetek": [],
+                "szoveg": "Érje szégyen a gőgösöket, akik jogtalanul elnyomnak, ám én törvényedhez igazodom."
+            },
+            {
+                "hely": {
+                    "gepi": 12111907900,
+                    "szep": "Zsolt 119,79"
+                },
+                "jegyzetek": [],
+                "szoveg": "Álljanak mellém, akik félnek téged, akik tekintettel vannak parancsaidra."
+            },
+            {
+                "hely": {
+                    "gepi": 12111908000,
+                    "szep": "Zsolt 119,80"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szívem tartson ki hűen végzéseid mellett, akkor nem vallok szégyent sohasem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111908100,
+                    "szep": "Zsolt 119,81"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkem sóvárogja segítségedet és szavadban bizakodom."
+            },
+            {
+                "hely": {
+                    "gepi": 12111908200,
+                    "szep": "Zsolt 119,82"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szemem eped ígéreted után; mikor vigasztalsz meg?"
+            },
+            {
+                "hely": {
+                    "gepi": 12111908300,
+                    "szep": "Zsolt 119,83"
+                },
+                "jegyzetek": [],
+                "szoveg": "Olyan lettem, mint aszott tömlő a füstben, de rendelkezéseid nem hagyom el."
+            },
+            {
+                "hely": {
+                    "gepi": 12111908400,
+                    "szep": "Zsolt 119,84"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meddig kell még szolgádnak várnia, mikor ítélkezel üldözőim felett?"
+            },
+            {
+                "hely": {
+                    "gepi": 12111908500,
+                    "szep": "Zsolt 119,85"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gőgösek vermet ásnak nekem, azok, akik nem élnek törvényeid szerint."
+            },
+            {
+                "hely": {
+                    "gepi": 12111908600,
+                    "szep": "Zsolt 119,86"
+                },
+                "jegyzetek": [],
+                "szoveg": "Parancsaid mind igazak, segíts azok ellen, akik álnokul üldöznek."
+            },
+            {
+                "hely": {
+                    "gepi": 12111908700,
+                    "szep": "Zsolt 119,87"
+                },
+                "jegyzetek": [],
+                "szoveg": "Majdnem eltöröltek a föld színéről, de nem tágítottam törvényeidtől."
+            },
+            {
+                "hely": {
+                    "gepi": 12111908800,
+                    "szep": "Zsolt 119,88"
+                },
+                "jegyzetek": [],
+                "szoveg": "Irgalmadból újjáéledek, s megtartom szád bizonyságait."
+            },
+            {
+                "hely": {
+                    "gepi": 12111908900,
+                    "szep": "Zsolt 119,89"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, a szavad örökké megmarad, szilárd, mint az ég dicsősége."
+            },
+            {
+                "hely": {
+                    "gepi": 12111909000,
+                    "szep": "Zsolt 119,90"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hűséged nemzedékről nemzedékre száll, te alkottad a földet, és az megmarad."
+            },
+            {
+                "hely": {
+                    "gepi": 12111909100,
+                    "szep": "Zsolt 119,91"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rendelésed szerint minden időkre fennáll, és neked szolgál a mindenség."
+            },
+            {
+                "hely": {
+                    "gepi": 12111909200,
+                    "szep": "Zsolt 119,92"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha törvényed nem volna gyönyörűségem, elmerülnék a nyomorban."
+            },
+            {
+                "hely": {
+                    "gepi": 12111909300,
+                    "szep": "Zsolt 119,93"
+                },
+                "jegyzetek": [],
+                "szoveg": "Soha nem feledkezem el parancsaidról, hiszen életet adtál általuk."
+            },
+            {
+                "hely": {
+                    "gepi": 12111909400,
+                    "szep": "Zsolt 119,94"
+                },
+                "jegyzetek": [],
+                "szoveg": "A tied vagyok, adj nekem szabadulást, mivel fürkészem végzéseid."
+            },
+            {
+                "hely": {
+                    "gepi": 12111909500,
+                    "szep": "Zsolt 119,95"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bűnösök leskelődtek, hogy elveszítsenek, de én törvényeidre gondoltam."
+            },
+            {
+                "hely": {
+                    "gepi": 12111909600,
+                    "szep": "Zsolt 119,96"
+                },
+                "jegyzetek": [],
+                "szoveg": "Minden nagyságnak láttam a végét, de parancsod átnyúlik a messze végtelenbe."
+            },
+            {
+                "hely": {
+                    "gepi": 12111909700,
+                    "szep": "Zsolt 119,97"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mennyire szeretem törvényedet, egész nap szemem előtt lebeg."
+            },
+            {
+                "hely": {
+                    "gepi": 12111909800,
+                    "szep": "Zsolt 119,98"
+                },
+                "jegyzetek": [],
+                "szoveg": "Parancsod bölcsebbé tesz ellenségemnél, és mindig velem jár."
+            },
+            {
+                "hely": {
+                    "gepi": 12111909900,
+                    "szep": "Zsolt 119,99"
+                },
+                "jegyzetek": [],
+                "szoveg": "Okosabb lettem, mint összes tanítóm, mert arról elmélkedem, amire te oktatsz."
+            },
+            {
+                "hely": {
+                    "gepi": 12111910000,
+                    "szep": "Zsolt 119,100"
+                },
+                "jegyzetek": [],
+                "szoveg": "Több értelmet kaptam, mint az aggastyánok, mert azt követem, amit te előírsz."
+            },
+            {
+                "hely": {
+                    "gepi": 12111910100,
+                    "szep": "Zsolt 119,101"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tartsd távol lábamat a gonosz utaktól, hogy megtarthassam szavad."
+            },
+            {
+                "hely": {
+                    "gepi": 12111910200,
+                    "szep": "Zsolt 119,102"
+                },
+                "jegyzetek": [],
+                "szoveg": "Végzéseidből semmit el nem hagyok, mert magad tanítottál rájuk."
+            },
+            {
+                "hely": {
+                    "gepi": 12111910300,
+                    "szep": "Zsolt 119,103"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kijelentéseid édesek ínyemnek, számnak méznél édesebbek."
+            },
+            {
+                "hely": {
+                    "gepi": 12111910400,
+                    "szep": "Zsolt 119,104"
+                },
+                "jegyzetek": [],
+                "szoveg": "Útmutatásod belátásra segít, azért gyűlölöm a hamisság útjait."
+            },
+            {
+                "hely": {
+                    "gepi": 12111910500,
+                    "szep": "Zsolt 119,105"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szavad fáklya a lábam elé, világosság az utamon."
+            },
+            {
+                "hely": {
+                    "gepi": 12111910600,
+                    "szep": "Zsolt 119,106"
+                },
+                "jegyzetek": [],
+                "szoveg": "Esküt tettem és megtartom, s követem, amit elrendeltél."
+            },
+            {
+                "hely": {
+                    "gepi": 12111910700,
+                    "szep": "Zsolt 119,107"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mennyire megtört vagyok, Uram! Tarts életben, amint megígérte szavad."
+            },
+            {
+                "hely": {
+                    "gepi": 12111910800,
+                    "szep": "Zsolt 119,108"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fogadd tetszéssel ajkam áldozatát, és taníts meg parancsaidra."
+            },
+            {
+                "hely": {
+                    "gepi": 12111910900,
+                    "szep": "Zsolt 119,109"
+                },
+                "jegyzetek": [],
+                "szoveg": "Életem mindenkor teli van veszéllyel, de törvényeidről meg nem feledkezem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111911000,
+                    "szep": "Zsolt 119,110"
+                },
+                "jegyzetek": [],
+                "szoveg": "A bűnösök csapdát állítottak nekem, de törvényedtől akkor sem tértem el."
+            },
+            {
+                "hely": {
+                    "gepi": 12111911100,
+                    "szep": "Zsolt 119,111"
+                },
+                "jegyzetek": [],
+                "szoveg": "Végzésed az örökségem és szívemnek örökre gyönyörűsége."
+            },
+            {
+                "hely": {
+                    "gepi": 12111911200,
+                    "szep": "Zsolt 119,112"
+                },
+                "jegyzetek": [],
+                "szoveg": "Késztetem a szívem, hogy törvényedből éljen, hűségben mindörökre."
+            },
+            {
+                "hely": {
+                    "gepi": 12111911300,
+                    "szep": "Zsolt 119,113"
+                },
+                "jegyzetek": [],
+                "szoveg": "A megosztott szívtől irtózom, törvényedet szeretem egyedül."
+            },
+            {
+                "hely": {
+                    "gepi": 12111911400,
+                    "szep": "Zsolt 119,114"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te vagy védelmezőm, te vagy a pajzsom, szavadban megbízhatom."
+            },
+            {
+                "hely": {
+                    "gepi": 12111911500,
+                    "szep": "Zsolt 119,115"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gonosztevők, hátráljatok! Én megtartom Istenem parancsát."
+            },
+            {
+                "hely": {
+                    "gepi": 12111911600,
+                    "szep": "Zsolt 119,116"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fogadj el engem ígéreted szerint, akkor élni fogok! Ne engedd, hogy csalódjam reményemben,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111911700,
+                    "szep": "Zsolt 119,117"
+                },
+                "jegyzetek": [],
+                "szoveg": "siess segítségemre, akkor megmenekülök, és intézkedéseidre figyelni fogok."
+            },
+            {
+                "hely": {
+                    "gepi": 12111911800,
+                    "szep": "Zsolt 119,118"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akik elfordulnak törvényedtől, azokat elveted, mert minden törekvésük csalás."
+            },
+            {
+                "hely": {
+                    "gepi": 12111911900,
+                    "szep": "Zsolt 119,119"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gonosztevőket mint salakot kiszórod, azért szeretem parancsaidat."
+            },
+            {
+                "hely": {
+                    "gepi": 12111912000,
+                    "szep": "Zsolt 119,120"
+                },
+                "jegyzetek": [],
+                "szoveg": "Testem remeg előtted a félelemtől, reszketve nézem ítéletedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12111912100,
+                    "szep": "Zsolt 119,121"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ami jogos és igazságos, azt követem, ne szolgáltass ki elnyomóimnak!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111912200,
+                    "szep": "Zsolt 119,122"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vállalj kezességet szívesen szolgádért, hogy a kevélyek le ne győzzenek."
+            },
+            {
+                "hely": {
+                    "gepi": 12111912300,
+                    "szep": "Zsolt 119,123"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szemem vágyódva fürkészi segítségedet, az igazságosságot, amelyet ígértél."
+            },
+            {
+                "hely": {
+                    "gepi": 12111912400,
+                    "szep": "Zsolt 119,124"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bánj szolgáddal irgalmad szerint, és taníts meg parancsaidra!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111912500,
+                    "szep": "Zsolt 119,125"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szolgád vagyok, oktass engem, hogy megismerjem útjaidat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111912600,
+                    "szep": "Zsolt 119,126"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, eljött a tettek ideje, hiszen megszegték törvényedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12111912700,
+                    "szep": "Zsolt 119,127"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azért parancsaidat többre tartom az aranynál, kedvesebbek nekem, mint a színarany."
+            },
+            {
+                "hely": {
+                    "gepi": 12111912800,
+                    "szep": "Zsolt 119,128"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mindenben igazodom utasításodhoz, és irtózom minden hamis úttól."
+            },
+            {
+                "hely": {
+                    "gepi": 12111912900,
+                    "szep": "Zsolt 119,129"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rendelkezéseid csodálatosak, azért lelkem megtartja őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12111913000,
+                    "szep": "Zsolt 119,130"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szavaid fénye világít, és tanítja a tudatlanokat."
+            },
+            {
+                "hely": {
+                    "gepi": 12111913100,
+                    "szep": "Zsolt 119,131"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sóvárogva nyitom ki számat, parancsaid után kívánkozom."
+            },
+            {
+                "hely": {
+                    "gepi": 12111913200,
+                    "szep": "Zsolt 119,132"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fordulj felém és könyörülj rajtam, ahogy azokkal bánsz, akik tisztelik neved."
+            },
+            {
+                "hely": {
+                    "gepi": 12111913300,
+                    "szep": "Zsolt 119,133"
+                },
+                "jegyzetek": [],
+                "szoveg": "Irányítsd léptemet ígéreted szerint, hogy a bűnnek ne legyen hatalma felettem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111913400,
+                    "szep": "Zsolt 119,134"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szabadíts meg az emberek elnyomásától, s követni fogom útmutatásodat."
+            },
+            {
+                "hely": {
+                    "gepi": 12111913500,
+                    "szep": "Zsolt 119,135"
+                },
+                "jegyzetek": [],
+                "szoveg": "Derítsd fel arcodat szolgád felett, és taníts meg minden végzésedre."
+            },
+            {
+                "hely": {
+                    "gepi": 12111913600,
+                    "szep": "Zsolt 119,136"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szememből könnyek patakja árad, mivel sokan nem tartják meg törvényedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12111913700,
+                    "szep": "Zsolt 119,137"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igazságos vagy, Uram, igazak végzéseid!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111913800,
+                    "szep": "Zsolt 119,138"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igazságosságban és teljes hűségben nyilvánítod ki parancsaidat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111913900,
+                    "szep": "Zsolt 119,139"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emészt a buzgóság házadért, mert ellenségeid feledik szavadat."
+            },
+            {
+                "hely": {
+                    "gepi": 12111914000,
+                    "szep": "Zsolt 119,140"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kijelentésed tiszta és igaz, azért kedves szolgád szemében."
+            },
+            {
+                "hely": {
+                    "gepi": 12111914100,
+                    "szep": "Zsolt 119,141"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bár kicsi vagyok és lenézett, törvényeidet mégsem felejtem el."
+            },
+            {
+                "hely": {
+                    "gepi": 12111914200,
+                    "szep": "Zsolt 119,142"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jogod örök érvényű jog, utasításod maga az igazság."
+            },
+            {
+                "hely": {
+                    "gepi": 12111914300,
+                    "szep": "Zsolt 119,143"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szomorúság és szükség látogatott meg, törvényed mégis gyönyörűségem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111914400,
+                    "szep": "Zsolt 119,144"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizonyságod mindörökre igaz, taníts meg rá, és élni fogok."
+            },
+            {
+                "hely": {
+                    "gepi": 12111914500,
+                    "szep": "Zsolt 119,145"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egész szívemből szólítalak, Uram, hallgass meg! Az utat, amelyre tanítasz, azt fogom követni."
+            },
+            {
+                "hely": {
+                    "gepi": 12111914600,
+                    "szep": "Zsolt 119,146"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hozzád kiáltok, adj szabadulást, s megtartom parancsaidat."
+            },
+            {
+                "hely": {
+                    "gepi": 12111914700,
+                    "szep": "Zsolt 119,147"
+                },
+                "jegyzetek": [],
+                "szoveg": "Korán reggel jövök segítségért, és várok szavaidra."
+            },
+            {
+                "hely": {
+                    "gepi": 12111914800,
+                    "szep": "Zsolt 119,148"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szemem már az éjjeli őrség előtt ébred, hogy megfontoljam tanításod szavát."
+            },
+            {
+                "hely": {
+                    "gepi": 12111914900,
+                    "szep": "Zsolt 119,149"
+                },
+                "jegyzetek": [],
+                "szoveg": "Halld meg hangomat, Uram, irgalmad szerint, s ahogy megígérted, adj nekem életet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111915000,
+                    "szep": "Zsolt 119,150"
+                },
+                "jegyzetek": [],
+                "szoveg": "Közelednek, akik álnokul üldöznek, s törvényeidtől nagyon távol állnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12111915100,
+                    "szep": "Zsolt 119,151"
+                },
+                "jegyzetek": [],
+                "szoveg": "De te közel vagy, Uram, s minden szavad igazság."
+            },
+            {
+                "hely": {
+                    "gepi": 12111915200,
+                    "szep": "Zsolt 119,152"
+                },
+                "jegyzetek": [],
+                "szoveg": "Parancsaidat már régóta ismerem, örök időkre hirdetted ki őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12111915300,
+                    "szep": "Zsolt 119,153"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tekints nyomorúságomra és ments meg, hisz nem feledkeztem meg törvényeidről."
+            },
+            {
+                "hely": {
+                    "gepi": 12111915400,
+                    "szep": "Zsolt 119,154"
+                },
+                "jegyzetek": [],
+                "szoveg": "Képviseld ügyemet és szabadíts meg, ígéreted szerint adj nekem életet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111915500,
+                    "szep": "Zsolt 119,155"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gonoszoktól messze a szabadulás, mert nem keresik tetszésedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12111915600,
+                    "szep": "Zsolt 119,156"
+                },
+                "jegyzetek": [],
+                "szoveg": "Irgalmad irántunk nagyon bőkezű, Uram, végzésed szerint adj nekem életet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111915700,
+                    "szep": "Zsolt 119,157"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sokan üldöznek és szorongatnak, de törvényed mellől nem tágítok."
+            },
+            {
+                "hely": {
+                    "gepi": 12111915800,
+                    "szep": "Zsolt 119,158"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gonoszokat nézem és megborzadok, mert egyáltalán nem nézik szavad."
+            },
+            {
+                "hely": {
+                    "gepi": 12111915900,
+                    "szep": "Zsolt 119,159"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nézd, Uram, én szeretem parancsaidat, ezért irgalmadban tartsd meg életem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111916000,
+                    "szep": "Zsolt 119,160"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szavaid eleje és vége igazság, igaz ítéleted örökre érvényes."
+            },
+            {
+                "hely": {
+                    "gepi": 12111916100,
+                    "szep": "Zsolt 119,161"
+                },
+                "jegyzetek": [],
+                "szoveg": "A fejedelmek ok nélkül üldöznek, de szívem csak a te szavadat féli."
+            },
+            {
+                "hely": {
+                    "gepi": 12111916200,
+                    "szep": "Zsolt 119,162"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ígéreteidnek úgy örülök, mint aki gazdag zsákmányhoz jutott."
+            },
+            {
+                "hely": {
+                    "gepi": 12111916300,
+                    "szep": "Zsolt 119,163"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gyűlölöm a bűnt és irtózom tőle, de törvényedet szeretem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111916400,
+                    "szep": "Zsolt 119,164"
+                },
+                "jegyzetek": [],
+                "szoveg": "Napjában hétszer zengem dicséreted, mert rendelkezéseid mind jogosak."
+            },
+            {
+                "hely": {
+                    "gepi": 12111916500,
+                    "szep": "Zsolt 119,165"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akik szeretik törvényedet, azoké a béke teljessége, azért soha el nem buknak."
+            },
+            {
+                "hely": {
+                    "gepi": 12111916600,
+                    "szep": "Zsolt 119,166"
+                },
+                "jegyzetek": [],
+                "szoveg": "Várom segítségedet, Uram, tégy hát, ahogy megígérted."
+            },
+            {
+                "hely": {
+                    "gepi": 12111916700,
+                    "szep": "Zsolt 119,167"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkem követi útmutatásodat, hisz azt mindennél jobban szeretem."
+            },
+            {
+                "hely": {
+                    "gepi": 12111916800,
+                    "szep": "Zsolt 119,168"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megtartom tanításodat és parancsaidat, útjaim színed előtt vannak."
+            },
+            {
+                "hely": {
+                    "gepi": 12111916900,
+                    "szep": "Zsolt 119,169"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kiáltásom jusson eléd, Uram, szavad szerint taníts engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111917000,
+                    "szep": "Zsolt 119,170"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörgésem jusson el hozzád, szabadíts meg ígéreted szerint."
+            },
+            {
+                "hely": {
+                    "gepi": 12111917100,
+                    "szep": "Zsolt 119,171"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ajkam zengjen dicsérő éneket, mivel megtanítasz törvényedre."
+            },
+            {
+                "hely": {
+                    "gepi": 12111917200,
+                    "szep": "Zsolt 119,172"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyelvem dicsőítse a szavadat, hisz minden parancsod jogos."
+            },
+            {
+                "hely": {
+                    "gepi": 12111917300,
+                    "szep": "Zsolt 119,173"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyújtsd ki kezedet segítségemre, mivel törvényedet választottam."
+            },
+            {
+                "hely": {
+                    "gepi": 12111917400,
+                    "szep": "Zsolt 119,174"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, hozzád esengek szabadulásért, mert törvényed örömömre van."
+            },
+            {
+                "hely": {
+                    "gepi": 12111917500,
+                    "szep": "Zsolt 119,175"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak éljen a lelkem és áldjon téged, és utasításaid segítsenek engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111917600,
+                    "szep": "Zsolt 119,176"
+                },
+                "jegyzetek": [],
+                "szoveg": "Eltévedtem, mint a bárány, mely útját vesztette. Keresd meg szolgádat, hiszen nem feledkeztem meg törvényeidről!"
+            }
+        ]
+    }
+}

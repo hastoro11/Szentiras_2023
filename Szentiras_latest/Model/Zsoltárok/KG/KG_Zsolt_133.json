@@ -1,0 +1,47 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 133"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113300000,
+                    "szep": "Zsolt 133,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Grádicsok éneke Dávidtól."
+            },
+            {
+                "hely": {
+                    "gepi": 12113300100,
+                    "szep": "Zsolt 133,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ímé, mily jó és mily gyönyörűséges, a mikor együtt lakoznak az atyafiak!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113300200,
+                    "szep": "Zsolt 133,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mint a drága olaj a fejen, a mely aláfoly a szakállon, az Áron szakállán; a mely lefoly köntöse prémjére;"
+            },
+            {
+                "hely": {
+                    "gepi": 12113300300,
+                    "szep": "Zsolt 133,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mint a Hermon harmatja, a mely leszáll Sion hegyeire. Csak oda küld áldást az Úr és életet örökké!"
+            }
+        ]
+    }
+}

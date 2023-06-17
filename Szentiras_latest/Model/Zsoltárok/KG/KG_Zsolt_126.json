@@ -1,0 +1,71 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 126"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112600000,
+                    "szep": "Zsolt 126,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Grádicsok éneke."
+            },
+            {
+                "hely": {
+                    "gepi": 12112600100,
+                    "szep": "Zsolt 126,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mikor visszahozta az Úr Sionnak foglyait, olyanok voltunk, mint az álmodók."
+            },
+            {
+                "hely": {
+                    "gepi": 12112600200,
+                    "szep": "Zsolt 126,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor megtelt a szánk nevetéssel, nyelvünk pedig vígadozással. Akkor így szóltak a pogányok: Hatalmasan cselekedett ezekkel az Úr!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112600300,
+                    "szep": "Zsolt 126,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hatalmasan cselekedett velünk az Úr, azért örvendezünk."
+            },
+            {
+                "hely": {
+                    "gepi": 12112600400,
+                    "szep": "Zsolt 126,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hozd vissza, Uram, a mi foglyainkat, mint patakokat a déli földön!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112600500,
+                    "szep": "Zsolt 126,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A kik könyhullatással vetnek, vígadozással aratnak majd."
+            },
+            {
+                "hely": {
+                    "gepi": 12112600600,
+                    "szep": "Zsolt 126,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki vetőmagját sírva emelve megy tova, vígadozással jő elő, kévéit emelve."
+            }
+        ]
+    }
+}

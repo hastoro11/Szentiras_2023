@@ -1,0 +1,81 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 53"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105300000,
+                    "szep": "Zsolt 53,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. Zsolt 14, amely gyakorlatilag azonos ezzel."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. A »Mahálát« szerint. Maszkíl Dávidtól.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12105300100,
+                    "szep": "Zsolt 53,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így szól szívében az esztelen: »Nincs Isten.« Romlottak lettek és utálatosságokat művelnek,<br>nincs, aki jót cselekedne."
+            },
+            {
+                "hely": {
+                    "gepi": 12105300200,
+                    "szep": "Zsolt 53,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lenéz Isten a mennyből az emberek fiaira,<br>hogy lássa: van-e még okos, aki Istenre gondol?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105300300,
+                    "szep": "Zsolt 53,3"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Javítva a görög szöveg és az arám fordítás alapján; vö. a 14,3."
+                    }
+                ],
+                "szoveg": "Elfordultak mindannyian,<br>megromlottak valamennyien;<br>Nincs, aki jót cselekedne,<br>nincs egyetlen egy sem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105300400,
+                    "szep": "Zsolt 53,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nemde mind értelmetlenek, akik gonoszat tesznek,<br>s fölfalják népemet, mint a kenyeret?<br>Nem hívják segítségül Istent,"
+            },
+            {
+                "hely": {
+                    "gepi": 12105300500,
+                    "szep": "Zsolt 53,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "és ott remegnek és félnek, ahol félni nem kell.<br>Mert Isten szétszórta azoknak a csontjait,<br>akik téged szorongattak,<br>szégyenbe jutottak, mert Isten elvetette őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12105300600,
+                    "szep": "Zsolt 53,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bárcsak eljönne Izrael segítsége Sionból!<br>Ha majd Isten jóra fordítja népe sorsát,<br>ujjong majd Jákob és örvendezik majd Izrael."
+            }
+        ]
+    }
+}

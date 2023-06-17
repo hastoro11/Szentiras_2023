@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 67"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106700000,
+                    "szep": "Zsolt 67,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Húros hangszerre. Zsoltárének."
+            },
+            {
+                "hely": {
+                    "gepi": 12106700100,
+                    "szep": "Zsolt 67,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Legyen kegyelmes hozzánk az Isten, áldjon meg bennünket, és ragyogtassa ránk orcáját! (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12106700200,
+                    "szep": "Zsolt 67,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ismerjék meg utadat a földön, szabadításodat a népek között!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106700300,
+                    "szep": "Zsolt 67,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljanak a népek, ó, Isten, magasztaljon minden nép!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106700400,
+                    "szep": "Zsolt 67,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örüljenek, ujjongjanak a nemzetek, mert pártatlanul ítéled a népeket, és vezeted a nemzeteket a földön. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12106700500,
+                    "szep": "Zsolt 67,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljanak a népek, ó, Isten, magasztaljon minden nép!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106700600,
+                    "szep": "Zsolt 67,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meghozta termését a föld, megáld bennünket Istenünk, az Isten."
+            },
+            {
+                "hely": {
+                    "gepi": 12106700700,
+                    "szep": "Zsolt 67,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megáld bennünket az Isten, féljék őt mindenütt a földön!"
+            }
+        ]
+    }
+}

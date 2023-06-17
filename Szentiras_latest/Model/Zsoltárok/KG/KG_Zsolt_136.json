@@ -1,0 +1,223 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 136"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113600100,
+                    "szep": "Zsolt 136,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljátok az Urat, mert jó; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600200,
+                    "szep": "Zsolt 136,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljátok az istenek Istenét; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600300,
+                    "szep": "Zsolt 136,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljátok az uraknak Urát; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600400,
+                    "szep": "Zsolt 136,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki nagy csodákat művel egyedül; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600500,
+                    "szep": "Zsolt 136,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki teremtette az egeket bölcseséggel; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600600,
+                    "szep": "Zsolt 136,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki kiterjesztette a földet a vizek fölé; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600700,
+                    "szep": "Zsolt 136,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki teremtette a nagy világító testeket; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600800,
+                    "szep": "Zsolt 136,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "A napot, hogy uralkodjék nappal; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600900,
+                    "szep": "Zsolt 136,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "A holdat és csillagokat, hogy uralkodjanak éjszaka; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601000,
+                    "szep": "Zsolt 136,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki megverte az égyiptomiakat elsőszülötteikben; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601100,
+                    "szep": "Zsolt 136,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki kihozta Izráelt azok közül; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601200,
+                    "szep": "Zsolt 136,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hatalmas kézzel és kifeszített karral; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601300,
+                    "szep": "Zsolt 136,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki kétfelé választotta a veres tengert; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601400,
+                    "szep": "Zsolt 136,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "És átvitte Izráelt annak közepén; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601500,
+                    "szep": "Zsolt 136,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Faraót pedig és seregét a veres tengerbe meríté; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601600,
+                    "szep": "Zsolt 136,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki vezérlette népét a pusztában; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601700,
+                    "szep": "Zsolt 136,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki nagy királyokat vert le; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601800,
+                    "szep": "Zsolt 136,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "És megvert hatalmas királyokat; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601900,
+                    "szep": "Zsolt 136,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szíhont, az Emoreusok királyát; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602000,
+                    "szep": "Zsolt 136,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meg Ógot, a Básán királyát; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602100,
+                    "szep": "Zsolt 136,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "És örökségül adta az ő földjüket; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602200,
+                    "szep": "Zsolt 136,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örökségül szolgájának, az Izráelnek; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602300,
+                    "szep": "Zsolt 136,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki megemlékezett rólunk alacsonyságunkban; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602400,
+                    "szep": "Zsolt 136,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "És megszabadított minket elleneinktől; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602500,
+                    "szep": "Zsolt 136,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki eledelt ad minden testnek; mert örökkévaló az ő kegyelme."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602600,
+                    "szep": "Zsolt 136,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaljátok az egek Istenét; mert örökkévaló az ő kegyelme!"
+            }
+        ]
+    }
+}

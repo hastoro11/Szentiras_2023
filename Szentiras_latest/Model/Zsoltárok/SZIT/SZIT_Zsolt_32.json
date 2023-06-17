@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 32"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103200000,
+                    "szep": "Zsolt 32,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Tanítóköltemény – Dávidtól.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12103200100,
+                    "szep": "Zsolt 32,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog, akinek a bűne megbocsátva, akinek be van födve gonoszsága."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200200,
+                    "szep": "Zsolt 32,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog az ember, akinek az Úr nem tartja számon vétkét, akinek lelkében nem lakik álnokság."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200300,
+                    "szep": "Zsolt 32,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ameddig hallgattam, velőmig sorvadoztam, sóhajtozásomnak nem volt vége."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200400,
+                    "szep": "Zsolt 32,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kezed súlyosan rám nehezedett nappal és éjjel. Szívem olyan volt, mint a föld a tűző napon."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200500,
+                    "szep": "Zsolt 32,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "De akkor megvallottam neked bűnömet, nem rejtegettem tovább vétkemet. Így szóltam: „Az Úrhoz megyek és megvallom gonoszságomat!” S te eltörölted adósságom, megbocsátottad bűnömet."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200600,
+                    "szep": "Zsolt 32,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezért imádkozzék hozzád minden igaz, a szorongattatás idején! Hiába tör be a vizek áradata, nem éri el."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200700,
+                    "szep": "Zsolt 32,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te vagy menedékem, megmentesz a félelemtől, s körülveszel a szabadulás dalaival."
+            },
+            {
+                "hely": {
+                    "gepi": 12103200800,
+                    "szep": "Zsolt 32,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Értelmet adok neked, megtanítalak az útra, amelyen járnod kell. Tanácsot adok neked, s szemem rajtad nyugszik:"
+            },
+            {
+                "hely": {
+                    "gepi": 12103200900,
+                    "szep": "Zsolt 32,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne legyetek olyanok, mint a ló és öszvér, értelem híján, úgyhogy kedvük ellenére fékkel és kantárral kell őket kényszeríteni, [különben nem közelednek]!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103201000,
+                    "szep": "Zsolt 32,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A bűnöst sokféle szenvedés éri, de aki az Úrban remél, azt fenntartja irgalma."
+            },
+            {
+                "hely": {
+                    "gepi": 12103201100,
+                    "szep": "Zsolt 32,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vigadjatok az Úrban igazak és örüljetek, ujjongjatok mindnyájan, tiszta szívűek!"
+            }
+        ]
+    }
+}

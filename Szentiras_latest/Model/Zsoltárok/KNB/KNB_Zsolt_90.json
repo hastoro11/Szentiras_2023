@@ -1,0 +1,187 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 90"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109000000,
+                    "szep": "Zsolt 90,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Közösségi panaszdal a fogság utáni időkből."
+                    },
+                    {
+                        "position": null,
+                        "text": "Az egyetlen zsoltár, amelyet Mózesnek tulajdonítottak. Olyan ember imája, akinek számára Isten jelen van, akit ismer és akit szolgál. A zsoltár Isten öröklétének megvallásával kezdődik: az ő létéből születtek a hegyek (a maradandóság szimbólumai) és a világegyetem."
+                    }
+                ],
+                "szoveg": "<em>Mózesnek, az Isten emberének imádsága.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12109000100,
+                    "szep": "Zsolt 90,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Közösségi panaszdal a fogság utáni időkből."
+                    },
+                    {
+                        "position": null,
+                        "text": "Az egyetlen zsoltár, amelyet Mózesnek tulajdonítottak. Olyan ember imája, akinek számára Isten jelen van, akit ismer és akit szolgál. A zsoltár Isten öröklétének megvallásával kezdődik: az ő létéből születtek a hegyek (a maradandóság szimbólumai) és a világegyetem."
+                    }
+                ],
+                "szoveg": "Uram, te lettél a mi menedékünk<br>nemzedékről nemzedékre."
+            },
+            {
+                "hely": {
+                    "gepi": 12109000200,
+                    "szep": "Zsolt 90,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mielőtt a hegyek lettek,<br>a föld és a világ születtek,<br>te öröktől fogva és mindörökké vagy, Isten!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109000300,
+                    "szep": "Zsolt 90,3"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Isten örökkévaló, maradandó – az ember változékony. Az ember megtapasztalja saját mulandóságát, nemzedék nemzedék után visszatér a porba."
+                    }
+                ],
+                "szoveg": "Te visszatéríted az embert a porba,<br>azt mondod: »Térjetek oda vissza, emberek fiai.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12109000400,
+                    "szep": "Zsolt 90,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen szemed előtt ezer esztendő olyan,<br>mint az eltűnt tegnapi nap,<br>vagy mint egy őrváltásnyi idő éjszaka."
+            },
+            {
+                "hely": {
+                    "gepi": 12109000500,
+                    "szep": "Zsolt 90,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elragadod őket, olyanok mint az álom,"
+            },
+            {
+                "hely": {
+                    "gepi": 12109000600,
+                    "szep": "Zsolt 90,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "mint a reggel kiviruló fű:<br>reggel kihajt és virágzik,<br>estére lehull és elszárad."
+            },
+            {
+                "hely": {
+                    "gepi": 12109000700,
+                    "szep": "Zsolt 90,7"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A halál végzetének egyetlen magyarázata (vö. 39,4-12): az ember bűnei miatt hal meg (Ter 3,19), mert magára vonta Isten haragját. Mint ember, egyet tanulhat csak meg: vegye számba napjait, ne pazarolja el őket, és kérjen Istentől bölcs szívet."
+                    }
+                ],
+                "szoveg": "Elenyészünk ugyanis neheztelésed miatt,<br>rettegjük haragod."
+            },
+            {
+                "hely": {
+                    "gepi": 12109000800,
+                    "szep": "Zsolt 90,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magad elé állítod gonoszságainkat,<br>titkainkat arcod világossága elé."
+            },
+            {
+                "hely": {
+                    "gepi": 12109000900,
+                    "szep": "Zsolt 90,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Napjaink mind elmúlnak haragodban,<br>éveinket, mint egy sóhajtást, bevégezzük."
+            },
+            {
+                "hely": {
+                    "gepi": 12109001000,
+                    "szep": "Zsolt 90,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Éveink száma a hetven esztendőt ha eléri,<br>vagy az erőseké a nyolcvanat,<br>és azok nagyrésze is munka és fájdalom,<br>gyorsan elmúlnak és mi elmegyünk."
+            },
+            {
+                "hely": {
+                    "gepi": 12109001100,
+                    "szep": "Zsolt 90,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki ismeri haragod erejét<br>és félelmetes felindulásodat?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109001200,
+                    "szep": "Zsolt 90,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Taníts meg számba venni napjainkat úgy,<br>hogy bölcsességgel telítsük szívünket."
+            },
+            {
+                "hely": {
+                    "gepi": 12109001300,
+                    "szep": "Zsolt 90,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fordulj meg, Uram, végre valahára,<br>légy irgalmas szolgáidhoz."
+            },
+            {
+                "hely": {
+                    "gepi": 12109001400,
+                    "szep": "Zsolt 90,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tölts el minket kora reggel irgalmaddal,<br>hogy ujjongjunk és vigadjunk egész életünkben."
+            },
+            {
+                "hely": {
+                    "gepi": 12109001500,
+                    "szep": "Zsolt 90,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örvendeztess minket annyi napig, mint amennyin megaláztál minket,<br>s annyi évig, mint amennyin nyomorúságot láttunk."
+            },
+            {
+                "hely": {
+                    "gepi": 12109001600,
+                    "szep": "Zsolt 90,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyilvánuljon meg műved szolgáidon<br>és dicsőséged az ő fiaikon."
+            },
+            {
+                "hely": {
+                    "gepi": 12109001700,
+                    "szep": "Zsolt 90,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Derüljön ránk a mi Urunk, Istenünk fényessége,<br>kezünk munkáját erősítsd meg,<br>és áldd meg kezünk munkáját!"
+            }
+        ]
+    }
+}

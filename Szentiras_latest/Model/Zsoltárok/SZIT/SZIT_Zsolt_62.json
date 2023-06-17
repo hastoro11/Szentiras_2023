@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 62"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106200000,
+                    "szep": "Zsolt 62,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek, Jedutun szerint – Dávid zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12106200100,
+                    "szep": "Zsolt 62,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkem Istenben lel nyugalmat, segítség csak tőle jön."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200200,
+                    "szep": "Zsolt 62,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egyedül ő a sziklám és az üdvösségem, ő az én váram, nem rendülök meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200300,
+                    "szep": "Zsolt 62,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meddig fenyegetitek még ti mind az egyet, hogy ledöntitek, mint az omlott falat, mint a düledező várfalat?"
+            },
+            {
+                "hely": {
+                    "gepi": 12106200400,
+                    "szep": "Zsolt 62,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csupán csalást eszelnek ki, akiknek hazugság az örömük. Hazugság van a szájukban, s kívánják az áldást, bár szívükben átkot hordoznak."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200500,
+                    "szep": "Zsolt 62,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenben keress, lelkem, nyugalmat, segítség csak tőle jön!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106200600,
+                    "szep": "Zsolt 62,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egyedül ő a sziklám és az üdvösségem, ő a váram, nem rendülök meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200700,
+                    "szep": "Zsolt 62,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Üdvöm és dicsőségem Istentől várom, ő az én erős sziklám, igen, Isten a menedékem."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200800,
+                    "szep": "Zsolt 62,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Népem, remélj benne minden időben! Öntsétek ki előtte szíveteket, hiszen Isten a mi menedékünk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106200900,
+                    "szep": "Zsolt 62,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ádám gyermekei olyanok, mint a fuvallat, az emberek fiai csalfák. A mérlegen gyorsan emelkednek, együtt is könnyebbek, mint a fuvallat."
+            },
+            {
+                "hely": {
+                    "gepi": 12106201000,
+                    "szep": "Zsolt 62,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne bizakodjatok a hatalomban, ne dicsekedjetek rablással, s ha javaitok gyarapodnak, a szívetek ne tapadjon hozzá!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106201100,
+                    "szep": "Zsolt 62,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egyet szólt az Isten, két dolgot értettem belőle:"
+            },
+            {
+                "hely": {
+                    "gepi": 12106201200,
+                    "szep": "Zsolt 62,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istené a hatalom és tiéd, ó Uram, a kegyelem. Te megfizetsz mindenkinek tettei szerint."
+            }
+        ]
+    }
+}

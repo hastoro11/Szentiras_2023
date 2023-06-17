@@ -1,0 +1,47 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 131"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113100000,
+                    "szep": "Zsolt 131,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Zarándokének – Dávidtól.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12113100100,
+                    "szep": "Zsolt 131,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, nem dölyfös a szívem, szemem nem tekintget gőgösen. Nem keresek nagy dolgokat, amelyek meghaladják erőm."
+            },
+            {
+                "hely": {
+                    "gepi": 12113100200,
+                    "szep": "Zsolt 131,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megtanítottam hallgatni a lelkem, így békét szereztem neki. Mint anyja ölén a gyermek, mint a gyermek, úgy pihen bennem a lelkem."
+            },
+            {
+                "hely": {
+                    "gepi": 12113100300,
+                    "szep": "Zsolt 131,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Remélj, Izrael, az Úrban, most és mindörökké!"
+            }
+        ]
+    }
+}

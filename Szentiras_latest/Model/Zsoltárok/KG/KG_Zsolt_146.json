@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 146"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114600100,
+                    "szep": "Zsolt 146,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek az Urat! Dicsérd én lelkem az Urat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114600200,
+                    "szep": "Zsolt 146,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérem az Urat, a míg élek; éneklek az én Istenemnek, a míg vagyok."
+            },
+            {
+                "hely": {
+                    "gepi": 12114600300,
+                    "szep": "Zsolt 146,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne bízzatok a fejedelmekben, emberek fiában, a ki meg nem menthet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114600400,
+                    "szep": "Zsolt 146,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kimegyen a lelke; visszatér földébe, és aznapon elvesznek az ő tervei."
+            },
+            {
+                "hely": {
+                    "gepi": 12114600500,
+                    "szep": "Zsolt 146,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog, a kinek segítsége a Jákób Istene, és reménysége van az Úrban, az ő Istenében;"
+            },
+            {
+                "hely": {
+                    "gepi": 12114600600,
+                    "szep": "Zsolt 146,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki teremtette az eget és földet, a tengert és mindent, a mi bennök van. A ki megtartja a hűségét örökké;"
+            },
+            {
+                "hely": {
+                    "gepi": 12114600700,
+                    "szep": "Zsolt 146,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igazságot szolgáltat az elnyomottaknak, eledelt ád az éhezőknek. Az Úr megszabadítja az elfogottakat."
+            },
+            {
+                "hely": {
+                    "gepi": 12114600800,
+                    "szep": "Zsolt 146,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr megnyitja a vakok szemeit, az Úr felegyenesíti a meggörnyedteket; szereti az Úr az igazakat."
+            },
+            {
+                "hely": {
+                    "gepi": 12114600900,
+                    "szep": "Zsolt 146,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megoltalmazza az Úr a jövevényeket; árvát és özvegyet megtart, és a gonoszok útját elfordítja."
+            },
+            {
+                "hely": {
+                    "gepi": 12114601000,
+                    "szep": "Zsolt 146,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uralkodni fog az Úr örökké, a te Istened, oh Sion, nemzedékről nemzedékre! Dicsérjétek az Urat!"
+            }
+        ]
+    }
+}

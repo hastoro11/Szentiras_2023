@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 87"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108700000,
+                    "szep": "Zsolt 87,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ének. A Kóráh fiainak zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12108700100,
+                    "szep": "Zsolt 87,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "A szent hegyeken vetette meg az ő fundamentomát."
+            },
+            {
+                "hely": {
+                    "gepi": 12108700200,
+                    "szep": "Zsolt 87,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szereti az Úr Sionnak kapuit, jobban mint Jákóbnak minden hajlékát."
+            },
+            {
+                "hely": {
+                    "gepi": 12108700300,
+                    "szep": "Zsolt 87,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsőséges dolgokat beszélnek felőled, te Istennek városa! Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12108700400,
+                    "szep": "Zsolt 87,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Előszámlálom Égyiptomot és Bábelt, mint ismerőimet. Ímé Filisztea és Tyrus Kússal együtt: ez ott született."
+            },
+            {
+                "hely": {
+                    "gepi": 12108700500,
+                    "szep": "Zsolt 87,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "És ezt mondják a Sion felől: Mind ez, mind amaz ott született, és ő, a Felséges, erősíti azt."
+            },
+            {
+                "hely": {
+                    "gepi": 12108700600,
+                    "szep": "Zsolt 87,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr beírván, feljegyzi a népet: ez ott született! Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12108700700,
+                    "szep": "Zsolt 87,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "És tánczolva énekelik: minden forrásaim te benned vannak."
+            }
+        ]
+    }
+}

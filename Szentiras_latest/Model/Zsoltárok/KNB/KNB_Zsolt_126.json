@@ -1,0 +1,81 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 126"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112600000,
+                    "szep": "Zsolt 126,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A fogság utáni közösség bizaloméneke: a Bábelből való hazatérésben átélték és megtapasztalták Isten szabadító jóságát, de azt is, hogy még nem vált valóra minden remény, amelyet Második Izajás a visszatéréssel kapcsolatban ébresztett."
+                    }
+                ],
+                "szoveg": "<em>Zarándok-ének.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12112600100,
+                    "szep": "Zsolt 126,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A fogság utáni közösség bizaloméneke: a Bábelből való hazatérésben átélték és megtapasztalták Isten szabadító jóságát, de azt is, hogy még nem vált valóra minden remény, amelyet Második Izajás a visszatéréssel kapcsolatban ébresztett."
+                    }
+                ],
+                "szoveg": "Mikor az Úr megfordította Sion fogságának sorsát,<br>olyan volt, mintha álmodnánk."
+            },
+            {
+                "hely": {
+                    "gepi": 12112600200,
+                    "szep": "Zsolt 126,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor szánk vígsággal telt meg,<br>nyelvünk pedig ujjongással.<br>Azt mondták akkor a nemzetek között:<br>»Nagy dolgokat művelt velük az Úr!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12112600300,
+                    "szep": "Zsolt 126,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagy dolgokat művelt velünk az Úr,<br>azért örvendezünk."
+            },
+            {
+                "hely": {
+                    "gepi": 12112600400,
+                    "szep": "Zsolt 126,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fordíts fogságunkon, Uram,<br>mint ahogy megfordítod délen a patakokat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112600500,
+                    "szep": "Zsolt 126,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akik könnyek között vetnek,<br>majd ujjongva aratnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12112600600,
+                    "szep": "Zsolt 126,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak mentek és sírtak,<br>úgy vitték vetni vetőmagjukat;<br>de ujjongva jönnek vissza majd,<br>s úgy hozzák a kévéiket."
+            }
+        ]
+    }
+}

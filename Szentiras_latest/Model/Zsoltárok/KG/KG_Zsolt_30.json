@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 30"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103000000,
+                    "szep": "Zsolt 30,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid zsoltára. Templomszentelési ének."
+            },
+            {
+                "hely": {
+                    "gepi": 12103000100,
+                    "szep": "Zsolt 30,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztallak Uram, hogy felemeltél engem, és nem engedted, hogy ellenségeim örüljenek rajtam."
+            },
+            {
+                "hely": {
+                    "gepi": 12103000200,
+                    "szep": "Zsolt 30,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, Istenem, hozzád kiáltottam, és te meggyógyítottál engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103000300,
+                    "szep": "Zsolt 30,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, felhoztad a Seolból az én lelkemet, fölélesztettél a sírbaszállók közül."
+            },
+            {
+                "hely": {
+                    "gepi": 12103000400,
+                    "szep": "Zsolt 30,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zengedezzetek az Úrnak, ti hívei! Dicsőítsétek szent emlékezetét."
+            },
+            {
+                "hely": {
+                    "gepi": 12103000500,
+                    "szep": "Zsolt 30,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert csak pillanatig tart haragja, de élethossziglan jóakarata; este bánat száll be hozzánk, reggelre öröm."
+            },
+            {
+                "hely": {
+                    "gepi": 12103000600,
+                    "szep": "Zsolt 30,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azt mondtam azért én jó állapotomban: Nem rendülhetek meg soha."
+            },
+            {
+                "hely": {
+                    "gepi": 12103000700,
+                    "szep": "Zsolt 30,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, jókedvedből erősséget állítottál föl hegyemre; de elrejtéd orczádat, és megroskadtam."
+            },
+            {
+                "hely": {
+                    "gepi": 12103000800,
+                    "szep": "Zsolt 30,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hozzád kiáltok, Uram! Az én Uramnak irgalmáért könyörgök!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103000900,
+                    "szep": "Zsolt 30,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mit használ vérem, ha sírba szállok? Dicsér-e téged a por; hirdeti-é igazságodat?"
+            },
+            {
+                "hely": {
+                    "gepi": 12103001000,
+                    "szep": "Zsolt 30,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgass meg, Uram, könyörülj rajtam! Uram, légy segítségem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103001100,
+                    "szep": "Zsolt 30,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Siralmamat vígságra fordítottad, leoldoztad gyászruhámat, körülöveztél örömmel."
+            },
+            {
+                "hely": {
+                    "gepi": 12103001200,
+                    "szep": "Zsolt 30,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy zengjen néked és el ne hallgasson felőled a dicséret: Uram, én Istenem, örökké dicsőítlek téged."
+            }
+        ]
+    }
+}

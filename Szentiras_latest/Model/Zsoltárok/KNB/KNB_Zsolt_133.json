@@ -1,0 +1,57 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 133"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113300000,
+                    "szep": "Zsolt 133,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Bölcsmondás a fogság utáni időkből. A nagycsaládban, akik együtt laktak az örökölt földön és annak jövedelméből éltek, elkerülhetetlenek voltak a testvérek versengéséből adódó viszályok. Ezért dicsőíti ez a zsoltár a békét és az egyetértést. Az első összehasonlítás a papságot idézi (vö. Kiv 30,22-33; Lev 21,5). A Hermon harmatának képe (északon), amely Sion hegyére hullik (délen) és felfrissíti azt, olyan testvéreket jelent, akik nem egymás ellen, hanem egymásért élnek. A zsoltár mondanivalója alkalmazható minden élet- és imaközösségre."
+                    }
+                ],
+                "szoveg": "<em>Zarándok-ének. Dávidtól.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12113300100,
+                    "szep": "Zsolt 133,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Bölcsmondás a fogság utáni időkből. A nagycsaládban, akik együtt laktak az örökölt földön és annak jövedelméből éltek, elkerülhetetlenek voltak a testvérek versengéséből adódó viszályok. Ezért dicsőíti ez a zsoltár a békét és az egyetértést. Az első összehasonlítás a papságot idézi (vö. Kiv 30,22-33; Lev 21,5). A Hermon harmatának képe (északon), amely Sion hegyére hullik (délen) és felfrissíti azt, olyan testvéreket jelent, akik nem egymás ellen, hanem egymásért élnek. A zsoltár mondanivalója alkalmazható minden élet- és imaközösségre."
+                    }
+                ],
+                "szoveg": "Íme, milyen jó és milyen gyönyörűséges,<br>ha együtt laknak a testvérek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113300200,
+                    "szep": "Zsolt 133,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Olyan az, mint a drága kenet a fejen,<br>amely lecsordul a szakállra,<br>Áron szakállára,<br>lecsordul ruhája szegélyére;"
+            },
+            {
+                "hely": {
+                    "gepi": 12113300300,
+                    "szep": "Zsolt 133,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vagy mint a Hermon harmata, amely lehull<br>Sion hegyére.<br>Ott adja az Úr az áldást,<br>s az életet mindörökre."
+            }
+        ]
+    }
+}

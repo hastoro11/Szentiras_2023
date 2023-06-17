@@ -1,0 +1,131 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 29"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102900000,
+                    "szep": "Zsolt 29,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Himnusz, amely a Biblia legkorábbi szövegei közé tartozik. Valószínűleg még az izrelita törzsek honfoglalása előtt keletkezett Kánaánban, és eredetileg feltehetően nem is Izrael Istenére vonatkozott. Egy jahvista teológus feldolgozásában vált a szöveg Izrael Istenének dicsőítésévé. Az Úr itt már nem egyszerűen a vihar istene, hanem a természeti jelenségek független ura."
+                    }
+                ],
+                "szoveg": "<em>Zsoltár Dávidtól.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12102900100,
+                    "szep": "Zsolt 29,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Himnusz, amely a Biblia legkorábbi szövegei közé tartozik. Valószínűleg még az izrelita törzsek honfoglalása előtt keletkezett Kánaánban, és eredetileg feltehetően nem is Izrael Istenére vonatkozott. Egy jahvista teológus feldolgozásában vált a szöveg Izrael Istenének dicsőítésévé. Az Úr itt már nem egyszerűen a vihar istene, hanem a természeti jelenségek független ura."
+                    }
+                ],
+                "szoveg": "Adjatok az Úrnak, Istennek fiai,<br>adjatok az Úrnak dicsőséget és tiszteletet,"
+            },
+            {
+                "hely": {
+                    "gepi": 12102900200,
+                    "szep": "Zsolt 29,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "adjatok dicsőséget az Úr nevének,<br>imádjátok az Urat szent ragyogásban!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102900300,
+                    "szep": "Zsolt 29,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr hangja zeng a vizek fölött;<br>A fölséges Isten mennydörög,<br>ott van az Úr a nagy vizek fölött."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900400,
+                    "szep": "Zsolt 29,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr szava erősen zeng,<br>az Úr szava fenséges."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900500,
+                    "szep": "Zsolt 29,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr szava cédrusokat tördel,<br>a Libanon cédrusait összetöri az Úr."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900600,
+                    "szep": "Zsolt 29,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Szirjon: az Antilibanon legmagasabb hegyének, a Hermonnak föníciai neve, vö. MTörv 3,9."
+                    }
+                ],
+                "szoveg": "Szökell szavára mint a borjú,<br>a Libanon s a Szirjon, mint a fiatal bölény."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900700,
+                    "szep": "Zsolt 29,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr hangja tüzes lángokat szór,"
+            },
+            {
+                "hely": {
+                    "gepi": 12102900800,
+                    "szep": "Zsolt 29,8"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A Kádes-puszta Dél–Palesztínában található."
+                    }
+                ],
+                "szoveg": "az Úr hangja megrendíti a pusztát,<br>megremegteti az Úr Kádes pusztáját."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900900,
+                    "szep": "Zsolt 29,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr hangja a szarvasünőket vajúdásba hozza,<br>a sűrűséget megritkítja,<br>s templomában mindenki így szól: Ó, mily dicső!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102901000,
+                    "szep": "Zsolt 29,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr a vízár fölött trónol,<br>és az Úr trónol, mint király örökké."
+            },
+            {
+                "hely": {
+                    "gepi": 12102901100,
+                    "szep": "Zsolt 29,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr hatalmat ad népének,<br>és békességgel áldja meg népét az Úr."
+            }
+        ]
+    }
+}

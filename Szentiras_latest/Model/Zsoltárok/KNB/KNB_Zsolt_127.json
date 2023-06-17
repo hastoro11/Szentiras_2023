@@ -1,0 +1,73 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 127"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112700000,
+                    "szep": "Zsolt 127,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A (fogság utáni) szöveg egymásba fűzött bölcsmondásokból áll. Egy hittételt alapoz meg: az ember nem képes önmagát boldoggá tenni, Istennek köszönheti létét, és mindazt, amije van. Ez a zsoltár üzenete a családalapításra készülő fiataloknak."
+                    }
+                ],
+                "szoveg": "<em>Zarándok-ének. Salamontól.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12112700100,
+                    "szep": "Zsolt 127,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A (fogság utáni) szöveg egymásba fűzött bölcsmondásokból áll. Egy hittételt alapoz meg: az ember nem képes önmagát boldoggá tenni, Istennek köszönheti létét, és mindazt, amije van. Ez a zsoltár üzenete a családalapításra készülő fiataloknak."
+                    }
+                ],
+                "szoveg": "Ha nem az Úr építi a házat,<br>építői hiába dolgoznak rajta.<br>Ha nem az Úr őrzi a várost,<br>őre hasztalan virraszt felette."
+            },
+            {
+                "hely": {
+                    "gepi": 12112700200,
+                    "szep": "Zsolt 127,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiábavaló hajnal előtt kelnetek,<br>és késnetek a lefekvéssel,<br>akik a fáradság kenyerét eszitek,<br>hiszen ő álmában is megad mindent annak, akit kedvel."
+            },
+            {
+                "hely": {
+                    "gepi": 12112700300,
+                    "szep": "Zsolt 127,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Íme a gyermek örökség az Úrtól,<br>a méh gyümölcse jutalom."
+            },
+            {
+                "hely": {
+                    "gepi": 12112700400,
+                    "szep": "Zsolt 127,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mint a nyilak a hős kezében,<br>olyanok az ifjúkorban nyert fiak."
+            },
+            {
+                "hely": {
+                    "gepi": 12112700500,
+                    "szep": "Zsolt 127,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog az az ember,<br>aki megtölti velük tegzét!<br>Nem éri szégyen,<br>ha ellenségeivel beszél a kapuban."
+            }
+        ]
+    }
+}

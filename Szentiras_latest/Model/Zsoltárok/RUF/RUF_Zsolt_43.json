@@ -1,0 +1,55 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 43"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104300100,
+                    "szep": "Zsolt 43,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szolgáltass nekem igazságot, Istenem, és pereld peremet a hűtlen néppel szemben! Az alattomos és álnok emberektől ments meg engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104300200,
+                    "szep": "Zsolt 43,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen te vagy oltalmazó Istenem, miért taszítottál el engem? Miért kell gyászban járnom, miért gyötör az ellenség?"
+            },
+            {
+                "hely": {
+                    "gepi": 12104300300,
+                    "szep": "Zsolt 43,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Küldd el világosságodat és igazságodat: azok vezessenek engem! Vigyenek el szent hegyedre és hajlékaidba,"
+            },
+            {
+                "hely": {
+                    "gepi": 12104300400,
+                    "szep": "Zsolt 43,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy eljussak Isten oltárához, Istenhez, akinek ujjongva örülök. Hadd magasztaljalak hárfával, Isten, én Istenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104300500,
+                    "szep": "Zsolt 43,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Miért csüggedsz el, lelkem, és miért háborogsz bennem? Bízzál Istenben, mert még hálát adok neki, szabadító Istenemnek!"
+            }
+        ]
+    }
+}

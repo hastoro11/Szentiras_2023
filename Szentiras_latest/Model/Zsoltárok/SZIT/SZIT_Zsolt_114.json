@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 114"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111400100,
+                    "szep": "Zsolt 114,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Alleluja!) Amikor Izrael kivonult Egyiptomból, Jákob törzse az idegen nép közül:"
+            },
+            {
+                "hely": {
+                    "gepi": 12111400200,
+                    "szep": "Zsolt 114,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor Júda lett a szentélye és Izrael az országa."
+            },
+            {
+                "hely": {
+                    "gepi": 12111400300,
+                    "szep": "Zsolt 114,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "A tenger meglátta és elfutott, a Jordán visszafelé vette útját."
+            },
+            {
+                "hely": {
+                    "gepi": 12111400400,
+                    "szep": "Zsolt 114,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A hegyek ugrándoztak, mint a kosok, a halmok, mint a kis bárányok."
+            },
+            {
+                "hely": {
+                    "gepi": 12111400500,
+                    "szep": "Zsolt 114,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mi lelt, tenger, hogy elfutottál? Jordán, miért vetted visszafelé utad?"
+            },
+            {
+                "hely": {
+                    "gepi": 12111400600,
+                    "szep": "Zsolt 114,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hegyek, miért ugrándoztok, mint a kosok, s ti halmok, mint a kis bárányok?"
+            },
+            {
+                "hely": {
+                    "gepi": 12111400700,
+                    "szep": "Zsolt 114,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Föld, rendülj meg az Úr színe előtt, Jákob Istenének szent arca előtt,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111400800,
+                    "szep": "Zsolt 114,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "aki tóvá változtatta a sziklát, s a követ buzogó forrássá!"
+            }
+        ]
+    }
+}

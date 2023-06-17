@@ -1,0 +1,70 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 134"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113400000,
+                    "szep": "Zsolt 134,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Két egybefűzött szöveg az éjszakai templomi szertartásból (fogság utáni)."
+                    },
+                    {
+                        "position": null,
+                        "text": "Felhívás a könyörgésre az istentisztelet kezdetén."
+                    }
+                ],
+                "szoveg": "<em>Zarándok-ének.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12113400100,
+                    "szep": "Zsolt 134,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Két egybefűzött szöveg az éjszakai templomi szertartásból (fogság utáni)."
+                    },
+                    {
+                        "position": null,
+                        "text": "Felhívás a könyörgésre az istentisztelet kezdetén."
+                    }
+                ],
+                "szoveg": "Íme, most áldjátok az Urat, ti mind az Úrnak szolgái,<br>akik az Úr házában álltok éjszakánként."
+            },
+            {
+                "hely": {
+                    "gepi": 12113400200,
+                    "szep": "Zsolt 134,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emeljétek föl kezeteket a szentély felé,<br>s áldjátok az Urat."
+            },
+            {
+                "hely": {
+                    "gepi": 12113400300,
+                    "szep": "Zsolt 134,3"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Befejező papi áldás."
+                    }
+                ],
+                "szoveg": "Áldjon meg téged a Sionról az Úr,<br>aki az eget és a földet alkotta."
+            }
+        ]
+    }
+}

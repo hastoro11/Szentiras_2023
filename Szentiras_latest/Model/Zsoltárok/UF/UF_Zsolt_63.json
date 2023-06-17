@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 63"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106300000,
+                    "szep": "Zsolt 63,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid zsoltára, abból az időből, amikor Júda pusztájában volt."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300100,
+                    "szep": "Zsolt 63,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ó, Isten, te vagy Istenem, hozzád vágyakozom! Utánad szomjazik lelkem, utánad sóvárog testem, mint kiszikkadt, kopár, víztelen föld."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300200,
+                    "szep": "Zsolt 63,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így nézek rád a szentélyben, hogy lássam hatalmadat és dicsőségedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300300,
+                    "szep": "Zsolt 63,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert szereteted az életnél is jobb, ajkam téged dicsőít."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300400,
+                    "szep": "Zsolt 63,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezért téged áldalak, amíg élek, nevedet imádva emelem föl kezem."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300500,
+                    "szep": "Zsolt 63,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mintha zsíros falatokkal laktam volna jól, úgy ujjong az ajkam, és dicsér a szám."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300600,
+                    "szep": "Zsolt 63,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fekvőhelyemen is rád gondolok, minden őrváltáskor rólad elmélkedem."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300700,
+                    "szep": "Zsolt 63,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert te voltál a segítségem, szárnyad árnyékában ujjongok."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300800,
+                    "szep": "Zsolt 63,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ragaszkodik hozzád lelkem, jobboddal támogatsz engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300900,
+                    "szep": "Zsolt 63,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "De akik pusztulásomra törnek, a föld mélyébe kerülnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12106301000,
+                    "szep": "Zsolt 63,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kardélre hányják őket, sakálok eledelévé lesznek."
+            },
+            {
+                "hely": {
+                    "gepi": 12106301100,
+                    "szep": "Zsolt 63,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "De a király örül Isten előtt. Dicséretet mondanak, akik rá esküsznek, a hazugok szája azonban bezárul."
+            }
+        ]
+    }
+}

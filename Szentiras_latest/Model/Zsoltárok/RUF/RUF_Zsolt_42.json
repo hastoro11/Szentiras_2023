@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 42"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104200000,
+                    "szep": "Zsolt 42,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Kórah fiainak tanítókölteménye."
+            },
+            {
+                "hely": {
+                    "gepi": 12104200100,
+                    "szep": "Zsolt 42,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ahogyan a szarvas kívánkozik a folyóvízhez, úgy kívánkozik a lelkem hozzád, Istenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104200200,
+                    "szep": "Zsolt 42,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten után szomjazik lelkem, az élő Isten után: Mikor mehetek el, hogy megjelenjek Isten előtt?"
+            },
+            {
+                "hely": {
+                    "gepi": 12104200300,
+                    "szep": "Zsolt 42,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könnyem lett a kenyerem éjjel és nappal, mert egész nap ezt mondogatják nekem: Hol van a te Istened?"
+            },
+            {
+                "hely": {
+                    "gepi": 12104200400,
+                    "szep": "Zsolt 42,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kiöntöm lelkemet, és arra emlékezem, hogy milyen tömeggel vonultam, és hogyan vezettem Isten házához hangos ujjongással és hálaénekkel az ünneplő sokaságot."
+            },
+            {
+                "hely": {
+                    "gepi": 12104200500,
+                    "szep": "Zsolt 42,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Miért csüggedsz el, lelkem, miért háborogsz bennem? Bízzál Istenben, mert még hálát adok neki az ő szabadításáért!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104200600,
+                    "szep": "Zsolt 42,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, elcsügged a lelkem, azért terád gondolok a Jordán földjéről és a Hermónról, a Micár-hegyről."
+            },
+            {
+                "hely": {
+                    "gepi": 12104200700,
+                    "szep": "Zsolt 42,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örvény örvénynek kiált zuhatagjaid hangjában, minden habod és hullámod átcsapott fölöttem."
+            },
+            {
+                "hely": {
+                    "gepi": 12104200800,
+                    "szep": "Zsolt 42,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nappal szeretetét rendeli mellém, éjjel éneket ad számba az ÚR, imádságot életem Istenéhez."
+            },
+            {
+                "hely": {
+                    "gepi": 12104200900,
+                    "szep": "Zsolt 42,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezt mondom Istenemnek, kőszálamnak: Miért feledkeztél el rólam? Miért kell gyászban járnom, miért gyötör az ellenség?"
+            },
+            {
+                "hely": {
+                    "gepi": 12104201000,
+                    "szep": "Zsolt 42,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mintha csontjaimat tördelnék, amikor gyaláznak ellenfeleim, mert egész nap ezt mondogatják nekem: Hol van a te Istened?"
+            },
+            {
+                "hely": {
+                    "gepi": 12104201100,
+                    "szep": "Zsolt 42,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Miért csüggedsz el, lelkem, miért háborogsz bennem? Bízzál Istenben, mert még hálát adok neki, szabadító Istenemnek!"
+            }
+        ]
+    }
+}

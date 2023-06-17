@@ -1,0 +1,110 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 138"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113800000,
+                    "szep": "Zsolt 138,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni panaszdal, fogság utáni."
+                    },
+                    {
+                        "position": null,
+                        "text": "Valaki hálát ad a templom előcsarnokában. Tanúságot tesz Isten támogatásáról, amelyet megtapasztalt. Mindennek tanúi az emberek és az angyalok."
+                    }
+                ],
+                "szoveg": "<em>Dávidtól.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12113800100,
+                    "szep": "Zsolt 138,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni panaszdal, fogság utáni."
+                    },
+                    {
+                        "position": null,
+                        "text": "Valaki hálát ad a templom előcsarnokában. Tanúságot tesz Isten támogatásáról, amelyet megtapasztalt. Mindennek tanúi az emberek és az angyalok."
+                    }
+                ],
+                "szoveg": "Hálát adok neked, Uram, teljes szívemből,<br>mert meghallgattad szájam szavát.<br>Magasztallak az angyalok színe előtt,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113800200,
+                    "szep": "Zsolt 138,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "leborulok szent templomod felé,<br>áldást mondok nevednek irgalmadért és igazságodért,<br>mert mindenek fölött felmagasztaltad szent nevedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12113800300,
+                    "szep": "Zsolt 138,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bármikor hívtalak segítségül, meghallgattál engem,<br>és gyarapítottad az erőt lelkemben."
+            },
+            {
+                "hely": {
+                    "gepi": 12113800400,
+                    "szep": "Zsolt 138,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hálát ad neked, Uram, a föld minden királya,<br>a te szád minden szavának hallatára,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113800500,
+                    "szep": "Zsolt 138,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "és megéneklik az Úr útjait,<br>mert nagy az Úr dicsősége."
+            },
+            {
+                "hely": {
+                    "gepi": 12113800600,
+                    "szep": "Zsolt 138,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egy újabb tapasztalat kifejezése: a fönséges Isten látja a szegényeket (héb. ebjóním), az alázatosakat, ezek közelebb vannak hozzá, mint a hatalmasok (vö. Lk 1,52: kicsinyek)."
+                    }
+                ],
+                "szoveg": "Fölséges az Úr és rátekint az alázatosakra,<br>de messziről megismeri a felfuvalkodottakat."
+            },
+            {
+                "hely": {
+                    "gepi": 12113800700,
+                    "szep": "Zsolt 138,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha szorongatások között járok is,<br>megőrzöd életemet;<br>Ellenségeim haragjával szemben kinyújtod kezedet,<br>és jobbod megszabadít engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12113800800,
+                    "szep": "Zsolt 138,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr mindezt véghezviszi értem,<br>Uram, irgalmad örökkévaló:<br>ne vesd meg kezed alkotásait!"
+            }
+        ]
+    }
+}

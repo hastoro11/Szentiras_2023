@@ -1,0 +1,101 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 137"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113700100,
+                    "szep": "Zsolt 137,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Közösségi siratóének. A babiloni fogságban keletkezett (Kr. e. 586-538), később bekerült a fogság utáni közösség istentiszteletébe."
+                    },
+                    {
+                        "position": null,
+                        "text": "A Tigris és az Eufrátesz folyóvizeinél (rituális mosakodás!) összegyűlnek a száműzöttek, siratják a templomot és Jeruzsálem lerombolt városát."
+                    }
+                ],
+                "szoveg": "Ott ültünk Babilon folyóvizei mellett,<br>és sírtunk, amikor Sionra gondoltunk."
+            },
+            {
+                "hely": {
+                    "gepi": 12113700200,
+                    "szep": "Zsolt 137,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "A fűzfákra akasztottuk ott hangszereinket,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700300,
+                    "szep": "Zsolt 137,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "mert énekszót kívántak tőlünk,<br>akik foglyul ejtettek minket:<br>»Zengjetek dalt nekünk Sion dalaiból«,<br>mondták, akik elhurcoltak minket."
+            },
+            {
+                "hely": {
+                    "gepi": 12113700400,
+                    "szep": "Zsolt 137,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogyan énekelhetnénk az Úr énekét<br>idegen földön?"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700500,
+                    "szep": "Zsolt 137,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha megfeledkezem rólad, Jeruzsálem,<br>bénuljon meg a jobb kezem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700600,
+                    "szep": "Zsolt 137,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ragadjon a torkomhoz a nyelvem,<br>ha rólad meg nem emlékezem,<br>ha nem tartom Jeruzsálemet<br>legfőbb örömömnek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700700,
+                    "szep": "Zsolt 137,7"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. 109,6-20 Átkot mond az edomiakra, akik Jeruzsálem bevételekor Babilon szövetségesei voltak (vö. Ez 35,1-15) és Bábelre."
+                    }
+                ],
+                "szoveg": "Emlékezzél meg, Uram, Edom fiairól,<br>Jeruzsálemnek arról a napjáról,<br>amikor ők ezt mondták: »Rontsátok le! Rontsátok le,<br>egészen az alapjáig!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700800,
+                    "szep": "Zsolt 137,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Babilon leánya, te nyomorult,<br>boldog, aki megfizet neked<br>rajtunk elkövetett tetteidért!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700900,
+                    "szep": "Zsolt 137,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog, aki megragadja<br>és sziklához vágja kisdedeidet!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 80"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108000000,
+                    "szep": "Zsolt 80,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: A „Liliomok” kezdetű ének dallamára. Intelem, Ászáf zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12108000100,
+                    "szep": "Zsolt 80,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Figyelj ránk, Izráel pásztora, aki úgy terelgeted Józsefet, mint egy nyájat! Te, aki kerúbokon trónolsz, jelenj meg ragyogva"
+            },
+            {
+                "hely": {
+                    "gepi": 12108000200,
+                    "szep": "Zsolt 80,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Efraimnak, Benjáminnak és Manassénak! Mutasd meg hatalmadat, jöjj segítségünkre!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108000300,
+                    "szep": "Zsolt 80,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenünk, újíts meg bennünket! Ragyogtasd ránk orcádat, hogy megszabaduljunk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108000400,
+                    "szep": "Zsolt 80,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, Seregek Istene, meddig lángol még haragod néped imádsága ellenére?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108000500,
+                    "szep": "Zsolt 80,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kenyér helyett könnyel etetted őket, bőségesen adtál inni könnyeket."
+            },
+            {
+                "hely": {
+                    "gepi": 12108000600,
+                    "szep": "Zsolt 80,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te okoztad, hogy civakodnak velünk szomszédaink, ellenségeink pedig gúnyolnak minket."
+            },
+            {
+                "hely": {
+                    "gepi": 12108000700,
+                    "szep": "Zsolt 80,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Seregek Istene, újíts meg bennünket! Ragyogtasd ránk orcádat, hogy megszabaduljunk!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108000800,
+                    "szep": "Zsolt 80,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egy szőlőtőt hoztál el Egyiptomból. Népeket űztél el, ezt meg elültetted."
+            },
+            {
+                "hely": {
+                    "gepi": 12108000900,
+                    "szep": "Zsolt 80,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Helyét elegyengetted, gyökeret vert, és ellepte a földet."
+            },
+            {
+                "hely": {
+                    "gepi": 12108001000,
+                    "szep": "Zsolt 80,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Árnyéka hegyeket borított be, vesszői vetekednek a hatalmas cédrusokkal."
+            },
+            {
+                "hely": {
+                    "gepi": 12108001100,
+                    "szep": "Zsolt 80,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Indáit a tengerig növesztette, hajtásait a Folyamig."
+            },
+            {
+                "hely": {
+                    "gepi": 12108001200,
+                    "szep": "Zsolt 80,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Miért romboltad le kerítéseit, hogy szedhessen róla, aki csak arra jár?!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108001300,
+                    "szep": "Zsolt 80,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lerágja az erdei vadkan, és abból legel a mezei vad."
+            },
+            {
+                "hely": {
+                    "gepi": 12108001400,
+                    "szep": "Zsolt 80,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Seregek Istene, fordulj hozzánk! Tekints le az égből, lásd meg és gondozd ezt a szőlőt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108001500,
+                    "szep": "Zsolt 80,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Oltalmazd, amit jobboddal ültettél, és a fiút, akit magadnak neveltél!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108001600,
+                    "szep": "Zsolt 80,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Pusztuljanak el dorgálásodtól, akik fölperzselték, levagdalták!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108001700,
+                    "szep": "Zsolt 80,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Legyen kezed azzal a férfival, jobbod azzal az emberrel, akit magadnak neveltél!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108001800,
+                    "szep": "Zsolt 80,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "És mi nem pártolunk el tőled. Tarts életben bennünket, és mi segítségül hívjuk nevedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12108001900,
+                    "szep": "Zsolt 80,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, Seregek Istene, újíts meg bennünket! Ragyogtasd ránk orcádat, hogy megszabaduljunk!"
+            }
+        ]
+    }
+}

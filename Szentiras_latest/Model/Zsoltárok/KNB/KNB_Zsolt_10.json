@@ -1,0 +1,184 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 10"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101000100,
+                    "szep": "Zsolt 10,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Nagyon kétségbeejtő helyzetben megfogalmazott könyörgés. A zsoltáros saját népén belül fedezi fel ellenségeit, a gonosztevőket, (a Zsolt 9-ben külső ellenségről beszélt). A gonoszok tettei: elnyomás és gyalázat, rablás és megvetés, hitetlenség és elbizakodottság, erőszak és halál, fondorlatosság és álnokság. Lehetséges, hogy Isten nem nyújtja ki ellenük büntető kezét?"
+                    }
+                ],
+                "szoveg": "Miért maradsz, Uram, oly távol tőlem?<br>Miért rejtőzködsz a szükség és szorongatás idején?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101000200,
+                    "szep": "Zsolt 10,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "A gonosz kevélykedik, üldözi a szegényt;<br>Fogják meg őket saját kigondolt terveik!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101000300,
+                    "szep": "Zsolt 10,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hisz dicsekszik lelke kívánságaival a gonosz,<br>és magára mond áldást a fösvény."
+            },
+            {
+                "hely": {
+                    "gepi": 12101000400,
+                    "szep": "Zsolt 10,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elbizakodottságában megveti az Urat a gonosz,<br>»Nem keresi; nincs Isten!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12101000500,
+                    "szep": "Zsolt 10,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egyre csak ezt forgatja fejében.<br>Útjai szerencsések minden időben.<br>Túl magasak neki ítéleteid,<br>mind megveti ellenségeit."
+            },
+            {
+                "hely": {
+                    "gepi": 12101000600,
+                    "szep": "Zsolt 10,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A görög szövegnek megfelelő fordítás (a héber nem világos)."
+                    }
+                ],
+                "szoveg": "Mert így szól szívében: »Én nem ingok meg,<br>baj nélkül maradok nemzedékről nemzedékre.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12101000700,
+                    "szep": "Zsolt 10,7"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. Róm 3,14"
+                    }
+                ],
+                "szoveg": "Szája csupa átok, erőszak, álnokság,<br>nyelve alatt fájdalom és gonoszság."
+            },
+            {
+                "hely": {
+                    "gepi": 12101000800,
+                    "szep": "Zsolt 10,8"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A görög szöveg szerint."
+                    }
+                ],
+                "szoveg": "Lesben áll az utakon,<br>titokban öli meg az ártatlant."
+            },
+            {
+                "hely": {
+                    "gepi": 12101000900,
+                    "szep": "Zsolt 10,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szeme a szegényt kémleli,<br>mint barlangjában az oroszlán, leskelődik rejtekén.<br>Leskelődik, hogy a szegényt megragadja,<br>elragadja a szegényt, hálójába fogva."
+            },
+            {
+                "hely": {
+                    "gepi": 12101001000,
+                    "szep": "Zsolt 10,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ráront lelapulva, és a nyomorultak<br>csak hullanak karja erejétől."
+            },
+            {
+                "hely": {
+                    "gepi": 12101001100,
+                    "szep": "Zsolt 10,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert így szól szívében:<br>»Megfeledkezett róluk Isten!<br>Elfordította arcát, és nem látja többé őket!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12101001200,
+                    "szep": "Zsolt 10,12"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zsoltáros újra közvetlenül Istenhez beszél (vö. 1)."
+                    }
+                ],
+                "szoveg": "Kelj föl, Uram, Isten!<br>Emeld föl kezed,<br>ne feledd el a szegényeket!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101001300,
+                    "szep": "Zsolt 10,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Miért gúnyolja a gonosz az Istent?<br>Miért mondja szívében: »Nem kéred számon.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12101001400,
+                    "szep": "Zsolt 10,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Láttad ezt, hiszen te figyeled a kínt s a gyötrelmet,<br>juttasd tehát kezeidbe őket!<br>Terád bízta magát a szegény,<br>az árvának te lettél a segítője."
+            },
+            {
+                "hely": {
+                    "gepi": 12101001500,
+                    "szep": "Zsolt 10,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Törd össze a bűnös és a gonosz karját;<br>keresheted majd gonosztettüket, de nem találod."
+            },
+            {
+                "hely": {
+                    "gepi": 12101001600,
+                    "szep": "Zsolt 10,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Király az Úr örökkön-örökké,<br>kipusztultak országából a pogányok."
+            },
+            {
+                "hely": {
+                    "gepi": 12101001700,
+                    "szep": "Zsolt 10,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "A szegények kívánságát meghallgattad, Uram.<br>Megerősítetted szívüket és rájuk figyel füled,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101001800,
+                    "szep": "Zsolt 10,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy az árvának és az elnyomottnak igazságot tégy,<br>hogy ne hozzon többé rettegést a földből való ember."
+            }
+        ]
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 42"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104200000,
+                    "szep": "Zsolt 42,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az ún. második zsoltárkönyv (Zsolt 42-72) olyan zsoltárgyűjteménnyel kezdődik, amelyet a kóriták (Kóré fiai) írtak. Ebből a levita nemzedékből kerültek ki a kapuőrök és az énekesek a jeruzsálemi templomban (vö. Kiv 6,21; Szám 16-17). A 2 Krón 20,19 említi őket Jozafát király idejében (Kr. e. 871-848), amint »harsogó és hatalmas hangon« dicsőítik Istent. A 84-85. és a 87-88. zsoltárt is ők írták."
+                    },
+                    {
+                        "position": null,
+                        "text": "Amint a refrén is mutatja (42,6.12; 43,5), a két zsoltár egyetlen éneket képez, amely talán a fogság ideje alatt keletkezett. Az imádkozó feltehetően egy levita, aki kényszerűségből a távoli északon tartózkodik, melynek sem földjét, sem népét nem ismeri. Sóvárog a hívő közösség és a jeruzsálemi istentisztelet után. A gúny (»hol van a te Istened?«) és az elhagyatottság érzése azonban nem rendíti meg bizalmát."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Maszkíl, Kóré fiaitól.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12104200100,
+                    "szep": "Zsolt 42,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Amint a szarvas kívánkozik a forrás vizéhez,<br>úgy kívánkozik lelkem tehozzád, Istenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104200200,
+                    "szep": "Zsolt 42,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Isten színe előtt megjelenni: belépni a templomba."
+                    }
+                ],
+                "szoveg": "Szomjazza lelkem az erős, élő Istent:<br>mikor jutok oda, hogy Isten színe előtt megjelenjek?"
+            },
+            {
+                "hely": {
+                    "gepi": 12104200300,
+                    "szep": "Zsolt 42,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Éjjel-nappal könnyem a kenyerem,<br>hiszen napról-napra azt mondják nekem: »Hol van a te Istened?«"
+            },
+            {
+                "hely": {
+                    "gepi": 12104200400,
+                    "szep": "Zsolt 42,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A fordítás bizonytalan."
+                    }
+                ],
+                "szoveg": "Kiöntöm lelkemet és arra emlékezem,<br>hogyan vonultam a csodás hajlék helyére, az Isten házához<br>hangos ujjongással és hálaadással, az ünneplő sokasággal."
+            },
+            {
+                "hely": {
+                    "gepi": 12104200500,
+                    "szep": "Zsolt 42,5"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A vers utolsó szavai javított szöveget adnak vissza."
+                    }
+                ],
+                "szoveg": "Miért vagy szomorú, lelkem,<br>miért háborogsz bennem?<br>Bízzál Istenben, mert fogom még áldani őt,<br>arcom üdvösségét, az én Istenemet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104200600,
+                    "szep": "Zsolt 42,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A Hermon a Jordán forrásánál van, az Antilibanon legmagasabb hegye (kb. 2760 m); ősrégi kultuszhely. – Miszár: Cézárea Filippi közelében található. Lehetséges fordítás még: »Kis hegy« vagy »Szén hegy«."
+                    }
+                ],
+                "szoveg": "Lelkem elcsüggedt bennem, azért rád gondolok<br>a Jordán és a Hermon földjéről, a Miszár hegyéről."
+            },
+            {
+                "hely": {
+                    "gepi": 12104200700,
+                    "szep": "Zsolt 42,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örvény örvényt hív elő, amíg harsognak zuhatagjaid:<br>mind áthaladnak rajtam árjaid és hullámaid."
+            },
+            {
+                "hely": {
+                    "gepi": 12104200800,
+                    "szep": "Zsolt 42,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nappal kegyességét küldi nekem az Úr,<br>s éjjel neki szól énekem:<br>imádkozom éltem Istenéhez."
+            },
+            {
+                "hely": {
+                    "gepi": 12104200900,
+                    "szep": "Zsolt 42,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezt mondom Istennek: »Oltalmazóm,<br>miért feledkezel meg rólam?<br>Miért kell szomorúan járnom-kelnem,<br>miközben sanyargat engem ellenségem?«"
+            },
+            {
+                "hely": {
+                    "gepi": 12104201000,
+                    "szep": "Zsolt 42,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Amíg csontjaimat törve, gyaláznak elnyomóim,<br>és napról-napra azt mondják nekem: »Hol van a te Istened?«"
+            },
+            {
+                "hely": {
+                    "gepi": 12104201100,
+                    "szep": "Zsolt 42,11"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A vers utolsó része javított."
+                    }
+                ],
+                "szoveg": "Miért vagy szomorú, lelkem,<br>miért háborogsz bennem?<br>Bízzál Istenben, mert fogom még áldani őt,<br>arcom üdvösségét, az én Istenemet!"
+            }
+        ]
+    }
+}

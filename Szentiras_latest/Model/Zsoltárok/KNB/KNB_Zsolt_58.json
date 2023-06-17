@@ -1,0 +1,126 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 58"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105800000,
+                    "szep": "Zsolt 58,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egy ember segélykiáltása, aki nem tudja megakadályozni a hatalmasok hatalommal való visszaélését és a szociális igazságtalanságot. Istenhez fordul, és félreérthetetlen szavakkal figyelmezteti erre az elviselhetetlen helyzetre. A héber szöveg megrongálódott, néhol nehezen érthető. A királyok korai korszakában keletkezett."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. A »Ne semmisíts meg« szerint. Miktám Dávidtól.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12105800100,
+                    "szep": "Zsolt 58,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vajon valóban igazságot szóltok,<br>igazságos ítéletet hoztok, emberek fiai?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105800200,
+                    "szep": "Zsolt 58,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem! Szívetekben gonoszat műveltek,<br>kezetek igazságtalanságot sző a földön."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800300,
+                    "szep": "Zsolt 58,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Anyjuk méhétől fogva pártütők a gonoszok,<br>születésük óta tévelyegnek, hazugságot beszélnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800400,
+                    "szep": "Zsolt 58,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Süket áspis: vannak kígyók, amelyeket a kígyóbűvölő zenéje nem bűvöl el, és azt, aki megfogja őket, hirtelen megmarják."
+                    }
+                ],
+                "szoveg": "Olyan a mérgük, mint a kígyóé,<br>mint a süket áspisé, amely bezárja fülét,"
+            },
+            {
+                "hely": {
+                    "gepi": 12105800500,
+                    "szep": "Zsolt 58,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "és nem hallgat a bűvölők szavára,<br>sem az igézésben jártas varázslóéra."
+            },
+            {
+                "hely": {
+                    "gepi": 12105800600,
+                    "szep": "Zsolt 58,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az egyetlen vers a szövegben, ahol Isten közvetlenül működésbe lép."
+                    }
+                ],
+                "szoveg": "Isten! Törd össze a fogakat szájukban,<br>zúzd össze az oroszlánok fogait, Uram!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105800700,
+                    "szep": "Zsolt 58,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Folyjanak szét, mint a kiömlő víz,<br>száradjanak el, mint az eltaposott fű;"
+            },
+            {
+                "hely": {
+                    "gepi": 12105800800,
+                    "szep": "Zsolt 58,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mint a csiga, amely megszikkad, s kimúlik,<br>mint az asszony elvetélt magzata, aki nem látja meg a napot!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105800900,
+                    "szep": "Zsolt 58,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mielőtt még töviseik bokorrá nőnének,<br>haragjában elevenen elragadja őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12105801000,
+                    "szep": "Zsolt 58,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örvend majd az igaz, amikor látja a bosszút,<br>és a bűnösök vérében mossa lábait."
+            },
+            {
+                "hely": {
+                    "gepi": 12105801100,
+                    "szep": "Zsolt 58,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így szólnak majd az emberek: »Mégis van jutalma az igaznak,<br>Bizony, van Isten, aki igazságot szolgáltat nekik a földön!«"
+            }
+        ]
+    }
+}

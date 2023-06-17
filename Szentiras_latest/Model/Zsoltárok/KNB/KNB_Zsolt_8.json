@@ -1,0 +1,105 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 8"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100800000,
+                    "szep": "Zsolt 8,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Himnusz, valószínűleg a fogság előtti időkből. Istent dicséri és a teremtés nagyságáról beszél."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. A »Szőlőprések« dallama szerint. Dávid zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12100800100,
+                    "szep": "Zsolt 8,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, mi Urunk,<br>Milyen csodálatos neved szerte a világon!<br>Hisz az egeknél fenségesebb dicsőséged."
+            },
+            {
+                "hely": {
+                    "gepi": 12100800200,
+                    "szep": "Zsolt 8,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kisdedek és csecsemők szájával<br>hirdetteted dicséretedet ellenségeid előtt,<br>hogy tönkretedd az ellenséget s a bosszúra kelőt."
+            },
+            {
+                "hely": {
+                    "gepi": 12100800300,
+                    "szep": "Zsolt 8,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen ha nézem az eget, kezed művét,<br>a holdat és a csillagokat, amelyeket alkottál,"
+            },
+            {
+                "hely": {
+                    "gepi": 12100800400,
+                    "szep": "Zsolt 8,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "mi az ember, hogy figyelemre méltatod,<br>és mi az emberfia, hogy meglátogatod?"
+            },
+            {
+                "hely": {
+                    "gepi": 12100800500,
+                    "szep": "Zsolt 8,5"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A görög, a szír és a Vulgáta itt az »angyal« helyett »Istent« fordít. Ezt a helyet a Zsid 2,6-8 idézi; a levél szerzője ott még jobban kiemeli az ember méltóságát: az Emberfiára és annak üdvözítő művére vonatkoztatja."
+                    }
+                ],
+                "szoveg": "Kevéssel tetted őt kisebbé az angyaloknál,<br>dicsőséggel és tisztelettel koronáztad,"
+            },
+            {
+                "hely": {
+                    "gepi": 12100800600,
+                    "szep": "Zsolt 8,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "és kezed művei fölé állítottad.<br>Lába alá vetettél mindent:"
+            },
+            {
+                "hely": {
+                    "gepi": 12100800700,
+                    "szep": "Zsolt 8,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "minden juhot és marhát,<br>és hozzá a mezei vadakat,"
+            },
+            {
+                "hely": {
+                    "gepi": 12100800800,
+                    "szep": "Zsolt 8,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "az ég madarait s a tengeri halat,<br>mindazt, ami a tenger ösvényein jár."
+            },
+            {
+                "hely": {
+                    "gepi": 12100800900,
+                    "szep": "Zsolt 8,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, mi Urunk,<br>milyen csodálatos neved szerte a világon!"
+            }
+        ]
+    }
+}

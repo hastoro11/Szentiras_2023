@@ -1,0 +1,143 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 29"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102900000,
+                    "szep": "Zsolt 29,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Dávid zsoltára.) Adjátok meg az Úrnak, Isten gyermekei, adjátok meg az Úrnak a tiszteletet és a hatalmat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102900100,
+                    "szep": "Zsolt 29,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Dávid zsoltára.) Adjátok meg az Úrnak, Isten gyermekei, adjátok meg az Úrnak a tiszteletet és a hatalmat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102900200,
+                    "szep": "Zsolt 29,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adjátok meg az Úrnak a nevét megillető dicsőséget, és szent udvarában imádjátok az Urat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102900301,
+                    "szep": "Zsolt 29,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr szava a vizek fölött,"
+            },
+            {
+                "hely": {
+                    "gepi": 12102900302,
+                    "szep": "Zsolt 29,3"
+                },
+                "jegyzetek": [],
+                "szoveg": null
+            },
+            {
+                "hely": {
+                    "gepi": 12102900303,
+                    "szep": "Zsolt 29,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "az Úr a hatalmas vizek fölött."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900400,
+                    "szep": "Zsolt 29,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr szava tele erővel, az Úr szava tele fönséggel."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900500,
+                    "szep": "Zsolt 29,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr szava cédrusokat tördel, az Úr szilánkokra töri Libanon cédrusait."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900600,
+                    "szep": "Zsolt 29,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Libanont ugráltatja, mint valami borjút, Szirjont pedig, mint fiatal bikát."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900700,
+                    "szep": "Zsolt 29,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr szava tüzes villámot szór,"
+            },
+            {
+                "hely": {
+                    "gepi": 12102900800,
+                    "szep": "Zsolt 29,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "az Úr szava megremegteti a pusztát, az Úr megremegteti Kádes pusztáját."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900901,
+                    "szep": "Zsolt 29,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr szava tölgyeket csavar ki, és megritkítja az erdőket."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900902,
+                    "szep": "Zsolt 29,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "A dicsőség Istene mennydörög,"
+            },
+            {
+                "hely": {
+                    "gepi": 12102900903,
+                    "szep": "Zsolt 29,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "s templomában minden így kiált: Dicsőség!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102901000,
+                    "szep": "Zsolt 29,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr trónolt a vízözön felett, az Úr királyként trónol mindörökké."
+            },
+            {
+                "hely": {
+                    "gepi": 12102901100,
+                    "szep": "Zsolt 29,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr erőt ad népének, az Úr békével áldja meg népét."
+            }
+        ]
+    }
+}

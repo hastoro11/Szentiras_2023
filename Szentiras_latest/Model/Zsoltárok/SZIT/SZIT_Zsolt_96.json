@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 96"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109600100,
+                    "szep": "Zsolt 96,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Énekeljetek új éneket az Úrnak, minden föld zengjen dalt az Úrnak!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109600200,
+                    "szep": "Zsolt 96,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Énekeljetek az Úrnak és áldjátok nevét, naponként hirdessétek üdvösségét!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109600300,
+                    "szep": "Zsolt 96,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hirdessétek dicsőségét a pogányok között, csodatetteit minden nép előtt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109600400,
+                    "szep": "Zsolt 96,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nagy az Úr és méltó a dicséretre, félelmetesebb ő minden istennél."
+            },
+            {
+                "hely": {
+                    "gepi": 12109600500,
+                    "szep": "Zsolt 96,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A népek minden istene üres káprázat, az Úr azonban az ég alkotója."
+            },
+            {
+                "hely": {
+                    "gepi": 12109600600,
+                    "szep": "Zsolt 96,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Előtte fenség és méltóság, szentélyében hatalom s fényesség."
+            },
+            {
+                "hely": {
+                    "gepi": 12109600700,
+                    "szep": "Zsolt 96,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adjatok az Úrnak, népek törzsei, adjatok az Úrnak tiszteletet és hatalmat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109600800,
+                    "szep": "Zsolt 96,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adjátok meg az Úrnak neve tiszteletét! Ígérjetek áldozatot és hozzátok színe elé,"
+            },
+            {
+                "hely": {
+                    "gepi": 12109600900,
+                    "szep": "Zsolt 96,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "szent udvarában imádjátok az Urat! Minden föld remegjen előtte,"
+            },
+            {
+                "hely": {
+                    "gepi": 12109601000,
+                    "szep": "Zsolt 96,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "hirdessétek a pogányoknak: „Király az Úr!” Megszilárdította a földet, hogy ne inogjon, igazságosan kormányozza a népeket."
+            },
+            {
+                "hely": {
+                    "gepi": 12109601100,
+                    "szep": "Zsolt 96,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örüljön az ég, ujjongjon a föld, vele együtt zengjen a tenger s ami benne van!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109601200,
+                    "szep": "Zsolt 96,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vigadjon a rét és minden virága, örüljenek az erdő fái az Úr színe előtt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109601300,
+                    "szep": "Zsolt 96,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nézd, közeledik, jön, hogy kormányozza a földet. Igazságosan uralkodik majd a földkerekségen és hűségesen a népek fölött."
+            }
+        ]
+    }
+}

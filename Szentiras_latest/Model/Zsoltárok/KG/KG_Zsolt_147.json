@@ -1,0 +1,175 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 147"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114700100,
+                    "szep": "Zsolt 147,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek az Urat! Hiszen Istenünkről énekelni jó; hiszen őt dicsérni gyönyörűséges és illendő dolog!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114700200,
+                    "szep": "Zsolt 147,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr építi Jeruzsálemet, összegyűjti Izráelnek elűzötteit;"
+            },
+            {
+                "hely": {
+                    "gepi": 12114700300,
+                    "szep": "Zsolt 147,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meggyógyítja a megtört szívűeket, és bekötözi sebeiket."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700400,
+                    "szep": "Zsolt 147,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elrendeli a csillagok számát, és mindnyájokat nevéről nevezi."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700500,
+                    "szep": "Zsolt 147,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagy a mi Urunk és igen hatalmas, s bölcseségének nincsen határa."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700600,
+                    "szep": "Zsolt 147,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megtartja az Úr a nyomorultakat; a gonoszokat földig megalázza."
+            },
+            {
+                "hely": {
+                    "gepi": 12114700700,
+                    "szep": "Zsolt 147,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Énekeljetek az Úrnak hálaadással, pengessetek hárfát a mi Istenünknek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114700800,
+                    "szep": "Zsolt 147,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki beborítja az eget felhővel, esőt készít a föld számára, és füvet sarjaszt a hegyeken;"
+            },
+            {
+                "hely": {
+                    "gepi": 12114700900,
+                    "szep": "Zsolt 147,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki megadja táplálékát a baromnak, a holló-fiaknak, a melyek kárognak."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701000,
+                    "szep": "Zsolt 147,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem paripák erejében telik kedve, nem is a férfi lábszáraiban gyönyörködik;"
+            },
+            {
+                "hely": {
+                    "gepi": 12114701100,
+                    "szep": "Zsolt 147,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az őt félőkben gyönyörködik az Úr, a kik kegyelmében reménykednek."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701200,
+                    "szep": "Zsolt 147,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsőitsd Jeruzsálem az Urat! Dicsérd, oh Sion, a te Istenedet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114701300,
+                    "szep": "Zsolt 147,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert erősekké teszi kapuid zárait, s megáldja benned a te fiaidat."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701400,
+                    "szep": "Zsolt 147,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Békességet ád határaidnak, megelégít téged a legjobb búzával."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701500,
+                    "szep": "Zsolt 147,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Leküldi parancsolatát a földre, nagy hirtelen lefut az ő rendelete!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114701600,
+                    "szep": "Zsolt 147,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Olyan havat ád, mint a gyapjú, és szórja a deret, mint a port."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701700,
+                    "szep": "Zsolt 147,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Darabokban szórja le jegét: ki állhatna meg az ő fagya előtt?"
+            },
+            {
+                "hely": {
+                    "gepi": 12114701800,
+                    "szep": "Zsolt 147,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kibocsátja szavát s szétolvasztja őket; megindítja szelét s vizek folydogálnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12114701900,
+                    "szep": "Zsolt 147,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Közli igéit Jákóbbal, törvényeit s végzéseit Izráellel."
+            },
+            {
+                "hely": {
+                    "gepi": 12114702000,
+                    "szep": "Zsolt 147,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem tesz így egyetlen néppel sem; végzéseit sem tudatja velök. Dicsérjétek az Urat!"
+            }
+        ]
+    }
+}

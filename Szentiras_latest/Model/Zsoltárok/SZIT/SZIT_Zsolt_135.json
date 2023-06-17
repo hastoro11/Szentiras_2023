@@ -1,0 +1,183 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 135"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113500100,
+                    "szep": "Zsolt 135,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Alleluja!) Dicsőítsétek az Úr nevét, ti, az Úr szolgái, dicsérjétek és magasztaljátok őt,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113500200,
+                    "szep": "Zsolt 135,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "akik az Úr házában álltok, Isten házának csarnokaiban."
+            },
+            {
+                "hely": {
+                    "gepi": 12113500300,
+                    "szep": "Zsolt 135,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjátok az Urat, mert jó, magasztaljátok fölséges nevét!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113500400,
+                    "szep": "Zsolt 135,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert az Úr kiválasztotta Jákobot, tulajdonába vette Izraelt."
+            },
+            {
+                "hely": {
+                    "gepi": 12113500500,
+                    "szep": "Zsolt 135,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tudom jól, hogy nagy az Úr, a mi Istenünk, nagyobb, mint mind az istenek."
+            },
+            {
+                "hely": {
+                    "gepi": 12113500600,
+                    "szep": "Zsolt 135,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Amit az Úr akar, mindent végbevisz, a mennyben és a földön, a tengerben és a vizek mélyén."
+            },
+            {
+                "hely": {
+                    "gepi": 12113500700,
+                    "szep": "Zsolt 135,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő hoz felhőket a föld határairól, ő küldi a villámot és az esőt, ő indítja el a szelet rejtekéből."
+            },
+            {
+                "hely": {
+                    "gepi": 12113500800,
+                    "szep": "Zsolt 135,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lesújtott az egyiptomiak elsőszülötteire, kezdve az embertől, le az állatokig."
+            },
+            {
+                "hely": {
+                    "gepi": 12113500900,
+                    "szep": "Zsolt 135,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csodákat és jeleket hozott rád, Egyiptom, a fáraóra és minden szolgájára."
+            },
+            {
+                "hely": {
+                    "gepi": 12113501000,
+                    "szep": "Zsolt 135,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megvert sok pogány nemzetet, hatalmas királyokat leterített:"
+            },
+            {
+                "hely": {
+                    "gepi": 12113501100,
+                    "szep": "Zsolt 135,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szichont, az amoriták urát, és Ogot, Básán fejedelmét, Kánaán királyait mind."
+            },
+            {
+                "hely": {
+                    "gepi": 12113501200,
+                    "szep": "Zsolt 135,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Országukat népének, Izraelnek tulajdonába adta."
+            },
+            {
+                "hely": {
+                    "gepi": 12113501300,
+                    "szep": "Zsolt 135,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, neved fennmarad örökké, emléked nemzedékről nemzedékre, Uram!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113501400,
+                    "szep": "Zsolt 135,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert az Úr megőrzi népét, és megkönyörül szolgáin."
+            },
+            {
+                "hely": {
+                    "gepi": 12113501500,
+                    "szep": "Zsolt 135,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "A pogányok istenei arany és ezüst, emberi kéznek művei."
+            },
+            {
+                "hely": {
+                    "gepi": 12113501600,
+                    "szep": "Zsolt 135,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Van szájuk, de nem beszélnek, van szemük, de nem látnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12113501700,
+                    "szep": "Zsolt 135,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Van fülük, de nem hallanak és szájukban nincs lehelet."
+            },
+            {
+                "hely": {
+                    "gepi": 12113501800,
+                    "szep": "Zsolt 135,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hasonlók azokhoz, akik csinálták őket, és mindazokhoz, akik bíznak bennük."
+            },
+            {
+                "hely": {
+                    "gepi": 12113501900,
+                    "szep": "Zsolt 135,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Izrael háza, áldjátok az Urat, Áron háza, áldjátok az Urat,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113502000,
+                    "szep": "Zsolt 135,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lévi háza, áldjátok az Urat, ti istenfélők, áldjátok az Urat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113502100,
+                    "szep": "Zsolt 135,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott legyen a Sionon az Úr, ő, aki Jeruzsálemben lakik!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 47"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104700000,
+                    "szep": "Zsolt 47,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Kórah fiainak zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700100,
+                    "szep": "Zsolt 47,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ti népek, mind tapsoljatok, harsogó hangon ujjongjatok Isten előtt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104700200,
+                    "szep": "Zsolt 47,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert a felséges ÚR félelmetes, nagy király az egész földön."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700300,
+                    "szep": "Zsolt 47,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Népeket vet alánk, nemzeteket lábaink alá."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700400,
+                    "szep": "Zsolt 47,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kiválasztja a mi örökségünket, Jákób büszkeségét, akit szeret. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12104700500,
+                    "szep": "Zsolt 47,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Felvonul Isten ujjongás közben, kürtzengéssel jön az ÚR."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700600,
+                    "szep": "Zsolt 47,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zengjetek Istennek, zengjetek! Zengjetek királyunknak, zengjetek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104700700,
+                    "szep": "Zsolt 47,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert az egész föld királya Isten, zengjetek neki éneket!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104700800,
+                    "szep": "Zsolt 47,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten uralkodik a népeken, szent trónusán ül az Isten."
+            },
+            {
+                "hely": {
+                    "gepi": 12104700900,
+                    "szep": "Zsolt 47,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Összejöttek a népek előkelői Ábrahám Istenéhez, mert Istené a föld minden uralkodója, igen magasztos ő!"
+            }
+        ]
+    }
+}

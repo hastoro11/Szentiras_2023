@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 62"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106200000,
+                    "szep": "Zsolt 62,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek, Jedutun szerint; Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200100,
+                    "szep": "Zsolt 62,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak Istenben nyugoszik meg lelkem; tőle van az én szabadulásom."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200200,
+                    "szep": "Zsolt 62,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak ő az én kősziklám és szabadulásom; ő az én oltalmam, azért nem rendülök meg felettébb."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200300,
+                    "szep": "Zsolt 62,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meddig támadtok még egy ember ellen; meddig törtök ellene valamennyien, mint meghanyatlott fal és dűlő kerítés ellen?"
+            },
+            {
+                "hely": {
+                    "gepi": 12106200400,
+                    "szep": "Zsolt 62,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak arról tanácskoznak, mimódon vessék őt le méltóságából; szeretik a hazugságot; szájukkal áldanak, szívükben átkoznak. Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200500,
+                    "szep": "Zsolt 62,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak Istenben nyugodjál meg lelkem, mert tőle van reménységem."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200600,
+                    "szep": "Zsolt 62,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak ő az én kősziklám és szabadulásom; ő az én oltalmam, azért nem rendülök meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200700,
+                    "szep": "Zsolt 62,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istennél van szabadulásom és dicsőségem; az én erős kősziklám, az én menedékem Istenben van."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200800,
+                    "szep": "Zsolt 62,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bízzatok ő benne mindenkor, ti népek; öntsétek ki előtte szíveteket; Isten a mi menedékünk. Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200900,
+                    "szep": "Zsolt 62,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony hiábavalók a közembernek fiai és hazugok a főembernek fiai; ha mérőserpenyőbe vettetnek, mind alábbvalók a semminél."
+            },
+            {
+                "hely": {
+                    "gepi": 12106201000,
+                    "szep": "Zsolt 62,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne bízzatok zsarolt javakban, és rablott jószággal ne kevélykedjetek; a vagyonban, ha nő, ne bizakodjatok;"
+            },
+            {
+                "hely": {
+                    "gepi": 12106201100,
+                    "szep": "Zsolt 62,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egyszer szólott az Isten, kétszer hallottam ugyanazt, hogy a hatalom az Istené."
+            },
+            {
+                "hely": {
+                    "gepi": 12106201200,
+                    "szep": "Zsolt 62,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tiéd Uram a kegyelem is. Bizony te fizetsz meg mindenkinek az ő cselekedete szerint!"
+            }
+        ]
+    }
+}

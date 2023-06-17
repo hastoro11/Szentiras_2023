@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 61"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106100000,
+                    "szep": "Zsolt 61,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek hangszerre: Dávidé."
+            },
+            {
+                "hely": {
+                    "gepi": 12106100100,
+                    "szep": "Zsolt 61,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgasd meg, oh Isten, az én kiáltásomat; figyelmezzél az én könyörgésemre."
+            },
+            {
+                "hely": {
+                    "gepi": 12106100200,
+                    "szep": "Zsolt 61,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "E föld széléről kiáltok te hozzád; mert szívem elepedt: Vígy el engem innen a sziklára, a hova én nem jutok."
+            },
+            {
+                "hely": {
+                    "gepi": 12106100300,
+                    "szep": "Zsolt 61,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert te vagy az én menedékem, s erős tornyom az ellenség ellen."
+            },
+            {
+                "hely": {
+                    "gepi": 12106100400,
+                    "szep": "Zsolt 61,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hadd lakozzam a te sátorodban mindörökké; hadd meneküljek a te szárnyaid árnyéka alá! Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12106100500,
+                    "szep": "Zsolt 61,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert te, oh Isten, meghallgattad az én fogadásaimat; a te neved tisztelőinek örökségét megadtad nékem."
+            },
+            {
+                "hely": {
+                    "gepi": 12106100600,
+                    "szep": "Zsolt 61,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adj napokat a király napjaihoz, esztendeit nemzedékről nemzedékre nyujtsd."
+            },
+            {
+                "hely": {
+                    "gepi": 12106100700,
+                    "szep": "Zsolt 61,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten előtt lakozzék örökké; kegyelmedet és hűségedet rendeld ki, hogy őrizzék meg őt."
+            },
+            {
+                "hely": {
+                    "gepi": 12106100800,
+                    "szep": "Zsolt 61,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így éneklem majd a te nevedet szüntelen, hogy beteljesítsem az én fogadásaimat minden napon."
+            }
+        ]
+    }
+}

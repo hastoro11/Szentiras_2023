@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 63"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106300000,
+                    "szep": "Zsolt 63,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid zsoltára, mikor a Júda pusztájában volt."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300100,
+                    "szep": "Zsolt 63,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten! én Istenem vagy te, jó reggel kereslek téged; téged szomjúhoz lelkem, téged sóvárog testem a kiaszott, elepedt földön, a melynek nincs vize;"
+            },
+            {
+                "hely": {
+                    "gepi": 12106300200,
+                    "szep": "Zsolt 63,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy láthassalak téged a szent helyen, szemlélvén a te hatalmadat és dicsőségedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300300,
+                    "szep": "Zsolt 63,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen a te kegyelmed jobb az életnél: az én ajakim hadd dicsérjenek téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300400,
+                    "szep": "Zsolt 63,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldanálak ezért életem fogytáig; a te nevedben emelném fel kezeimet."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300500,
+                    "szep": "Zsolt 63,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mintha zsírral és kövérséggel telnék meg lelkem, mikor víg ajakkal dicsérhet téged az én szájam!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106300600,
+                    "szep": "Zsolt 63,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha reád gondolok ágyamban: őrváltásról őrváltásra rólad elmélkedem;"
+            },
+            {
+                "hely": {
+                    "gepi": 12106300700,
+                    "szep": "Zsolt 63,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert segítségem voltál, és a te szárnyaidnak árnyékában örvendeztem."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300800,
+                    "szep": "Zsolt 63,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ragaszkodik hozzád az én lelkem; a te jobbod megtámogat engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12106300900,
+                    "szep": "Zsolt 63,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azok pedig, a kik veszedelemre keresik lelkemet, a föld mélységeibe jutnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12106301000,
+                    "szep": "Zsolt 63,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szablya martalékaiul esnek el, és a rókáknak lesznek eledelei."
+            },
+            {
+                "hely": {
+                    "gepi": 12106301100,
+                    "szep": "Zsolt 63,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "A király pedig örvendezni fog Istenben; dicséri őt mindaz, a ki ő reá esküszik; mert bedugatik a hazugok szája."
+            }
+        ]
+    }
+}

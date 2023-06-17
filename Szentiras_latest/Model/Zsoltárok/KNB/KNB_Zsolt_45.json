@@ -1,0 +1,193 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 45"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104500000,
+                    "szep": "Zsolt 45,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Királyi menyegzős ének, amely valószínűleg a királyok korszakának végén keletkezett. Először a királyt (3-10), aztán a királynét énekli meg (11-16). Az ÚSz ezt a zsoltárt messiási szövegként értelmezi (Zsid 1,8-9): a királyi vőlegény Krisztus, a királyi menyasszony Isten Izraelje, az Egyház. A zsoltár ebben az értelmezésben az eszményi királyt dicsőíti."
+                    },
+                    {
+                        "position": null,
+                        "text": "Kóré fiai: vö. 42,1-49,21."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. A »Liliomok« szerint. Kóré fiaitól.<br>Maszkíl. Szerelmes ének.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12104500100,
+                    "szep": "Zsolt 45,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szívem ünnepi szózattól árad,<br>a királynak zengem dalomat.<br>Nyelvem, mint a gyorsíró vesszeje."
+            },
+            {
+                "hely": {
+                    "gepi": 12104500200,
+                    "szep": "Zsolt 45,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ékesebb vagy az emberek fiainál,<br>kedvesség ömlik el ajkadon,<br>azért áldott meg téged örökre az Isten."
+            },
+            {
+                "hely": {
+                    "gepi": 12104500300,
+                    "szep": "Zsolt 45,3"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Izrael királyai kardot fogtak, de nem nemzeti éredekből vagy saját érdekeik miatt harcoltak, hanem a jogért, az igazságért és a szegényekért."
+                    }
+                ],
+                "szoveg": "Kösd fel derekadra kardodat, te hős,<br>dicsőségedet és ékességedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12104500400,
+                    "szep": "Zsolt 45,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kelj útra ékességedben és haladj diadallal<br>a hűségért, a szelídségért és az igazságért.<br>Csodákra tanítson jobb kezed:"
+            },
+            {
+                "hely": {
+                    "gepi": 12104500500,
+                    "szep": "Zsolt 45,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "hegyes nyilaid népeket terítenek le eléd<br>a király ellenségeinek szívébe hatolnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12104500600,
+                    "szep": "Zsolt 45,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. Zsid 1,8-9."
+                    }
+                ],
+                "szoveg": "Királyi trónod, Isten, örökké áll,<br>kormánypálcád az igazság pálcája."
+            },
+            {
+                "hely": {
+                    "gepi": 12104500700,
+                    "szep": "Zsolt 45,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szereted az igazságot, gyűlölöd a gonoszságot,<br>azért kent fel téged Isten, a te Istened,<br>az öröm olajával, társaid felett."
+            },
+            {
+                "hely": {
+                    "gepi": 12104500800,
+                    "szep": "Zsolt 45,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mirha, áloé és kasszia árad ruháidból,<br>elefántcsont-palotákból hárfa gyönyörködtet."
+            },
+            {
+                "hely": {
+                    "gepi": 12104500900,
+                    "szep": "Zsolt 45,9"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ofír: egy ország, talán Dél-Arábiában vagy a vele szemben lévő afrikai tengerparton volt (vö. 1Kir 9,27-28) A szövegben a vers első része javított."
+                    }
+                ],
+                "szoveg": "Királyleányok vannak díszes udvarodban;<br>jobbodon a királyné áll, Ofír aranyától ékesen."
+            },
+            {
+                "hely": {
+                    "gepi": 12104501000,
+                    "szep": "Zsolt 45,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Halljad, leányom, figyelj, hajtsd ide füledet,<br>feledd el népedet és atyád házát."
+            },
+            {
+                "hely": {
+                    "gepi": 12104501100,
+                    "szep": "Zsolt 45,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Íme, a király kívánja szépségedet.<br>Hiszen ő a te urad, hódolj előtte."
+            },
+            {
+                "hely": {
+                    "gepi": 12104501200,
+                    "szep": "Zsolt 45,12"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A görög szöveg alapján fordítva."
+                    }
+                ],
+                "szoveg": "Ajándékkal esdik majd tekintetedet Tírusz leányai,<br>s valamennyien a nép gazdagjai."
+            },
+            {
+                "hely": {
+                    "gepi": 12104501300,
+                    "szep": "Zsolt 45,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Belül csupa szépség a király leánya,<br>kívül arannyal átszőtt ruha takarja."
+            },
+            {
+                "hely": {
+                    "gepi": 12104501400,
+                    "szep": "Zsolt 45,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hímzett öltözetben vezetik a királyhoz,<br>szűz társnői követik, hozzád vezetik őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12104501500,
+                    "szep": "Zsolt 45,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örvendezve, ujjongással bevezetik őket,<br>bevonulnak a király házába."
+            },
+            {
+                "hely": {
+                    "gepi": 12104501600,
+                    "szep": "Zsolt 45,16"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A keresztény hagyomány a »fejedelem« szót az apostolokra vonatkoztatja."
+                    }
+                ],
+                "szoveg": "Atyáid helyébe fiaid születnek,<br>az egész világ fejedelmeivé teszed őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12104501700,
+                    "szep": "Zsolt 45,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megemlékezem nevedről mindenkor, nemzedékről-nemzedékre,<br>s dicsérni fognak érte a népek mindenkor és örökkön-örökké."
+            }
+        ]
+    }
+}

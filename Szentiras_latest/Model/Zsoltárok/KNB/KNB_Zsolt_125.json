@@ -1,0 +1,83 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 125"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112500000,
+                    "szep": "Zsolt 125,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A fogság utáni közösség bizaloméneke."
+                    }
+                ],
+                "szoveg": "<em>Zarándok-ének.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12112500100,
+                    "szep": "Zsolt 125,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A fogság utáni közösség bizaloméneke."
+                    }
+                ],
+                "szoveg": "Aki az Úrban bízik, olyan, mint a Sion hegye:<br>meg nem inog, örökre megmarad."
+            },
+            {
+                "hely": {
+                    "gepi": 12112500200,
+                    "szep": "Zsolt 125,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jeruzsálemet hegyek övezik,<br>népét pedig az Úr veszi körül<br>most és mindörökké."
+            },
+            {
+                "hely": {
+                    "gepi": 12112500300,
+                    "szep": "Zsolt 125,3"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ellenség támad az országra, amelyet Isten az »igazaknak« adott örökségül (vö. Mt 5,5)."
+                    }
+                ],
+                "szoveg": "Mert nem marad meg a gonoszság jogara<br>az igazak osztályrészén,<br>nehogy az igazak is gonoszságra nyújtsák kezüket."
+            },
+            {
+                "hely": {
+                    "gepi": 12112500400,
+                    "szep": "Zsolt 125,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az összegyűltek kérik Istent, segítse a hűségeseket, a hűtlenné váltakat pedig mint ellenséget űzze el. A kérés mögött nemcsak az ellenséges uralom kritikája húzódik meg, hanem az a remény is, hogy vége lesz az idegen uralomnak, hogy Isten békét ajándékoz országának."
+                    }
+                ],
+                "szoveg": "Tégy jót, Uram, a jókkal<br>és az igazszívűekkel,"
+            },
+            {
+                "hely": {
+                    "gepi": 12112500500,
+                    "szep": "Zsolt 125,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "de azokat, akik görbe utakra térnek,<br>sodorja el az Úr a gonosztevőkkel!<br>Békesség legyen Izraelen!"
+            }
+        ]
+    }
+}

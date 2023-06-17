@@ -1,0 +1,154 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 19"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101900000,
+                    "szep": "Zsolt 19,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Két liturgikus ének, amelyikből az egyik (1-7) a királyok korában, a másik (8-15) a fogság utáni időkben keletkezett. A két szöveg összekapcsolásával egy dicsőítő ének született, melyben az ember Isten nagy tetteit magasztalja: Isten aki meghatározta a teremtés rendjét, bölcsességet ad az embernek."
+                    },
+                    {
+                        "position": null,
+                        "text": "Isten nagysága fölfoghatatlan; az egész teremtés megmutatja őt; Isten hangja nem hallható, mégis lehetetlen nem meghallani. A nap és a csillagok nem istenek, hanem az egy Isten alkotásai (vö. 2Kir 23,5.11)"
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Dávid zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12101900100,
+                    "szep": "Zsolt 19,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten dicsőségét beszélik az egek,<br>és keze művét hirdeti az égbolt."
+            },
+            {
+                "hely": {
+                    "gepi": 12101900200,
+                    "szep": "Zsolt 19,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezt harsogja az egyik nap a másiknak,<br>erre tanítja az egyik éj a másikat."
+            },
+            {
+                "hely": {
+                    "gepi": 12101900300,
+                    "szep": "Zsolt 19,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem sustorgással, nem dadogással,<br>hogy ne lehetne érteni őket:"
+            },
+            {
+                "hely": {
+                    "gepi": 12101900400,
+                    "szep": "Zsolt 19,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A görög szöveg alapján javítva. Vö. Róm 10,18."
+                    }
+                ],
+                "szoveg": "az egész földre elhat szózatuk,<br>s a földkerekség határaira szavuk."
+            },
+            {
+                "hely": {
+                    "gepi": 12101900500,
+                    "szep": "Zsolt 19,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bennük ütötte fel a napnak sátrát,<br>s az, mint a vőlegény, kilép nászházából,<br>mint a hős, ujjongva indul neki útjának."
+            },
+            {
+                "hely": {
+                    "gepi": 12101900600,
+                    "szep": "Zsolt 19,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ég egyik szélén kel föl,<br>és útja annak másik széléig jut el,<br>és nincs, aki melege elől elrejthetné magát."
+            },
+            {
+                "hely": {
+                    "gepi": 12101900700,
+                    "szep": "Zsolt 19,7"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Tanítóének. Minden átmenet nélkül fűzték az előzőkhöz. A Törvény dicséretét tudatosan párhuzamba állítja a teremtés dicséretével."
+                    }
+                ],
+                "szoveg": "Szeplőtelen az Úr törvénye,<br>felüdíti a lelket,<br>az Úr rendelete megbízható,<br>bölcsességet ad a kisdedeknek."
+            },
+            {
+                "hely": {
+                    "gepi": 12101900800,
+                    "szep": "Zsolt 19,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egyenesek az Úr végzései,<br>vidámmá teszik a szívet,<br>világos az Úr parancsa,<br>felvilágosítja a szemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12101900900,
+                    "szep": "Zsolt 19,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr félelme tiszta,<br>örökkön-örökké megmarad,<br>igazak az Úr ítéletei,<br>egytől-egyig igazságosak."
+            },
+            {
+                "hely": {
+                    "gepi": 12101901000,
+                    "szep": "Zsolt 19,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kívánatosabbak az aranynál,<br>és megannyi drágakőnél,<br>édesebbek a méznél,<br>meg a csepegő lépes méznél."
+            },
+            {
+                "hely": {
+                    "gepi": 12101901100,
+                    "szep": "Zsolt 19,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szolgád meg is tartja őket,<br>megtartásuk jutalma bőséges."
+            },
+            {
+                "hely": {
+                    "gepi": 12101901200,
+                    "szep": "Zsolt 19,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki veszi észre a vétkeket?<br>Tisztíts meg titkos bűneimtől,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101901300,
+                    "szep": "Zsolt 19,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "és a kevélységtől mentsd meg szolgádat,<br>ne uralkodjék rajtam.<br>Akkor szeplőtelen leszek,<br>s a nagy vétektől tiszta maradok."
+            },
+            {
+                "hely": {
+                    "gepi": 12101901400,
+                    "szep": "Zsolt 19,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hadd legyen kedves előtted szám beszéde,<br>és szívem elmélkedése mindenkor.<br>Uram, én segítőm, én üdvözítőm!"
+            }
+        ]
+    }
+}

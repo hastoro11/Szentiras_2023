@@ -1,0 +1,275 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 73"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107300000,
+                    "szep": "Zsolt 73,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zsoltárok harmadik könyve (73-79. zsoltár) nagyobbrészt Ászáf és Kóré fiainak zsoltáraiból áll. Ez a csoport egy tanítókölteménnyel kezdődik, amely valószínűleg a perzsa idők vége felé keletkezett, és a szövetség megújításának liturgiájában használták. A költő személyes problémája is ott feszül a kérdésben: hogyan élhetnek a bűnösök jólétben és az igazak ínségben?"
+                    },
+                    {
+                        "position": null,
+                        "text": "Ászáf: vö. 50,1."
+                    }
+                ],
+                "szoveg": "<em>Ászáf zsoltára.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12107300100,
+                    "szep": "Zsolt 73,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zsoltárok harmadik könyve (73-79. zsoltár) nagyobbrészt Ászáf és Kóré fiainak zsoltáraiból áll. Ez a csoport egy tanítókölteménnyel kezdődik, amely valószínűleg a perzsa idők vége felé keletkezett, és a szövetség megújításának liturgiájában használták. A költő személyes problémája is ott feszül a kérdésben: hogyan élhetnek a bűnösök jólétben és az igazak ínségben?"
+                    },
+                    {
+                        "position": null,
+                        "text": "Ászáf: vö. 50,1."
+                    }
+                ],
+                "szoveg": "Milyen jó az Isten az igazakhoz,<br>azokhoz, akik tiszta szívűek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107300200,
+                    "szep": "Zsolt 73,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az én lábam mégis majdnem megingott,<br>majdnem megtántorodott lépésem,"
+            },
+            {
+                "hely": {
+                    "gepi": 12107300300,
+                    "szep": "Zsolt 73,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "mert elfogott a kérkedőkkel szemben az irigység,<br>amikor a bűnösök jólétét láttam."
+            },
+            {
+                "hely": {
+                    "gepi": 12107300400,
+                    "szep": "Zsolt 73,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hisz nincs akadály az útjukban,<br>testük egészséges és kövér."
+            },
+            {
+                "hely": {
+                    "gepi": 12107300500,
+                    "szep": "Zsolt 73,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem viselik a halandók nyomorúságát,<br>az embereket sújtó csapások nem érik őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12107300600,
+                    "szep": "Zsolt 73,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezért kevélység a nyakláncuk,<br>és az erőszakosság mint köntös borítja őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12107300700,
+                    "szep": "Zsolt 73,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mintha a zsírjukból fakadna a gonoszság,<br>úgy tör elő szívükből a gondolat."
+            },
+            {
+                "hely": {
+                    "gepi": 12107300800,
+                    "szep": "Zsolt 73,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Álnokságot terveznek és gúnyolódnak,<br>fennhéjázva erőszakot hirdetnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12107300900,
+                    "szep": "Zsolt 73,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Felnyitják szájukat az ég ellen,<br>és jártatják nyelvüket a földieken."
+            },
+            {
+                "hely": {
+                    "gepi": 12107301000,
+                    "szep": "Zsolt 73,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezért magasan ülnek<br>és a víz árja nem éri el őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12107301100,
+                    "szep": "Zsolt 73,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azt mondják: »Hogy lenne erre gondja Istennek,<br>hogy is lenne tudomása erről a Fölségesnek?«"
+            },
+            {
+                "hely": {
+                    "gepi": 12107301200,
+                    "szep": "Zsolt 73,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Íme, ők bűnösök, életük folyamán mégis bővelkednek,<br>és megsokszorozzák gazdagságukat."
+            },
+            {
+                "hely": {
+                    "gepi": 12107301300,
+                    "szep": "Zsolt 73,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azt gondoltam: »Hiába tartottam hát tisztán szívemet,<br>mostam kezem az ártatlanságban,"
+            },
+            {
+                "hely": {
+                    "gepi": 12107301400,
+                    "szep": "Zsolt 73,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "hisz mindennap ostort szenvedek,<br>és fenyíték ér minden reggel!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12107301500,
+                    "szep": "Zsolt 73,15"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Javítva a szír és az arám fordítás alapján."
+                    }
+                ],
+                "szoveg": "De ha azt mondanám: »Én is úgy beszélek, mint ők!«,<br>íme, árulója lennék fiaid nemzetségének."
+            },
+            {
+                "hely": {
+                    "gepi": 12107301600,
+                    "szep": "Zsolt 73,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gondolkoztam, hogy megértsem ezt,<br>de nehéz volt nekem,"
+            },
+            {
+                "hely": {
+                    "gepi": 12107301700,
+                    "szep": "Zsolt 73,17"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Szentély: elsősorban nem a templomba való belépést, hanem az Isten titkába való behatolást érti alatta."
+                    }
+                ],
+                "szoveg": "amíg be nem mentem Isten szentélyébe,<br>és meg nem értettem végső sorsukat."
+            },
+            {
+                "hely": {
+                    "gepi": 12107301800,
+                    "szep": "Zsolt 73,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony, síkos talajra állítottad őket<br>és romlásba veted."
+            },
+            {
+                "hely": {
+                    "gepi": 12107301900,
+                    "szep": "Zsolt 73,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy elpusztulnak egy szempillantás alatt!<br>Elvesznek a félelemtől."
+            },
+            {
+                "hely": {
+                    "gepi": 12107302000,
+                    "szep": "Zsolt 73,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mint ahogy az ébredő álma elenyészik, Uram,<br>úgy tünteted el képüket, ha felkelsz."
+            },
+            {
+                "hely": {
+                    "gepi": 12107302100,
+                    "szep": "Zsolt 73,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert keserűség fogta el szívemet,<br>fájdalom hasogatta vesémet;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107302200,
+                    "szep": "Zsolt 73,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Esztelen voltam és értelmetlen,<br>oktalan állatként viselkedtem előtted."
+            },
+            {
+                "hely": {
+                    "gepi": 12107302300,
+                    "szep": "Zsolt 73,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "De én mindenkor veled maradok,<br>mert te megfogtad jobbomat."
+            },
+            {
+                "hely": {
+                    "gepi": 12107302400,
+                    "szep": "Zsolt 73,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tanácsoddal vezetsz,<br>S aztán dicsőségre emelsz."
+            },
+            {
+                "hely": {
+                    "gepi": 12107302500,
+                    "szep": "Zsolt 73,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen kim van az égben,<br>és miben lelném a földön kedvemet rajtad kívül?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107302600,
+                    "szep": "Zsolt 73,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "Érje bár testemet, szívemet enyészet,<br>szívem Istene s osztályrészem mindörökké az Isten."
+            },
+            {
+                "hely": {
+                    "gepi": 12107302700,
+                    "szep": "Zsolt 73,27"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert akik eltávoznak tőled, íme, elpusztulnak,<br>megsemmisíted mindazokat, akik hűtlenül elhagynak téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12107302800,
+                    "szep": "Zsolt 73,28"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nekem azonban jó az Isten közelében,<br>az Úrban, az én Istenemben bíznom,<br>és hirdetnem minden művedet<br>Sion leányának kapuiban."
+            }
+        ]
+    }
+}

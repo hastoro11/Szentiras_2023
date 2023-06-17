@@ -1,0 +1,129 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 5"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100500000,
+                    "szep": "Zsolt 5,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyéni panaszdal a babiloni fogság utáni időkből. A reggeli áldozatnál a templomban egy üldözött elpanaszolja esetét Isten előtt. Rövid, türelmetlen, Istenhez intézett szavakkal kezdődik, akit ő – és ezt külön hangsúlyozza – már reggel felkeres."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Fuvolára. Dávid zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12100500100,
+                    "szep": "Zsolt 5,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Figyelj szavamra, Uram,<br>halld meg panaszomat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100500200,
+                    "szep": "Zsolt 5,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Méltasd figyelmedre kiáltásomat,<br>én királyom és én Istenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100500300,
+                    "szep": "Zsolt 5,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert hozzád intézem imádságomat,<br>Uram, halld meg hajnalban szavamat,<br>korán reggel eléd állok és rád vetem pillantásom."
+            },
+            {
+                "hely": {
+                    "gepi": 12100500400,
+                    "szep": "Zsolt 5,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Isten előtt csak az igaz ember állhat meg."
+                    }
+                ],
+                "szoveg": "Bizony, Istenem, te nem kedveled a gonoszságot;<br>Gonosz ember melletted nem marad meg,"
+            },
+            {
+                "hely": {
+                    "gepi": 12100500500,
+                    "szep": "Zsolt 5,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "a hamisak nem állhatnak meg szemed előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12100500600,
+                    "szep": "Zsolt 5,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gyűlölöd valamennyi gonosztevőt,<br>a hazudozókat mind elpusztítod.<br>Utálja az Úr a vérontó s álnok embert."
+            },
+            {
+                "hely": {
+                    "gepi": 12100500700,
+                    "szep": "Zsolt 5,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én azonban nagy irgalmadban bízva,<br>bemegyek hajlékodba;<br>Irántad való félelemmel leborulok szent templomod előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12100500800,
+                    "szep": "Zsolt 5,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, vezess engem igazságodban, ha rám tör ellenségem,<br>tedd egyenessé előttem utadat."
+            },
+            {
+                "hely": {
+                    "gepi": 12100500900,
+                    "szep": "Zsolt 5,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert szájukban nincs igazság,<br>a szívük hiábavalóság,<br>a torkuk nyitott sír, nyelvük járása álnok."
+            },
+            {
+                "hely": {
+                    "gepi": 12100501000,
+                    "szep": "Zsolt 5,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten, mondd ki fölöttük ítéletedet,<br>saját terveikben bukjanak meg!<br>Sok istentelenségük miatt űzd el őket,<br>mert haragra ingereltek téged, Uram."
+            },
+            {
+                "hely": {
+                    "gepi": 12100501100,
+                    "szep": "Zsolt 5,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "De örvendezzenek azok, akik benned bíznak,<br>oltalmazd őket és megdicsőülnek benned,<br>akik szeretik neved."
+            },
+            {
+                "hely": {
+                    "gepi": 12100501200,
+                    "szep": "Zsolt 5,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert te, Uram, az igazakat megáldod,<br>jóakaratodat pajzsként borítod rájuk."
+            }
+        ]
+    }
+}

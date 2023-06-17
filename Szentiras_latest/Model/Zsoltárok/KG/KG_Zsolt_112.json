@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 112"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111200100,
+                    "szep": "Zsolt 112,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek az Urat. <br>Boldog az ember, a ki féli az Urat, és az ő parancsolataiban igen gyönyörködik."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200200,
+                    "szep": "Zsolt 112,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hős lesz annak magva a földön; a hívek nemzedéke megáldatik."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200300,
+                    "szep": "Zsolt 112,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gazdagság és bőség lesz annak házában, s igazsága mindvégig megmarad."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200400,
+                    "szep": "Zsolt 112,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az igazakra világosság fénylik a sötétben: attól a ki irgalmas, kegyelmes és igaz."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200500,
+                    "szep": "Zsolt 112,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jó annak az embernek, a ki könyörül és kölcsön ad; dolgait pedig igazán végezi."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200600,
+                    "szep": "Zsolt 112,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mivelhogy soha sem ingadoz: örök emlékezetben lesz az igaz."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200700,
+                    "szep": "Zsolt 112,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Semmi rossz hírtől nem fél; szíve erős, az Úrban bizakodó."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200800,
+                    "szep": "Zsolt 112,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rendületlen az ő szíve; nem fél, míglen ellenségeire lenéz."
+            },
+            {
+                "hely": {
+                    "gepi": 12111200900,
+                    "szep": "Zsolt 112,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Osztogat, adakozik a szegényeknek; igazsága megmarad mindvégig; az ő szarva felemeltetik dicsőséggel."
+            },
+            {
+                "hely": {
+                    "gepi": 12111201000,
+                    "szep": "Zsolt 112,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Látja ezt a gonosz és dühöng; fogait csikorgatja és eleped; a gonoszok kivánsága semmivé lesz."
+            }
+        ]
+    }
+}

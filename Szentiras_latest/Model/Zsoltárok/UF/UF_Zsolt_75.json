@@ -1,0 +1,103 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 75"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107500000,
+                    "szep": "Zsolt 75,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: A „Ne veszíts el” kezdetű ének dallamára. Ászáf zsoltáréneke."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500100,
+                    "szep": "Zsolt 75,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztalunk, ó, Isten, magasztalunk téged, mert közel van neved azokhoz, akik hirdetik csodáidat."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500200,
+                    "szep": "Zsolt 75,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én állapítom meg azt az időt, amikor igazságot szolgáltatok."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500300,
+                    "szep": "Zsolt 75,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha meginog a föld és minden lakója, én megszilárdítom oszlopait! (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12107500400,
+                    "szep": "Zsolt 75,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A kérkedőknek ezt mondom: Ne kérkedjetek! A bűnösöknek pedig: Ne legyetek fennhéjázók!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107500500,
+                    "szep": "Zsolt 75,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne legyetek olyan fennhéjázók, ne beszéljetek nyakasan, gőgösen!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107500600,
+                    "szep": "Zsolt 75,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nem keletről, nem nyugatról, nem is a puszta felől jön a fölmagasztalás,"
+            },
+            {
+                "hely": {
+                    "gepi": 12107500700,
+                    "szep": "Zsolt 75,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "hanem Isten fog ítélni: egyiket megalázza, másikat fölmagasztalja."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500800,
+                    "szep": "Zsolt 75,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert pohár van az ÚR kezében, tele habzó, fűszeres borral. Ha tölt belőle, meg kell inni, még a seprőjét is le kell nyelni minden bűnösnek a földön."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500900,
+                    "szep": "Zsolt 75,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezt én mindenkor hirdetni fogom, és zsoltárt zengek Jákób Istenének."
+            },
+            {
+                "hely": {
+                    "gepi": 12107501000,
+                    "szep": "Zsolt 75,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A fennhéjázó bűnösöket összetöröm, de az igazakat felmagasztalom!"
+            }
+        ]
+    }
+}

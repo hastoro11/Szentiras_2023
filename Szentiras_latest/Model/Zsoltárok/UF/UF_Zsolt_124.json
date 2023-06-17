@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 124"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112400000,
+                    "szep": "Zsolt 124,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zarándokének. Dávidé."
+            },
+            {
+                "hely": {
+                    "gepi": 12112400100,
+                    "szep": "Zsolt 124,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha nem lett volna velünk az ÚR - vallja meg ezt Izráel! -,"
+            },
+            {
+                "hely": {
+                    "gepi": 12112400200,
+                    "szep": "Zsolt 124,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "ha nem lett volna velünk az ÚR, amikor ránk támadtak az emberek,"
+            },
+            {
+                "hely": {
+                    "gepi": 12112400300,
+                    "szep": "Zsolt 124,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "akkor elevenen nyeltek volna el bennünket, úgy fellángolt haragjuk ellenünk."
+            },
+            {
+                "hely": {
+                    "gepi": 12112400400,
+                    "szep": "Zsolt 124,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akkor elsodortak volna a vizek, átcsapott volna rajtunk az áradat."
+            },
+            {
+                "hely": {
+                    "gepi": 12112400500,
+                    "szep": "Zsolt 124,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Átcsaptak volna rajtunk a tajtékzó vizek."
+            },
+            {
+                "hely": {
+                    "gepi": 12112400600,
+                    "szep": "Zsolt 124,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott az ÚR, aki nem adott oda minket martalékul fogaiknak!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112400700,
+                    "szep": "Zsolt 124,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkünk megmenekült, mint a madár a madarász tőréből. A tőr összetört, és mi megmenekültünk."
+            },
+            {
+                "hely": {
+                    "gepi": 12112400800,
+                    "szep": "Zsolt 124,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "A mi segítségünk az ÚR nevében van, aki az eget és a földet alkotta."
+            }
+        ]
+    }
+}

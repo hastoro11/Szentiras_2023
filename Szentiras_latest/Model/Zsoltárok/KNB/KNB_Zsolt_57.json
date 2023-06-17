@@ -1,0 +1,130 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 57"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105700000,
+                    "szep": "Zsolt 57,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Könyörgő ének a királyok idejéből, később dolgozták be egy könyörgő formulába. Egy ártatlanul üldözött ember a bírósági döntés előtt vádlóival együtt egy éjszakát a templomban tölt. Isten kegyelmét kéri, akinek jóindulatú ítéletében bizonyos. A szöveg három részből áll (2-3.5-7.8-11), ezek mindegyike invokációval, könyörgéssel fejeződik be (4.6.12)."
+                    },
+                    {
+                        "position": null,
+                        "text": "Dávid menekülése, vö. 1 Sám 22,1; 24,4."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. A »Ne semmisíts meg« szerint. Miktám Dávidtól. Amikor Saul elől a barlangba menekült.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12105700100,
+                    "szep": "Zsolt 57,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Szárnyad: a szövetség ládája fölött a templomban két aranykerub áll, amelyek a szárnyaikat a láda fölé terjesztik (vö. Kiv 25,18-22). Ezt a helyet tekintették a kinyilatkoztatás helyének; itt, a templom védelmében az üldözött biztonságban érezheti magát."
+                    }
+                ],
+                "szoveg": "Könyörülj rajtam, Istenem, könyörülj rajtam,<br>mert beléd vetem bizalmamat,<br>és szárnyad árnyékában húzom meg magam,<br>amíg a veszedelem elvonul."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700200,
+                    "szep": "Zsolt 57,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "A fölséges Istenhez kiáltok,<br>Istenhez, aki jót cselekszik velem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700300,
+                    "szep": "Zsolt 57,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az égből küld szabadulást nekem,<br>és gyalázatba taszítja azokat, akik taposnak rajtam.<br>Isten elküldi irgalmát és hűségét."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700400,
+                    "szep": "Zsolt 57,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkem az oroszlánok kölykei közt hever,<br>amelyek felfalják az emberek fiait.<br>Foguk lándzsa és nyíl,<br>nyelvük élesre fent szablya."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700500,
+                    "szep": "Zsolt 57,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaltassék föl Isten az egek fölé,<br>és dicsőséged minden föld fölé!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105700600,
+                    "szep": "Zsolt 57,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hálót kerítettek lábamnak,<br>és megaláztak engem;<br>Vermet ástak nekem,<br>de ők maguk estek bele."
+            },
+            {
+                "hely": {
+                    "gepi": 12105700700,
+                    "szep": "Zsolt 57,7"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. 108,2-6."
+                    }
+                ],
+                "szoveg": "Kész az én szívem, Istenem, kész az én szívem,"
+            },
+            {
+                "hely": {
+                    "gepi": 12105700800,
+                    "szep": "Zsolt 57,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "éneklek és zsoltárt zengek!<br>Ébredj fel, dicsőségem,<br>ébredjen a hárfa és a lant!<br>Hadd keltsem fel a hajnalt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105700900,
+                    "szep": "Zsolt 57,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hálát adok neked, Uram, a népek között,<br>zsoltárral dicsérlek a nemzetek között,"
+            },
+            {
+                "hely": {
+                    "gepi": 12105701000,
+                    "szep": "Zsolt 57,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "mert irgalmad felér az egekig,<br>és hűséged a fellegekig."
+            },
+            {
+                "hely": {
+                    "gepi": 12105701100,
+                    "szep": "Zsolt 57,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztaltassék föl Isten az egek fölé,<br>és dicsőséged minden föld fölé!"
+            }
+        ]
+    }
+}

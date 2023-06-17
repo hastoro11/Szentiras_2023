@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 98"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109800000,
+                    "szep": "Zsolt 98,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zsoltár."
+            },
+            {
+                "hely": {
+                    "gepi": 12109800100,
+                    "szep": "Zsolt 98,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Énekeljetek az ÚRnak új éneket, mert csodákat tett! Szabadulást szerzett jobbja, az ő szent karja."
+            },
+            {
+                "hely": {
+                    "gepi": 12109800200,
+                    "szep": "Zsolt 98,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megmutatta szabadító erejét az ÚR, a népek szeme előtt nyilvánvalóvá tette igazságát."
+            },
+            {
+                "hely": {
+                    "gepi": 12109800300,
+                    "szep": "Zsolt 98,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hűséggel és szeretettel gondolt Izráel házára, és látták a földön mindenütt Istenünk szabadítását."
+            },
+            {
+                "hely": {
+                    "gepi": 12109800400,
+                    "szep": "Zsolt 98,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ujjongjatok az ÚR előtt az egész földön! Örvendezve vigadjatok, zsoltárt énekeljetek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800500,
+                    "szep": "Zsolt 98,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Énekeljetek az ÚRnak hárfakísérettel, hárfakísérettel zengő éneket!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800600,
+                    "szep": "Zsolt 98,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Harsonákkal és kürtzengéssel ujjongjatok a király, az ÚR előtt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800700,
+                    "szep": "Zsolt 98,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zúgjon a tenger a benne levőkkel, a földkerekség és a rajta lakók!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800800,
+                    "szep": "Zsolt 98,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tapsoljanak a folyók, a hegyek mind ujjongjanak"
+            },
+            {
+                "hely": {
+                    "gepi": 12109800900,
+                    "szep": "Zsolt 98,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "az ÚR előtt, mert eljön, hogy ítélkezzék a földön. Igazságosan ítéli a világot, pártatlanul a népeket."
+            }
+        ]
+    }
+}

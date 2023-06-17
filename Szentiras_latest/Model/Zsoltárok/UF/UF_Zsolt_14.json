@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 14"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101400000,
+                    "szep": "Zsolt 14,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Dávidé."
+            },
+            {
+                "hely": {
+                    "gepi": 12101400100,
+                    "szep": "Zsolt 14,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azt gondolja magában a bolond, hogy nincs Isten! Romlottak és utálatosak tetteik, senki sem tesz jót."
+            },
+            {
+                "hely": {
+                    "gepi": 12101400200,
+                    "szep": "Zsolt 14,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR letekint a mennyből az emberekre, hogy lássa, van-e köztük értelmes, aki keresi az Istent?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101400300,
+                    "szep": "Zsolt 14,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mindnyájan elfordultak tőle, egyaránt megromlottak. Senki sem tesz jót, egyetlen ember sem."
+            },
+            {
+                "hely": {
+                    "gepi": 12101400400,
+                    "szep": "Zsolt 14,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem tudja a sok gonosztevő, akik úgy eszik népemet, ahogy a kenyeret eszik - de az ÚRhoz nem kiáltanak -,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101400500,
+                    "szep": "Zsolt 14,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy majd egyszer nagyon megrettennek, mert Isten az igaz nemzedékkel van!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101400600,
+                    "szep": "Zsolt 14,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "A nyomorult tervét csúffá tennétek, de az ÚR az ő oltalma!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101400700,
+                    "szep": "Zsolt 14,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bárcsak eljönne a Sionról Izráel szabadulása! Amikor az ÚR jóra fordítja népe sorsát, ujjong majd Jákób, és örül Izráel."
+            }
+        ]
+    }
+}

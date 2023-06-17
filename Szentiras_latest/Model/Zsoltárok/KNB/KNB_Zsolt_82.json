@@ -1,0 +1,110 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 82"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108200000,
+                    "szep": "Zsolt 82,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Liturgikus ének a késő királyi korból. A kép, amelyet használ, visszavezet abba az időbe, amikor Izrael legjobbjai a Jahve-tisztelet érvényrejuttatásáért küzdöttek, szemben a kánaáni istenek tiszteletével (vö. 1Kir 18.). Prófétai képben ábrázolja az istenek tanácsát az égben. A zsoltár Izrael liturgiájában az istendicsőítés szövege volt, egyben a nép vezetői számára figyelmeztetés is."
+                    },
+                    {
+                        "position": null,
+                        "text": "Ászáf: vö. 50,1. Az ősi mítoszok leírásai szerint az istenek az égben az emberről tanácskoznak. Jahve a legnagyobb köztük."
+                    }
+                ],
+                "szoveg": "<em>Ászáf zsoltára.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12108200100,
+                    "szep": "Zsolt 82,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Liturgikus ének a késő királyi korból. A kép, amelyet használ, visszavezet abba az időbe, amikor Izrael legjobbjai a Jahve-tisztelet érvényrejuttatásáért küzdöttek, szemben a kánaáni istenek tiszteletével (vö. 1Kir 18.). Prófétai képben ábrázolja az istenek tanácsát az égben. A zsoltár Izrael liturgiájában az istendicsőítés szövege volt, egyben a nép vezetői számára figyelmeztetés is."
+                    },
+                    {
+                        "position": null,
+                        "text": "Ászáf: vö. 50,1. Az ősi mítoszok leírásai szerint az istenek az égben az emberről tanácskoznak. Jahve a legnagyobb köztük."
+                    }
+                ],
+                "szoveg": "Áll az Isten az istenek gyülekezetében,<br>s ítélkezik az isteneken:"
+            },
+            {
+                "hely": {
+                    "gepi": 12108200200,
+                    "szep": "Zsolt 82,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "»Meddig ítéltek még hamisan,<br>és meddig vagytok tekintettel a gonoszok személyére?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108200300,
+                    "szep": "Zsolt 82,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szolgáltassatok igazságot a szűkölködőnek s az árvának,<br>juttassátok jogához a nyomorultat és a szegényt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108200400,
+                    "szep": "Zsolt 82,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szabadítsátok meg a szegényt<br>és a szűkölködőt mentsétek ki a gonoszok kezéből!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12108200500,
+                    "szep": "Zsolt 82,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "De ők sem nem tudnak, sem nem értenek,<br>sötétben járnak;<br>Mind meginognak ezért a föld alapjai."
+            },
+            {
+                "hely": {
+                    "gepi": 12108200600,
+                    "szep": "Zsolt 82,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az ítélet, amit Isten kimond, nem az embereknek, hanem az isteneknek szól: meg kell halniuk, mint az embereknek."
+                    }
+                ],
+                "szoveg": "Én azt mondtam: »Ti istenek vagytok,<br>mindnyájan a Fölséges fiai.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12108200700,
+                    "szep": "Zsolt 82,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "De meghaltok, mint más ember,<br>elhullotok, mint akármelyik főember."
+            },
+            {
+                "hely": {
+                    "gepi": 12108200800,
+                    "szep": "Zsolt 82,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kelj fel, Isten! Ítéld meg a földet,<br>mert a te örökséged minden nemzet."
+            }
+        ]
+    }
+}

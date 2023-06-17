@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 113"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111300100,
+                    "szep": "Zsolt 113,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek az Urat. <br>Dicsérjétek az Úrnak szolgái! dicsérjétek az Úrnak nevét,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111300200,
+                    "szep": "Zsolt 113,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott legyen az Úr neve mostantól fogva és örökké!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111300300,
+                    "szep": "Zsolt 113,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Napkelettől fogva napnyugotig dicsértessék az Úr neve!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111300400,
+                    "szep": "Zsolt 113,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Felmagasztaltatott az Úr minden pogány nép felett; dicsősége túl van az egeken."
+            },
+            {
+                "hely": {
+                    "gepi": 12111300500,
+                    "szep": "Zsolt 113,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kicsoda hasonló az Úrhoz, a mi Istenünkhöz, a ki a magasságban lakozik?"
+            },
+            {
+                "hely": {
+                    "gepi": 12111300600,
+                    "szep": "Zsolt 113,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki magát megalázva, tekint szét mennyen és földön;"
+            },
+            {
+                "hely": {
+                    "gepi": 12111300700,
+                    "szep": "Zsolt 113,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki felemeli az alacsonyt a porból, és a szűkölködőt kivonszsza a sárból,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111300800,
+                    "szep": "Zsolt 113,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy odaültesse őket a főemberek közé, az ő népének főemberei közé;"
+            },
+            {
+                "hely": {
+                    "gepi": 12111300900,
+                    "szep": "Zsolt 113,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki beülteti a meddőt a házba, mint magzatoknak anyját, nagy örömre. Dicsérjétek az Urat!"
+            }
+        ]
+    }
+}

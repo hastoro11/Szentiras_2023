@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 127"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112700000,
+                    "szep": "Zsolt 127,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Grádicsok éneke Salamontól."
+            },
+            {
+                "hely": {
+                    "gepi": 12112700100,
+                    "szep": "Zsolt 127,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha az Úr nem építi a házat, hiába dolgoznak azon annak építői. Ha az Úr nem őrzi a várost, hiába vigyáz az őriző."
+            },
+            {
+                "hely": {
+                    "gepi": 12112700200,
+                    "szep": "Zsolt 127,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiába néktek korán felkelnetek, későn feküdnötök, fáradsággal szerzett kenyeret ennetek! Szerelmesének álmában ád eleget."
+            },
+            {
+                "hely": {
+                    "gepi": 12112700300,
+                    "szep": "Zsolt 127,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ímé, az Úrnak öröksége, a fiak; az anyaméh gyümölcse: jutalom."
+            },
+            {
+                "hely": {
+                    "gepi": 12112700400,
+                    "szep": "Zsolt 127,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mint a nyilak a hősnek kezében, olyanok a serdülő fiak."
+            },
+            {
+                "hely": {
+                    "gepi": 12112700500,
+                    "szep": "Zsolt 127,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog ember, a ki ilyenekkel tölti meg tegzét; nem szégyenülnek meg, ha ellenséggel szólnak a kapuban."
+            }
+        ]
+    }
+}

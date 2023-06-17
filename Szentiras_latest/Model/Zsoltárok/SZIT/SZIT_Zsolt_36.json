@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 36"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103600000,
+                    "szep": "Zsolt 36,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek – Isten szolgájától, Dávidtól.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12103600100,
+                    "szep": "Zsolt 36,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az álnok ember szívét gonoszság uralja, szeme előtt nincs istenfélelem."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600200,
+                    "szep": "Zsolt 36,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azzal ámítja magát bensőleg, hogy bűnét senki föl nem fedi és el nem ítéli."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600300,
+                    "szep": "Zsolt 36,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szájának beszéde gonoszság és csalás, megszűnt okosat gondolni és tenni a jót."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600400,
+                    "szep": "Zsolt 36,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fekvőhelyén gazságról álmodik, a rossz úton marad, a bűntől nem irtózik."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600500,
+                    "szep": "Zsolt 36,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, irgalmad fölér az égig, hűséged a felhőkig."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600600,
+                    "szep": "Zsolt 36,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igazságosságod, mint Isten hegyei, ítéleteid, mint a tenger mélye, Uram, embernek, állatnak, te vagy éltetője."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600700,
+                    "szep": "Zsolt 36,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Milyen drága a te kegyelmed, Uram! Az emberek fiai menedéket találnak szárnyad árnyékában."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600800,
+                    "szep": "Zsolt 36,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Házad javaiból jóllakatod, és megitatod örömöd patakjából."
+            },
+            {
+                "hely": {
+                    "gepi": 12103600900,
+                    "szep": "Zsolt 36,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tenálad van az élet forrása, a te fényedben látjuk a világosságot."
+            },
+            {
+                "hely": {
+                    "gepi": 12103601000,
+                    "szep": "Zsolt 36,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jóságod tartsa meg, kik tisztelnek téged, a tiszta szívűeket őrizd meg hűségedben!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103601100,
+                    "szep": "Zsolt 36,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gőgös lába ne taposson rám, és bűnös keze ne mutasson ajtót!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103601200,
+                    "szep": "Zsolt 36,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lám, a gonoszok összeesnek, a földre buknak s többé már föl sem kelnek."
+            }
+        ]
+    }
+}

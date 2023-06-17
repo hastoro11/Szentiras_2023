@@ -1,0 +1,92 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 12"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101200000,
+                    "szep": "Zsolt 12,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Fogság előtti ének. Isten szavai állnak a középpontban (6). Isten közbelép, az emberek gyalázzák Isten szavát, saját értelmezésükben és érdekeik szerint támaszkodnak rá, mint hatalmi eszközre, Isten szavával zsarolnak másokat és uralkodnak rajtuk, az igazságtalanság igazságnak tünteti fel magát. Ha nem lehet többé megbízni a szavak hitelében, nemcsak az emberi együttélés, hanem az Istennel való közösség is veszélybe kerül. Isten szava igaz és megbízható, és mindenkinek joga van ehhez az igazsághoz."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Nyolcadra. Dávid zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12101200100,
+                    "szep": "Zsolt 12,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segíts meg, Uram, mert pusztulnak a szentek,<br>az emberek fiai között a hűséges megfogyatkozott."
+            },
+            {
+                "hely": {
+                    "gepi": 12101200200,
+                    "szep": "Zsolt 12,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiábavalóságot mond mindenki a felebarátjának,<br>álnok szájjal, kétszínűen beszélnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12101200300,
+                    "szep": "Zsolt 12,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Pusztítson el az Úr minden álnok szájat,<br>és kevélyen beszélő nyelvet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101200400,
+                    "szep": "Zsolt 12,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Akik így szólnak: »Nyelvünkkel diadalmaskodunk,<br>velünk van a mi szánk: ki lesz rajtunk úrrá?«"
+            },
+            {
+                "hely": {
+                    "gepi": 12101200500,
+                    "szep": "Zsolt 12,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "»A szűkölködők nyomora és a szegények sóhaja miatt<br>fölkelek – mondja az Úr –, és megszabadítom a megvetettet.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12101200600,
+                    "szep": "Zsolt 12,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr szava tiszta szó,<br>tűzben megpróbált ezüst,<br>salaktól elválasztva,<br>hétszeresen megtisztítva."
+            },
+            {
+                "hely": {
+                    "gepi": 12101200700,
+                    "szep": "Zsolt 12,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, te megőrzöl és megoltalmazol minket,<br>e nemzedéktől mindörökre."
+            },
+            {
+                "hely": {
+                    "gepi": 12101200800,
+                    "szep": "Zsolt 12,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Körös-körül istentelenek járnak,<br>mert a szennyet magasztalják fel az emberek fiai."
+            }
+        ]
+    }
+}

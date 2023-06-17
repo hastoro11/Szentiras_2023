@@ -1,0 +1,199 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 103"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12110300000,
+                    "szep": "Zsolt 103,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A Dávidé."
+            },
+            {
+                "hely": {
+                    "gepi": 12110300100,
+                    "szep": "Zsolt 103,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjad én lelkem az Urat, és egész bensőm az ő szent nevét."
+            },
+            {
+                "hely": {
+                    "gepi": 12110300200,
+                    "szep": "Zsolt 103,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjad én lelkem az Urat, és el ne feledkezzél semmi jótéteményéről."
+            },
+            {
+                "hely": {
+                    "gepi": 12110300300,
+                    "szep": "Zsolt 103,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki megbocsátja minden bűnödet, meggyógyítja minden betegségedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12110300400,
+                    "szep": "Zsolt 103,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki megváltja életedet a koporsótól; kegyelemmel és irgalmassággal koronáz meg téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12110300500,
+                    "szep": "Zsolt 103,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A ki jóval tölti be a te ékességedet, és megújul a te ifjúságod, mint a sasé."
+            },
+            {
+                "hely": {
+                    "gepi": 12110300600,
+                    "szep": "Zsolt 103,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igazságot cselekszik az Úr, és ítéletet minden elnyomottal."
+            },
+            {
+                "hely": {
+                    "gepi": 12110300700,
+                    "szep": "Zsolt 103,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megismertette az ő útait Mózessel; Izráel fiaival az ő cselekedeteit."
+            },
+            {
+                "hely": {
+                    "gepi": 12110300800,
+                    "szep": "Zsolt 103,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Könyörülő és irgalmas az Úr, késedelmes a haragra és nagy kegyelmű."
+            },
+            {
+                "hely": {
+                    "gepi": 12110300900,
+                    "szep": "Zsolt 103,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem feddődik minduntalan, és nem tartja meg haragját örökké."
+            },
+            {
+                "hely": {
+                    "gepi": 12110301000,
+                    "szep": "Zsolt 103,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem bűneink szerint cselekszik velünk, és nem fizet nékünk a mi álnokságaink szerint."
+            },
+            {
+                "hely": {
+                    "gepi": 12110301100,
+                    "szep": "Zsolt 103,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert a milyen magas az ég a földtől, olyan nagy az ő kegyelme az őt félők iránt."
+            },
+            {
+                "hely": {
+                    "gepi": 12110301200,
+                    "szep": "Zsolt 103,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "A milyen távol van a napkelet a napnyugattól, olyan messze veti el tőlünk a mi vétkeinket."
+            },
+            {
+                "hely": {
+                    "gepi": 12110301300,
+                    "szep": "Zsolt 103,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "A milyen könyörülő az atya a fiakhoz, olyan könyörülő az Úr az őt félők iránt."
+            },
+            {
+                "hely": {
+                    "gepi": 12110301400,
+                    "szep": "Zsolt 103,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert ő tudja a mi formáltatásunkat; megemlékezik róla, hogy por vagyunk."
+            },
+            {
+                "hely": {
+                    "gepi": 12110301500,
+                    "szep": "Zsolt 103,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az embernek napjai olyanok, mint a fű, úgy virágzik, mint a mezőnek virága."
+            },
+            {
+                "hely": {
+                    "gepi": 12110301600,
+                    "szep": "Zsolt 103,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogyha általmegy rajta a szél, nincsen többé, és az ő helye sem ismeri azt többé."
+            },
+            {
+                "hely": {
+                    "gepi": 12110301700,
+                    "szep": "Zsolt 103,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "De az Úr kegyelme öröktől fogva való és örökkévaló az őt félőkön, és az ő igazsága a fiaknak fiain;"
+            },
+            {
+                "hely": {
+                    "gepi": 12110301800,
+                    "szep": "Zsolt 103,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azokon, a kik megtartják az ő szövetségét és megemlékeznek az ő parancsolatjairól, hogy azokat megcselekedjék."
+            },
+            {
+                "hely": {
+                    "gepi": 12110301900,
+                    "szep": "Zsolt 103,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr a mennyekbe helyheztette az ő székét és az ő uralkodása mindenre kihat."
+            },
+            {
+                "hely": {
+                    "gepi": 12110302000,
+                    "szep": "Zsolt 103,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjátok az Urat ő angyalai, ti hatalmas erejűek, a kik teljesítitek az ő rendeletét, hallgatván az ő rendeletének szavára."
+            },
+            {
+                "hely": {
+                    "gepi": 12110302100,
+                    "szep": "Zsolt 103,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjátok az Urat minden ő serege: ő szolgái, akaratának teljesítői!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110302200,
+                    "szep": "Zsolt 103,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjátok az Urat minden ő teremtményei, az ő uralkodásának minden helyén! Áldjad én lelkem az Urat!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,224 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 25"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102500000,
+                    "szep": "Zsolt 25,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Alfabetikus ének (a héber ábécének 22 betűje van!) a késő fogság utáni korszakból. Három részből áll: könyörgés (1-7), a probléma ismertetése (8-15), a szabadulás ismételt kérése (16-21). Az imádkozó bűnössé vált, ennek a következménye, hogy ellenségei áskálódni kezdtek ellene. Két dolgot is felismert: hogy milyen nagy a bűne, és hogy milyen nehéz annak, akit Isten elhagy. Hisz, de bűnös. Tudja, hogy különbözik attól az embertől, aki nem féli Istent. Ő keresi, keresnie kell Istent."
+                    }
+                ],
+                "szoveg": "<em>Dávid zsoltára.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12102500100,
+                    "szep": "Zsolt 25,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Alfabetikus ének (a héber ábécének 22 betűje van!) a késő fogság utáni korszakból. Három részből áll: könyörgés (1-7), a probléma ismertetése (8-15), a szabadulás ismételt kérése (16-21). Az imádkozó bűnössé vált, ennek a következménye, hogy ellenségei áskálódni kezdtek ellene. Két dolgot is felismert: hogy milyen nagy a bűne, és hogy milyen nehéz annak, akit Isten elhagy. Hisz, de bűnös. Tudja, hogy különbözik attól az embertől, aki nem féli Istent. Ő keresi, keresnie kell Istent."
+                    }
+                ],
+                "szoveg": "Hozzád emelem, Uram, lelkemet,"
+            },
+            {
+                "hely": {
+                    "gepi": 12102500200,
+                    "szep": "Zsolt 25,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, tebenned remélek;<br>ne hagyd, hogy megszégyenüljek,<br>és ellenségeim ujjongjanak fölöttem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102500300,
+                    "szep": "Zsolt 25,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hisz senki, aki tebenned bízik,<br>meg nem szégyenül.<br>De szégyen éri mindazokat,<br>akik hiábavalóságok miatt hűtlenek lesznek."
+            },
+            {
+                "hely": {
+                    "gepi": 12102500400,
+                    "szep": "Zsolt 25,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Utaidat: nem kell szó szerint érteni. Az emberi cselekvést, életmódot jelenti, amelyet az ember Isten akaratával egybehangol. Maga Isten az, aki ezt kijelenti, aki erre figyelmeztet (8)."
+                    }
+                ],
+                "szoveg": "Utaidat, Uram, mutasd meg nekem,<br>és ösvényeidre taníts meg engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102500500,
+                    "szep": "Zsolt 25,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vezess és oktass engem igazságodra,<br>mert te vagy az én üdvözítő Istenem,<br>és én tebenned bízom szüntelen!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102500600,
+                    "szep": "Zsolt 25,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emlékezzél meg, Uram, könyörületedről,<br>és irgalmadról, hisz azok öröktől valók!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102500700,
+                    "szep": "Zsolt 25,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ifjúkorom bűneire s botlásaira ne gondolj vissza;<br>Irgalmad szerint emlékezzél meg rólam,<br>hiszen te jó vagy, én Uram!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102500800,
+                    "szep": "Zsolt 25,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Édes az Úr és igazságos,<br>ezért útbaigazítja a vétkeseket."
+            },
+            {
+                "hely": {
+                    "gepi": 12102500900,
+                    "szep": "Zsolt 25,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Végzésével vezérli az alázatosakat,<br>megtanítja útjaira a szelídeket."
+            },
+            {
+                "hely": {
+                    "gepi": 12102501000,
+                    "szep": "Zsolt 25,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr minden útja irgalom és igazság<br>azok iránt, akik szövetségét és törvényeit megtartják."
+            },
+            {
+                "hely": {
+                    "gepi": 12102501100,
+                    "szep": "Zsolt 25,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "A te saját nevedért, Uram,<br>bocsásd meg bűnömet, mert sok az!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102501200,
+                    "szep": "Zsolt 25,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki az, aki féli az Urat?<br>Annak megmutatja, milyen utat válasszon."
+            },
+            {
+                "hely": {
+                    "gepi": 12102501300,
+                    "szep": "Zsolt 25,13"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. Mt 5,5. A föld itt az ígéret földjét, Palesztínát jelenti."
+                    }
+                ],
+                "szoveg": "Annak boldogságot élvez majd a lelke,<br>és utóda örökli a földet."
+            },
+            {
+                "hely": {
+                    "gepi": 12102501400,
+                    "szep": "Zsolt 25,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Barátja az Úr azoknak, akik őt félik,<br>és szövetségét megmutatja nekik."
+            },
+            {
+                "hely": {
+                    "gepi": 12102501500,
+                    "szep": "Zsolt 25,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Állandóan az Úrra tekint szemem,<br>mert ő húzza ki lábamat a tőrből."
+            },
+            {
+                "hely": {
+                    "gepi": 12102501600,
+                    "szep": "Zsolt 25,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tekints rám és irgalmazz nekem,<br>mert elhagyatott és szegény vagyok."
+            },
+            {
+                "hely": {
+                    "gepi": 12102501700,
+                    "szep": "Zsolt 25,17"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Javítva (a héber szövegben: az ínség távolította el a szívemet)."
+                    }
+                ],
+                "szoveg": "Szívem szorongatásai megsokasodtak,<br>vezess ki ínségemből engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12102501800,
+                    "szep": "Zsolt 25,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nézd megalázottságomat és szenvedésemet,<br>bocsásd meg minden vétkemet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102501900,
+                    "szep": "Zsolt 25,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nézd, milyen sokan vannak ellenségeim,<br>milyen ádáz gyűlölettel gyűlölnek engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102502000,
+                    "szep": "Zsolt 25,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Oltalmazz és szabadíts meg engem,<br>ne hagyd, hogy megszégyenüljek, hiszen benned remélek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102502100,
+                    "szep": "Zsolt 25,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Álljanak mellém az ártatlanok és az igazak,<br>mert beléd vetem bizalmamat."
+            },
+            {
+                "hely": {
+                    "gepi": 12102502200,
+                    "szep": "Zsolt 25,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szabadítsd meg Isten, Izraelt<br>minden szorongatásából!"
+            }
+        ]
+    }
+}

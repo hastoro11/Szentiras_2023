@@ -1,0 +1,207 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 77"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107700000,
+                    "szep": "Zsolt 77,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egy hívő imája, aki elpanaszolja Istennek a nép nyomorúságát. A zsoltár valószínűleg a fogság idején keletkezett."
+                    },
+                    {
+                        "position": null,
+                        "text": "Iditun: vö. 39,1. Ászáf: vö. 50,1."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Iditun szerint. Ászáf zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12107700100,
+                    "szep": "Zsolt 77,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zsoltáros rájött, hogy ha a saját jelenét meg akarja érteni, akkor Istenről kell elgondolkodnia, vele kell beszélnie."
+                    }
+                ],
+                "szoveg": "Hangosan kiáltok az Úrhoz,<br>hangosan kérem Istent, hogy figyeljen rám."
+            },
+            {
+                "hely": {
+                    "gepi": 12107700200,
+                    "szep": "Zsolt 77,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szorongatásom napján Istent keresem,<br>éjjel is hozzá emelem kezeimet:<br>nem lankadnak el.<br>Nem akar megvigasztalódni a lelkem."
+            },
+            {
+                "hely": {
+                    "gepi": 12107700300,
+                    "szep": "Zsolt 77,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sóhajtozom, ha Istenről elmélkedem,<br>eleped a lelkem, ha rá gondolok."
+            },
+            {
+                "hely": {
+                    "gepi": 12107700400,
+                    "szep": "Zsolt 77,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szememet ébren tartod,<br>nyugtalan vagyok, beszélni sem tudok."
+            },
+            {
+                "hely": {
+                    "gepi": 12107700500,
+                    "szep": "Zsolt 77,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A hajdani időkre gondolok,<br>a régmúlt esztendők járnak eszemben."
+            },
+            {
+                "hely": {
+                    "gepi": 12107700600,
+                    "szep": "Zsolt 77,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szívem elmélkedik éjszaka,<br>gondolkodom és töpreng a lelkem."
+            },
+            {
+                "hely": {
+                    "gepi": 12107700700,
+                    "szep": "Zsolt 77,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vajon örökre elvet Isten,<br>s nem kegyelmez többé?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107700800,
+                    "szep": "Zsolt 77,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Végleg elfogyott irgalma,<br>elmarad nemzedékről nemzedékre szálló ígérete?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107700900,
+                    "szep": "Zsolt 77,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elfelejtette Isten a könyörületességet,<br>vagy haragjában visszatartja irgalmát?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107701000,
+                    "szep": "Zsolt 77,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így szóltam: »Az az én bajom,<br>hogy megváltozott a Fölségesnek jobbja.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12107701100,
+                    "szep": "Zsolt 77,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megemlékezem az Úr cselekedeteiről,<br>megemlékezem csodáidról amelyeket kezdettől műveltél,"
+            },
+            {
+                "hely": {
+                    "gepi": 12107701200,
+                    "szep": "Zsolt 77,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elmélkedem minden műveden,<br>és végzéseiddel foglalkozom."
+            },
+            {
+                "hely": {
+                    "gepi": 12107701300,
+                    "szep": "Zsolt 77,13"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A panasz itt himnuszba megy át. Hirdeti, hogy Isten hogyan szabadította meg népét Egyiptomból. Izrael ennek a szabadításnak köszönheti nemzeti létét."
+                    }
+                ],
+                "szoveg": "Isten, szentséges a te utad;<br>Ki olyan nagy Isten, mint a mi Istenünk?"
+            },
+            {
+                "hely": {
+                    "gepi": 12107701400,
+                    "szep": "Zsolt 77,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te vagy az Isten! Te csodákat művelsz,<br>megmutattad a népeknek hatalmadat."
+            },
+            {
+                "hely": {
+                    "gepi": 12107701500,
+                    "szep": "Zsolt 77,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Karoddal megváltottad népedet,<br>Jákob és József fiait."
+            },
+            {
+                "hely": {
+                    "gepi": 12107701600,
+                    "szep": "Zsolt 77,16"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egy átvett hagyománytöredék, amely Isten megjelenését ábrázolja. A Teremtő társai (vetélytársai) a világ elemei. Isten jelenléte rejtett, senki nem látja »lépteit«, csak utólag vehető észre a működése nyomán. Ez az Isten vezette Izraelt, és ő fogja továbbra is vezetni."
+                    }
+                ],
+                "szoveg": "Láttak téged, Isten, a vizek,<br>láttak téged a vizek és remegtek,<br>és reszkettek a mélységek."
+            },
+            {
+                "hely": {
+                    "gepi": 12107701700,
+                    "szep": "Zsolt 77,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "A felhők ontották a vizet,<br>megzendültek a fellegek,<br>nyilaid repültek."
+            },
+            {
+                "hely": {
+                    "gepi": 12107701800,
+                    "szep": "Zsolt 77,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mennydörgésed zengett a forgószélben,<br>villámaid beragyogták a földkerekséget,<br>rengett a föld és remegett."
+            },
+            {
+                "hely": {
+                    "gepi": 12107701900,
+                    "szep": "Zsolt 77,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tengeren vitt át utad,<br>nagy vizeken vezetett át ösvényed<br>és lábad nyoma nem volt látható."
+            },
+            {
+                "hely": {
+                    "gepi": 12107702000,
+                    "szep": "Zsolt 77,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mint juhnyájat vezetted népedet<br>Mózes és Áron kezével."
+            }
+        ]
+    }
+}

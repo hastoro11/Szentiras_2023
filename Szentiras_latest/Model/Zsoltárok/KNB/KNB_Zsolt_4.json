@@ -1,0 +1,97 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 4"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100400000,
+                    "szep": "Zsolt 4,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Bizalom-ének, kedvelt esti ima. A zsoltáros mintegy szavatolja benne magának a megmenekülést és a szabadulást."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Hárfára. Dávid zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12100400100,
+                    "szep": "Zsolt 4,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meghallgatott igazságom Istene, amikor segítségül hívtam.<br>Szorongatásomban tágas teret adtál nekem.<br>Könyörülj rajtam, hallgasd meg imámat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100400200,
+                    "szep": "Zsolt 4,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az igazak harcának problémáját, valamint az ember tettei és sorsa közti összefüggést tárgyalja. Alapgondolata megegyezik a klasszikus zsidó bölcsmondással: az Úrban való bizakodás megőriz a hazug élettől."
+                    }
+                ],
+                "szoveg": "Emberek fiai, meddig lesz nehéz a szívetek?<br>Miért szerettek hiábavalóságot, hajszoltok hazugságot?"
+            },
+            {
+                "hely": {
+                    "gepi": 12100400300,
+                    "szep": "Zsolt 4,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tudjátok meg: az Úr csodát művel szentjével,<br>meghallgat az Úr, ha hozzá kiáltok."
+            },
+            {
+                "hely": {
+                    "gepi": 12100400400,
+                    "szep": "Zsolt 4,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bár haragudtok, ne vétkezzetek,<br>rejtsétek azt szívetekbe<br>nyugvóhelyeiteken, és békéljetek meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12100400500,
+                    "szep": "Zsolt 4,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldozzatok igaz áldozatokat<br>és bizalmatokat az Úrba vessétek."
+            },
+            {
+                "hely": {
+                    "gepi": 12100400600,
+                    "szep": "Zsolt 4,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sokan mondják: »Ki mutat jót nekünk?«<br>Ragyogtasd ránk jelként arcod fényességét, Uram!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100400700,
+                    "szep": "Zsolt 4,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Több örömöt öntöttél szívembe,<br>mint amikor a búza és a bor bőven terem."
+            },
+            {
+                "hely": {
+                    "gepi": 12100400800,
+                    "szep": "Zsolt 4,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Éppen azért békében alszom és megnyugszom,<br>mert te, Uram, különösen<br>megerősítettél a reménységben engem."
+            }
+        ]
+    }
+}

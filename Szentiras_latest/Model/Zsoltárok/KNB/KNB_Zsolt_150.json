@@ -1,0 +1,73 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 150"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12115000100,
+                    "szep": "Zsolt 150,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A Zsoltárok könyve egy himnikus dicsőítéssel fejeződik be, fogság utáni."
+                    }
+                ],
+                "szoveg": "ALLELUJA!<br>Dicsérjétek az Urat szentélyében,<br>dicsérjétek őt az ég erős boltozatában!"
+            },
+            {
+                "hely": {
+                    "gepi": 12115000200,
+                    "szep": "Zsolt 150,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek őt hatalmas tetteiért,<br>dicsérjétek őt nagyságának teljességéért!"
+            },
+            {
+                "hely": {
+                    "gepi": 12115000300,
+                    "szep": "Zsolt 150,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek őt harsonaszóval,<br>dicsérjétek őt hárfával és lanttal!"
+            },
+            {
+                "hely": {
+                    "gepi": 12115000400,
+                    "szep": "Zsolt 150,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek őt dobbal és körtánccal,<br>dicsérjétek őt citerával és fuvolával!"
+            },
+            {
+                "hely": {
+                    "gepi": 12115000500,
+                    "szep": "Zsolt 150,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérjétek őt zengő cintányérral,<br>dicsérjétek őt csengő muzsikával!"
+            },
+            {
+                "hely": {
+                    "gepi": 12115000600,
+                    "szep": "Zsolt 150,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az utolsó felhívás minden élőlényt megszólít. (vö. Jel 5,13)."
+                    }
+                ],
+                "szoveg": "Minden lélek dicsérje az Urat!<br>ALLELUJA!"
+            }
+        ]
+    }
+}

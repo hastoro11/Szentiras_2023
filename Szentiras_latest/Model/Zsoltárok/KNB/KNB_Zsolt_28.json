@@ -1,0 +1,114 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 28"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102800000,
+                    "szep": "Zsolt 28,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Könyörgő-ének a kora-királyi időkből. Egy ártatlan vagy súlyos beteg keres segítséget és szabadulást a hitben. Először élete biztonságát kéri (1-5), aztán hálaimát mond (6-7)"
+                    }
+                ],
+                "szoveg": "<em>Dávidtól.</em>."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800100,
+                    "szep": "Zsolt 28,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Könyörgő-ének a kora-királyi időkből. Egy ártatlan vagy súlyos beteg keres segítséget és szabadulást a hitben. Először élete biztonságát kéri (1-5), aztán hálaimát mond (6-7)"
+                    }
+                ],
+                "szoveg": "Hozzád kiáltok, Uram, Istenem,<br>ne fordulj el szótlanul tőlem!<br>Ne legyek olyan, ha néma maradsz hozzám,<br>mint aki a sírverembe száll."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800200,
+                    "szep": "Zsolt 28,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgasd meg, Uram, könyörgésem szavát,<br>amikor imádkozom hozzád,<br>amikor fölemelem kezemet<br>szent templomod felé."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800300,
+                    "szep": "Zsolt 28,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne sodorj el engem a bűnösökkel és a gonosztevőkkel,<br>akik békésen szólnak felebarátjukhoz,<br>holott szívükben gonoszság lakik."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800400,
+                    "szep": "Zsolt 28,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fizess meg nekik cselekedeteik szerint,<br>és szándékaik gonoszsága szerint;<br>Kezük művei szerint jutalmazd meg őket,<br>add meg nekik, amit érdemelnek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102800500,
+                    "szep": "Zsolt 28,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mivel nem gondolnak az Úr tetteivel,<br>és kezének műveivel,<br>lerombolja és nem építi fel őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800600,
+                    "szep": "Zsolt 28,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott legyen az Úr,<br>mert meghallgatta könyörgésem szavát!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102800700,
+                    "szep": "Zsolt 28,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segítőm és oltalmazóm az Úr,<br>szívem benne remél s ő megsegít engem;<br>Ujjong a szívem,<br>s énekemben hálát zengek neki."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800800,
+                    "szep": "Zsolt 28,8"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Későbbi liturgikus bővítmény."
+                    },
+                    {
+                        "position": null,
+                        "text": "A görög és a szír fordítás alapján javítva."
+                    }
+                ],
+                "szoveg": "Az Úr az ő népének erőssége,<br>s fölkentjének megmentő védelmezője."
+            },
+            {
+                "hely": {
+                    "gepi": 12102800900,
+                    "szep": "Zsolt 28,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, mentsd meg népedet,<br>áldd meg örökségedet,<br>kormányozd és tedd naggyá őket mindörökké!"
+            }
+        ]
+    }
+}

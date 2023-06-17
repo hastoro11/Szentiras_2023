@@ -1,0 +1,191 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 33"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12103300100,
+                    "szep": "Zsolt 33,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vigadjatok az ÚRban, ti igazak! Az igaz emberekhez illik a dicséret."
+            },
+            {
+                "hely": {
+                    "gepi": 12103300200,
+                    "szep": "Zsolt 33,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adjatok hálát az ÚRnak citeraszóval, tízhúrú lanttal zengjetek neki!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103300300,
+                    "szep": "Zsolt 33,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Énekeljetek neki új éneket, szépen zengjenek hangszereitek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12103300400,
+                    "szep": "Zsolt 33,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert az ÚR igéje igaz, mindent hűségesen cselekszik."
+            },
+            {
+                "hely": {
+                    "gepi": 12103300500,
+                    "szep": "Zsolt 33,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szereti az igaz ítéletet, az ÚR szeretetével tele van a föld."
+            },
+            {
+                "hely": {
+                    "gepi": 12103300600,
+                    "szep": "Zsolt 33,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR igéje alkotta az eget, egész seregét szájának lehelete."
+            },
+            {
+                "hely": {
+                    "gepi": 12103300700,
+                    "szep": "Zsolt 33,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gáttal torlaszolta el a tenger vizét, mederbe zárta hullámait."
+            },
+            {
+                "hely": {
+                    "gepi": 12103300800,
+                    "szep": "Zsolt 33,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Féljen az ÚRtól az egész föld, rettegjen tőle a világ minden lakója,"
+            },
+            {
+                "hely": {
+                    "gepi": 12103300900,
+                    "szep": "Zsolt 33,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "mert amit ő mondott, meglett, és amit parancsolt, előállott."
+            },
+            {
+                "hely": {
+                    "gepi": 12103301000,
+                    "szep": "Zsolt 33,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Semmivé teszi az ÚR a nemzetek tervét, meghiúsítja a népek szándékait."
+            },
+            {
+                "hely": {
+                    "gepi": 12103301100,
+                    "szep": "Zsolt 33,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "De az ÚR terve örökké megmarad, szívének szándéka nemzedékről nemzedékre."
+            },
+            {
+                "hely": {
+                    "gepi": 12103301200,
+                    "szep": "Zsolt 33,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog az a nemzet, amelynek Istene az ÚR, az a nép, amelyet örökségül választott."
+            },
+            {
+                "hely": {
+                    "gepi": 12103301300,
+                    "szep": "Zsolt 33,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Letekint a mennyből az ÚR, és lát minden embert."
+            },
+            {
+                "hely": {
+                    "gepi": 12103301400,
+                    "szep": "Zsolt 33,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lakóhelyéből rátekint a föld minden lakójára."
+            },
+            {
+                "hely": {
+                    "gepi": 12103301500,
+                    "szep": "Zsolt 33,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő formálta mindnyájuk szívét, ismeri minden tettüket."
+            },
+            {
+                "hely": {
+                    "gepi": 12103301600,
+                    "szep": "Zsolt 33,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem a nagy sereg segíti győzelemre a királyt, nem a nagy erő menti meg a hőst."
+            },
+            {
+                "hely": {
+                    "gepi": 12103301700,
+                    "szep": "Zsolt 33,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csalódik, aki lovaktól vár segítséget, mert nagy erejük nem ment meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12103301800,
+                    "szep": "Zsolt 33,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "De az ÚR szeme ügyel az istenfélőkre, akik szeretetében bíznak."
+            },
+            {
+                "hely": {
+                    "gepi": 12103301900,
+                    "szep": "Zsolt 33,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megmenti őket a haláltól, éhínség idején is megtartja életüket."
+            },
+            {
+                "hely": {
+                    "gepi": 12103302000,
+                    "szep": "Zsolt 33,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkünk az URat várja, ő a mi segítségünk és pajzsunk."
+            },
+            {
+                "hely": {
+                    "gepi": 12103302100,
+                    "szep": "Zsolt 33,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Benne van szívünk öröme, mert szent nevében bízunk."
+            },
+            {
+                "hely": {
+                    "gepi": 12103302200,
+                    "szep": "Zsolt 33,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Maradjon velünk, URam, szereteted, mert mi is benned reménykedünk!"
+            }
+        ]
+    }
+}

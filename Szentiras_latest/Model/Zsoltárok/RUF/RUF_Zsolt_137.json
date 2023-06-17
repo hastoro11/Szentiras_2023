@@ -1,0 +1,87 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 137"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113700100,
+                    "szep": "Zsolt 137,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Amikor Babilon folyói mellett laktunk, sírtunk, ha a Sionra gondoltunk."
+            },
+            {
+                "hely": {
+                    "gepi": 12113700200,
+                    "szep": "Zsolt 137,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "A fűzfákra akasztottuk ott hárfáinkat."
+            },
+            {
+                "hely": {
+                    "gepi": 12113700300,
+                    "szep": "Zsolt 137,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert akik elhurcoltak minket, énekszót követeltek tőlünk, és akik sanyargattak, öröméneket: Énekeljetek nekünk a Sion-énekekből!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700400,
+                    "szep": "Zsolt 137,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogyan énekelhetnénk éneket az ÚRról idegen földön?"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700500,
+                    "szep": "Zsolt 137,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha megfeledkezem rólad, Jeruzsálem, bénuljon meg a jobb kezem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700600,
+                    "szep": "Zsolt 137,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nyelvem ragadjon az ínyemhez, ha nem emlékezem rád, ha nem Jeruzsálemet tartom legfőbb örömömnek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700700,
+                    "szep": "Zsolt 137,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emlékezz, URam, az edómiakra, akik ezt mondták Jeruzsálem napján: Romboljátok le, romboljátok le, egészen az alapjáig!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113700800,
+                    "szep": "Zsolt 137,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Babilon pusztulásra méltó népe! Boldog lesz, aki megfizet neked azért, amit velünk elkövettél."
+            },
+            {
+                "hely": {
+                    "gepi": 12113700900,
+                    "szep": "Zsolt 137,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog lesz, aki megragadja és a sziklához csapja csecsemőidet!"
+            }
+        ]
+    }
+}

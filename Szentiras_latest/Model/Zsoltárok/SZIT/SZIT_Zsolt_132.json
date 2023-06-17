@@ -1,0 +1,167 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 132"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113200000,
+                    "szep": "Zsolt 132,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Zarándokének.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12113200100,
+                    "szep": "Zsolt 132,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emlékezzél, Uram, kegyesen Dávidra, emlékezzél minden fáradozására!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113200200,
+                    "szep": "Zsolt 132,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hogy esküdött meg az Úrnak, hogyan tett ígéretet Jákob Erősének:"
+            },
+            {
+                "hely": {
+                    "gepi": 12113200300,
+                    "szep": "Zsolt 132,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "„Nem lépek addig házam belsejébe, és nem fekszem le nyugvóhelyemre,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113200400,
+                    "szep": "Zsolt 132,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "nem engedek addig álmot a szememnek és a szempillámnak nyugalmat,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113200500,
+                    "szep": "Zsolt 132,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "amíg helyet nem találok az Úrnak, hajlékot Jákob Erősének.”"
+            },
+            {
+                "hely": {
+                    "gepi": 12113200600,
+                    "szep": "Zsolt 132,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lám, hallottunk róla Efratában, megtaláltuk Jaar mezején."
+            },
+            {
+                "hely": {
+                    "gepi": 12113200700,
+                    "szep": "Zsolt 132,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Most hát vonuljunk hajlékához, boruljunk le lába zsámolya előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12113200800,
+                    "szep": "Zsolt 132,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Indulj el, Uram, nyugalmad helyére, te és hatalmad ládája."
+            },
+            {
+                "hely": {
+                    "gepi": 12113200900,
+                    "szep": "Zsolt 132,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Papjaid öltözzenek igazságba, akik hűek hozzád, örömükben ujjongjanak!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113201000,
+                    "szep": "Zsolt 132,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szolgádnak, Dávidnak kedvéért, ne vesd meg fölkented arcát!"
+            },
+            {
+                "hely": {
+                    "gepi": 12113201100,
+                    "szep": "Zsolt 132,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr megesküdött Dávidnak igaz esküvel és attól nem áll el: „Testedből utódot emelek trónodra"
+            },
+            {
+                "hely": {
+                    "gepi": 12113201200,
+                    "szep": "Zsolt 132,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "ha fiaid hűek lesznek szövetségemhez és hűségesek a törvényhez, amelyre tanítom őket, akkor fiaik is trónodon ülnek mindörökre.”"
+            },
+            {
+                "hely": {
+                    "gepi": 12113201300,
+                    "szep": "Zsolt 132,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr kiválasztotta Siont, lakóhelyéül kiszemelte."
+            },
+            {
+                "hely": {
+                    "gepi": 12113201400,
+                    "szep": "Zsolt 132,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "„Ez nyugalmam helye örökre. Itt fogok lakni, ezt választottam ki;"
+            },
+            {
+                "hely": {
+                    "gepi": 12113201500,
+                    "szep": "Zsolt 132,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "igazait megáldom, igen, megáldom, szegényeit kenyérrel táplálom,"
+            },
+            {
+                "hely": {
+                    "gepi": 12113201600,
+                    "szep": "Zsolt 132,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "papjait üdvösségbe öltöztetem, szentjei vigadnak; igen, ujjonganak."
+            },
+            {
+                "hely": {
+                    "gepi": 12113201700,
+                    "szep": "Zsolt 132,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid hatalmát ott megerősítem, fáklyát állítok fölkentemnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12113201800,
+                    "szep": "Zsolt 132,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ellenségeit gyalázatba döntöm, ám rajta koronája fénylik.”"
+            }
+        ]
+    }
+}

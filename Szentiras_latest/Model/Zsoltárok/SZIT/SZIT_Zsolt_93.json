@@ -1,0 +1,55 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 93"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109300100,
+                    "szep": "Zsolt 93,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Király az Úr, fönségbe öltözött. Fönségbe öltözött az Úr, hatalommal övezte fel magát."
+            },
+            {
+                "hely": {
+                    "gepi": 12109300200,
+                    "szep": "Zsolt 93,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szilárd alapot vetettél, nehogy meginogjon, a földkerekségnek. Trónod szilárdan áll kezdet óta, te, Uram, öröktől fogva vagy."
+            },
+            {
+                "hely": {
+                    "gepi": 12109300300,
+                    "szep": "Zsolt 93,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "A folyók hallatják, Uram, a folyók hallatják zúgásukat, a vizek hallatják dübörgő hangjukat."
+            },
+            {
+                "hely": {
+                    "gepi": 12109300400,
+                    "szep": "Zsolt 93,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hatalmasabb, mint sok víznek zúgása, hatalmasabb, mint a tenger morajlása, mindennél hatalmasabb az Isten a magasságban."
+            },
+            {
+                "hely": {
+                    "gepi": 12109300500,
+                    "szep": "Zsolt 93,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizonyítékaid valóban igazak, házadat szentség illeti, Uram, minden időkre."
+            }
+        ]
+    }
+}

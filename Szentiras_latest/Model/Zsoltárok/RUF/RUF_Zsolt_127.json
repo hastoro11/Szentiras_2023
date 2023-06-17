@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 127"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112700000,
+                    "szep": "Zsolt 127,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zarándokének. Salamoné."
+            },
+            {
+                "hely": {
+                    "gepi": 12112700100,
+                    "szep": "Zsolt 127,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha az ÚR nem építi a házat, hiába fáradoznak az építők. Ha az ÚR nem őrzi a várost, hiába óvják azt az őrök."
+            },
+            {
+                "hely": {
+                    "gepi": 12112700200,
+                    "szep": "Zsolt 127,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiába keltek korán, és feküsztök későn: fáradsággal szerzett kenyeret esztek. De akit az ÚR szeret, annak álmában is ad eleget."
+            },
+            {
+                "hely": {
+                    "gepi": 12112700300,
+                    "szep": "Zsolt 127,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony, az ÚR ajándéka a gyermek, az anyaméh gyümölcse jutalom."
+            },
+            {
+                "hely": {
+                    "gepi": 12112700400,
+                    "szep": "Zsolt 127,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mint a hős kezében a nyilak, olyanok a serdülő ifjak."
+            },
+            {
+                "hely": {
+                    "gepi": 12112700500,
+                    "szep": "Zsolt 127,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog az az ember, aki ilyenekkel tölti meg a tegzét: nem szégyenül meg, ha ellenségeivel van szóváltása a kapuban."
+            }
+        ]
+    }
+}

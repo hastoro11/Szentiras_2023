@@ -1,0 +1,103 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 75"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107500000,
+                    "szep": "Zsolt 75,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek, az altashétre, Aszáf zsoltára, ének."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500100,
+                    "szep": "Zsolt 75,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tisztelünk téged, oh Isten, tisztelünk; neved közel van, hirdetik csodatetteid."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500200,
+                    "szep": "Zsolt 75,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha megszabom a határidőt, én méltányosan ítélek."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500300,
+                    "szep": "Zsolt 75,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "A föld és annak minden lakosa elcsügged; én erősítem meg annak oszlopait. Szela."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500400,
+                    "szep": "Zsolt 75,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A kérkedőknek azt mondom: Ne kérkedjetek; és a gonoszoknak: Ne emeljetek szarvat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107500500,
+                    "szep": "Zsolt 75,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne emeljétek magasra szarvatokat, ne szóljatok megkeményedett nyakkal;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107500600,
+                    "szep": "Zsolt 75,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nem napkelettől, sem napnyugattól, s nem is a puszta felől támad a felmagasztalás;"
+            },
+            {
+                "hely": {
+                    "gepi": 12107500700,
+                    "szep": "Zsolt 75,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hanem Isten a biró, a ki egyet megaláz, mást felmagasztal!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107500800,
+                    "szep": "Zsolt 75,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert pohár van az Úr kezében, bortól pezseg, nedvvel tele; ha tölt belőle, még seprejét is iszsza és szopja a föld minden gonosztevője."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500900,
+                    "szep": "Zsolt 75,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én pedig hirdetem ezt mindörökké, és éneket mondok a Jákób Istenének."
+            },
+            {
+                "hely": {
+                    "gepi": 12107501000,
+                    "szep": "Zsolt 75,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "És a gonoszoknak szarvait mind letördelem; az igaznak szarvai pedig felmagasztaltatnak."
+            }
+        ]
+    }
+}

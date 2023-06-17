@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 62"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106200000,
+                    "szep": "Zsolt 62,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek, Jedútúnnak: Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200100,
+                    "szep": "Zsolt 62,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak Istennél csendesül el lelkem, tőle kapok segítséget."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200200,
+                    "szep": "Zsolt 62,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak ő az én kősziklám és szabadítóm, erős váram, nem ingadozom sokáig."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200300,
+                    "szep": "Zsolt 62,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meddig támadtok egyetlen emberre, miért akarjátok mindnyájan megölni? Olyan, mint a düledező fal és a bedőlt kerítés!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106200400,
+                    "szep": "Zsolt 62,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak azon tanácskoznak, hogyan taszítsák le a magasból. Hazugságban telik kedvük, szájukkal áldanak, szívükben átkoznak. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12106200500,
+                    "szep": "Zsolt 62,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak Istennél csendesül el lelkem, tőle kapok reménységet."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200600,
+                    "szep": "Zsolt 62,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak ő az én kősziklám és szabadítóm, erős váram, nem ingadozom."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200700,
+                    "szep": "Zsolt 62,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istennél van segítségem és dicsőségem, erős sziklám és oltalmam az Isten."
+            },
+            {
+                "hely": {
+                    "gepi": 12106200800,
+                    "szep": "Zsolt 62,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bízzatok benne mindenkor, ti, népek, öntsétek ki előtte szíveteket, Isten a mi oltalmunk! (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12106200900,
+                    "szep": "Zsolt 62,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak pára az emberek élete, hazug látszat a halandóké. Ha mérlegre kerülnek, a páránál is könnyebb mindegyik."
+            },
+            {
+                "hely": {
+                    "gepi": 12106201000,
+                    "szep": "Zsolt 62,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne bízzatok zsarolt javakban, rablott holmival ne kérkedjetek! Ha gyarapszik is vagyonotok, ne bizakodjatok el!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106201100,
+                    "szep": "Zsolt 62,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szólott egyszer az Isten, és ezt a két dolgot értettem meg: Istennél van az erő;"
+            },
+            {
+                "hely": {
+                    "gepi": 12106201200,
+                    "szep": "Zsolt 62,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "nálad van, URam, a szeretet. Te megfizetsz mindenkinek tettei szerint."
+            }
+        ]
+    }
+}

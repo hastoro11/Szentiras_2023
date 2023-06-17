@@ -1,0 +1,105 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 113"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111300100,
+                    "szep": "Zsolt 113,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ezeknek a dicsőítő énekeknek a három nagy zsidó ünnep liturgiájában volt állandó helye. Pászka ünnepén étkezés előtt a 113-114. zsoltárt énekelték, étkezés után pedig a 115-118. zsoltárt (vö. Mt 26,30)."
+                    },
+                    {
+                        "position": null,
+                        "text": "Liturgikus ének a fogság előtti időkből. Két énekes csoport (1-4.5-9 v.) énekli."
+                    },
+                    {
+                        "position": null,
+                        "text": "Az Úr szolgája (pap vagy levita) dicsőítésre szólít fel."
+                    }
+                ],
+                "szoveg": "ALLELUJA!<br>Dicsérjétek az Urat, ti szolgái,<br>dicsérjétek az Úr nevét!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111300200,
+                    "szep": "Zsolt 113,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott legyen az Úr neve<br>most és mindörökké!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111300300,
+                    "szep": "Zsolt 113,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Napkelettől napnyugatig<br>dicsértessék az Úr neve!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111300400,
+                    "szep": "Zsolt 113,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fölséges az Úr minden nemzet fölött,<br>dicsősége fölülmúlja az egeket."
+            },
+            {
+                "hely": {
+                    "gepi": 12111300500,
+                    "szep": "Zsolt 113,5"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A második csoport dicsőíti a fölséges Istent."
+                    }
+                ],
+                "szoveg": "Ki olyan mint az Úr, a mi Istenünk,<br>aki a magasságban lakik,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111300600,
+                    "szep": "Zsolt 113,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "de lehajol hogy letekintsen az égre és a földre?"
+            },
+            {
+                "hely": {
+                    "gepi": 12111300700,
+                    "szep": "Zsolt 113,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fölemeli a nincstelent a porból,<br>fölsegíti a szegényt a sárból,"
+            },
+            {
+                "hely": {
+                    "gepi": 12111300800,
+                    "szep": "Zsolt 113,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy helyet adjon neki a fejedelmek között,<br>népének fejedelmei között."
+            },
+            {
+                "hely": {
+                    "gepi": 12111300900,
+                    "szep": "Zsolt 113,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Úgy lakhat házában a gyermektelen asszony,<br>mint a fiain örvendő anya."
+            }
+        ]
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 11"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101100000,
+                    "szep": "Zsolt 11,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Bizalom-ének, amely a fogság előtti időkben keletkezett. Először két ellentétes képpel ábrázolja az emberi bölcsességet, aztán az isteni bölcsességet. Az emberi bölcsesség egy szempillantás alatt eltűnik, ravaszságon és a gonosz megtapasztalásán alapul. A barátok tanácsa, amit a bajbajutottnak adnak, az életét talán megmenti, de az önbecsülését nem: jószándékú, de helytelen tanács. Az isteni bölcsesség ellenben azt tanácsolja: bízni. Isten érvényre fogja juttatni igazságát."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Dávid zsoltára.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12101100100,
+                    "szep": "Zsolt 11,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Bizalom-ének, amely a fogság előtti időkben keletkezett. Először két ellentétes képpel ábrázolja az emberi bölcsességet, aztán az isteni bölcsességet. Az emberi bölcsesség egy szempillantás alatt eltűnik, ravaszságon és a gonosz megtapasztalásán alapul. A barátok tanácsa, amit a bajbajutottnak adnak, az életét talán megmenti, de az önbecsülését nem: jószándékú, de helytelen tanács. Az isteni bölcsesség ellenben azt tanácsolja: bízni. Isten érvényre fogja juttatni igazságát."
+                    }
+                ],
+                "szoveg": "Az Úrban bízom én. Hogyan mondhatjátok nekem: »Menekülj a hegyekbe, mint a veréb!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101100200,
+                    "szep": "Zsolt 11,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert íme a bűnösök kifeszítették az íjat,<br>a húrra illesztették nyilaikat,<br>hogy lenyilazzák a sötétben az egyenes szívűeket."
+            },
+            {
+                "hely": {
+                    "gepi": 12101100300,
+                    "szep": "Zsolt 11,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha semmibe sem veszik végzéseidet,<br>mit tehet akkor az igaz?«"
+            },
+            {
+                "hely": {
+                    "gepi": 12101100400,
+                    "szep": "Zsolt 11,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szent templomában van az Úr,<br>áll az egekben az Úr trónusa.<br>A szegényre tekint a szeme,<br>az emberek fiait vizsgálja pillantása."
+            },
+            {
+                "hely": {
+                    "gepi": 12101100500,
+                    "szep": "Zsolt 11,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megvizsgálja az Úr az igazat s az istentelent;<br>Saját lelkét gyűlöli, aki szereti a gonoszságot."
+            },
+            {
+                "hely": {
+                    "gepi": 12101100600,
+                    "szep": "Zsolt 11,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Parazsat és kénkövet hullat a bűnösökre,<br>és szélvihar lesz kelyhük osztályrésze."
+            },
+            {
+                "hely": {
+                    "gepi": 12101100700,
+                    "szep": "Zsolt 11,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert igaz az Úr s az igazságot kedveli,<br>az igazak láthatják majd arcát."
+            }
+        ]
+    }
+}

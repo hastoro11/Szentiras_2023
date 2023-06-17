@@ -1,0 +1,183 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 9"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100900000,
+                    "szep": "Zsolt 9,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: „A fiú halála” kezdetű ének dallamára. Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12100900100,
+                    "szep": "Zsolt 9,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hálát adok az ÚRnak teljes szívemből, elbeszélem minden csodatettedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12100900200,
+                    "szep": "Zsolt 9,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örülök és vigadok neked, zengem nevedet, ó, Felséges!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100900300,
+                    "szep": "Zsolt 9,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert meghátráltak ellenségeim, elbuktak, és semmivé lettek előtted."
+            },
+            {
+                "hely": {
+                    "gepi": 12100900400,
+                    "szep": "Zsolt 9,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert igazságot szolgáltattál ügyemben, trónodra ültél mint igaz bíró."
+            },
+            {
+                "hely": {
+                    "gepi": 12100900500,
+                    "szep": "Zsolt 9,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megdorgáltad a népeket, semmivé tetted a bűnösöket, eltörölted nevüket mindörökre!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100900600,
+                    "szep": "Zsolt 9,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vége van az ellenségnek! Feldúltad városaikat, hogy örökké romokban heverjenek, még emlékük is kiveszett."
+            },
+            {
+                "hely": {
+                    "gepi": 12100900700,
+                    "szep": "Zsolt 9,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "De az ÚR örökké trónján ül, fölállította bírói székét."
+            },
+            {
+                "hely": {
+                    "gepi": 12100900800,
+                    "szep": "Zsolt 9,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igazságosan bíráskodik a világ fölött, részrehajlás nélkül ítéli a nemzeteket."
+            },
+            {
+                "hely": {
+                    "gepi": 12100900900,
+                    "szep": "Zsolt 9,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az elnyomottak menedéke az ÚR, menedék a nyomorúság idején."
+            },
+            {
+                "hely": {
+                    "gepi": 12100901000,
+                    "szep": "Zsolt 9,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Benned bíznak, akik ismerik nevedet, nem hagyod el, URam, azokat, akik hozzád folyamodnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12100901100,
+                    "szep": "Zsolt 9,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Zengjetek az ÚRnak, aki a Sionon lakik, mondjátok el a népeknek felséges tetteit!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100901200,
+                    "szep": "Zsolt 9,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert számon kéri a vérontást, emlékezik rá, nem feledkezik meg az elesettek jajkiáltásáról."
+            },
+            {
+                "hely": {
+                    "gepi": 12100901300,
+                    "szep": "Zsolt 9,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Légy kegyelmes, URam, lásd meg, milyen elesett vagyok gyűlölőim miatt! Te emelhetsz föl a halál kapujából,"
+            },
+            {
+                "hely": {
+                    "gepi": 12100901400,
+                    "szep": "Zsolt 9,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy elbeszélhessem sok dicső tettedet Sion leányának kapuiban, és vigadhassak, mert megszabadítottál!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100901500,
+                    "szep": "Zsolt 9,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Maguk ásta gödörbe zuhantak a népek, rejtett hálójuk fogta meg lábukat."
+            },
+            {
+                "hely": {
+                    "gepi": 12100901600,
+                    "szep": "Zsolt 9,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megismertette magát az ÚR, igazságot szolgáltatott. A bűnöst saját kezének műve ejti csapdába. (Közjáték. Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12100901700,
+                    "szep": "Zsolt 9,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "A holtak hazájába kerülnek a bűnösök, minden olyan nép, amely elfelejti Istent."
+            },
+            {
+                "hely": {
+                    "gepi": 12100901800,
+                    "szep": "Zsolt 9,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem marad örökre elfelejtve a szegény, nem vész el végleg az elesettek reménye."
+            },
+            {
+                "hely": {
+                    "gepi": 12100901900,
+                    "szep": "Zsolt 9,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne engedd, URam, hogy erőszakoskodjanak az emberek! Álljanak eléd ítéletre a népek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100902000,
+                    "szep": "Zsolt 9,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vigyél véghez, URam, félelmetes tetteket közöttük, hadd tudják meg a népek, hogy ők csak emberek! (Szela.)"
+            }
+        ]
+    }
+}

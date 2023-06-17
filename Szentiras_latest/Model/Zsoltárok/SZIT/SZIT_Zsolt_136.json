@@ -1,0 +1,223 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 136"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12113600100,
+                    "szep": "Zsolt 136,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Alleluja!) Áldjátok az Urat, mert jó: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600200,
+                    "szep": "Zsolt 136,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjátok az istenek Istenét: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600300,
+                    "szep": "Zsolt 136,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjátok az urak Urát: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600400,
+                    "szep": "Zsolt 136,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak ő tesz csodát: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600500,
+                    "szep": "Zsolt 136,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő alkotta bölcsességében az eget: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600600,
+                    "szep": "Zsolt 136,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő teremtette a földet a víz fölé: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600700,
+                    "szep": "Zsolt 136,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ő teremtette a nagy világítókat: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600800,
+                    "szep": "Zsolt 136,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "A napot, hogy kormányozza a nappalt: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113600900,
+                    "szep": "Zsolt 136,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "A holdat és a csillagokat, hogy kormányozzák az éjt: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601000,
+                    "szep": "Zsolt 136,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lesújtott Egyiptom elsőszülötteire: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601100,
+                    "szep": "Zsolt 136,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Izraelt kivezette közülük: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601200,
+                    "szep": "Zsolt 136,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Erős kézzel és fölemelt karral: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601300,
+                    "szep": "Zsolt 136,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kettéválasztotta a Vörös-tengert: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601400,
+                    "szep": "Zsolt 136,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Középen átvezette Izraelt: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601500,
+                    "szep": "Zsolt 136,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "A fáraót és seregét a vízbe taszította: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601600,
+                    "szep": "Zsolt 136,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Népét a pusztába vezérelte: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601700,
+                    "szep": "Zsolt 136,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nagy királyokat vert meg: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601800,
+                    "szep": "Zsolt 136,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hatalmas fejedelmeket győzött le: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113601900,
+                    "szep": "Zsolt 136,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szichont, az amoriták királyát: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602000,
+                    "szep": "Zsolt 136,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "És Ogot, Básán királyát: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602100,
+                    "szep": "Zsolt 136,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Országukat örökségül adta: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602200,
+                    "szep": "Zsolt 136,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örökségül Izraelnek, az ő szolgájának: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602300,
+                    "szep": "Zsolt 136,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megemlékezett rólunk szükségünkben: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602400,
+                    "szep": "Zsolt 136,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megmentett ellenségeinktől: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602500,
+                    "szep": "Zsolt 136,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Táplálékot ad minden testnek: irgalma örökké tart."
+            },
+            {
+                "hely": {
+                    "gepi": 12113602600,
+                    "szep": "Zsolt 136,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldjátok az egek Istenét: irgalma örökké tart."
+            }
+        ]
+    }
+}

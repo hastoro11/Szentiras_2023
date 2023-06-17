@@ -1,0 +1,117 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 75"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107500000,
+                    "szep": "Zsolt 75,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Hálaének a fogság utáni idők korai szakaszából. A 2. versben az összegyűlt közösség beszél, a 2-3. és a 11. versekben maga Isten, 5-10-ben pedig egy személy."
+                    },
+                    {
+                        "position": null,
+                        "text": "Ászáf: vö. 50,1."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. A »Ne pusztíts el« szerint. Ászáf zsoltára. Ének.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12107500100,
+                    "szep": "Zsolt 75,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsérünk téged, Isten, dicsérünk,<br>szólítjuk nevedet: csodáidat hirdetjük."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500200,
+                    "szep": "Zsolt 75,2"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Egyedül Isten határozza meg az ítélet idejét és mértékét is."
+                    }
+                ],
+                "szoveg": "Ha eljön az ideje,<br>igazságos ítéletet mondok."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500300,
+                    "szep": "Zsolt 75,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Olvadjon bár el a föld és minden lakója,<br>én megszilárdítom oszlopait."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500400,
+                    "szep": "Zsolt 75,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azt mondom a kérkedőknek: »Ne kérkedjetek!«<br>s a vétkezőknek: »Ne pöffeszkedjetek!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107500500,
+                    "szep": "Zsolt 75,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne pöffeszkedjetek, ne beszéljetek Isten ellen gonoszat!«"
+            },
+            {
+                "hely": {
+                    "gepi": 12107500600,
+                    "szep": "Zsolt 75,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nem jön szabadulás sem napkeletről, sem napnyugatról,<br>sem a puszta hegyek felől."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500700,
+                    "szep": "Zsolt 75,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert Isten a bíró:<br>az egyiket megalázza, a másikat fölmagasztalja."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500800,
+                    "szep": "Zsolt 75,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert serleg van az Úr kezében,<br>teletöltve színtiszta borral.<br>Tölt belőle mindenfelé;<br>Még a seprőjét is inni fogják,<br>issza majd minden bűnös a földön."
+            },
+            {
+                "hely": {
+                    "gepi": 12107500900,
+                    "szep": "Zsolt 75,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én pedig hirdetem ezt mindenkor,<br>énekelek Jákob Istenének."
+            },
+            {
+                "hely": {
+                    "gepi": 12107501000,
+                    "szep": "Zsolt 75,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A pöffeszkedő bűnösöket összetöröm,<br>s az igazakat fölmagasztalom."
+            }
+        ]
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 19"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101900000,
+                    "szep": "Zsolt 19,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek – Dávid zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12101900100,
+                    "szep": "Zsolt 19,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az egek hirdetik Isten dicsőségét, az égbolt vallja kezének művét."
+            },
+            {
+                "hely": {
+                    "gepi": 12101900200,
+                    "szep": "Zsolt 19,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "A nap továbbadja a szót a másik napnak, az éj jelenti a hírt az éjnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12101900300,
+                    "szep": "Zsolt 19,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem beszéd ez, nem szó, hang nem hallható,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101900400,
+                    "szep": "Zsolt 19,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "a hír mégis terjed, szerte a világon, a szózat elhangzik a föld határáig. Ott vert sátrat a napnak:"
+            },
+            {
+                "hely": {
+                    "gepi": 12101900500,
+                    "szep": "Zsolt 19,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "mint a vőlegény, lakából úgy kel fel, s ujjong, akár a hős, aki megfutja pályáját."
+            },
+            {
+                "hely": {
+                    "gepi": 12101900600,
+                    "szep": "Zsolt 19,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ég egyik szélén kel és siet a másik szélére, tüze elől semmi sem rejtőzhet el."
+            },
+            {
+                "hely": {
+                    "gepi": 12101900700,
+                    "szep": "Zsolt 19,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr törvénye tökéletes, enyhíti a lelket. Az Úr tanúsága megbízható, a balgát bölccsé teszi."
+            },
+            {
+                "hely": {
+                    "gepi": 12101900800,
+                    "szep": "Zsolt 19,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr parancsai egyenesek, földerítik a szívet, útmutatása érthető, megvilágítja a szemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12101900900,
+                    "szep": "Zsolt 19,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr félelme tiszta s örökké megmarad. Az Úr ítéletei igazak és mind jogosak,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101901000,
+                    "szep": "Zsolt 19,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "értékesebbek az aranynál, a tiszta aranykincsnél, szavai édesebbek a méznél, a lépből kicsordult méznél."
+            },
+            {
+                "hely": {
+                    "gepi": 12101901100,
+                    "szep": "Zsolt 19,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szolgád hűségesen megtartja őket, hisz követésük bő jutalmat terem."
+            },
+            {
+                "hely": {
+                    "gepi": 12101901200,
+                    "szep": "Zsolt 19,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "De ki látja meg saját hibáit? Tisztíts meg mindtől, ami rejtve maradt!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101901300,
+                    "szep": "Zsolt 19,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Őrizd meg szolgádat a kevélységtől, nehogy hatalmába ejtsen! Akkor mentes maradok a bűntől és tiszta a súlyos vétektől."
+            },
+            {
+                "hely": {
+                    "gepi": 12101901400,
+                    "szep": "Zsolt 19,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Teljék örömöd számnak szavaiban, s engedd, hogy szívem szándéka elérjen hozzád, Uram, menedékem, üdvözítőm!"
+            }
+        ]
+    }
+}

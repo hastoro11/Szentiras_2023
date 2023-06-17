@@ -1,0 +1,95 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 52"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (2014)",
+            "rov": "RUF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105200000,
+                    "szep": "Zsolt 52,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Dávid tanítókölteménye, abból az időből, amikor az edómi Dóég Saulhoz ment, és jelentette neki, hogy Dávid Ahímelek házába érkezett."
+            },
+            {
+                "hely": {
+                    "gepi": 12105200100,
+                    "szep": "Zsolt 52,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mit dicsekszel gonoszságoddal, te nagy hős? Hiszen Isten szeretete mindig megmarad!"
+            },
+            {
+                "hely": {
+                    "gepi": 12105200200,
+                    "szep": "Zsolt 52,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Romlásomra törsz, te cselszövő! Nyelved olyan, mint az éles borotva."
+            },
+            {
+                "hely": {
+                    "gepi": 12105200300,
+                    "szep": "Zsolt 52,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "A rosszat szereted, nem a jót, a hazugságot, nem az igaz beszédet. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12105200400,
+                    "szep": "Zsolt 52,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szeretsz bántóan beszélni, álnok a nyelved."
+            },
+            {
+                "hely": {
+                    "gepi": 12105200500,
+                    "szep": "Zsolt 52,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Össze is tör téged az Isten végleg, megragad, kiránt sátradból, kitép gyökerestül az élők földjéből. (Szela.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12105200600,
+                    "szep": "Zsolt 52,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Látják ezt az igazak, és félnek, rajta meg nevetni fognak."
+            },
+            {
+                "hely": {
+                    "gepi": 12105200700,
+                    "szep": "Zsolt 52,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ez az az ember – mondják –, akinek nem kellett Isten oltalma, hanem nagy gazdagságában bízott, és csalárdságban volt erős."
+            },
+            {
+                "hely": {
+                    "gepi": 12105200800,
+                    "szep": "Zsolt 52,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "De én olyan vagyok, mint a viruló olajfa, Isten házában lehetek, bízom Isten szeretetében most és mindenkor."
+            },
+            {
+                "hely": {
+                    "gepi": 12105200900,
+                    "szep": "Zsolt 52,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hálát adok neked mindenkor, mert te munkálkodsz. Nevedben reménykedem, mert jó vagy híveidhez."
+            }
+        ]
+    }
+}

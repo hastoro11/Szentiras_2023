@@ -1,0 +1,127 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 41"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12104100000,
+                    "szep": "Zsolt 41,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek; Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12104100100,
+                    "szep": "Zsolt 41,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog, a ki a nyomorultra gondol; a veszedelem napján megmenti azt az Úr."
+            },
+            {
+                "hely": {
+                    "gepi": 12104100200,
+                    "szep": "Zsolt 41,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr megőrzi azt és élteti azt; boldog lesz e földön, és nem adhatod oda ellenségei kivánságának."
+            },
+            {
+                "hely": {
+                    "gepi": 12104100300,
+                    "szep": "Zsolt 41,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr megerősíti őt az ő betegágyán; bármilyen az ágya, megkönnyíted betegségében."
+            },
+            {
+                "hely": {
+                    "gepi": 12104100400,
+                    "szep": "Zsolt 41,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én azt mondtam: Uram kegyelmezz nékem, gyógyítsd meg lelkemet, mert vétkeztem ellened!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104100500,
+                    "szep": "Zsolt 41,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ellenségeim rosszat mondanak felőlem: Mikor hal meg és vész ki a neve?"
+            },
+            {
+                "hely": {
+                    "gepi": 12104100600,
+                    "szep": "Zsolt 41,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha látogatni jön be valaki, hiábavalóságot beszél; szíve álnokságot gyűjt össze magának, kimegy az utczára és beszél."
+            },
+            {
+                "hely": {
+                    "gepi": 12104100700,
+                    "szep": "Zsolt 41,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Minden gyűlölőm együtt suttog reám, gonoszat koholnak ellenem:"
+            },
+            {
+                "hely": {
+                    "gepi": 12104100800,
+                    "szep": "Zsolt 41,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istennek átka szállott ő reá, s mivelhogy benne fekszik, nem kél fel többé!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104100900,
+                    "szep": "Zsolt 41,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Még az én jóakaróm is, a kiben bíztam, a ki kenyeremet ette, fölemelte sarkát ellenem."
+            },
+            {
+                "hely": {
+                    "gepi": 12104101000,
+                    "szep": "Zsolt 41,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "De te Uram, könyörülj rajtam és emelj föl engemet, hadd fizessek meg nékik!"
+            },
+            {
+                "hely": {
+                    "gepi": 12104101100,
+                    "szep": "Zsolt 41,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Abból tudom meg, hogy kedvelsz engemet, ha ellenségem nem ujjong felettem;"
+            },
+            {
+                "hely": {
+                    "gepi": 12104101200,
+                    "szep": "Zsolt 41,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Engem pedig feddhetetlenségemben támogatsz, és színed elé állatsz mindenha."
+            },
+            {
+                "hely": {
+                    "gepi": 12104101300,
+                    "szep": "Zsolt 41,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldott az Úr, Izráelnek Istene öröktől fogva mindörökké. Ámen, ámen!"
+            }
+        ]
+    }
+}

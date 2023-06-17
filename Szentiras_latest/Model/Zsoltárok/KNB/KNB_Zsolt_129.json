@@ -1,0 +1,110 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 129"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112900000,
+                    "szep": "Zsolt 129,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A fogság utáni közösség bizaloméneke."
+                    },
+                    {
+                        "position": null,
+                        "text": "A közösség saját történetéről elmélkedik (1. személyben). Izrael kezdettől fogva szenvedett, Isten népét szorongatták, leigázták, de le nem győzték (vö. Jn 16,22)."
+                    }
+                ],
+                "szoveg": "<em>Zarándok-ének.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12112900100,
+                    "szep": "Zsolt 129,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A fogság utáni közösség bizaloméneke."
+                    },
+                    {
+                        "position": null,
+                        "text": "A közösség saját történetéről elmélkedik (1. személyben). Izrael kezdettől fogva szenvedett, Isten népét szorongatták, leigázták, de le nem győzték (vö. Jn 16,22)."
+                    }
+                ],
+                "szoveg": "Gyakran támadtak ellenem ifjúkorom óta,<br>– vallja meg most Izrael, –"
+            },
+            {
+                "hely": {
+                    "gepi": 12112900200,
+                    "szep": "Zsolt 129,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "gyakran támadtak ellenem ifjúkorom óta,<br>mégsem bírtak velem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112900300,
+                    "szep": "Zsolt 129,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hátamon szántottak mint szántóvetők,<br>hosszú barázdákat hasítottak,"
+            },
+            {
+                "hely": {
+                    "gepi": 12112900400,
+                    "szep": "Zsolt 129,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "de igazságos az Úr:<br>nyakát szegte a bűnösöknek."
+            },
+            {
+                "hely": {
+                    "gepi": 12112900500,
+                    "szep": "Zsolt 129,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jöjjenek zavarba mind és szégyenüljenek meg,<br>mindazok, akik gyűlölik Siont."
+            },
+            {
+                "hely": {
+                    "gepi": 12112900600,
+                    "szep": "Zsolt 129,6"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Mt 15,5-39."
+                    }
+                ],
+                "szoveg": "Olyanok legyenek, mint a fű a háztetőn,<br>amely elszárad, még mielőtt kitépik,"
+            },
+            {
+                "hely": {
+                    "gepi": 12112900700,
+                    "szep": "Zsolt 129,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "amellyel az arató nem tölti meg kezét,<br>sem ölét a marokszedő,"
+            },
+            {
+                "hely": {
+                    "gepi": 12112900800,
+                    "szep": "Zsolt 129,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "amely miatt nem mondják az arra járók:<br>»Az Úr áldása legyen rajtatok,<br>megáldunk titeket az Úr nevében!«"
+            }
+        ]
+    }
+}

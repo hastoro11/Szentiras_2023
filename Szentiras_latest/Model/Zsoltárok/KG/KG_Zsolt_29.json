@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 29"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12102900000,
+                    "szep": "Zsolt 29,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900100,
+                    "szep": "Zsolt 29,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adjatok az Úrnak, ti fejedelmeknek fiai, adjatok az Úrnak tiszteletet és dicséretet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102900200,
+                    "szep": "Zsolt 29,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Adjátok az Úrnak neve tiszteletét, imádjátok az Urat szent ékességben."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900300,
+                    "szep": "Zsolt 29,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr szava zeng a vizek fölött, a dicsőség Istene mennydörög, az Úr ott van a nagy vizek felett."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900400,
+                    "szep": "Zsolt 29,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr szava erős; az Úr szava fenséges."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900500,
+                    "szep": "Zsolt 29,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr szava czédrusokat tördel, összetöri az Úr a Libánon czédrusait is."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900600,
+                    "szep": "Zsolt 29,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "És ugrándoztatja azokat, mint a borjút, a Libánont és a Szirjónt, mint a bivalyfiat."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900700,
+                    "szep": "Zsolt 29,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr szava tűzlángokat szór."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900800,
+                    "szep": "Zsolt 29,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr szava megrengeti a pusztát, megrengeti az Úr Kádesnek pusztáját."
+            },
+            {
+                "hely": {
+                    "gepi": 12102900900,
+                    "szep": "Zsolt 29,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr szava megborjaztatja a nőstény szarvasokat, lehántja az erdőket, és az ő hajlékában mindene azt mondja: dicső!"
+            },
+            {
+                "hely": {
+                    "gepi": 12102901000,
+                    "szep": "Zsolt 29,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr trónolt az özönvíz felett; így trónol az Úr, mint király, mindörökké."
+            },
+            {
+                "hely": {
+                    "gepi": 12102901100,
+                    "szep": "Zsolt 29,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr ad erőt népének, az Úr megáldja népét békességgel."
+            }
+        ]
+    }
+}

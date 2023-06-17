@@ -1,0 +1,115 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 120"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12112000000,
+                    "szep": "Zsolt 120,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ez a tizenöt zsoltár a fogság utáni közösség zarándok-énekeinek gyűjteménye."
+                    },
+                    {
+                        "position": null,
+                        "text": "Egy igaz ember panaszdala, a fogság utánról."
+                    },
+                    {
+                        "position": null,
+                        "text": "A zsoltár tanúságtevő hálaadással kezdődik."
+                    }
+                ],
+                "szoveg": "<em>Zarándok-ének.</em>"
+            },
+            {
+                "hely": {
+                    "gepi": 12112000100,
+                    "szep": "Zsolt 120,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Ez a tizenöt zsoltár a fogság utáni közösség zarándok-énekeinek gyűjteménye."
+                    },
+                    {
+                        "position": null,
+                        "text": "Egy igaz ember panaszdala, a fogság utánról."
+                    },
+                    {
+                        "position": null,
+                        "text": "A zsoltár tanúságtevő hálaadással kezdődik."
+                    }
+                ],
+                "szoveg": "Szorongatásomban az Úrhoz kiáltottam,<br>s ő meghallgatott engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12112000200,
+                    "szep": "Zsolt 120,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Uram, szabadítsd meg lelkemet<br>a gonosz ajaktól és a csalárd nyelvtől!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112000300,
+                    "szep": "Zsolt 120,3"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Vö. ius talionis, 109,6-20."
+                    }
+                ],
+                "szoveg": "Mi lesz a részed, mi lesz a jutalmad,<br>te csalárd nyelv?"
+            },
+            {
+                "hely": {
+                    "gepi": 12112000400,
+                    "szep": "Zsolt 120,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "A hős hegyes nyilai<br>és borókaparázs."
+            },
+            {
+                "hely": {
+                    "gepi": 12112000500,
+                    "szep": "Zsolt 120,5"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zsoltáros idegenként él idegenek között. – Mesek (kaukázusi hegyi nép, Jáfetre vezetik vissza, vö. Ter 10,2) és Kedár (izmaelita nomád törzs a szíriai pusztában, vö. Ter 25,13) minden Izraellel ellenséges nép jelképei."
+                    }
+                ],
+                "szoveg": "Jaj nekem, hogy mint idegennek Mesekben kell tartózkodnom<br>és Kedár sátraiban lakom!"
+            },
+            {
+                "hely": {
+                    "gepi": 12112000600,
+                    "szep": "Zsolt 120,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lelkem már régóta lakik<br>azok között, akik gyűlölik a békét."
+            },
+            {
+                "hely": {
+                    "gepi": 12112000700,
+                    "szep": "Zsolt 120,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Békességes vagyok, mégis ha beszélek velük,<br>ők ok nélkül ellenem támadnak."
+            }
+        ]
+    }
+}

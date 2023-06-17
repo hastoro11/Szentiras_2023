@@ -1,0 +1,111 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 16"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101600000,
+                    "szep": "Zsolt 16,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid bizonyságtétele."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600100,
+                    "szep": "Zsolt 16,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tarts meg engem, Istenem, mert hozzád menekültem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12101600200,
+                    "szep": "Zsolt 16,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezt mondom az ÚRnak: Te vagy az én Uram, rajtad kívül nincs, ami jó nekem."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600300,
+                    "szep": "Zsolt 16,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "A szentekben, akik a földön élnek, és a dicsőségesekben telik minden kedvem."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600400,
+                    "szep": "Zsolt 16,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sok fájdalmuk lesz azoknak, akik máshoz csatlakoznak. Nem mutatok be nekik vérrel kevert italáldozatot, még nevüket sem veszem ajkamra."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600500,
+                    "szep": "Zsolt 16,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, te vagy osztályrészem és poharam, te tartod kezedben sorsomat."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600600,
+                    "szep": "Zsolt 16,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Osztályrészem kies helyre esett, örökségem nagyon tetszik nekem."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600700,
+                    "szep": "Zsolt 16,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldom az URat, mert tanácsot ad nekem, még éjszaka is figyelmeztet bensőm."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600800,
+                    "szep": "Zsolt 16,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚRra tekintek szüntelen, nem tántorodom meg, mert a jobbomon van."
+            },
+            {
+                "hely": {
+                    "gepi": 12101600900,
+                    "szep": "Zsolt 16,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezért örül a szívem, és ujjong a lelkem, testem is biztonságban van."
+            },
+            {
+                "hely": {
+                    "gepi": 12101601000,
+                    "szep": "Zsolt 16,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nem hagysz engem a holtak hazájában, nem engeded, hogy híved leszálljon a sírba."
+            },
+            {
+                "hely": {
+                    "gepi": 12101601100,
+                    "szep": "Zsolt 16,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megismerteted velem az élet útját, teljes öröm van tenálad, örökké tart a gyönyörűség jobbodon."
+            }
+        ]
+    }
+}

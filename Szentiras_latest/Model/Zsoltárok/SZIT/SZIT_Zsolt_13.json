@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 13"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12101300000,
+                    "szep": "Zsolt 13,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek – Dávid zsoltára.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12101300100,
+                    "szep": "Zsolt 13,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meddig feledkezel meg rólam, Uram, mindörökre? Meddig rejted el arcodat előlem?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101300200,
+                    "szep": "Zsolt 13,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meddig emészti még lelkem a fájdalom és szívemet a mindennapi gond? Meddig uralkodik még rajtam az ellenség?"
+            },
+            {
+                "hely": {
+                    "gepi": 12101300300,
+                    "szep": "Zsolt 13,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tekints rám, Uram, Istenem, és hallgass meg! Adj világosságot szememnek, nehogy halálba szenderüljek"
+            },
+            {
+                "hely": {
+                    "gepi": 12101300400,
+                    "szep": "Zsolt 13,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "s ellenségem azzal dicsekedjék: „Legyőztem!” Ne örüljön ellenfelem azon, hogy elestem,"
+            },
+            {
+                "hely": {
+                    "gepi": 12101300500,
+                    "szep": "Zsolt 13,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "hiszen irgalmasságodban bizakodtam, Uram. Segítséged legyen öröme szívemnek, hogy énekeljek az Úrnak, aki jót tett velem."
+            }
+        ]
+    }
+}

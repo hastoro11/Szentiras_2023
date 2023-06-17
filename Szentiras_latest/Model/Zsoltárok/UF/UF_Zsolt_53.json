@@ -1,0 +1,71 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 53"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12105300000,
+                    "szep": "Zsolt 53,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: „A betegség” kezdetű ének dallamára. Dávid tanítókölteménye."
+            },
+            {
+                "hely": {
+                    "gepi": 12105300100,
+                    "szep": "Zsolt 53,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azt gondolja magában a bolond, hogy nincs Isten! Romlottak és utálatosak tetteik, senki sem tesz jót."
+            },
+            {
+                "hely": {
+                    "gepi": 12105300200,
+                    "szep": "Zsolt 53,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten letekint a mennyből az emberekre, hogy lássa, van-e köztük értelmes, aki keresi az Istent?"
+            },
+            {
+                "hely": {
+                    "gepi": 12105300300,
+                    "szep": "Zsolt 53,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mindnyájan elpártoltak tőle, egyaránt megromlottak. Senki sem tesz jót, egyetlen ember sem."
+            },
+            {
+                "hely": {
+                    "gepi": 12105300400,
+                    "szep": "Zsolt 53,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem tudják a gonosztevők, akik úgy eszik népemet, ahogy a kenyeret eszik, de Istenhez nem kiáltanak,"
+            },
+            {
+                "hely": {
+                    "gepi": 12105300500,
+                    "szep": "Zsolt 53,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy majd egyszer igen megrettennek, akik addig nem rettegtek! Mert szétszórja Isten támadóid csontjait, megszégyeníted őket, mert Isten megvetette őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12105300600,
+                    "szep": "Zsolt 53,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bárcsak eljönne a Sionról Izráel szabadulása! Amikor Isten jóra fordítja népe sorsát, ujjong majd Jákób, és örül Izráel."
+            }
+        ]
+    }
+}

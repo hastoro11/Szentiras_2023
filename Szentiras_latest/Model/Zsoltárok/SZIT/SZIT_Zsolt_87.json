@@ -1,0 +1,79 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 87"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108700000,
+                    "szep": "Zsolt 87,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Korach fiainak zsoltára, ének.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12108700100,
+                    "szep": "Zsolt 87,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szent hegyekre vetette alapjait,"
+            },
+            {
+                "hely": {
+                    "gepi": 12108700200,
+                    "szep": "Zsolt 87,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "mert szereti az Úr; Sion kapui kedvesebbek, mint Jákob bármely hajléka."
+            },
+            {
+                "hely": {
+                    "gepi": 12108700300,
+                    "szep": "Zsolt 87,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicső dolgot hirdet rólad (az Úr), te, Isten városa!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108700400,
+                    "szep": "Zsolt 87,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "„Rahabot és Bábelt azok közé sorolom, amelyek tisztelnek engem. Lám, a filiszteusok, a tírusziak és Etiópia népe mind benne születtek."
+            },
+            {
+                "hely": {
+                    "gepi": 12108700500,
+                    "szep": "Zsolt 87,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "De Sionról ezt mondják majd: Anyánk! Mert mindegyik benne született.” Maga alapította, a Fölséges."
+            },
+            {
+                "hely": {
+                    "gepi": 12108700600,
+                    "szep": "Zsolt 87,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr számba veszi a népeket: Mind benne születtek."
+            },
+            {
+                "hely": {
+                    "gepi": 12108700700,
+                    "szep": "Zsolt 87,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "És a fejedelmeket is följegyzi közöttük: Mindegyiknek benned a hajléka."
+            }
+        ]
+    }
+}

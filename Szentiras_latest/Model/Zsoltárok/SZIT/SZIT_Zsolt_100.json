@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 100"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12110000000,
+                    "szep": "Zsolt 100,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Hálaadó zsoltár.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12110000100,
+                    "szep": "Zsolt 100,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ujjongjatok az Úrnak, országok, mind,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110000200,
+                    "szep": "Zsolt 100,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "örömmel szolgáljatok neki, lépjetek színe elé vigadozva!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110000300,
+                    "szep": "Zsolt 100,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tudjátok meg, Isten az Úr! Ő alkotott minket, az övéi vagyunk. Az ő népe vagyunk, és nyáj a legelőjén."
+            },
+            {
+                "hely": {
+                    "gepi": 12110000400,
+                    "szep": "Zsolt 100,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Lépjetek be kapuin hálaénekekkel, előudvarába dicsőítő énekkel! Adjatok hálát és áldjátok nevét,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110000500,
+                    "szep": "Zsolt 100,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "mert jó az Úr, irgalma örökké megmarad, és hűsége nemzedékről nemzedékre."
+            }
+        ]
+    }
+}

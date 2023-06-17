@@ -1,0 +1,439 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 89"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108900000,
+                    "szep": "Zsolt 89,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(Az eszrachita Etán tanítókölteménye.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12108900100,
+                    "szep": "Zsolt 89,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az Úr kegyelméről énekelek örökkön-örökké. Hűségedet hirdeti ajkam minden nemzedéken át."
+            },
+            {
+                "hely": {
+                    "gepi": 12108900200,
+                    "szep": "Zsolt 89,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így szóltam ugyanis: Kegyelmed alapját örökre megvetetted a szövetségben, hűségedet megszilárdítottad a mennyben."
+            },
+            {
+                "hely": {
+                    "gepi": 12108900300,
+                    "szep": "Zsolt 89,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "„Szövetséget kötöttem választottammal, megesküdtem szolgámnak, Dávidnak:"
+            },
+            {
+                "hely": {
+                    "gepi": 12108900400,
+                    "szep": "Zsolt 89,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "nemzetségedet minden időkre alapítom, trónodat minden nemzedékre megszilárdítom.”"
+            },
+            {
+                "hely": {
+                    "gepi": 12108900500,
+                    "szep": "Zsolt 89,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az egek dicsőítik csodáidat, Uram, a szentek közössége áldja hűségedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12108900600,
+                    "szep": "Zsolt 89,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen ki olyan a felhők közt, mint az Úr, az istenek fiai közül ki hasonlít hozzá?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108900700,
+                    "szep": "Zsolt 89,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten hatalmas a szentek tanácsában, nagy és félelmetes minden fölött, ami körötte van."
+            },
+            {
+                "hely": {
+                    "gepi": 12108900800,
+                    "szep": "Zsolt 89,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Seregek Ura! Ki olyan, mint te? Hatalmas az Úr, hűsége körülvesz téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12108900900,
+                    "szep": "Zsolt 89,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te parancsolsz a háborgó tengernek, tobzódó hullámait megfékezed,"
+            },
+            {
+                "hely": {
+                    "gepi": 12108901000,
+                    "szep": "Zsolt 89,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rahabot átszúrtad és eltiportad, ellenségeidet szétverte karod ereje."
+            },
+            {
+                "hely": {
+                    "gepi": 12108901100,
+                    "szep": "Zsolt 89,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tied az ég és tied a föld, a földkerekség minden bősége, hiszen te alkottad."
+            },
+            {
+                "hely": {
+                    "gepi": 12108901200,
+                    "szep": "Zsolt 89,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Észak és Dél a te műved, a Tábor és a Hermon téged dicsőít."
+            },
+            {
+                "hely": {
+                    "gepi": 12108901300,
+                    "szep": "Zsolt 89,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Karodban hatalom van, kezed erős, jobbod fölemelve."
+            },
+            {
+                "hely": {
+                    "gepi": 12108901400,
+                    "szep": "Zsolt 89,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Trónod igazságon és jogon nyugszik, előtted kegyelem és hűség menetel."
+            },
+            {
+                "hely": {
+                    "gepi": 12108901500,
+                    "szep": "Zsolt 89,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog a nép, amely ünnepelhet, és arcod fényében járhat, Uram!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108901600,
+                    "szep": "Zsolt 89,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mindvégig örülnek nevednek, ujjonganak igazságosságod miatt."
+            },
+            {
+                "hely": {
+                    "gepi": 12108901700,
+                    "szep": "Zsolt 89,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hisz te vagy hatalmuk fénye, kegyelmedből emeljük föl fejünk."
+            },
+            {
+                "hely": {
+                    "gepi": 12108901800,
+                    "szep": "Zsolt 89,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Pajzsunk az Úré, Izrael Szentjéé, a mi Királyunké."
+            },
+            {
+                "hely": {
+                    "gepi": 12108901900,
+                    "szep": "Zsolt 89,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Egykor látomásban beszéltél, s így szóltál szentjeidhez: „Egy erősre tettem a koronát, fölemeltem, akit kiválasztottam a népből."
+            },
+            {
+                "hely": {
+                    "gepi": 12108902000,
+                    "szep": "Zsolt 89,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kiválasztottam szolgámat, Dávidot, szent olajommal fölkentem,"
+            },
+            {
+                "hely": {
+                    "gepi": 12108902100,
+                    "szep": "Zsolt 89,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy kezem mindig segítse és karom erőt öntsön belé."
+            },
+            {
+                "hely": {
+                    "gepi": 12108902200,
+                    "szep": "Zsolt 89,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nehogy rászedje ellenfele, s a gonosz hatalmaskodjék fölötte."
+            },
+            {
+                "hely": {
+                    "gepi": 12108902300,
+                    "szep": "Zsolt 89,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem, szétzúzom előtte ellenségeit, és akik gyűlölik, azokat megverem."
+            },
+            {
+                "hely": {
+                    "gepi": 12108902400,
+                    "szep": "Zsolt 89,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hűségem és kegyelmem kíséri majd, nevemben fölemeli fejét."
+            },
+            {
+                "hely": {
+                    "gepi": 12108902500,
+                    "szep": "Zsolt 89,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kezét kinyújtom a tengerig, jobbját kiterjesztem a folyamokig."
+            },
+            {
+                "hely": {
+                    "gepi": 12108902600,
+                    "szep": "Zsolt 89,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így szólít majd engem: Atyám vagy, Istenem és üdvöm sziklája!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108902700,
+                    "szep": "Zsolt 89,27"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én pedig elsőszülöttemmé teszem, nagyobbá a föld minden uránál."
+            },
+            {
+                "hely": {
+                    "gepi": 12108902800,
+                    "szep": "Zsolt 89,28"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örökre megőrzöm számára kegyelmem, szövetségem vele nem szűnik meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12108902900,
+                    "szep": "Zsolt 89,29"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nemzetségét megtartom mindvégig, s trónja olyan lesz, mint az ég napjai."
+            },
+            {
+                "hely": {
+                    "gepi": 12108903000,
+                    "szep": "Zsolt 89,30"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha fiai nem tartják többé törvényemet, és nem élnek parancsaim szerint,"
+            },
+            {
+                "hely": {
+                    "gepi": 12108903100,
+                    "szep": "Zsolt 89,31"
+                },
+                "jegyzetek": [],
+                "szoveg": "ha megszegik rendelkezéseim, s nem követik útmutatásomat,"
+            },
+            {
+                "hely": {
+                    "gepi": 12108903200,
+                    "szep": "Zsolt 89,32"
+                },
+                "jegyzetek": [],
+                "szoveg": "vesszővel büntetem vétküket, és ostorral minden bűnüket."
+            },
+            {
+                "hely": {
+                    "gepi": 12108903300,
+                    "szep": "Zsolt 89,33"
+                },
+                "jegyzetek": [],
+                "szoveg": "De kegyelmem nem vonom meg tőle, s nem tagadom meg tőle hűségemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12108903400,
+                    "szep": "Zsolt 89,34"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szövetségemet nem szegem meg, ajkam szózatát nem másítom meg."
+            },
+            {
+                "hely": {
+                    "gepi": 12108903500,
+                    "szep": "Zsolt 89,35"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ahogyan szent vagyok s ahogy megesküdtem, Dávidnak hazudni biztosan nem fogok."
+            },
+            {
+                "hely": {
+                    "gepi": 12108903600,
+                    "szep": "Zsolt 89,36"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nemzetsége örökre megmarad, trónja előttem lesz, miként a nap."
+            },
+            {
+                "hely": {
+                    "gepi": 12108903700,
+                    "szep": "Zsolt 89,37"
+                },
+                "jegyzetek": [],
+                "szoveg": "S mint a hold, amely mindig megmarad, mint hűséges tanú a felhők között.”"
+            },
+            {
+                "hely": {
+                    "gepi": 12108903800,
+                    "szep": "Zsolt 89,38"
+                },
+                "jegyzetek": [],
+                "szoveg": "Most azonban eltaszítottad, elvetetted, s erősen haragszol fölkentedre."
+            },
+            {
+                "hely": {
+                    "gepi": 12108903900,
+                    "szep": "Zsolt 89,39"
+                },
+                "jegyzetek": [],
+                "szoveg": "A szolgáddal kötött szövetséget félredobtad, koronáját pedig megaláztad."
+            },
+            {
+                "hely": {
+                    "gepi": 12108904000,
+                    "szep": "Zsolt 89,40"
+                },
+                "jegyzetek": [],
+                "szoveg": "Falait mind leromboltad, romhalmazzá tetted várait."
+            },
+            {
+                "hely": {
+                    "gepi": 12108904100,
+                    "szep": "Zsolt 89,41"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kifosztották, akik az úton arra mentek, gúny tárgya lett a szomszédok előtt."
+            },
+            {
+                "hely": {
+                    "gepi": 12108904200,
+                    "szep": "Zsolt 89,42"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ellenségeinek karját fölemelted, örömet szereztél minden ellenfélnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12108904300,
+                    "szep": "Zsolt 89,43"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kardjának élét kicsorbítottad, nem álltál többé mellette a harcban."
+            },
+            {
+                "hely": {
+                    "gepi": 12108904400,
+                    "szep": "Zsolt 89,44"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dicsőséges jogarát hagytad lekonyulni, trónját a földre döntötted."
+            },
+            {
+                "hely": {
+                    "gepi": 12108904500,
+                    "szep": "Zsolt 89,45"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megrövidítetted ifjúsága napjait, őt magát meg szégyennel töltötted el."
+            },
+            {
+                "hely": {
+                    "gepi": 12108904600,
+                    "szep": "Zsolt 89,46"
+                },
+                "jegyzetek": [],
+                "szoveg": "Meddig, Uram? Örökre el akarsz rejtőzni? Haragod úgy ég majd, mint a tűz?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108904700,
+                    "szep": "Zsolt 89,47"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emlékezzél arra, hogy milyen az életem, milyen mulandónak alkottad az embert!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108904800,
+                    "szep": "Zsolt 89,48"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hol van egy élő is, aki nem lát halált, aki az alvilág markától megmenthetné lelkét?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108904900,
+                    "szep": "Zsolt 89,49"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hol vannak, én Uram, régi kegyeid, ahogy hűségedben Dávidnak esküt tettél?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108905000,
+                    "szep": "Zsolt 89,50"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emlékezzél, Uram, szolgáid gyalázatára: a népek minden gyűlöletét el kell viselnem."
+            },
+            {
+                "hely": {
+                    "gepi": 12108905100,
+                    "szep": "Zsolt 89,51"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hisz ellenségeid ócsárolnak minket, Uram, s kigúnyolják fölkented nyomait."
+            },
+            {
+                "hely": {
+                    "gepi": 12108905200,
+                    "szep": "Zsolt 89,52"
+                },
+                "jegyzetek": [],
+                "szoveg": "Legyen áldott az Úr örökké! Úgy legyen! Úgy legyen!"
+            }
+        ]
+    }
+}

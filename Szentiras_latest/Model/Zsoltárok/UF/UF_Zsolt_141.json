@@ -1,0 +1,103 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 141"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12114100000,
+                    "szep": "Zsolt 141,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12114100100,
+                    "szep": "Zsolt 141,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hozzád kiáltok, URam, siess segítségemre, figyelj szavamra, ha kiáltok hozzád!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114100200,
+                    "szep": "Zsolt 141,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jusson eléd imádságom, mint illatáldozat, imára emelt kezem, mint esti áldozat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114100300,
+                    "szep": "Zsolt 141,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, tégy zárat a számra, őrizd ajkaim nyílását!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114100400,
+                    "szep": "Zsolt 141,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ne engedd, hogy szívem rosszra hajoljon, hogy bűnös dolgot műveljek a gonosztevőkkel együtt; finom falatjaikból nem akarok enni."
+            },
+            {
+                "hely": {
+                    "gepi": 12114100500,
+                    "szep": "Zsolt 141,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha igaz ver engem, szeretetből van az. Olaj a fejemnek még a feddése is. Akik pedig gonoszságban élnek, azokért még imádkozom is."
+            },
+            {
+                "hely": {
+                    "gepi": 12114100600,
+                    "szep": "Zsolt 141,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "És ha majd bíráik a sziklafalon letaszítják őket, akkor értik meg, milyen szépek voltak mondásaim."
+            },
+            {
+                "hely": {
+                    "gepi": 12114100700,
+                    "szep": "Zsolt 141,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mint amikor barázdát hasítanak a földön, úgy szórják csontjaikat a sír szájába."
+            },
+            {
+                "hely": {
+                    "gepi": 12114100800,
+                    "szep": "Zsolt 141,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "De én rád tekintek, én Uram, URam! Hozzád menekülök, ne vedd el életemet!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114100900,
+                    "szep": "Zsolt 141,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Őrizz meg a tőrtől, amelyet nekem vetettek, a gonosztevők csapdáitól!"
+            },
+            {
+                "hely": {
+                    "gepi": 12114101000,
+                    "szep": "Zsolt 141,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "A bűnösök beleesnek saját hálójukba, én pedig elkerülöm azt."
+            }
+        ]
+    }
+}

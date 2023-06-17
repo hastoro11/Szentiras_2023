@@ -1,0 +1,103 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 64"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12106400000,
+                    "szep": "Zsolt 64,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400100,
+                    "szep": "Zsolt 64,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgasd meg, Istenem, panaszkodó szavamat! Óvd meg életemet, mert ellenség rettent!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106400200,
+                    "szep": "Zsolt 64,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Védj meg a gonoszok ármánykodásától, a gonosztevők dühöngésétől!"
+            },
+            {
+                "hely": {
+                    "gepi": 12106400300,
+                    "szep": "Zsolt 64,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Élesítik nyelvüket, mint a kardot, sértő szavaikkal célba vesznek, mint nyilakkal."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400400,
+                    "szep": "Zsolt 64,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Rejtekhelyről lövöldöznek a feddhetetlenre, hirtelen lőnek rá, nem félnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400500,
+                    "szep": "Zsolt 64,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Eltökélték magukat a gonosztettre, megbeszélik, hogy titokban tőrt vetnek. Gondolják: Ki látja őket?"
+            },
+            {
+                "hely": {
+                    "gepi": 12106400600,
+                    "szep": "Zsolt 64,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Álnokságot terveznek, titokban tartják tervüket. Mert kifürkészhetetlen az ember belseje és szíve."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400700,
+                    "szep": "Zsolt 64,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "De Isten kilövi rájuk nyilát hirtelen, és megsebesülnek."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400800,
+                    "szep": "Zsolt 64,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Saját nyelvük buktatja el őket, aki csak látja, fejét csóválja."
+            },
+            {
+                "hely": {
+                    "gepi": 12106400900,
+                    "szep": "Zsolt 64,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Félelem fog el minden embert, és hirdetik Isten tetteit, megértik cselekedeteit."
+            },
+            {
+                "hely": {
+                    "gepi": 12106401000,
+                    "szep": "Zsolt 64,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örülni fog az ÚRban az igaz, mert nála talált oltalmat, dicséretet mondanak a tiszta szívűek."
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 70"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Károli Gáspár revideált fordítása",
+            "rov": "KG"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12107000000,
+                    "szep": "Zsolt 70,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az éneklőmesternek, Dávidtól, emlékeztetésre."
+            },
+            {
+                "hely": {
+                    "gepi": 12107000100,
+                    "szep": "Zsolt 70,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten, az én szabadításomra, Uram, az én segítségemre siess!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107000200,
+                    "szep": "Zsolt 70,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szégyenüljenek meg és piruljanak, a kik életemre törnek; riadjanak vissza és gyalázat érje őket, a kik bajomat kivánják."
+            },
+            {
+                "hely": {
+                    "gepi": 12107000300,
+                    "szep": "Zsolt 70,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hátráljanak meg gyalázatosságuk miatt, a kik azt mondják nékem: Hehé, hehé!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107000400,
+                    "szep": "Zsolt 70,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Örülnek és örvendeznek majd benned mindazok, a kik keresnek tégedet, és ezt mondják majd szüntelen, a kik szeretik a te szabadításodat: Magasztaltassék fel az Isten!"
+            },
+            {
+                "hely": {
+                    "gepi": 12107000500,
+                    "szep": "Zsolt 70,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Én pedig szegény és nyomorult vagyok: siess hozzám, oh Isten; segedelmem és szabadítóm vagy te Uram: ne késsél!"
+            }
+        ]
+    }
+}

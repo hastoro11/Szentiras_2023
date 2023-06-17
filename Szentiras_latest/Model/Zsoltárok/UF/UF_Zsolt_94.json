@@ -1,0 +1,199 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 94"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12109400100,
+                    "szep": "Zsolt 94,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, megtorlás Istene, megtorlás Istene, jelenj meg ragyogva!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109400200,
+                    "szep": "Zsolt 94,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Emelkedj fel, földnek bírája, fizess meg a gőgösöknek tetteikért!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109400300,
+                    "szep": "Zsolt 94,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "URam, meddig fognak a bűnösök, meddig fognak a bűnösök vigadni?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109400400,
+                    "szep": "Zsolt 94,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hangoskodnak, kihívóan beszélnek, kérkednek a gonosztevők."
+            },
+            {
+                "hely": {
+                    "gepi": 12109400500,
+                    "szep": "Zsolt 94,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tiporják, URam, népedet, nyomorgatják örökségedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12109400600,
+                    "szep": "Zsolt 94,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gyilkolják az özvegyet és a jövevényt, megölik az árvákat."
+            },
+            {
+                "hely": {
+                    "gepi": 12109400700,
+                    "szep": "Zsolt 94,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Azt gondolják, nem látja az ÚR, nem veszi észre Jákób Istene."
+            },
+            {
+                "hely": {
+                    "gepi": 12109400800,
+                    "szep": "Zsolt 94,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Térjetek észhez, ti ostobák a nép közt! Ti esztelenek, mikor jön meg az eszetek?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109400900,
+                    "szep": "Zsolt 94,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki a fület alkotta, az ne hallana? Aki a szemet formálta, az ne látna?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109401000,
+                    "szep": "Zsolt 94,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Aki népeket fenyít meg, az ne büntetne? Hiszen ő tanítja ismeretre az embert!"
+            },
+            {
+                "hely": {
+                    "gepi": 12109401100,
+                    "szep": "Zsolt 94,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az ÚR tudja, milyen hiábavalók az ember gondolatai."
+            },
+            {
+                "hely": {
+                    "gepi": 12109401200,
+                    "szep": "Zsolt 94,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Boldog az az ember, akit te megfenyítesz, URam, és megtanítasz törvényedre,"
+            },
+            {
+                "hely": {
+                    "gepi": 12109401300,
+                    "szep": "Zsolt 94,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy megóvd a rossz napoktól, míg a bűnösöknek megássák a sírját."
+            },
+            {
+                "hely": {
+                    "gepi": 12109401400,
+                    "szep": "Zsolt 94,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem taszítja el népét az ÚR, nem hagyja el örökségét."
+            },
+            {
+                "hely": {
+                    "gepi": 12109401500,
+                    "szep": "Zsolt 94,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert diadalra jut még a jog, és azt követi minden tiszta szívű ember."
+            },
+            {
+                "hely": {
+                    "gepi": 12109401600,
+                    "szep": "Zsolt 94,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ki kel védelmemre a gonoszok ellen? Ki áll mellém a gonosztevőkkel szemben?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109401700,
+                    "szep": "Zsolt 94,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha az ÚR nem segített volna rajtam, én már a csend honában laknám."
+            },
+            {
+                "hely": {
+                    "gepi": 12109401800,
+                    "szep": "Zsolt 94,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mikor azt gondoltam, hogy roskad a lábam, szereteted, URam, támogatott engem."
+            },
+            {
+                "hely": {
+                    "gepi": 12109401900,
+                    "szep": "Zsolt 94,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ha megtelik szívem aggodalommal, vigasztalásod felüdíti lelkemet."
+            },
+            {
+                "hely": {
+                    "gepi": 12109402000,
+                    "szep": "Zsolt 94,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vállalhatsz-e közösséget a romlottság ítélőszékével, mely a törvényesség látszatával nyomorúságot idéz elő?"
+            },
+            {
+                "hely": {
+                    "gepi": 12109402100,
+                    "szep": "Zsolt 94,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az igaz embernek életére törnek, az ártatlan embert elítélik."
+            },
+            {
+                "hely": {
+                    "gepi": 12109402200,
+                    "szep": "Zsolt 94,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "De nekem az ÚR a váram, Istenem az oltalmam és kősziklám."
+            },
+            {
+                "hely": {
+                    "gepi": 12109402300,
+                    "szep": "Zsolt 94,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ellenük fordítja saját gazságukat, megsemmisíti őket saját gonoszságuk által, megsemmisíti őket Istenünk, az ÚR."
+            }
+        ]
+    }
+}

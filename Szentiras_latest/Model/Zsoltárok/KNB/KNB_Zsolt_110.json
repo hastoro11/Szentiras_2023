@@ -1,0 +1,102 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 110"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12111000000,
+                    "szep": "Zsolt 110,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zsoltár a mintája egy jebuzita királyi ének lehetett, amelyet valaki a király trónralépési ünnepére átdolgozott (vö. Zsolt 2). A zsoltár megőrizte eredeti befejező formáját a késő fogság utáni, király nélküli időkben is. Ebben az énekben, meghaladva azt, amit ember elérni képes, a méltóság, a hatalom és az istenközelség a királyt illetik meg. A zsoltár eszkatologikus és egyre inkább messiási értelmet nyert. Az ÚSz ezt a zsoltárt idézi leggyakrabban."
+                    },
+                    {
+                        "position": null,
+                        "text": "»Ülj az én jobbomra« kifejezés a királyi udvar szertartásából származik, kifejezi a királyi hatalom és méltóság elnyerését. A király trónja nem Isten »színe előtt« áll (vö. 61,8; 89,37), hanem Isten mellett ül a király, ez kifejezi Istennel való egyedülálló kapcsolatát. Lábad zsámolyává: a régi keleti szokás, hogy a győztes király a legyőzött ellenséget szó szerint a lába alá kényszeríti. (vö. Józs 10,24; Bír 1,6)"
+                    }
+                ],
+                "szoveg": "<em>Dávid zsoltára.</em>«"
+            },
+            {
+                "hely": {
+                    "gepi": 12111000100,
+                    "szep": "Zsolt 110,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zsoltár a mintája egy jebuzita királyi ének lehetett, amelyet valaki a király trónralépési ünnepére átdolgozott (vö. Zsolt 2). A zsoltár megőrizte eredeti befejező formáját a késő fogság utáni, király nélküli időkben is. Ebben az énekben, meghaladva azt, amit ember elérni képes, a méltóság, a hatalom és az istenközelség a királyt illetik meg. A zsoltár eszkatologikus és egyre inkább messiási értelmet nyert. Az ÚSz ezt a zsoltárt idézi leggyakrabban."
+                    },
+                    {
+                        "position": null,
+                        "text": "»Ülj az én jobbomra« kifejezés a királyi udvar szertartásából származik, kifejezi a királyi hatalom és méltóság elnyerését. A király trónja nem Isten »színe előtt« áll (vö. 61,8; 89,37), hanem Isten mellett ül a király, ez kifejezi Istennel való egyedülálló kapcsolatát. Lábad zsámolyává: a régi keleti szokás, hogy a győztes király a legyőzött ellenséget szó szerint a lába alá kényszeríti. (vö. Józs 10,24; Bír 1,6)"
+                    }
+                ],
+                "szoveg": "Szólt az Úr az én Uramnak:<br>»Ülj az én jobbomra,<br>amíg ellenségeidet<br>lábad zsámolyává teszem.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12111000200,
+                    "szep": "Zsolt 110,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hatalmas jogarodat kinyújtja az Úr Sionból:<br>uralkodj ellenségeid között!"
+            },
+            {
+                "hely": {
+                    "gepi": 12111000300,
+                    "szep": "Zsolt 110,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Tied lesz az uralom hatalmadnak napján<br>a szentek fényességében;<br>A hajnalcsillag előtt,<br>mint harmatot, nemzettelek téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12111000400,
+                    "szep": "Zsolt 110,4"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Isten esküvel tanúsítja, hogy Izrael királya Isten népének nem csak politikai, hanem lelki vezetője is."
+                    }
+                ],
+                "szoveg": "Megesküdött az Úr<br>és nem bánja meg:<br>»Pap vagy te mindörökké<br>Melkizedek rendje szerint.«"
+            },
+            {
+                "hely": {
+                    "gepi": 12111000500,
+                    "szep": "Zsolt 110,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Jobbod felől az Úr áll,<br>királyokat tipor össze haragjának napján."
+            },
+            {
+                "hely": {
+                    "gepi": 12111000600,
+                    "szep": "Zsolt 110,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ítéletet tart a nemzetek között:<br>halomba rakja a halottakat,<br>fejeket zúz össze a széles földön."
+            },
+            {
+                "hely": {
+                    "gepi": 12111000700,
+                    "szep": "Zsolt 110,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Patakból iszik útközben,<br>azért emeli magasra fejét."
+            }
+        ]
+    }
+}

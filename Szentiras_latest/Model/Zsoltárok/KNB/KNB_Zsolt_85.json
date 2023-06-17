@@ -1,0 +1,141 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 85"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12108500000,
+                    "szep": "Zsolt 85,0"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Közösségi panaszdal a fogság utáni időkből (vö. Zsolt 126)."
+                    },
+                    {
+                        "position": null,
+                        "text": "Kóré fiai: vö. 42,1-49,21."
+                    }
+                ],
+                "szoveg": "<em>A karvezetőnek. Kóré fiainak zsoltára.</em><br>"
+            },
+            {
+                "hely": {
+                    "gepi": 12108500100,
+                    "szep": "Zsolt 85,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Az ima emlékezéssel kezdődik: Isten megbocsátja a bűnt (vö. Iz 40,2); az országnak és a népnek új kezdetet ajándékoz (a Babilonból való visszatéréssel)."
+                    }
+                ],
+                "szoveg": "Megkegyelmeztél országodnak, Uram,<br>véget vetettél Jákob fogságának."
+            },
+            {
+                "hely": {
+                    "gepi": 12108500200,
+                    "szep": "Zsolt 85,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megbocsátottad néped vétkét,<br>betakartad minden bűnét."
+            },
+            {
+                "hely": {
+                    "gepi": 12108500300,
+                    "szep": "Zsolt 85,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Visszatartottad nagy haragodat,<br>elfordítottad felindulásod hevét."
+            },
+            {
+                "hely": {
+                    "gepi": 12108500400,
+                    "szep": "Zsolt 85,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Állíts helyre minket, szabadító Istenünk,<br>s fordítsd el rólunk haragodat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12108500500,
+                    "szep": "Zsolt 85,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vagy örökre haragszol ránk,<br>és kiterjeszted haragodat nemzedékről nemzedékre?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108500600,
+                    "szep": "Zsolt 85,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ugye felénk fordulsz és életre keltesz minket<br>és néped örvendezhet majd tebenned?"
+            },
+            {
+                "hely": {
+                    "gepi": 12108500700,
+                    "szep": "Zsolt 85,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mutasd meg nekünk, Uram, irgalmasságodat,<br>és szabadításodat add meg nekünk."
+            },
+            {
+                "hely": {
+                    "gepi": 12108500800,
+                    "szep": "Zsolt 85,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hadd halljam meg, mit szól hozzám az Úr Isten,<br>hisz ő békét hirdet nemzetének,<br>szentjeinek, s mindazoknak,<br>akik megtérnek szívükben."
+            },
+            {
+                "hely": {
+                    "gepi": 12108500900,
+                    "szep": "Zsolt 85,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bizony, közel van üdvössége azokhoz, akik félik őt,<br>hogy dicsőség lakozzék országunkban."
+            },
+            {
+                "hely": {
+                    "gepi": 12108501000,
+                    "szep": "Zsolt 85,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Az irgalom és az igazság egymásra lelnek,<br>csókot vált az igazságosság és a béke."
+            },
+            {
+                "hely": {
+                    "gepi": 12108501100,
+                    "szep": "Zsolt 85,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hűség sarjad a földből<br>és igazság tekint le az égből."
+            },
+            {
+                "hely": {
+                    "gepi": 12108501200,
+                    "szep": "Zsolt 85,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Valóban, az Úr megadja kegyelmét,<br>és földünk megtermi gyümölcsét."
+            },
+            {
+                "hely": {
+                    "gepi": 12108501300,
+                    "szep": "Zsolt 85,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igazságosság jár előtte,<br>s követi az úton lépteit."
+            }
+        ]
+    }
+}

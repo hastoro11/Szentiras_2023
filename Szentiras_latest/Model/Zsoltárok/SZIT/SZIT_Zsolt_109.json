@@ -1,0 +1,271 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 109"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Szent István Társulati Biblia",
+            "rov": "SZIT"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12110900000,
+                    "szep": "Zsolt 109,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "(A karvezetőnek – Dávidtól, zsoltár.)"
+            },
+            {
+                "hely": {
+                    "gepi": 12110900100,
+                    "szep": "Zsolt 109,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Isten, akit dicsőítek, ne hallgass,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110900200,
+                    "szep": "Zsolt 109,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "hisz az árulók gonosz szája tátog ellenem! Hazug nyelvvel beszélnek hozzám,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110900300,
+                    "szep": "Zsolt 109,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "a gyűlölet szavával vesznek körül, s ok nélkül harcolnak ellenem."
+            },
+            {
+                "hely": {
+                    "gepi": 12110900400,
+                    "szep": "Zsolt 109,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szeretetem jutalmául váddal illetnek, én azonban imádkozom."
+            },
+            {
+                "hely": {
+                    "gepi": 12110900500,
+                    "szep": "Zsolt 109,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "A jót rosszal viszonozzák, szeretetem gyűlölettel."
+            },
+            {
+                "hely": {
+                    "gepi": 12110900600,
+                    "szep": "Zsolt 109,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "„Bérelj fel egy gonoszt ellene, vádlóul a jobb oldalára!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110900700,
+                    "szep": "Zsolt 109,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bűnösként kerüljön ki az ítéletről, kérése ne találjon meghallgatásra!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110900800,
+                    "szep": "Zsolt 109,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Csak kevés napot hagyjanak neki osztályrészül, hivatalát nyerje el más,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110900900,
+                    "szep": "Zsolt 109,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "fiai váljanak árvákká, felesége pedig özveggyé!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110901000,
+                    "szep": "Zsolt 109,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fiai nyugtalan bolyongjanak és kolduljanak, űzzék ki őket elpusztult házukból!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110901100,
+                    "szep": "Zsolt 109,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Minden java legyen uzsorások zsákmánya, munkája gyümölcsét vigye el idegen."
+            },
+            {
+                "hely": {
+                    "gepi": 12110901200,
+                    "szep": "Zsolt 109,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Senki ne bánjon kímélettel vele, ne akadjon, aki könyörül árváin!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110901300,
+                    "szep": "Zsolt 109,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "Törzse induljon pusztulásnak, a második nemzedékben szűnjék meg a neve!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110901400,
+                    "szep": "Zsolt 109,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Atyáinak bűnét ne feledjék, ősanyái vétkét le ne vezekeljék,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110901500,
+                    "szep": "Zsolt 109,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "lebegjen az mindig az Úr előtt! Az Úr törölje el emlékét a földön!”"
+            },
+            {
+                "hely": {
+                    "gepi": 12110901600,
+                    "szep": "Zsolt 109,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mivel senkin sem könyörült, üldözte a nyomorult és szegény embert, s a szenvedőnek életére tört."
+            },
+            {
+                "hely": {
+                    "gepi": 12110901700,
+                    "szep": "Zsolt 109,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Átkot akart, most érje utol őt, megvetette az áldást, most hagyja el."
+            },
+            {
+                "hely": {
+                    "gepi": 12110901800,
+                    "szep": "Zsolt 109,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Fedje el az átok, mint a köntös, hatoljon belsejébe, miként a víz, hassa át csontjait, mint az olaj!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110901900,
+                    "szep": "Zsolt 109,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "Igen, úgy borítsa be, mint a ruha, mint az öv, amely mindig átfogja."
+            },
+            {
+                "hely": {
+                    "gepi": 12110902000,
+                    "szep": "Zsolt 109,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ez legyen jutalma az Úrtól azoknak, akik vádolnak engem, akik gonoszul szólnak ellenem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110902100,
+                    "szep": "Zsolt 109,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Te pedig, Uram, nevedért állj mellém, ments meg jóságodban és irgalmadban!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110902200,
+                    "szep": "Zsolt 109,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hiszen nyomorult vagyok, elhagyatott, szívem bensőmben összeszorul."
+            },
+            {
+                "hely": {
+                    "gepi": 12110902300,
+                    "szep": "Zsolt 109,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mint hanyatló árnyék, úgy fogyatkozom, leráznak engem is, mint a sáskát."
+            },
+            {
+                "hely": {
+                    "gepi": 12110902400,
+                    "szep": "Zsolt 109,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "Térdem inog a böjtöléstől, húsom sorvad a soványságtól."
+            },
+            {
+                "hely": {
+                    "gepi": 12110902500,
+                    "szep": "Zsolt 109,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gúny tárgya lettem számukra, csóválják fejüket, ha látnak."
+            },
+            {
+                "hely": {
+                    "gepi": 12110902600,
+                    "szep": "Zsolt 109,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "Segíts rajtam, Uram, Istenem, irgalmadban ments meg engem!"
+            },
+            {
+                "hely": {
+                    "gepi": 12110902700,
+                    "szep": "Zsolt 109,27"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hadd tudják meg: a kezed volt az, te voltál, Uram, aki ezt művelte."
+            },
+            {
+                "hely": {
+                    "gepi": 12110902800,
+                    "szep": "Zsolt 109,28"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hadd átkozzanak, csak te áldj meg. Valljanak szégyent, akik fölkelnek ellenem, csak a te szolgád vigadozzon."
+            },
+            {
+                "hely": {
+                    "gepi": 12110902900,
+                    "szep": "Zsolt 109,29"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vádlóim öltözzenek gyalázatba, mint köntös borítsa őket a szégyen."
+            },
+            {
+                "hely": {
+                    "gepi": 12110903000,
+                    "szep": "Zsolt 109,30"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vidám ajakkal dicsőítem az Urat, a sokaság közepette dicsérem."
+            },
+            {
+                "hely": {
+                    "gepi": 12110903100,
+                    "szep": "Zsolt 109,31"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mivel melléje áll a szegénynek, hogy megmentse bíráitól."
+            }
+        ]
+    }
+}

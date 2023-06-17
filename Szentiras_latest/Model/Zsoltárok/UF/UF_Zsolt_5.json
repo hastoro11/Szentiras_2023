@@ -1,0 +1,119 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 5"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Magyar Bibliatársulat újfordítású Bibliája (1990)",
+            "rov": "UF"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12100500000,
+                    "szep": "Zsolt 5,0"
+                },
+                "jegyzetek": [],
+                "szoveg": "A karmesternek: Fúvós hangszerre. Dávid zsoltára."
+            },
+            {
+                "hely": {
+                    "gepi": 12100500100,
+                    "szep": "Zsolt 5,1"
+                },
+                "jegyzetek": [],
+                "szoveg": "Figyelj beszédemre, URam, vedd észre sóhajtozásomat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100500200,
+                    "szep": "Zsolt 5,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Figyelj hangos kiáltozásomra, Istenem, királyom, mert hozzád imádkozom!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100500300,
+                    "szep": "Zsolt 5,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "Hallgasd meg szavamat reggel, URam, reggel eléd készülök, és várlak."
+            },
+            {
+                "hely": {
+                    "gepi": 12100500400,
+                    "szep": "Zsolt 5,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Istenem, te nem leled örömöd a bűnben, nem talál otthonra nálad a gonosz."
+            },
+            {
+                "hely": {
+                    "gepi": 12100500500,
+                    "szep": "Zsolt 5,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Nem állhatnak meg szemed előtt a dicsekvők, gyűlölsz minden gonosztevőt."
+            },
+            {
+                "hely": {
+                    "gepi": 12100500600,
+                    "szep": "Zsolt 5,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elpusztítod a hazudozókat; a vérszomjas és álnok embert utálja az ÚR."
+            },
+            {
+                "hely": {
+                    "gepi": 12100500700,
+                    "szep": "Zsolt 5,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "De én bemehetek házadba, mert te nagyon szeretsz engem, és szent templomodban leborulok, mert tisztellek téged."
+            },
+            {
+                "hely": {
+                    "gepi": 12100500800,
+                    "szep": "Zsolt 5,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Vezess, URam, igazságodban, mert ellenségeim vannak, egyengesd előttem az utat!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100500900,
+                    "szep": "Zsolt 5,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert nem jön ki szájukon őszinte szó, belül romlottak, nyitott sír a torkuk, sima a nyelvük."
+            },
+            {
+                "hely": {
+                    "gepi": 12100501000,
+                    "szep": "Zsolt 5,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Derítsd ki vétküket, Istenem, bukjanak bele fondorlataikba! Taszítsd el őket sok vétkük miatt, mert ellened lázadtak!"
+            },
+            {
+                "hely": {
+                    "gepi": 12100501100,
+                    "szep": "Zsolt 5,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mind örülnek majd, akik hozzád menekülnek. Örökké ujjonganak, mert oltalmazod őket. Örvendeznek általad, akik szeretik nevedet."
+            },
+            {
+                "hely": {
+                    "gepi": 12100501200,
+                    "szep": "Zsolt 5,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Mert te, URam, megáldod az igazat, körülveszed kegyelmeddel, mint pajzzsal."
+            }
+        ]
+    }
+}

@@ -1,0 +1,374 @@
+{
+    "keres": {
+        "feladat": "idezet",
+        "forma": "json",
+        "hivatkozas": "Zsolt 107"
+    },
+    "valasz": {
+        "forditas": {
+            "nev": "Káldi-Neovulgáta",
+            "rov": "KNB"
+        },
+        "versek": [
+            {
+                "hely": {
+                    "gepi": 12110700100,
+                    "szep": "Zsolt 107,1"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A fogság utáni közösség hálaéneke. Az első és régebbi részt (4-32) a nagy zarándokünnepek egyikének szertartásában őrizte meg a hagyomány. A pap szólítja az egyes személyeket és csoportokat, hogy teljesítsék fogadalmukat, hálával dicsőítsék Istent, és tegyenek nyilvánosan tanúságot arról, amit velük tett. A négy tanúságtevő átvitt értelemben jelölheti a Bábelből visszatérők négy csoportját (4-9.10-16.17-22.23-32)."
+                    }
+                ],
+                "szoveg": "ALLELUJA!<br>Áldjátok az Urat, mert jó,<br>mert irgalma örökkévaló."
+            },
+            {
+                "hely": {
+                    "gepi": 12110700200,
+                    "szep": "Zsolt 107,2"
+                },
+                "jegyzetek": [],
+                "szoveg": "Így szóljanak azok, akiket megváltott az Úr,<br>akiket megszabadított az ellenség kezéből,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110700300,
+                    "szep": "Zsolt 107,3"
+                },
+                "jegyzetek": [],
+                "szoveg": "s egybegyűjtött az országokból,<br>napkeletről és nyugatról,<br>északról és délről."
+            },
+            {
+                "hely": {
+                    "gepi": 12110700400,
+                    "szep": "Zsolt 107,4"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kietlen pusztában bolyongtak,<br>nem találtak utat lakott város felé."
+            },
+            {
+                "hely": {
+                    "gepi": 12110700500,
+                    "szep": "Zsolt 107,5"
+                },
+                "jegyzetek": [],
+                "szoveg": "Éhséget és szomjúságot szenvedtek,<br>a lélek elepedt bennük."
+            },
+            {
+                "hely": {
+                    "gepi": 12110700600,
+                    "szep": "Zsolt 107,6"
+                },
+                "jegyzetek": [],
+                "szoveg": "De szorongatásukban az Úrhoz kiáltottak,<br>s ő gyötrelmükből kiragadta őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12110700700,
+                    "szep": "Zsolt 107,7"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ráterelte őket a helyes útra,<br>és lakott városhoz jutottak."
+            },
+            {
+                "hely": {
+                    "gepi": 12110700800,
+                    "szep": "Zsolt 107,8"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldják tehát az Urat irgalmasságáért,<br>az emberek fiaival művelt csodáiért,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110700900,
+                    "szep": "Zsolt 107,9"
+                },
+                "jegyzetek": [],
+                "szoveg": "mert a szomjazók elteltek<br>és az éhezőket eltöltötte minden jóval."
+            },
+            {
+                "hely": {
+                    "gepi": 12110701000,
+                    "szep": "Zsolt 107,10"
+                },
+                "jegyzetek": [],
+                "szoveg": "Sötétségben, a halál árnyékában ültek,<br>vasra verve, nyomorban,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110701100,
+                    "szep": "Zsolt 107,11"
+                },
+                "jegyzetek": [],
+                "szoveg": "mert ellene szegültek Isten szavának,<br>és megvetették a Fölséges tanácsát."
+            },
+            {
+                "hely": {
+                    "gepi": 12110701200,
+                    "szep": "Zsolt 107,12"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ezért nyomorúsággal törte meg szívüket,<br>elestek és nem volt, aki fölsegítse őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12110701300,
+                    "szep": "Zsolt 107,13"
+                },
+                "jegyzetek": [],
+                "szoveg": "De szorongatásukban az Úrhoz kiáltottak,<br>s ő gyötrelmükből kiragadta őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12110701400,
+                    "szep": "Zsolt 107,14"
+                },
+                "jegyzetek": [],
+                "szoveg": "Kihozta őket a sötétségből s a halál árnyékából,<br>és összetörte bilincseiket."
+            },
+            {
+                "hely": {
+                    "gepi": 12110701500,
+                    "szep": "Zsolt 107,15"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldják tehát az Urat irgalmasságáért,<br>az emberek fiaival művelt csodáiért,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110701600,
+                    "szep": "Zsolt 107,16"
+                },
+                "jegyzetek": [],
+                "szoveg": "hogy összetörte az érckapukat,<br>s összezúzta a vas-zárakat."
+            },
+            {
+                "hely": {
+                    "gepi": 12110701700,
+                    "szep": "Zsolt 107,17"
+                },
+                "jegyzetek": [],
+                "szoveg": "Balgaságba estek gonoszságuk útján,<br>nyomorba jutottak hamisságuk miatt."
+            },
+            {
+                "hely": {
+                    "gepi": 12110701800,
+                    "szep": "Zsolt 107,18"
+                },
+                "jegyzetek": [],
+                "szoveg": "Minden étket megutált a lelkük,<br>s a halál kapuihoz közeledtek."
+            },
+            {
+                "hely": {
+                    "gepi": 12110701900,
+                    "szep": "Zsolt 107,19"
+                },
+                "jegyzetek": [],
+                "szoveg": "De szorongatásukban az Úrhoz kiáltottak,<br>s ő gyötrelmükből kiragadta őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12110702000,
+                    "szep": "Zsolt 107,20"
+                },
+                "jegyzetek": [],
+                "szoveg": "Elküldte igéjét és meggyógyította őket,<br>és kimentette őket a sírveremből."
+            },
+            {
+                "hely": {
+                    "gepi": 12110702100,
+                    "szep": "Zsolt 107,21"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldják tehát az Urat irgalmasságáért,<br>az emberek fiaival művelt csodáiért,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110702200,
+                    "szep": "Zsolt 107,22"
+                },
+                "jegyzetek": [],
+                "szoveg": "mutassanak be neki hálaáldozatot,<br>és hirdessék ujjongva tetteit."
+            },
+            {
+                "hely": {
+                    "gepi": 12110702300,
+                    "szep": "Zsolt 107,23"
+                },
+                "jegyzetek": [],
+                "szoveg": "Amikor hajókon tengerre szálltak,<br>s a nagy vizeken kereskedtek,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110702400,
+                    "szep": "Zsolt 107,24"
+                },
+                "jegyzetek": [],
+                "szoveg": "látták az Úr cselekedeteit,<br>csodatetteit a tenger mélységeivel."
+            },
+            {
+                "hely": {
+                    "gepi": 12110702500,
+                    "szep": "Zsolt 107,25"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szavára szélvész keletkezett,<br>s az magasra verte a hullámokat."
+            },
+            {
+                "hely": {
+                    "gepi": 12110702600,
+                    "szep": "Zsolt 107,26"
+                },
+                "jegyzetek": [],
+                "szoveg": "Ők az égig emelkedtek és a mélységbe süllyedtek;<br>Kétségbeestek a veszedelemben."
+            },
+            {
+                "hely": {
+                    "gepi": 12110702700,
+                    "szep": "Zsolt 107,27"
+                },
+                "jegyzetek": [],
+                "szoveg": "Szédelegtek, tántorogtak, mint a részeg,<br>és minden bölcsességük odalett."
+            },
+            {
+                "hely": {
+                    "gepi": 12110702800,
+                    "szep": "Zsolt 107,28"
+                },
+                "jegyzetek": [],
+                "szoveg": "De szorongatásukban az Úrhoz kiáltottak,<br>s ő gyötrelmükből kiragadta őket."
+            },
+            {
+                "hely": {
+                    "gepi": 12110702900,
+                    "szep": "Zsolt 107,29"
+                },
+                "jegyzetek": [],
+                "szoveg": "A szélvészt szellővé változtatta,<br>és lecsendesedtek a habok."
+            },
+            {
+                "hely": {
+                    "gepi": 12110703000,
+                    "szep": "Zsolt 107,30"
+                },
+                "jegyzetek": [],
+                "szoveg": "És amíg ők örültek, hogy nyugtuk lett,<br>elvezette őket abba a kikötőbe, amelybe törekedtek."
+            },
+            {
+                "hely": {
+                    "gepi": 12110703100,
+                    "szep": "Zsolt 107,31"
+                },
+                "jegyzetek": [],
+                "szoveg": "Áldják tehát az Urat irgalmasságáért,<br>az emberek fiaival művelt csodáiért;"
+            },
+            {
+                "hely": {
+                    "gepi": 12110703200,
+                    "szep": "Zsolt 107,32"
+                },
+                "jegyzetek": [],
+                "szoveg": "Magasztalják őt a nép gyülekezetében,<br>és dicsérjék őt a vének tanácsában."
+            },
+            {
+                "hely": {
+                    "gepi": 12110703300,
+                    "szep": "Zsolt 107,33"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "Végül a hazatértek hálája szólal meg. A visszatérők himnusza átveszi második Izajás (Iz 40-55) képeit."
+                    }
+                ],
+                "szoveg": "Folyóvizeket tett pusztasággá,<br>vízforrásokat sivataggá,"
+            },
+            {
+                "hely": {
+                    "gepi": 12110703400,
+                    "szep": "Zsolt 107,34"
+                },
+                "jegyzetek": [],
+                "szoveg": "termékeny földet szikes pusztává<br>lakóinak gonoszsága miatt."
+            },
+            {
+                "hely": {
+                    "gepi": 12110703500,
+                    "szep": "Zsolt 107,35"
+                },
+                "jegyzetek": [],
+                "szoveg": "De tóvá változtatott sivatagot,<br>és vizek forrásává olyan földet, amelyen víz nem volt."
+            },
+            {
+                "hely": {
+                    "gepi": 12110703600,
+                    "szep": "Zsolt 107,36"
+                },
+                "jegyzetek": [],
+                "szoveg": "Éhezőket telepített le ott<br>és lakóhelyül várost építettek."
+            },
+            {
+                "hely": {
+                    "gepi": 12110703700,
+                    "szep": "Zsolt 107,37"
+                },
+                "jegyzetek": [],
+                "szoveg": "Bevetették a mezőket, szőlőt ültettek,<br>és bőséges termésre tettek szert."
+            },
+            {
+                "hely": {
+                    "gepi": 12110703800,
+                    "szep": "Zsolt 107,38"
+                },
+                "jegyzetek": [],
+                "szoveg": "Megáldotta őket, nagyon megsokasodtak,<br>s nagyszámú állatot adott nekik."
+            },
+            {
+                "hely": {
+                    "gepi": 12110703900,
+                    "szep": "Zsolt 107,39"
+                },
+                "jegyzetek": [],
+                "szoveg": "Majd megfogyatkoztak és nyomorogtak<br>a bajok és a fájdalmak súlya alatt."
+            },
+            {
+                "hely": {
+                    "gepi": 12110704000,
+                    "szep": "Zsolt 107,40"
+                },
+                "jegyzetek": [],
+                "szoveg": "Gyalázatot bocsátott az előkelőkre,<br>és bolyongani hagyta őket úttalan utakon."
+            },
+            {
+                "hely": {
+                    "gepi": 12110704100,
+                    "szep": "Zsolt 107,41"
+                },
+                "jegyzetek": [],
+                "szoveg": "De kisegítette az ínségből a szegényeket,<br>és juhnyájakhoz tette hasonlóvá nemzetségeiket."
+            },
+            {
+                "hely": {
+                    "gepi": 12110704200,
+                    "szep": "Zsolt 107,42"
+                },
+                "jegyzetek": [],
+                "szoveg": "Látják ezt az igazak és örvendeznek,<br>és befogja száját minden gonoszság."
+            },
+            {
+                "hely": {
+                    "gepi": 12110704300,
+                    "szep": "Zsolt 107,43"
+                },
+                "jegyzetek": [
+                    {
+                        "position": null,
+                        "text": "A zsoltár egy bölcs tanító intelmével fejeződik be."
+                    }
+                ],
+                "szoveg": "Ki olyan bölcs, hogy fölfogná ezeket,<br>és megértené az Úr irgalmasságát?"
+            }
+        ]
+    }
+}
